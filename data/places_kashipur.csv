@@ -1,0 +1,333 @@
+,place_name,place_id,lat,lng,type
+0,Car parking,ChIJy_ys-PtDCjkRpK2P2wvpWP0,29.2058392,78.9579346,parking
+1,HDFC Bank,ChIJwYQGd0fM4DsRDQQWNYb98U4,29.21415,78.9632422,bank
+2,बँक ऑफ बडोदा,ChIJQYsE47lDCjkRoqdY7_4-j6c,29.2102798,78.96255839999999,bank
+3,ICICI BANK ATM,ChIJUdrFdgv8CjkRd9WPGU4F_AI,29.208902,78.96470300000001,bank
+4,Axis Bank ATM,ChIJubbdIL1DCjkRkiqgNNKKFe4,29.21013859999999,78.96220149999999,bank
+5,Axis Bank ATM,ChIJW7CH-rlDCjkRaVNxmjOYVHg,29.209926,78.962092,bank
+6,Punjab National Bank,ChIJxW0zTrhDCjkRtNeI2kLynL4,29.212663,78.9607036,bank
+7,Andhra Bank,ChIJeWhvKbhDCjkRil4H_c11P5U,29.2126907,78.9625255,bank
+8,Uttarakhand Gramin Bank,ChIJBYKbRLhDCjkR3OnuVMmdHh8,29.2130016,78.96066119999999,bank
+9,Almora Urban Co-operative Bank Limited,ChIJNetm8LhDCjkReSvgPzEk-Q0,29.2128075,78.95942199999999,bank
+10,Bank of India,ChIJPcNfT7pDCjkRlQwsS6_hEjc,29.2073762,78.9606215,bank
+11,Union Bank of India,ChIJK4Qmw7BDCjkR3qram4oGzvI,29.2083713,78.9648265,bank
+12,"ICICI Bank Katoratal Road, Kashipur - Branch & ATM",ChIJbadf8LdDCjkRuqSOJpSTcyQ,29.2144,78.96329999999999,bank
+13,IDBI Bank,ChIJK9IhCbhDCjkRJGWJE76lFeE,29.2147693,78.9618875,bank
+14,Oriental Bank of Commerce,ChIJQ0UYxc5DCjkRDXj23SNzERc,29.2149028,78.9616058,bank
+15,Axis Bank ATM,ChIJh4bl06RDCjkR5srGi0g5xM8,29.2067906,78.9605656,bank
+16,Central Bank of India,ChIJ_TOQHchDCjkRsLixuT_eNks,29.2152586,78.9634592,bank
+17,Bandhan Bank,ChIJe-UbXMdDCjkRcgLWnKTZZ5o,29.215181,78.958231,bank
+18,Canara Bank,ChIJJ86gDrFDCjkRmRCU2H1qVKc,29.2073156,78.9666422,bank
+19,Allahabad Bank,ChIJj4nlFchDCjkRGopV6kn_9uw,29.2161223,78.9640015,bank
+20,Vijaya Bank,ChIJ77ULC7FDCjkR4le-g4Bi2ac,29.20715659999999,78.9668394,bank
+21,State Bank of India (ADB),ChIJjx-g6LlDCjkRO7EfGksx8Q4,29.2162717,78.9641169,bank
+22,Punjab & Sind Bank,ChIJ4ytxlc5DCjkRnKXTMhWwq6s,29.2163434,78.9640648,bank
+23,YES Bank ATM,ChIJIb_SlM5DCjkR_w7oeJKD954,29.2046819,78.9637775,bank
+24,PUNJAB NATIONAL BANK CIRCLE OFFICE KASHIPUR,ChIJraWMJLJDCjkRU_RdQ4eMlYk,29.2060405,78.96892509999999,bank
+25,ICICI Bank Kashipur - Branch & ATM,ChIJ2-ZxQrJDCjkRV_xzPrUt70w,29.2058,78.97030000000001,bank
+26,Nainital Bank,ChIJ3fmGdb1DCjkRTdHYuZcQ_y0,29.2057116,78.9526561,bank
+27,Axis Bank ATM,ChIJaWrIFNhHCjkRSD4Szks-HCc,29.2054109,78.9526935,bank
+28,Corporation Bank,ChIJ-2QY38hDCjkR8LIcsopcTKc,29.2199657,78.9654484,bank
+29,Bank of Baroda,ChIJrRMWnb1DCjkRpLzkNXJvGog,29.205807,78.95225099999999,bank
+30,Grahak Sewa Kendra Allahabad Bank,ChIJaw8EiKRDCjkRMUTBR_7aRWA,29.2002511,78.9580107,bank
+31,Punjab National Bank,ChIJmzRrupdDCjkRkD8lRPnvZMs,29.20467949999999,78.9495946,bank
+32,Dena Bank,ChIJ60nTk85DCjkRMADoujIxYgQ,29.22320210000001,78.9673177,bank
+33,Bandhan Bank,ChIJrzWlkM5DCjkRpjRULPV3U_k,29.2231631,78.9676674,bank
+34,UCO Bank,ChIJ-xEfB6RDCjkRtVfWJ3Hwhvg,29.1979564,78.9572697,bank
+35,ICICI BANK ATM,ChIJswuiD5dDCjkR5CiblH4UNLo,29.20453600000001,78.948066,bank
+36,Canara Bank,ChIJxQd_RJdDCjkRokkxhR6QrFc,29.2032814,78.9468469,bank
+37,Punjab National Bank,ChIJZ8zMeM5DCjkR8X_EwJlSVz8,29.2246299,78.9688706,bank
+38,State Bank of India,ChIJGUgzN1NCCjkR0qgxH1e-2Zo,29.20073630000001,78.97466349999999,bank
+39,Punjab National Bank,ChIJw3xQN1NCCjkRc_enSDaLcpA,29.2007033,78.9747453,bank
+40,Bank Of Baroda,ChIJL2gdFVNCCjkRE0YGgemw5CI,29.2005915,78.9756596,bank
+41,Axis Bank,ChIJL1QbU8dDCjkRRkh1LHD7gE8,29.206788,78.9605656,bank
+42,HDFC Bank ATM,ChIJ453nt2wqCTkRkRhxo-VkQt0,29.2104222,78.9618843,bank
+43,The Kurmanchal Bank Ltd,ChIJYfeUTbhDCjkRbjVrzeEC8-U,29.2124064,78.9606359,bank
+44,बैंक ऑफ़ बड़ौदा,ChIJ9TYqWLhDCjkRSorQSATrqQI,29.21267,78.96019900000002,bank
+45,Kashipur Urban C. Bank,ChIJd_vkQrhDCjkRIHVUTShpZ5Y,29.2135318,78.9608001,bank
+46,HDFC Bank ATM,ChIJe-Xa87dDCjkRv3u-n4OW4lc,29.2141,78.96324,bank
+47,Muthoot Finance Kashipur Branch,ChIJA1RJRLpDCjkRf8YOwN-XgYA,29.2073946,78.96058959999999,bank
+48,ICICI BANK ATM,ChIJJQe0zWpDCjkR20AElc9VBUw,29.2144279,78.9631424,bank
+49,"Udham Singh Nagar Co. Bank Kashipur, Uttrakhand",ChIJZQHcBbhDCjkReIHPjNtNkYw,29.2147665,78.9622093,bank
+50,Bank of India,ChIJdaCwULpDCjkR2TjJBvoSY2A,29.2067877,78.96058049999999,bank
+51,Union Bank ATM,ChIJy-Yd4U5DCjkRRTg4H7szXFQ,29.2150325,78.9635472,bank
+52,Kashipur Urban Co. Bank Ltd. Head Office,ChIJXU28HLFDCjkRXeA95PClIO8,29.2076204,78.96588539999999,bank
+53,PRITHVI CREDIT COOPERATIVE SOCIETY LIMITED,ChIJB86sG7FDCjkRQvHbWyJ0nrQ,29.2077717,78.96611879999999,bank
+54,Kashipur Urban Co-op Bank Ltd,ChIJJ44VG7FDCjkRNuaCxYuO8P0,29.2075509,78.9660127,bank
+55,Kashipur Urban Coop Bank Ltd Singhan Branch Kashipur,ChIJ054pqsBDCjkRn-HCJLObcuU,29.2147641,78.9568774,bank
+56,Manoj Custmer Service Point SBI,ChIJHz4kv-lDCjkRcC71paV0q_I,29.21102299999999,78.9690123,bank
+57,Bank Of Baroda. Bazpur Road Branch,ChIJ8dqIjq9DCjkRV_GaEucQ3mg,29.2018915,78.9632738,bank
+58,Uttarakhand Gramin Bank,ChIJU6qhptJDCjkRq2ByPNkwrCU,29.2050768,78.9528421,bank
+59,ICICI BANK ATM,ChIJGaSGuX5DCjkRSBCM-abfn4Y,29.20362470000001,78.97148899999999,bank
+60,Indian Overseas Bank,ChIJBeGHxM5DCjkRa_UpOE9tHmY,29.22222559999999,78.9664944,bank
+61,King Stone Institute Of Learning,ChIJLzhE7IZDCjkRortEoV_RIQA,29.2081966,78.96458179999999,embassy
+62,Netcity Internet Cafe,ChIJiUIq77lDCjkRT01iWPrdVHQ,29.2104033,78.96188269999999,local_government_office
+63,kashipur,ChIJ3WQyGbpDCjkRG35hzZw0SLo,29.2089641,78.9615726,local_government_office
+64,Ravi saini,ChIJq4E9wz9DCjkRfMoBLiyYWHY,29.2104073,78.9618744,local_government_office
+65,Rozgaar Office,ChIJN0ZVoPNCCjkRQ4v60EiLB5U,29.2104073,78.9618744,local_government_office
+66,King Stone Institute Of Learning,ChIJLzhE7IZDCjkRortEoV_RIQA,29.2081966,78.96458179999999,local_government_office
+67,Next Step Immigration ( Ielts Coaching & Visa Filing ),ChIJ72ioclhDCjkRJ-4qmWTZHts,29.2136202,78.96497289999999,local_government_office
+68,Irrigation Division Office Kashipur,ChIJP7UoDbtDCjkRmBvfLV66-F0,29.2056562,78.9585599,local_government_office
+69,Goyal departmental,ChIJj7BfY79DCjkRJ4-z5UVRLkg,29.2141835,78.95506689999999,local_government_office
+70,"irrigatin Department Office, Kashipur",ChIJCfLENrtDCjkRbM69tXclO2w,29.2038513,78.95881949999999,local_government_office
+71,Pankaj Placement Service,ChIJ2zpKHYVDCjkRZ0CV8eCSids,29.2097338,78.95193259999999,local_government_office
+72,IMS Placement & Management Services,ChIJ-QA_zJ5DCjkRze7NptXHHmk,29.2058981,78.9531808,local_government_office
+73,Planet Overseas ( Ielts Coaching & Visa Filing ),ChIJl-_AfeJDCjkRDbhYrxSCDUQ,29.204554,78.97093199999999,local_government_office
+74,Cane Society Kashipur,ChIJNYeLpqVDCjkR9DrdppY51-I,29.20038539999999,78.9608401,local_government_office
+75,Colonels Ielts And Immigration Academy ( Ielts & Visa Filing ),ChIJFfX30YBDCjkRTjYdnmpYX-A,29.20346499999999,78.9714623,local_government_office
+76,Pcb Office,ChIJa503w85DCjkR6lASrQsOdUM,29.22238499999999,78.966338,local_government_office
+77,UEPPCB Regional Office,ChIJzcou3c5DCjkRmMEx05xT_Xc,29.22248039999999,78.9662689,local_government_office
+78,Priyanka Consultancy Co,ChIJFe7aLRFDCjkRYzIUx2JwDmY,29.1985381,78.9680151,local_government_office
+79,Acomt Technologies,ChIJT_T0WphDCjkRTVojRbylYdI,29.2003118,78.9494062,local_government_office
+80,Tahal singh,ChIJFTqXLglDCjkRMNFioHJn4jQ,29.20348679999999,78.94471419999999,local_government_office
+81,Krishi Utpadan Mandi Samiti Kashipur,ChIJf5NPSLBDCjkRsfDlKJX1eb4,29.2096526,78.9418587,local_government_office
+82,Police Station Kashipur,ChIJdfYwo7lDCjkRUh69kTwCQZk,29.2108812,78.9605806,police
+83,Police Room In Kashipur Court,ChIJqRGAMbRDCjkR0tcowIycQ1Q,29.2124233,78.96932190000001,police
+84,C.O Kashipur Office,ChIJ0wB5TrtDCjkRPTMyJRYlTP4,29.20367919999999,78.957962,police
+85,Reporting Police Station,ChIJu3Lf66RDCjkRmb29tn0Fyfs,29.2016828,78.95886899999999,police
+86,Police Chowki,ChIJ7WsjtI1DCjkRGfc80mYik04,29.2091154,78.9376631,police
+87,"New Post Office, Kashipur",ChIJBewA7blDCjkRtXNUPyGTHwU,29.21208649999999,78.95918449999999,post_office
+88,Post Office,ChIJ2wpOMgtDCjkR7bwuPgnbfx0,29.212096,78.9590716,post_office
+89,Post Office,ChIJRRzQ_LhDCjkRTKCNCyDqXA4,29.21284279999999,78.95704789999999,post_office
+90,Albert memorial school,ChIJ9R4wPMZDCjkRe0WIy7oCNbU,29.21917299999999,78.961747,school
+91,Aj Groups Infotech,ChIJFTqYzqpDCjkRJVJczslx2xU,29.1951152,78.97361579999999,school
+92,Government Girls Inter College Kashipur,ChIJG5sXyrlDCjkRpBaUuRMagy8,29.2118826,78.9614278,school
+93,St.Xavier High School,ChIJW1OompFDCjkRbWZDJPW-ZPg,29.2074366,78.96574500000001,school
+94,Master International School,ChIJ66a7rrtDCjkRApYWTezUziU,29.205761,78.95977599999999,school
+95,B. S. S convent school,ChIJXzgGjLxDCjkRe4AD212GQOI,29.2075776,78.9564482,school
+96,"Abacus D Maths Academy , Abacus classes KASHIPUR",ChIJfWtF27FDCjkRiF9iYD-7aVE,29.204671,78.96662429999999,school
+97,The New Albert Mini Land Junior High School,ChIJHXTPPcZDCjkRAq-ysB3B05w,29.21925469999999,78.9617584,school
+98,VASUNDHARA PUBLIC SCHOOL,ChIJQXnCsSFDCjkRO5xDDjMvsNU,29.2234884,78.96374829999999,school
+99,Grignard Public School,ChIJsVf60StDCjkR8QnbO6bElXQ,29.2235591,78.9585183,school
+100,"Tularam Rajaram Saraswati Vidhya Mandir Inter College, Kashipur",ChIJmea501ZCCjkRLgsa2uvZ_lo,29.19937649999999,78.9820242,school
+101,Institution,ChIJtdxKcAVDCjkRAf0ERFWBjO0,29.2246427,78.94208940000001,school
+102,Little Flower Public School,ChIJ22ZGwLBDCjkRTHPKIaVnLiY,29.1923479,78.9464393,school
+103,SHIVALIK HOLY MOUNT ACADEMY (S.H.M.A),ChIJm8dNgTpCCjkR6wB6qHUMHrI,29.2254219,78.9864458,school
+104,Bhagwati Convent Junior High school,ChIJD_tAF6dDCjkRNlq9pl94ahg,29.1939916,78.95874169999999,school
+105,Naini Convent Public School,ChIJbfis2FNCCjkR6tVbHgPGKCU,29.2012,78.9796829,school
+106,Gyanarthi Media College of Mass Communication & Animation,ChIJPdZtUrZDCjkRqbRdGeBmfP4,29.2131005,78.96582699999999,university
+107,"MasterMind Institute, Kashipur",ChIJHwtZR1dCCjkRSqkNYNoGovA,29.2057951,78.9595044,university
+108,Kashipur College of Education,ChIJiUIq77lDCjkRgyCG6LROK1k,29.2104232,78.9618845,university
+109,DPMI kashipur,ChIJpcGsmkhDCjkREcXBDEmEI7k,29.2104232,78.961885,university
+110,Shree Balaji Dental Hospital,ChIJ3zX_DrFDCjkRmS3rd3zthqo,29.207377,78.9664961,university
+111,Government Polytechnic Kashipur,ChIJDZELtsVDCjkRJ2o_fcoANqI,29.2220643,78.9604726,university
+112,DigiTelHive Multiservices,ChIJdXo704FDCjkRP0X7bOedbDc,29.1948915,78.97000489999999,university
+113,Govind Ballabh Pant Inter College,ChIJlXwuqblDCjkROikXo61rwjg,29.2116428,78.96019980000001,university
+114,Railway College,ChIJQVLFtbpDCjkRAYVuKqB74EI,29.20385509999999,78.9614369,university
+115,Kashipur Bus Station,ChIJ1VywpLBDCjkRNtuZmpre48c,29.2088462,78.96375660000001,bus_station
+116,Kashipur Junction,ChIJ4xJdirpDCjkRn0BmohEUiTo,29.2045717,78.9610021,train_station
+117,Kashipur Junction,ChIJ4xJdirpDCjkRn0BmohEUiTo,29.2045717,78.9610021,transit_station
+118,Kashipur Bus Station,ChIJ1VywpLBDCjkRNtuZmpre48c,29.2088462,78.96375660000001,transit_station
+119,Kumaon Colony Bus Stop,ChIJ98QCbNJDCjkRPAiL3VWKCFg,29.2283002,78.9701772,transit_station
+120,Shaktinagar Shiv Mandir,ChIJSbyHZLlDCjkRLqbfrR8UKO8,29.209523,78.95905739999999,hindu_temple
+121,Mata Rani Mandir,ChIJO3Uq6MdDCjkRqSZ9Itf5Pq4,29.2163703,78.96197649999999,hindu_temple
+122,Shri Balaji Sakti sankat Machan Darbar,ChIJc6nwt8BDCjkRlskhDL-5_5M,29.1940244,78.9723504,hindu_temple
+123,Shri balaji sakti sankat mochan darbar,ChIJW9l_2PxDCjkR659MGUGNO94,29.19401969999999,78.9723578,hindu_temple
+124,सरस्वती शिशु मंदिर (किला मोहल्ला),ChIJJb6QpOpDCjkRpL3h1e7zD74,29.2152088,78.95078819999999,hindu_temple
+125,Jagdamba Ma,ChIJxd38PlRCCjkRtjMYfHG3CQg,29.1976314,78.9784847,hindu_temple
+126,"MasterMind Institute, Kashipur",ChIJHwtZR1dCCjkRSqkNYNoGovA,29.2057951,78.9595044,accounting
+127,Pankaj Bindal & Co.,ChIJqfFK_LlDCjkRGAfzSp7h8Oc,29.2098753,78.9625768,accounting
+128,Accounts Hub,ChIJ41alOLdDCjkRLpaygCKxciI,29.2093291,78.9609509,accounting
+129,Daswani Gupta & Associates,ChIJ06CBUrhDCjkRS_KoZwSx_YI,29.2122908,78.9606312,accounting
+130,Alankit,ChIJta9jRdlDCjkRKhOPQxWXZ7o,29.2108158,78.9586491,accounting
+131,CA AADESH ARORA,ChIJwf95uQtDCjkRTEspWqsnrSw,29.2084791,78.9596883,accounting
+132,Aadesh Kumar & Associates - Best CA in Kashipur | GST & Tax Consultant in Kashipur | Loan & Finance Consultant in Kashipur,ChIJ2VZaMZFDCjkR6BIQCQ4n4_c,29.2084565,78.95970630000001,accounting
+133,K G R G & ASSOCIATES,ChIJLTdWj8dDCjkRjloo_OxZspo,29.2153874,78.9606458,accounting
+134,"CA Saurabh Agarwal, KSGA & Company",ChIJLX_mFbFDCjkRsPYPVI38-Vo,29.2082582,78.9666849,accounting
+135,Arora Agarwal And Associates,ChIJ_T0ADL1DCjkRidvkdeBR-7E,29.2114901,78.9689631,accounting
+136,CA Prakashdeep Singh & Co.,ChIJX6GNZvRDCjkR0awVETnZ4uM,29.2123682,78.969167,accounting
+137,SRCSS (Shri Ram Chandra Sharma & Sons),ChIJEf5BiadDCjkRDC3gMBjp3y0,29.2048577,78.9653147,accounting
+138,SETIA & ASSOCIATES Adv. Vinay K. Setia (Taxation & Accounts Practitioners),ChIJL5km8hZDCjkRQWuTDoxoikE,29.20336949999999,78.9646932,accounting
+139,Global Account Solution,ChIJLWy_Q3tDCjkRub3WvdHtYy4,29.2030367,78.9569281,accounting
+140,M.S Solutions,ChIJ3YAAKKdDCjkR8KfpZyhApks,29.2008741,78.963942,accounting
+141,Alankit,ChIJG0MXYtZDCjkRYwgvIcCuowc,29.2188812,78.96904020000001,accounting
+142,VPMS & Associates (Chartered Accountant),ChIJkbeO-69BCjkRRi5_oEMPv4s,29.2226618,78.96669469999999,accounting
+143,"SUMAN KUNJ, Sachin Kumar Agarwal, Chartered Accountant",ChIJm1aWrEtCCjkRWZne8R9UhEY,29.213603,78.976835,accounting
+144,CA AMIT KUMAR GUPTA,ChIJ-4dCUpFDCjkRliCO3rWVrAY,29.22306739999999,78.9685816,accounting
+145,Alankit,ChIJHQu53axDCjkRu-tiVwDykvs,29.2257063,78.9656943,accounting
+146,CA,ChIJVVVVlVBCCjkRmVUKl1Q0gcM,29.2011518,78.9839678,accounting
+147,Asif,ChIJ-e-YLvRDCjkRb8Jnvrk6JGY,29.22818109999999,78.9421481,accounting
+148,Vishal Bakery,ChIJZcF_gupDCjkR_t1_5CEezfE,29.2162869,78.9546673,bakery
+149,Anna Bakers,ChIJh-gNKclDCjkRXMDuy-GlRv0,29.2229417,78.9691394,bakery
+150,Om Bakers & Ice Cream Parlour,ChIJDVCv67lDCjkRoz6dF0k8jpE,29.2104771,78.96143839999999,bakery
+151,Luthra's Bakers & Confectioners,ChIJT7O4BblDCjkRytys8DVEUVw,29.2114661,78.9594671,bakery
+152,Doon Bakers,ChIJk1fUt7BDCjkRNnqCRivTOwM,29.20915999999999,78.964126,bakery
+153,Celebrations Bakery,ChIJRaJqtrBDCjkRpRIttBZfOHA,29.20889709999999,78.96435679999999,bakery
+154,Namo baker's,ChIJvbR37LhDCjkRNAO-nCzyyfA,29.213181,78.95888099999999,bakery
+155,EJ's Baker,ChIJIWu8q7dDCjkRD_MA2FAJCrg,29.2127707,78.9653529,bakery
+156,Ananya Bakers,ChIJ4TjVGoZDCjkRWih0gZGbIvE,29.2135986,78.9588587,bakery
+157,Anand bakery,ChIJZxrlPXlDCjkRArhPVhQp5hQ,29.2135986,78.9588587,bakery
+158,Yadav bakery,ChIJ2Tu9VAlDCjkRnCZxbdtf17o,29.2132647,78.957442,bakery
+159,Yadav Bakery and Confectionery,ChIJie-2sXlDCjkR1_YSv496wDo,29.2132454,78.9574152,bakery
+160,Chandar Biscuit Bakery,ChIJAyFyXUhDCjkRNR5NDo2Mqdw,29.2075515,78.95645019999999,bakery
+161,Vishal bakery real,ChIJh0KqXbpDCjkRf_VkSSUXZhU,29.2160534,78.95545179999999,bakery
+162,Shri sai Restaurant and Bakers,ChIJ_bktN1pDCjkRgaBaJFwkhRY,29.2154124,78.97125849999999,bakery
+163,Neeraj Bakery- Best Bakery/Cake Shop in Kashipur,ChIJXxZoLsBDCjkRGr04q6ErV6M,29.2170407,78.9507473,bakery
+164,German Bakers,ChIJnV-8ioJDCjkRvEw-WRouj2U,29.2217094,78.9663577,bakery
+165,Gandhi Bakers,ChIJQ4X2lFdDCjkR4Cfnxnfvvi0,29.2219349,78.9730781,bakery
+166,Aditi Cake & Bakery shop,ChIJyc1Bgs9DCjkRhtud93KcECI,29.2174009,78.9770501,bakery
+167,DEV BAKERS & CONFECTIONERY,ChIJRaJEroRDCjkRiy48vQcB_Ek,29.2277799,78.961919,bakery
+168,Neelam Book Depot,ChIJwz0BR79DCjkRUaj18VZyXbY,29.2104073,78.9618744,book_store
+169,VANDANA BOOKS AND STATIONERY,ChIJvUwiVjBDCjkRlCXfFLWezGc,29.211301,78.96131,book_store
+170,Mehrotra Book Corner,ChIJUyey-rJDCjkRuFy9xUeGfxI,29.2126567,78.9600076,book_store
+171,Joshi Tea Kashipur,ChIJPd8MyLBDCjkRLomTu2Qa_6E,29.2088751,78.9642602,cafe
+172,Sandeep Tea Stall Kashipur,ChIJ03Ort5dDCjkRgO2lW9BuIoY,29.2049473,78.94987809999999,cafe
+173,Ansari Net And CSC Centre,ChIJJ3Cm1lpdCjkRetMLbsHQG84,29.1919581,78.9697766,cafe
+174,Renault Kashipur,ChIJY1RdK5ZDCjkRpT6ICAywD48,29.205463,78.95168389999999,car_dealer
+175,Bindal Hyundai,ChIJa0M-V1FCCjkRxcyycAR8pnU,29.197284,78.9788627,car_dealer
+176,Royal Enfield Service Center,ChIJMXN5hM5DCjkR4mwFdmHdll4,29.2246439,78.9672911,car_repair
+177,ANAND AUTO SPA,ChIJwRw9xs1DCjkRAfoaO65zh0w,29.224433,78.968651,car_repair
+178,Bansal auto traders,ChIJpVdaqBZDCjkR5rSZyk-BhsI,29.2086044,78.9665255,car_repair
+179,Jony Radium Art,ChIJRzhd4h5DCjkRbZ6A1qv-_8k,29.2072638,78.9563954,car_repair
+180,"CEAT Shoppe, T.S.Sethi & Sons",ChIJd7MeV_lDCjkR9ErIBHcumWU,29.19984,78.963205,car_repair
+181,New kukku tyre house,ChIJ_SjRAidDCjkR_zw54bm8cDM,29.20493149999999,78.9495429,car_repair
+182,Super automobiles,ChIJPZdj9xtDCjkRcEx4Yydf_Ew,29.2162878,78.93858080000001,car_repair
+183,Super automobiles,ChIJUYJVqHdDCjkRg-X8-f4tihQ,29.2070524,78.93431029999999,car_repair
+184,Shoppers Shop,ChIJV3VSXrhDCjkRoLvQw1jDXhM,29.2133852,78.9601279,clothing_store
+185,Sahara Sports,ChIJ40pa8bhDCjkRR5VqmqaEM-Y,29.2130824,78.9595265,clothing_store
+186,Toonz Kids & Baby Store,ChIJdWpHs5xBCjkReh32SoRRENg,29.2123187,78.96280689999999,clothing_store
+187,SALONI FABS,ChIJQ-MuhZlDCjkRWNAcqdAPbYU,29.207247,78.966831,clothing_store
+188,Delhi Cloth House,ChIJKV4MzLJDCjkRicQtsdZbf3g,29.21520980000001,78.953008,clothing_store
+189,Trends,ChIJsxUT-rdDCjkRBWTMW5QtIvI,29.2201363,78.9655021,clothing_store
+190,Firstcry.com Store Kashipur Ramnagar Road,ChIJFdtEzABBCjkRA4BAxz3o7rA,29.220438,78.96570299999999,clothing_store
+191,FITOPE,ChIJ84V1iP5DCjkRKFBGgbEA-8g,29.2275903,78.96079759999999,clothing_store
+192,HP World,ChIJobScnrFDCjkRzlO3i5phEnw,29.2067153,78.9672899,electronics_store
+193,Shri Guru Nanak Electricals And Electronics,ChIJd9GUQ8hDCjkRBYXaDPXvCcE,29.2000726,78.97602619999999,electronics_store
+194,KUMAR ELECTRICALS,ChIJeZnryJFDCjkR-iHYMiT9U6g,29.2104073,78.9618744,electronics_store
+195,Mansi Computronix,ChIJiUIq77lDCjkRbH-d9mZ_3uI,29.2104033,78.96188269999999,electronics_store
+196,Mobile N Style,ChIJP8N1c7lDCjkRHlf7Q2y4YQ8,29.210599,78.9595471,electronics_store
+197,BHARAT ELECTRONICS,ChIJ49-d97hDCjkRnNvMkZd4w_o,29.21271350000001,78.96002229999999,electronics_store
+198,Chawla Appliances And Electricals,ChIJTfbBHLlDCjkRkxROvyx7TXY,29.2117562,78.9591429,electronics_store
+199,Lenovo Exclusive Store - Sharp System & Services,ChIJX8SrvZ9DCjkRhBsRAyKhqew,29.209518,78.9641358,electronics_store
+200,Hari Electronics,ChIJwQRWMbdDCjkRXvs8sacpthU,29.2098378,78.9645455,electronics_store
+201,OPPO Service Center,ChIJyWYz7LdDCjkRXQnoPieNO04,29.2142,78.9637,electronics_store
+202,pratibha enterprises,ChIJ5Ucn4mVDCjkRaStDenp3AjY,29.2137654,78.9584831,electronics_store
+203,MS Refrigeration & water purification,ChIJix8sj8dDCjkRvrXnu6OONGw,29.2153874,78.9606458,electronics_store
+204,Aalam Battery Inverter आलम बैटरी इन्वर्टर,ChIJJ9UHa7xDCjkRTBnnTMnMRQc,29.2072085,78.95586829999999,electronics_store
+205,Water level controller power tech,ChIJBdgjOMZDCjkRqzR6rctj8AE,29.2186147,78.96146329999999,electronics_store
+206,Cold Breeze Aircon,ChIJKcX4u69DCjkRRlTqYMzqtnM,29.2020244,78.9645378,electronics_store
+207,jeevan nath electric shop,ChIJ9aTgMcRDCjkR5p_6-go68Xk,29.2192149,78.9570116,electronics_store
+208,Dew Drop Computers,ChIJbXtne0tCCjkR9HDVC-w0Rfw,29.21119029999999,78.9730508,electronics_store
+209,TECHNO SOLUTIONS,ChIJ__X19UtDCjkRrG22Sza_myk,29.2151676,78.9507726,electronics_store
+210,Punjab electric works,ChIJrdgQ8F9DCjkRuFBjO_t2We0,29.1997794,78.95919459999999,electronics_store
+211,Unique Infotech,ChIJDabAc6NDCjkRQGWB72-GOq8,29.2007291,78.9559593,electronics_store
+212,Black Box Makeup and Photo Studio - Pre Wedding photographer in jim corbett,ChIJBeuoSAlDCjkRsWYG9UqIjNU,29.22360969999999,78.9673083,electronics_store
+213,[Samsung Smart Plaza] Guru Maa Enterprises,ChIJk-jzHClDCjkRqsy0cu9zTAU,29.1931558,78.9740755,electronics_store
+214,Bhardwaj Electricals (Nitish Bhardwaj),ChIJY3OYrsxDCjkReFeLbTnJgEM,29.19571079999999,78.98482709999999,electronics_store
+215,SHRI SHYAM ENTERPRISES (DISH TV),ChIJLbmquf5DCjkRj4kXddOXv2s,29.1951023,78.9804875,electronics_store
+216,Kitchen Collection,ChIJv-TvRbpDCjkR-tVLwh1X86s,29.2074212,78.96068749999999,furniture_store
+217,Adarsh enterprises,ChIJQzzoM6BDCjkRE9q3KtL7CM8,29.2084866,78.9597872,furniture_store
+218,Elegant Furniture & Interiors,ChIJvbpMH7ZDCjkRpwTav6Ssubs,29.215175,78.967067,furniture_store
+219,Royal Kitchen Equipments,ChIJPy0sa8ZDCjkR979ZG84ptS4,29.2186632,78.962599,furniture_store
+220,Rudra Furniture,ChIJefFwdb1DCjkRmLMM9asBeNw,29.205628,78.953075,furniture_store
+221,aswah interiors,ChIJKyIL2rZDCjkRLhCEnOaiOJ8,29.2039439,78.946325,furniture_store
+222,Rudra Furniture,ChIJE11fdZpDCjkRo1gkG2fOI9U,29.2019836,78.9443773,furniture_store
+223,sai furniture trader,ChIJTdM_xE9DCjkRzN3spiPfn4k,29.1970059,78.9778295,furniture_store
+224,Bharat Petroleum New General Supply Agency,ChIJt-TL4rlDCjkR3hyDy68Zldc,29.21016389999999,78.96265489999999,gas_station
+225,Petrol Pump Indian Oil,ChIJy87uvLxDCjkRHi1-yVXlpOE,29.20435329999999,78.9562877,gas_station
+226,vicky Thi Stoll,ChIJA7t74l9DCjkRkuGV2Y4gWW8,29.2104232,78.9618845,gas_station
+227,"Bharat Petroleum, Petrol Pump -Uttaranchal Filling Station",ChIJ3S45B1BDCjkRVxPnD62wDK8,29.210417,78.9619034,gas_station
+228,"Bharat Petroleum, Petrol Pump -Harbans Motor Works",ChIJnf94e5NDCjkRKmWKv4OC3dg,29.2101443,78.96130959999999,gas_station
+229,Bhiku Mal Pyare Lal,ChIJ4YIe4HVDCjkR-JQAM-1tyeY,29.2098932,78.96146399999999,gas_station
+230,"Bharat Petroleum, Petrol Pump -Kundeshwari Filling Station",ChIJK5ubw5JDCjkRMUuGl5cXTHY,29.2127073,78.9625169,gas_station
+231,Chandra Petrol Pump,ChIJx4d4KLhDCjkRPNBHRz-aSGI,29.2130346,78.9625645,gas_station
+232,M/S Chandra Brothers,ChIJX3FEgjtDCjkR8FR_1GG0tVE,29.2130594,78.9626091,gas_station
+233,"Bharat Petroleum, Petrol Pump -Shree Sai Filling Station",ChIJGTCE679DCjkRVgrvvv681SY,29.2110207,78.9690136,gas_station
+234,Sethi Petrol Pump,ChIJpVsJKLJDCjkRgKMWqGczJ1I,29.2061326,78.9686165,gas_station
+235,Bharat Petroleum,ChIJx-l_lLxDCjkRWg2jTEPqmgQ,29.2048729,78.9559979,gas_station
+236,Kapoor Petrol Pump (Bharat Petroleum),ChIJla9jlLxDCjkROtTucpVCn3c,29.2048594,78.9558832,gas_station
+237,"Petrol Pump, Kashipur, Uttarakhand",ChIJqY8o3NFDCjkRR-hpoCaUWfg,29.2043259,78.956283,gas_station
+238,"Bharat Petroleum, Petrol Pump -Kapoor Transport Co.",ChIJ8X76ux1DCjkRzpSMdjw7Xjs,29.2049673,78.9495496,gas_station
+239,"Bharat Petroleum, Petrol Pump -Dashmesh Service Station",ChIJ9fcF6fRDCjkRvIcmOgCw56Q,29.19395840000001,78.959363,gas_station
+240,Uttaranchal Filling Station (BPCL),ChIJz0OwRY1DCjkRZsQpareSH3k,29.2121869,78.939047,gas_station
+241,"Bharat Petroleum, Petrol Pump -Shahid Padamram Service Station",ChIJDRDCbHxDCjkRexqym_7BLOc,29.191834,78.9545927,gas_station
+242,Mahindra kashipur,ChIJvX3nOlRCCjkRjJIUuata5Tw,29.1972948,78.9789316,gas_station
+243,Bali Petrol Pump,ChIJ20dfkQpDCjkRf2h6ZOgRg4Y,29.1900763,78.9533836,gas_station
+244,Paarth Dev Enterprises,ChIJ7V83PbRDCjkRU1oha8bDMIs,29.2115083,78.9691685,real_estate_agency
+245,Kashipur Property Network,ChIJH5FTwa5DCjkRifDhfXx9d7Q,29.2014334,78.96773019999999,real_estate_agency
+246,Cross Land,ChIJkaw-9pdDCjkR2XrG-G5GJE0,29.2031711,78.945461,real_estate_agency
+247,Prakash General Store,ChIJkXgt77lDCjkR3ura8xjVmEQ,29.21049140000001,78.9615723,shopping_mall
+248,J.K. Gift Emporium.,ChIJAd_d-rhDCjkRTWlnYKfBV2g,29.2125782,78.9593099,shopping_mall
+249,Shagun Emporium,ChIJrZ6N-JBDCjkRYSGbEdDaekM,29.2120775,78.958733,shopping_mall
+250,Mittal Complex,ChIJFQDyKoBDCjkR6onfqVIDotw,29.2124812,78.9666981,shopping_mall
+251,Jamshed Complex,ChIJaeGrGaZDCjkRQ4efzwsm6LQ,29.2157942,78.9636041,shopping_mall
+252,Amar Departmental Store,ChIJExp6ogxDCjkRWDGkOuKiERs,29.21746,78.9686783,shopping_mall
+253,Gerta cosmet,ChIJ9Qyve7FDCjkRTfvePwX7O3g,29.2011683,78.9663393,shopping_mall
+254,Kukku Tyre House,ChIJWWUhRZdDCjkRUauidwIa7OE,29.2031502,78.9466592,shopping_mall
+255,Dresses and dslr camera for rent,ChIJQ5-V7RtDCjkR_lDG7yeabCM,29.2046293,78.9574616,storage
+256,Central Warehouse-Kashipur-II,ChIJh_l9eZJDCjkReK8sSZTujwo,29.2099757,78.9404494,storage
+257,New Aqua Help Line,ChIJWY0p77lDCjkREQHBllVZDC4,29.2104038,78.9618825,store
+258,JHA NEWS,ChIJiUIq77lDCjkR6dGXU0_smxk,29.2104039,78.9618825,store
+259,Netcity Internet Cafe,ChIJiUIq77lDCjkRT01iWPrdVHQ,29.2104033,78.96188269999999,store
+260,"Kajaria Prima Plus - Best Tiles for Wall, Floor, Bathroom & Kitchen in Kashipur",ChIJbZoi6-FDCjkRItoLHqk78E8,29.21029800000001,78.962045,store
+261,Archies Gift Gallery,ChIJSdtkUrhDCjkRgSJyPUZuxPs,29.2123572,78.96059079999999,store
+262,Vishal Mega Mart,ChIJoXNgX7hDCjkR7jcRlbIKhKY,29.213237,78.95994100000001,store
+263,Shoppers Shop,ChIJV3VSXrhDCjkRoLvQw1jDXhM,29.2133852,78.9601279,store
+264,Sahara Sports,ChIJ40pa8bhDCjkRR5VqmqaEM-Y,29.2130824,78.9595265,store
+265,Kitchen Collection,ChIJv-TvRbpDCjkR-tVLwh1X86s,29.2074212,78.96068749999999,store
+266,Easyday Store,ChIJObSRT7pDCjkRxQPSYoEDEUc,29.2071097,78.9605076,store
+267,Tanishq Jewellery - Kashipur,ChIJBzBM6blDCjkRnJrXyYIrMq8,29.2150278,78.9636296,store
+268,HP World,ChIJobScnrFDCjkRzlO3i5phEnw,29.2067153,78.9672899,store
+269,Patanjali Shop,ChIJM60Z8sBDCjkR0qt29l19H20,29.2162776,78.95490869999999,store
+270,Vishal Bakery,ChIJZcF_gupDCjkR_t1_5CEezfE,29.2162869,78.9546673,store
+271,M.K.Diagnostics & Surgicals,ChIJl0N8N6NDCjkRXTsqGT04PoY,29.2023928,78.9554921,store
+272,Manuja Publication House,ChIJhVRTe65DCjkRIPCe3bQep2E,29.2016201,78.9677114,store
+273,Anna Bakers,ChIJh-gNKclDCjkRXMDuy-GlRv0,29.2229417,78.9691394,store
+274,Shri Guru Nanak Electricals And Electronics,ChIJd9GUQ8hDCjkRBYXaDPXvCcE,29.2000726,78.97602619999999,store
+275,Shri Ram Sweets House,ChIJZyhy6LlDCjkR5dsSAMJqdEI,29.2107962,78.96186469999999,store
+276,Batra Bakers And Confectionery,ChIJb1316blDCjkR63vO-8ctGS8,29.2106972,78.9617043,store
+277,Datt Medical,ChIJkeN4P7hDCjkRFySKo82KeWU,29.2106195,78.9618177,store
+278,Nainital Medical Store,ChIJS9T46rlDCjkRr_jCJ1r2nR0,29.2106352,78.9615117,store
+279,Shri Krishna Enterprises,ChIJxUn8TupDCjkR8m7_bYukJTc,29.2107464,78.9620276,store
+280,Himalaya,ChIJWaUu77lDCjkR7JJlo-BvsAw,29.2106521,78.9620849,store
+281,Kundan Sweets,ChIJo4SQv85DCjkRqLTEx9urCYw,29.2104991,78.9615326,store
+282,Dutt Medical Store,ChIJKbzP6blDCjkRG6Z0veXVlRM,29.2104842,78.9618753,store
+283,Suneja Medical Store,ChIJ-bsn5rlDCjkRUOZeXJQl-9U,29.21058,78.9620625,store
+284,Naman Sweet,ChIJlf3U7blDCjkR2BUkgzUILIc,29.2104245,78.9617755,store
+285,Om Bakers & Ice Cream Parlour,ChIJDVCv67lDCjkRoz6dF0k8jpE,29.2104771,78.96143839999999,store
+286,Health care multanika,ChIJV98FRzVDCjkR5zsx6s9GP40,29.2104232,78.9618845,store
+287,ARDHSAINIKCANTEEN,ChIJT7kw_TVDCjkRAoTs7av5ck8,29.2104232,78.9618845,store
+288,Home Appliances Online Service,ChIJecVhiZNDCjkRiFkyyWQ_uNI,29.2104232,78.9618845,store
+289,Shri shiv Hari Ayurvedic,ChIJibamH99DCjkRRdJpHgqRaeE,29.2104074,78.9618744,store
+290,KUMAR ELECTRICALS,ChIJeZnryJFDCjkR-iHYMiT9U6g,29.2104073,78.9618744,store
+291,TIWARI BROTHERS AND SONS,ChIJiUIq77lDCjkRqR82-NkKWow,29.2104073,78.9618744,store
+292,The Uttarakhand Store,ChIJiUIq77lDCjkR_CkU5LstsTA,29.2104073,78.9618744,store
+293,Ratna Care Centre,ChIJp1S_Kv9DCjkRcrzdnkt58_0,29.2104073,78.9618744,store
+294,Complete range of pujja path samagri or daily needs store,ChIJRUzLM8hDCjkRBprFAfajo7s,29.2104073,78.9618744,store
+295,kamaal general store,ChIJiUIq77lDCjkRMYsjIx3C_1I,29.2104073,78.9618744,store
+296,Haque Daily need Store,ChIJZSF1NsdDCjkRCUBjQeB9paY,29.2104073,78.9618744,store
+297,Vishal Mega Mart,ChIJoXNgX7hDCjkR7jcRlbIKhKY,29.213237,78.95994100000001,supermarket
+298,Easyday Store,ChIJObSRT7pDCjkRxQPSYoEDEUc,29.2071097,78.9605076,supermarket
+299,Manuja Publication House,ChIJhVRTe65DCjkRIPCe3bQep2E,29.2016201,78.9677114,supermarket
+300,The Uttarakhand Store,ChIJiUIq77lDCjkR_CkU5LstsTA,29.2104073,78.9618744,supermarket
+301,kamaal general store,ChIJiUIq77lDCjkRMYsjIx3C_1I,29.2104073,78.9618744,supermarket
+302,chandan general store I.T.I. KPV,ChIJiUIq77lDCjkRAteGtBwMGUM,29.2104073,78.9618744,supermarket
+303,AVENUE MART,ChIJU0Qb3t9DCjkRopiTeQjJm3E,29.210315,78.962994,supermarket
+304,Mehrotra Market,ChIJ1b5qg7lDCjkRDwHTillGhs8,29.2098531,78.96019540000002,supermarket
+305,MA Sallon,ChIJdyaTVcFDCjkRpOyORK9Q7eY,29.21058560000001,78.9645341,supermarket
+306,Pankaj Traders,ChIJP7egN79DCjkRRfaIX-FjQRc,29.213044,78.956508,supermarket
+307,Singhal Traders,ChIJDRzKPFdDCjkRnkUsgQS1lhE,29.2136407,78.9557925,supermarket
+308,Uttaranchal Sales Corporation,ChIJCXoibsBDCjkRHcXfhtLKoJ0,29.2151355,78.95330849999999,supermarket
+309,The Uttarakhand Store,ChIJoYEsZa5DCjkRwBF0mdqSjg4,29.201798,78.9677007,supermarket
+310,Shri Ganpathi Department store,ChIJeaQbXv5DCjkRdPZl-MLflA4,29.2136372,78.97475940000001,supermarket
+311,Deep Engineering Works,ChIJu9MfOUlDCjkRTHsGDLYlhBo,29.2231256,78.9664248,supermarket
+312,Day 2 Day Mart.,ChIJV5gHYc5DCjkRk_rP-MtO1Z0,29.2244581,78.9670665,supermarket
+313,Deep Engineering Works,ChIJh6aq0qlDCjkRPq2xpCIZny4,29.22462669999999,78.9664737,supermarket
+314,Kukku Tyre House,ChIJB0CWCbxDCjkR340qP9An6Vo,29.20322980000001,78.9467004,supermarket
+315,Saipuram Colony,ChIJt8LeZPVDCjkRxP3GQITMzWY,29.2073475,78.94301589999999,supermarket
+316,Binda Prasad Sarvesh Kumar,ChIJmVnURvBDCjkRpCkttHE-ybA,29.2086998,78.9410123,supermarket
+317,Priyansha trades,ChIJNcXhlzZDCjkR-fBN7xWABt4,29.226444,78.97295059999999,supermarket
+318,Saqlani Electrical,ChIJvRQNfyhDCjkRYvhG7GNDsXI,29.20500479999999,78.94166589999999,supermarket
+319,Modern Fabricator,ChIJEUkcqW5DCjkRr13R-9hjNIE,29.2011917,78.94334769999999,supermarket
+320,"Indian Family Store, Kumaun Colony Kashipur",ChIJ2356Ak5DCjkR2KzM_fq0Xk0,29.2284007,78.9708917,supermarket
+321,Easy way confectiony,ChIJg253TI1DCjkRZTbrsAPwff0,29.21297599999999,78.9390923,supermarket
+322,Bharat Mobile Gallery,ChIJWRoN2rJDCjkRvjfrDdLTX7Y,29.19259959999999,78.9762683,supermarket
+323,King Stone Institute Of Learning,ChIJLzhE7IZDCjkRortEoV_RIQA,29.2081966,78.96458179999999,travel_agency
+324,Next Step Immigration ( Ielts Coaching & Visa Filing ),ChIJ72ioclhDCjkRJ-4qmWTZHts,29.2136202,78.96497289999999,travel_agency
+325,Tufail Garden,ChIJG1hU56JDCjkRBrvN8Eqkbs0,29.2153464,78.9607661,travel_agency
+326,Dunia Darshan,ChIJLR-0GIFDCjkR2vqsXdU47k0,29.21760630000001,78.9684888,travel_agency
+327,M.S Solutions,ChIJ3YAAKKdDCjkR8KfpZyhApks,29.2008741,78.963942,travel_agency
+328,Planet Overseas ( Ielts Coaching & Visa Filing ),ChIJl-_AfeJDCjkRDbhYrxSCDUQ,29.204554,78.97093199999999,travel_agency
+329,Vishnoi Tour & Tavel,ChIJ4yDh5flDCjkRbzej34IxNRs,29.2170517,78.9718433,travel_agency
+330,Colonels Ielts And Immigration Academy ( Ielts & Visa Filing ),ChIJFfX30YBDCjkRTjYdnmpYX-A,29.20346499999999,78.9714623,travel_agency
+331,Uttarakhand yatra- Travel consultant ( FREESOULZ),ChIJzf7Ckc5DCjkRbleimJuz2iY,29.2248596,78.9688465,travel_agency

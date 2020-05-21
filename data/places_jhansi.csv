@@ -1,0 +1,585 @@
+,place_name,place_id,lat,lng,type
+0,State Bank of India,ChIJa9BUCdpwdzkRiODzfDOhnRI,25.4431729,78.5543758,bank
+1,Central Bank of India,ChIJvZKk2yZxdzkRl-wRbSMkSBM,25.4531807,78.549998,bank
+2,Indian Overseas Bank,ChIJb94zqyZxdzkRsGM6hUhwWHA,25.4552729,78.54907039999999,bank
+3,"SBI , Nagra, Jhansi",ChIJJ8JnBsFwdzkRl0xSgNBPKT4,25.4296219,78.546482,bank
+4,Union Bank of India,ChIJ0yMX3ARxdzkRTsYBjsnRAgQ,25.4565855,78.5308743,bank
+5,State Bank of India,ChIJv0bN9dB2dzkRa2SjPiVvShY,25.4603514,78.57571539999999,bank
+6,बँक ऑफ बडोदा,ChIJfSXZiRx3dzkRLOzIAQXRQG0,25.4486518,78.59733489999999,bank
+7,State Bank of India,ChIJMcAjMRlxdzkRvoUYzXDCX9w,25.4584088,78.5309577,bank
+8,Punjab National Bank,ChIJ0SSmvDx3dzkRWA6z77DHOq4,25.440204,78.5824706,bank
+9,Sarv U.P Gramin Bank,ChIJa6FqXexwdzkRvFKU90xUdF0,25.4288579,78.5361468,bank
+10,UCO Bank,ChIJtR2_29R2dzkRqmdXTEM9x3U,25.4546256,78.56722719999999,bank
+11,Andhra Bank,ChIJqbW8GdV2dzkRgRGXSE7ZIfg,25.4534711,78.5677536,bank
+12,Syndicate Bank,ChIJEdsmHdN2dzkRGf1WMB7TTFo,25.4598979,78.56820220000002,bank
+13,YES Bank ATM,ChIJRWkcOtVwdzkRjNi6VeUM3sc,25.44911,78.565316,bank
+14,YES Bank,ChIJaYtBOdVwdzkRpDkQ0Hx5dmE,25.44911,78.565316,bank
+15,Axis Bank,ChIJyX-dGCt3dzkREootkSOpKo8,25.448925,78.5672368,bank
+16,Axis Bank ATM,ChIJB28l3Sp3dzkRgbaP9Wjacvg,25.448875,78.567364,bank
+17,PNB Bank,ChIJlalS0ip3dzkRTVKgnHiGu6E,25.4486603,78.56630659999999,bank
+18,HDFC Bank,ChIJSZlCICt3dzkRMO-iUHuThUk,25.4488386,78.5675499,bank
+19,बैंक ऑफ़ बड़ौदा,ChIJAQAAQNZ2dzkRjxZW2L5fQRs,25.453031,78.573183,bank
+20,Jal Nigam Office,ChIJQzhNzCt3dzkRD_1KLUQCUMs,25.448235,78.5708727,local_government_office
+21,Cantt Board Office,ChIJCZS2nj53dzkRoG6mQumKcwI,25.4346227,78.5848188,local_government_office
+22,Top N Town Depot,ChIJ4XU_mCl3dzkRotL9N4ZVDVk,25.4492857,78.5730825,local_government_office
+23,"Fauston India, State Office",ChIJTYcwRCRxdzkRcEwmgp3Q9h0,25.4575483,78.55095860000002,local_government_office
+24,Balaji I.T.I,ChIJ30fiRRlxdzkRO7P7wxZ0LOk,25.4555082,78.5387494,local_government_office
+25,R T O Office,ChIJuX3mchx3dzkRLeQpzOy61_0,25.4478795,78.5960234,local_government_office
+26,Nandini Packers and Movers Jhansi,ChIJRZqEJOFwdzkR_xcZ9tGWTXI,25.444979,78.534852,local_government_office
+27,Webtech IT Services,ChIJb-9qgwJ3dzkR91Pq9enpiOs,25.4535758,78.6023735,local_government_office
+28,Chief Medical Officer Office Jhansi,ChIJmeW_RStxdzkRvx5wvjjYOPw,25.4557912,78.5652842,local_government_office
+29,V.K Educational And Training Centre,ChIJETzkdjh3dzkRKgxbISbTy7A,25.4529816,78.5689974,local_government_office
+30,Office Of The Superintending Engineer,ChIJaUM2hypxdzkR6QB0PHSVUMI,25.4511933,78.56334269999999,local_government_office
+31,Peetambari Real State Office,ChIJf4tvWyxxdzkRymYu6eM2wMU,25.4584576,78.5626631,local_government_office
+32,SG HEIGHTS,ChIJWYL1fs9xdzkRAMll8gpeUGQ,25.44988159999999,78.56478369999999,local_government_office
+33,Joint Director Agriculture Office Jhansi,ChIJ1YmrKQxxdzkR0EgXm6H5wpU,25.4500008,78.56416109999999,local_government_office
+34,Niyokta corporate solution,ChIJX7oo8QpxdzkR9bCDrGQjpn0,25.4597285,78.5626236,local_government_office
+35,City,ChIJfyUoKvZ3dzkRJZN8V34tlPE,25.4484257,78.5684594,local_government_office
+36,"क्षेत्रीय आयुर्वेदिक एवं यूनानी अधिकारी कार्यालय,झांसी",ChIJL4IqrSdxdzkRpdvEyJ40d-U,25.4593237,78.5588215,local_government_office
+37,CCTNS OFFICE,ChIJt1mOWFJ3dzkReT4-HcGRtx0,25.4489221,78.57136659999999,local_government_office
+38,Food licensing jhansi | Gst Registation jhansi | Socity registration jhansi ( Exceed Digital Center),ChIJ83NZlTFxdzkR4N4OCiU_5bI,25.463597,78.5589873,local_government_office
+39,RTO agent Jhansi,ChIJDSN9mKpxdzkRjh4LbXrlgpQ,25.463597,78.5589873,local_government_office
+40,Chief Er PWD Jhansi,ChIJh4dCyix3dzkRFVBYmIRedRQ,25.443638,78.566318,local_government_office
+41,Manya Enterprises,ChIJddx3ENh2dzkRwpcpMHRUXXA,25.45282019999999,78.57815219999999,local_government_office
+42,"Commercial Tax Office, Jhansi",ChIJbwxEJSx3dzkRQSjDq-zZzjQ,25.443442,78.571113,local_government_office
+43,Basic Shiksha Adhikari Office,ChIJOXeQV5N3dzkRY6EShUdG2rM,25.4454716,78.5795914,local_government_office
+44,Kacheri Chauraha Intersection,ChIJURWtviV3dzkR0rySBejynUI,25.4444208,78.57920399999999,local_government_office
+45,Female Court,ChIJy62CcSV3dzkRfsVTEzMh1o4,25.442674,78.578462,local_government_office
+46,LOVE CHAURASIYA,ChIJURktNtt2dzkRcpUvG6XXYFg,25.463376,78.581664,local_government_office
+47,Bhagwati Packers and Movers,ChIJZ1SxZBVxdzkRtx_YwhHAhE8,25.4622815,78.5481934,local_government_office
+48,Nihan Computers,ChIJjXqhPcZ2dzkRdf-3pb1F-AE,25.4710618,78.5783476,local_government_office
+49,"Anil Agarwal, Forensic Expert",ChIJtXeeoEx3dzkR4GAETCVQ5uw,25.4389817,78.5812012,local_government_office
+50,Electricity Department EUDD-3 Division Office,ChIJvRC1QutxdzkRJsSmzHByCKM,25.4706429,78.54974159999999,local_government_office
+51,Dy FA CAO,ChIJX0RAYOdwdzkRHCKw19porqo,25.4418226,78.54327409999999,local_government_office
+52,Archna Photo framing,ChIJJ_ZGcVzndzkRymWnq-neRdw,25.4480481,78.5397194,local_government_office
+53,minior irrigation div office,ChIJo-RP_xt3dzkR3Iy9bFZvmHk,25.44737540000001,78.5947853,local_government_office
+54,56 UP BN NCC JHANSI,ChIJAeUBRaF3dzkR1_1O5SzT3CI,25.4235047,78.5669094,local_government_office
+55,"Food and Civil Supplies Dept., Jhansi",ChIJnUjT4QRxdzkRgE_m3CDtHcU,25.4569419,78.5304104,local_government_office
+56,Bheema Foundation,ChIJ-ZL_xvpwdzkRysPoQPD4lPQ,25.4386874,78.5320709,local_government_office
+57,BJP HEAD OFFICE NAGRA,ChIJxRsxrOtwdzkRbub8wHBhgzY,25.4290572,78.5402348,local_government_office
+58,Dr. K. R. Gupta (ENT),ChIJe_BuyV13dzkRP20pqklzy00,25.4543499,78.60508930000002,local_government_office
+59,Office of the UCNI,ChIJwxRHXfJwdzkRCS-Ey6Pc5rE,25.4284867,78.5306471,local_government_office
+60,Sipri Police Station,ChIJuyw2kiFxdzkRO96MxxQDClM,25.4543236,78.5450578,police
+61,Navabad Thana,ChIJM2ZquCt3dzkReHPY2n2ATko,25.447261,78.57030390000001,police
+62,Nawabad Police Station,ChIJk2Qjxit3dzkReLeRlaIXL4s,25.4472231,78.570746,police
+63,SSP Jhansi Camp Office,ChIJVyqqdSx3dzkR1so7w2C05BY,25.4453324,78.5701559,police
+64,Mahila Thana Nababad,ChIJ0dH-2yt3dzkRML5sXjkVcg4,25.4474287,78.571388,police
+65,Jhansi Police Lines,ChIJLcI6XSl3dzkRBjBaVCX4IhQ,25.4475275,78.57282769999999,police
+66,Rail Police Station,ChIJaR5hEChxdzkRKYbXbS1j8R8,25.451,78.5556,police
+67,Police Chowki Nai Basti,ChIJp7fjMzJxdzkRgO6eP0w2XXQ,25.4647824,78.5612761,police
+68,Kotwali Shehr,ChIJK5nxm9B2dzkRPpi_zEqfDmY,25.4596031,78.5770512,police
+69,DIG Police camp office jhansi,ChIJ5U9aDtNwdzkRQScBQIaUSFQ,25.4430415,78.56380879999999,police
+70,Police Sahayta Kendra,ChIJ04-l6Cd3dzkRbupult7TCGM,25.4508191,78.5781803,police
+71,Chaman Ganj Police Station,ChIJD_xPuCZxdzkRy52z4sxpmPM,25.4542606,78.5498911,police
+72,Police help on railway station jhansi,ChIJ5_lQ3YRxdzkRGOZcBa7r1XM,25.4443831,78.5531652,police
+73,Railway Protection Force Police Station,ChIJGbl-bdpwdzkRY6oOM_okj8c,25.4426,78.554,police
+74,Sipri Bazar Police Station,ChIJAxEedDxxdzkRMy1_y2yrQBE,25.4653521,78.5487646,police
+75,Police Chowki Masiha Ganj,ChIJ-eZ4kiFxdzkR5JfSyLkxpk4,25.4543223,78.5450034,police
+76,Police Chowki Ansal Colony,ChIJcYGY9DVxdzkRHgMpazdIyyk,25.4737009,78.5617369,police
+77,पुलिस चौकी ग्वालियर रोड,ChIJX3ymtJZxdzkRhbPr1-vfFtk,25.47378,78.561604,police
+78,Police Station Jhalkari Bai Nagar,ChIJ3aqNcsZ2dzkRsJ8c6DiPK7k,25.470199,78.579004,police
+79,Police Chowki,ChIJT8TPLt12dzkRCXqeFrjqCAk,25.46378559999999,78.5863483,police
+80,Police Help center,ChIJXbsK-iJ3dzkRD0u-ZcAT1SM,25.4456125,78.5896217,police
+81,Police Help Center,ChIJB58dKR93dzkR6eMjtVRuiK0,25.4476834,78.59139809999999,police
+82,SADAR BAZAR POLICE STATION,ChIJ8VO-HD13dzkRteFRzdsCiQ8,25.4388294,78.5862355,police
+83,Rishala Police Chauki,ChIJNwlKOUB3dzkRBCf5_itW254,25.4274389,78.5876322,police
+84,Police Chowki Ratanpur Nagar,ChIJJVDkBOxwdzkR2kjm_v0ncXo,25.4307,78.5371,police
+85,Anti Corruption Office C.I.D,ChIJJ8rgdAZxdzkRS75eEdEWoPE,25.457995,78.5261321,police
+86,Prem Nagar Police Station,ChIJbU7BRexwdzkRsRrgGjZ-MZU,25.429233,78.53565259999999,police
+87,Police Station Sarandhara Nagar,ChIJiwPgB61wdzkRjmZs1Qy0nQ8,25.413562,78.563333,police
+88,Reporting Police Chowk Vishwavidhyalay,ChIJf9x1BFV2dzkRjsCK8s8FBWI,25.4572079,78.6139761,police
+89,Police Choki Hansari,ChIJ37f9uKtwdzkRRfeDteMBdc8,25.4078285,78.5619952,police
+90,Narai Police station,ChIJ5xrL2SB3dzkRnj9yy03lyjw,25.4229333,78.64476189999999,police
+91,Bijauli Reporting Police Chauki,ChIJ1_WYOTx6dzkRjhIdKfMnOh8,25.375876,78.550196,police
+92,India Post Office,ChIJd5G_XyRxdzkRmmu53sz0H-Y,25.4586365,78.5504524,post_office
+93,Sub Post Office उपडाकघर,ChIJ6VyOCNpwdzkRmYTv__hYXxk,25.443478,78.554377,post_office
+94,India Post Office,ChIJ67Oh6C93dzkRrW7SH6BBX94,25.4401307,78.5772175,post_office
+95,AIMIM Office,ChIJDYTT-M92dzkRA6JgUKvVLfk,25.4639514,78.5772872,post_office
+96,Head Post Office Jhansi,ChIJf2omaVYDDTkRgwh3yIBwSnA,25.4408113,78.576386,post_office
+97,Sub Post Office Medical College,ChIJ-cBUIlF2dzkRkHrXgRe28qg,25.4633422,78.6184216,post_office
+98,MB Chauaraha post office,ChIJmarJ2ip3dzkRayD726uOJdo,25.4488534,78.5668946,post_office
+99,Post Office Museum,ChIJ8VhwaNZ2dzkRKxiFHIRN3W8,25.4537163,78.57305699999999,post_office
+100,Post Office,ChIJE_Ohd6ZxdzkR0WANg6IHbhc,25.4523071,78.55559819999999,post_office
+101,Sainyar Gate Post Office,ChIJz2dhNeJ3dzkRZf1boeLE-uw,25.4552926,78.5793485,post_office
+102,Sub Post Office,ChIJDWgMX9p2dzkR9t_duwkfiAk,25.460687,78.579065,post_office
+103,India Post,ChIJU9vawdt2dzkRpaOrZap3gjQ,25.4592991,78.5816585,post_office
+104,Post Office Subhash Ganj,ChIJt9y0edx2dzkRO1xplF-OOHY,25.4605,78.5833,post_office
+105,Civil Lines Post Office,ChIJ6Ug8ASV3dzkRRJpY94ktzz8,25.4431,78.58,post_office
+106,Khushipura Post Office,ChIJaYFU21x3dzkRKsFTs3-Yr30,25.4466279,78.58293220000002,post_office
+107,Post Office Sadar Bazaar,ChIJJzXcozx3dzkR0JuJ47Cv1No,25.4395,78.5835,post_office
+108,Nandanpura Post Office,ChIJU5U306ZxdzkRJVrxjTgBOQU,25.44839259999999,78.5400722,post_office
+109,Post Office Cantt,ChIJW704uj53dzkRo32sllMvG1A,25.433885,78.583944,post_office
+110,Lalkurti Bazaar Post Office,ChIJ9UtdRbdxdzkRSJWO4sLVuG4,25.4271053,78.5644894,post_office
+111,Railway Post Office,ChIJJUDRBMFwdzkR7K7u6-rJwvY,25.4295843,78.54689239999999,post_office
+112,"Kendriya Vidyalaya No. 1, Jhansi cantt",ChIJlVCglEN3dzkRX3wjbF-BM-M,25.4217571,78.5835632,school
+113,DPS Jhansi - Sanfran branch (Delhi Public School Jhansi),ChIJs39PECZ3dzkROzQ9_QsvazA,25.4828438,78.5972073,school
+114,St Francis Convent InterCollege,ChIJo3CcFtJwdzkRPG9n2j1BECc,25.4402034,78.5610974,school
+115,Mount Litera Zee School,ChIJAakgCORwdzkR-GHarbsckzc,25.4428774,78.53687169999999,school
+116,The New Era Public School,ChIJrUyVpJN2dzkR82Em1V1FhL0,25.48115799999999,78.594832,school
+117,GROCERY STORE & CRAFT & DRESSES,ChIJR2coeLJwdzkRrtppMsgMqeQ,25.413571,78.5613872,school
+118,JAI ACADEMY,ChIJgZ91CANxdzkRoSKIKDeshMk,25.4578972,78.5222939,school
+119,Cathedral College,ChIJm8zwe-dwdzkR_XOlYZvz6FY,25.4402759,78.5421649,school
+120,"Kendriya Vidyalaya No.-2, Jhansi Cant,Jhansi",ChIJH8cwV8xwdzkR24_uldl95H4,25.435624,78.5627349,school
+121,New Vivekanand Classes,ChIJv6VjjUh3dzkRgNmSy9hLE3M,25.4598813,78.5681855,school
+122,Raghav moury,ChIJXWoQt1F3dzkRFjLEjyKIONc,25.4484257,78.5684594,school
+123,BHEL SIKSHA NIKETAN SCHOOL,ChIJlS23_Sp3dzkRJKFX8mnzQTo,25.4484257,78.5684594,school
+124,Betwa kinder garten school,ChIJf_azNoJxdzkRDBbQe-urefo,25.4480499,78.56149839999999,school
+125,YASH STUDY POINT,ChIJceWmrAd3dzkRlaUL88QdAPs,25.4601942,78.5739835,school
+126,The Woods Heritage School,ChIJ-Z_MHy13dzkR53Ojc_PwRuQ,25.4421756,78.567909,school
+127,Children's Public School,ChIJcUiugsx2dzkRo24Z_H4K1i8,25.4686646,78.5682451,school
+128,Jacob High School,ChIJR1rR7yNxdzkR8kRxSYKn6RI,25.456346,78.54831399999999,school
+129,Bharat Tuition classes,ChIJb2uMviV3dzkRDoNTr7xJRNw,25.469509,78.57394839999999,school
+130,Ayush child coaching center,ChIJu9pL2qx3dzkR_W4v05WsNBc,25.4630484,78.582231,school
+131,Bharatiye sangit mahavidhyalaya,ChIJQyWZmq1xdzkR9l1s3vROZPw,25.4591311,78.5467498,school
+132,Bharatiye Sangit mahavidhyalaya,ChIJwzc--PNxdzkRszsO6n-o2qc,25.4591311,78.5467498,school
+133,Purani najhai government primary school,ChIJxzHRS-93dzkRTPs48nduy5E,25.4664521,78.58093,school
+134,St. Mark's School,ChIJR-vtDM5wdzkRdnraxW7hNMs,25.4372802,78.5599585,school
+135,The Aryans School,ChIJfWxJQz1xdzkRcZP6LGbIzU0,25.462138,78.544107,school
+136,Gyan Electronics,ChIJOQr-Zzt3dzkRfnGBZwmNFX4,25.4391867,78.58249099999999,school
+137,Kendriya Vidyalaya No.3 Jhansi,ChIJe1ILB95wdzkRpU4y0f1ETcw,25.4434124,78.5445179,school
+138,The Madhuram Gallery ( TMG ),ChIJo-TZ1jx3dzkRB_0RTXTv7TA,25.440503,78.5857,school
+139,"Gyan Sthaly Public School, Jhansi",ChIJT6aqquF2dzkRs_hSaO0R2UU,25.4559304,78.59164849999999,school
+140,Jhansi Public School,ChIJY0eo9-F2dzkR9CF4oQVhbiU,25.4541,78.59429999999999,school
+141,Remedial physiotherapy Centre,ChIJG2EDdQJ3dzkRyBelVZfD5NI,25.4530245,78.5949844,school
+142,Bhani Devi Goel Saraswati Vidya Mandir Inter College,ChIJ4akijrN2dzkRwL7i4LNJB8s,25.48119999999999,78.5699,school
+143,Sun International School,ChIJY1wpbxx3dzkRCpR8JufOb44,25.448695,78.5964674,school
+144,Sheerwood College,ChIJe533R49xdzkRil9YX_vBGpU,25.4425832,78.53542209999999,school
+145,Global Wisdom International School,ChIJAfIDJXN3dzkRqYb6mNVMAZk,25.4834592,78.57660539999999,school
+146,Prema Kunj Resort,ChIJ7-M8RrB2dzkRtkfKE72DlVc,25.48506159999999,78.5753632,school
+147,Career Academy,ChIJOQLTF9pxdzkR8fwNA2fPsm0,25.4575627,78.53043439999999,school
+148,swami vivekanand degree college jhansi,ChIJD_13g8VxdzkRkgTqtxHRr60,25.4292449,78.5372458,school
+149,Gyanodya public school,ChIJ3XFKTBN3dzkRQtt1zmXi6Qs,25.4620626,78.6073943,school
+150,ज्ञानोदय पब्लिक स्कूल,ChIJLQ2xJ-B3dzkRjkhMHV0GgKA,25.4621035,78.60768329999999,school
+151,S. R. ITI,ChIJl9hti_BwdzkRQCDhtk95giI,25.4350425,78.5288739,school
+152,Jacob High School,ChIJR1rR7yNxdzkR8kRxSYKn6RI,25.456346,78.54831399999999,secondary_school
+153,"Bundelkhand University, Jhansi",ChIJUQo9IQB3dzkRCt-qerVh_SM,25.4530313,78.609827,university
+154,Nirmala Convent Girls Inter College,ChIJwZCieehwdzkRLscyymH6Sdo,25.4371305,78.5411129,university
+155,Rani Lakshmi Bai Central Agricultural University,ChIJVdOsU--N4TgRtQz37xc3Kck,25.5125938,78.5428108,university
+156,Bundelkhand Institute Of Engineering and Technology,ChIJa9kp-gF3dzkR0RoMyKs3TCc,25.4591332,78.6404197,university
+157,Parshuram ITI Jhansi,ChIJNYJ5G853dzkRufZtEoTLZNw,25.450465,78.64515899999999,university
+158,Taste of jhansi,ChIJV-usditxdzkRsc4ydJHbmLE,25.4555641,78.56360099999999,university
+159,"Christ the King College, Jhansi",ChIJ3yw9QS13dzkRj0TfadJiRUg,25.4407349,78.5687382,university
+160,Hafiz Siddiqui National Inter College,ChIJWco7mCp3dzkRhrVRGciB15E,25.450473,78.5675843,university
+161,K C Sharma Inter College,ChIJI4F3YdF2dzkR6wqMb3cTyvU,25.4590966,78.57198489999999,university
+162,Bundelkhand Govt. Ayurvedic College,ChIJkU4RBDJxdzkRsOPpVv7kCvQ,25.4627079,78.56066919999999,university
+163,Christian Inter College,ChIJLe6d3Sh3dzkRSreFT7K1Xvg,25.4475032,78.5751288,university
+164,Up Technical Pvt Iti Shivaji Nagar,ChIJl605Zrt3dzkRSWsfnvtuWyI,25.4543018,78.5942166,university
+165,Parihar furniture house,ChIJFVaJtO1wdzkREOHcRiJuz78,25.4282665,78.5366713,university
+166,IET bu jhansi,ChIJOTxOOV13dzkRShIJbMhzVjU,25.4512741,78.607742,university
+167,ParaMedical,ChIJL5uxZlJxdzkRXphU8g-_bhk,25.4240701,78.5315427,university
+168,Maharani Laxmi Bai Medical College,ChIJ73oMyFZ2dzkR-QPvhYvVZ5Q,25.4600127,78.61464649999999,university
+169,Indian Grassland and Fodder Research Institute,ChIJGUHbMcRzdzkRe0cVuK9xZNc,25.51144129999999,78.53371740000001,university
+170,"MODERN COLLEGE OF ENGG.(BTE-3360), Approved by AICTE & Affiliated to BTE Lucknow",ChIJYdzksXx3dzkRh7KmTP3FC9E,25.4653574,78.6322806,university
+171,Saraswati Girls Inter College,ChIJocufPMx2dzkROpkdIa62lms,25.4670012,78.57096469999999,university
+172,Arya Kanya Degree College,ChIJz9TyCSRxdzkRLzgOe4AaXHg,25.4565267,78.5491381,university
+173,Industrial Training Institute jhansi (ITI),ChIJKcJdkUdxdzkRbNMqEbmvFPM,25.4744376,78.5529537,university
+174,Saraswati Vidya Mandir,ChIJVQmi-wZxdzkR5cCgsmjLxnc,25.4559188,78.5240228,university
+175,Babu Jagjivan Ram Institute of Law,ChIJMWQLIAB3dzkRHtWx_PjqLi8,25.45436179999999,78.6099923,university
+176,Kanshiram Para Medical College,ChIJrfIkUUR2dzkR4jGZA_PpndI,25.47106729999999,78.6263972,university
+177,Aero-dome,ChIJNylKQVFxdzkR1-rh6XBmkBs,25.4902411,78.5592628,airport
+178,Station Road Civil Lines Bus Stop,ChIJ5Ur9zip3dzkRkjQb84EG_Uk,25.4490927,78.56661249999999,bus_station
+179,Station Road Civil Lines Bus Stop,ChIJRfRNzip3dzkRWKwkj-RlwQ0,25.44899999999999,78.5665999,bus_station
+180,Elight Circle,ChIJUQMCTSp3dzkRrZqknUDftY8,25.44862599999999,78.569347,bus_station
+181,Jhansi Fort Terminal Bus Stop,ChIJJSB34dZ2dzkR-SzwRscnND4,25.455771,78.5743895,bus_station
+182,Bada Bazar Terminal Bus Stop,ChIJ67CO_tB2dzkRqLuoiWIIl_c,25.460158,78.574804,bus_station
+183,Bada Bazar Terminal Bus Stop,ChIJxX3U_tB2dzkR8GXXkf2bQ6Y,25.4602659,78.5749453,bus_station
+184,Nababad Police Station Bus Stop,ChIJXb-qUyl3dzkRQUVfterjYWE,25.4458483,78.57229099999999,bus_station
+185,Nababad Police Station Bus Stop,ChIJ08AYUyl3dzkRMVmXyU875Lk,25.445756,78.57226899999999,bus_station
+186,Datia Gate Terminal Bus Stop,ChIJG3zJnM52dzkRBT_GVCdP_yI,25.4668341,78.57201669999999,bus_station
+187,Jhansi Railway Station Bus Stop,ChIJlXyacNpwdzkR3uxUWz2sLMc,25.4450996,78.554099,bus_station
+188,Jhansi Railway Station Bus Stop,ChIJhbw05dlwdzkRztstIkqKf7I,25.444969,78.55412600000001,bus_station
+189,Railway Station Terminal Bus Stop,ChIJtd9FqdBwdzkRn480p4IuyWA,25.4438729,78.5550329,bus_station
+190,Railway Station Terminal Bus Stop,ChIJAwJqqdBwdzkR_U07HoQVlNs,25.443869,78.554993,bus_station
+191,Railway Station Bus Stop,ChIJ9fwZGtlwdzkRoaxG3LzhGrw,25.4462392,78.5508674,bus_station
+192,Railway Colony Police Station Bus Stop,ChIJ8cEfgt5wdzkROZOlUBnIGoA,25.443726,78.54656899999999,bus_station
+193,Railway Colony Police Station Bus Stop,ChIJI9qMgd5wdzkRGjU_a-uBC3Y,25.4437324,78.546533,bus_station
+194,Jhansi Bus Station,ChIJGQQKvRh3dzkRJWESX9zQNsY,25.4461105,78.58968209999999,bus_station
+195,Sadar Bazar Police Station Bus Stop,ChIJV0kspj13dzkRTJcUwETrdqs,25.4377863,78.5867353,bus_station
+196,Sadar Bazar Police Station Bus Stop,ChIJq38Fpj13dzkRBzTHEQyw_uc,25.4376989,78.58671,bus_station
+197,Khati Baba Terminal Bus Stop,ChIJjYrhv-NwdzkRyrH7j7FblM4,25.4442919,78.5362038,bus_station
+198,YS Services,ChIJrdTkGPJwdzkR2YJCh_ZV7vo,25.4562449,78.53496659999999,taxi_stand
+199,TAXI STAND SIPRI BAZAR,ChIJ311ODydxdzkRdae4sLVsV5I,25.4524843,78.5391173,taxi_stand
+200,Cab Services Jhansi,ChIJlSHRNwNxdzkR53-_GL0Ihu8,25.452643,78.531446,taxi_stand
+201,Jhansi,ChIJD1HgvNlwdzkRmyz8G0-4P7o,25.4443599,78.55346469999999,train_station
+202,Railway Level Crossing,ChIJFfq1uEpxdzkRBjinmnpci1U,25.4756286,78.5649713,train_station
+203,Railway Level Crossing,ChIJA-xQaER3dzkRA7_ELV3MaXE,25.42097759999999,78.58193349999999,train_station
+204,Jhansi A Cabin,ChIJ78vvgL5wdzkRVOphU0ls7PI,25.420493,78.54633299999999,train_station
+205,Mustara,ChIJA5tor4V2dzkRV20ofA-FQis,25.49089,78.603116,train_station
+206,Khanderao Gate,ChIJc78aENF2dzkRq05Quo2VQbA,25.4597773,78.5738403,transit_station
+207,Bundelkhand College Bus Stop,ChIJFxbTgyxxdzkR6TipBEItFXI,25.4568499,78.5636304,transit_station
+208,Elite Crossing Bus Stop,ChIJUaZOTCp3dzkRBpWmKu-nQiE,25.4486353,78.56983439999999,transit_station
+209,Jhokan Bagh Bus Stop,ChIJS-7gdSh3dzkRyv-tp2JS9-E,25.4500877,78.5773596,transit_station
+210,Allahabad Bank Chauraha Bus Stop,ChIJjTSmqi13dzkRKGnu8R0jb8U,25.4424266,78.56893579999999,transit_station
+211,Jail Chauraha Bus Stop,ChIJS8ncDi93dzkR4SmWj6tALfk,25.44343460000001,78.5755318,transit_station
+212,Jhansi Railway Station,ChIJ26JOl9lwdzkRnBixOFbr0C4,25.4452399,78.5526603,transit_station
+213,Central Jail Bus Stop,ChIJ5ediyy93dzkRbfJCPzWcmAs,25.4411146,78.5747293,transit_station
+214,Agrasen Marg Bus Stop,ChIJ3x29HDN3dzkRFBKDKy-ax5I,25.4362612,78.5681364,transit_station
+215,Naveen Mandi Bus Stop,ChIJG3XLLRl3dzkRKdjfoRV3rp4,25.446927,78.5921762,transit_station
+216,Kunj Bihari Mandir Bus Stop,ChIJmeW_RStxdzkR_VqJHUXVPD0,25.4557912,78.5652842,transit_station
+217,Kunj Bihari Mandir Bus Stop,ChIJA7uoRStxdzkRfP0B391vTpU,25.455856,78.56523899999999,transit_station
+218,Hydel Colony Bus Stop,ChIJoWql39R2dzkRz-inWRSNX-s,25.454166,78.56736599999999,transit_station
+219,Hydel Colony Bus Stop,ChIJhYZM3tR2dzkRunbWI62jcjw,25.4542292,78.5673918,transit_station
+220,Bundelkhand College Bus Stop,ChIJSXEZgyxxdzkRcjxlQB1_LQg,25.4568938,78.5638488,transit_station
+221,Bundelkhand College Bus Stop,ChIJl31UgCxxdzkRnhSfwunLZWo,25.4568059,78.5634121,transit_station
+222,Loha Mandi Bus Stop,ChIJB2__vSxxdzkRI7yq_6Ca1dU,25.457823,78.564669,transit_station
+223,Loha Mandi Bus Stop,ChIJv2QOvixxdzkRbOxqUxJiuUs,25.45787869999999,78.5647291,transit_station
+224,MPRTC Bus Depot,ChIJ94bnYyxxdzkR6VTmK6kuDuw,25.457669,78.562979,transit_station
+225,Antia Tal Loha Mandi Bus Stop,ChIJWRcwySxxdzkR9w6BmJwwPcg,25.4586,78.5656,transit_station
+226,JHANSI BIBLE FELLOWSHIP CHURCH,ChIJCbQ2yjZ3dzkRn76ay-ij9VA,25.4337467,78.5734044,church
+227,"Radha Soami Satsang Beas, Karari",ChIJdw9NVbVzdzkR5Ybwebn-EeE,25.51868099999999,78.5213799,hindu_temple
+228,Bhagwati prasad vidhya mandir,ChIJ40c5PRRxdzkRQxIEAeVgnao,25.4527515,78.5550812,hindu_temple
+229,Shankar Ji ka mandir,ChIJP4iV1Cd3dzkR-rJRJDdaJT4,25.4635002,78.571213,hindu_temple
+230,Sai baba tempal,ChIJM6N2T-d3dzkRYV05FVSEkRI,25.461867,78.575054,hindu_temple
+231,Dakshin mukhi hanuman mandir,ChIJeapcRvB3dzkRVtTUDyDLBsI,25.4441426,78.5696935,hindu_temple
+232,Isckon Gaushala,ChIJWcHuhTF3dzkR-2tXcQbNjSA,25.4552708,78.5795979,hindu_temple
+233,Shri Shri १००८ Shiv Temple,ChIJE6MYwHN3dzkRxfHWNPJMGCw,25.4544898,78.5814225,hindu_temple
+234,"रक्कस बाबा वाली गली, वीरेन्द्र यादव निवास",ChIJ-RSMz8pxdzkRs9mTF6QLp8c,25.470182,78.5658959,hindu_temple
+235,Temple Janki Smriti,ChIJYbog98l2dzkRAkcYLJk4PV8,25.4739338,78.5720484,hindu_temple
+236,Shyam Chopda,ChIJhbt80vx2dzkRDFXnB5Tg9OM,25.4573075,78.6003441,hindu_temple
+237,Kailash Mandir,ChIJO7lHS-pwdzkRK3ecDiPj8tc,25.4296834,78.5406172,hindu_temple
+238,काछी बाबा मन्दिर,ChIJ7Z3j3wN3dzkRgnYWL-dqPpY,25.4663055,78.60111839999999,hindu_temple
+239,विश्वनाथ धाम,ChIJxRVwWxx3dzkRNKLBOjCRCRw,25.4655047,78.6044117,hindu_temple
+240,मंदिर,ChIJieneElh3dzkRCtOBZdUzITc,25.4617066,78.6062101,hindu_temple
+241,khajuriya Wali mata Mandir,ChIJBQrvWjN3dzkR--S-T97WRM0,25.4162692,78.5705974,hindu_temple
+242,Mata Ka Mandir,ChIJe4f4IrZxdzkRjuPfawAF8QI,25.4165533,78.55852209999999,hindu_temple
+243,Hindu Temple,ChIJ7xBlq7ZxdzkRRKUC-Huemv4,25.4165533,78.55852209999999,hindu_temple
+244,माता का मंदिर टपरिया,ChIJyahaE0VxdzkRanxNBBtpaZ0,25.4165533,78.55852209999999,hindu_temple
+245,Parshuram Peeth,ChIJTbyoCVR3dzkRmIx8c-i3iVM,25.4609623,78.60942890000001,hindu_temple
+246,शंकर जी का मंदिर,ChIJ4WZHmgl3dzkRtIE23XBZGyE,25.4577386,78.6137485,hindu_temple
+247,Raza Masjid,ChIJeYnUqSB3dzkRj9VmyskVyNc,25.45237179999999,78.58364,mosque
+248,J P Associates,ChIJy4c0Bi13dzkRuj-d_MDc1JA,25.441825,78.5685,accounting
+249,New Income Tax Office,ChIJeaJpDdVwdzkR4ubX6wcalf0,25.4492812,78.5638949,accounting
+250,Rachit Agarwal & Associates,ChIJZ-lvOtVwdzkRT8SwA4Mb7hY,25.4489959,78.5653269,accounting
+251,Dharmendra Savitri & Associates,ChIJIdYhSTt3dzkRrYlY-IldtF0,25.44003,78.58201799999999,accounting
+252,Shanti Complex,ChIJbzOCHNV2dzkRkUrGW9dekpA,25.4537351,78.5680631,accounting
+253,Shailendra S.Chauhan,ChIJFVXFmdV2dzkRM82fS2hsB3A,25.4525204,78.5695892,accounting
+254,VIJAY AND ASSOCIATES,ChIJ37otldV2dzkRvLeWYNvtTuM,25.4526622,78.5703295,accounting
+255,Jadaun & Associates,ChIJ34jJdCp3dzkRhjQOJcZshOs,25.45108029999999,78.5703204,accounting
+256,Jain Siddharth & Associates,ChIJ9y6FM9VwdzkR1sK9wPeYSQ4,25.4502053,78.5618385,accounting
+257,Save's Point,ChIJlVrvDCp3dzkRtmwA8eGCvCc,25.4508575,78.5704576,accounting
+258,Rishabh Investment,ChIJXQAwQip3dzkRjacTEv0LHdM,25.4497189,78.5699463,accounting
+259,JOY SHREE ENTERPRISE,ChIJKX8-TcR3dzkRVzx5M9UaUqk,25.4484257,78.5684594,accounting
+260,Alankit,ChIJ50DMaYZ3dzkRfBvP8ho20zU,25.4530308,78.5731826,accounting
+261,Alankit,ChIJN8Qj-it3dzkRUgxpT9Mveo4,25.450031,78.57164999999999,accounting
+262,CA Mayank Agarwal,ChIJEekPSip3dzkRmCvUksKRH9g,25.4487392,78.570303,accounting
+263,Chartered Accontants Khiani & Hirwani Associates,ChIJQ_7h4yhxdzkRMwMQYb98KXg,25.45433719999999,78.5572803,accounting
+264,Samar Financial Services,ChIJ8URcMyp3dzkRaCLjp4sz2tI,25.4485541,78.5707312,accounting
+265,Y K Verma,ChIJq6qqait3dzkRVkqIqqqKAnQ,25.4467449,78.5675047,accounting
+266,Harsh K Agarwal &Associates,ChIJ51d9StNwdzkRRZfvFdVbO2c,25.4437424,78.5659076,accounting
+267,Alankit,ChIJCZRBzwV3dzkRLOf9zSftXTc,25.4439065,78.57073910000001,accounting
+268,Nav Bharat Bakery,ChIJ021_xSZxdzkRYF9t4OHQQj4,25.4551219,78.5510015,bakery
+269,The Crust Pizza & Icecream Parlour,ChIJ6UDQSzt3dzkRe14QNPLD3Ao,25.4403678,78.58186839999999,bakery
+270,Nav Bharat Bakery & Stores,ChIJHeFoFzt3dzkRFD57u6tDm44,25.438797,78.581596,bakery
+271,Mathura Madhuram,ChIJo3opwDx3dzkRTyjz_45otT0,25.4393072,78.58476689999999,bakery
+272,Bake My Cake,ChIJxxL3IrhwdzkRRC6x8YkO_js,25.42568709999999,78.5518142,bakery
+273,New National Bakery,ChIJhaXNSdVwdzkRrMvkCRPGDA4,25.4495686,78.5655566,bakery
+274,baskin robbins jhansi,ChIJc_uXcH13dzkRKEWugS6QE0Q,25.4511191,78.5702487,bakery
+275,7th Heaven Jhansi,ChIJ2dmNgK5xdzkRnPNHW4DpHxo,25.4490982,78.56586639999999,bakery
+276,Cakedoor,ChIJG5y0wVtxdzkR4IQ2RXt7Xa8,25.45470929999999,78.5591312,bakery
+277,Nav Bharat RestroBakery - Since 1956 (PURE VEG.) Restaurant In Jhansi,ChIJ8fRPXFx3dzkRivOk3_FF-Cg,25.4592081,78.57203899999999,bakery
+278,New National Bakery,ChIJ9TUnDwJ3dzkRoOfxhbjS6ZM,25.4467449,78.5675047,bakery
+279,Bhatia Namkeen & Bakers,ChIJL93CSCh3dzkRbB1ECX44zPQ,25.449985,78.5751836,bakery
+280,New Star Bakery,ChIJi0lNDShxdzkROlYLu0eeSbM,25.4515051,78.5552421,bakery
+281,Bunnie's Bakery,ChIJ3z6sdChxdzkRo5tq-XOkpfg,25.4515551,78.5550368,bakery
+282,"Shree Anpurna Sweets, Namkeen And Cakes",ChIJK8YmTxh3dzkRVyouVv4PRO0,25.4608697,78.5752645,bakery
+283,sweets shope,ChIJJWVZWtB2dzkRNMvJEto5jJM,25.46103459999999,78.5754307,bakery
+284,Jai Ambey Traders,ChIJZbKlcih3dzkRnBPJriT0uNk,25.450335,78.5767614,bakery
+285,The Bakers Factory,ChIJCxC-6Sx3dzkRepfe7lIX_38,25.4433557,78.5675869,bakery
+286,Gauri bakery,ChIJRw9kWTl3dzkRN_1efLYFk54,25.4686064,78.5696157,bakery
+287,Gouri Bakery,ChIJQz52pBZ3dzkReYsjTJ-hIhs,25.4686482,78.5696157,bakery
+288,New German Bakery,ChIJEQCwsSRxdzkRNEP7jySHt6I,25.4609008,78.54972819999999,bakery
+289,Shree Krishna Bakery,ChIJGd4yjtt2dzkRwVfVIFSifag,25.4601409,78.5824628,bakery
+290,Khushboo Bakery,ChIJ122oANx2dzkR6i_qlubeBtI,25.4585135,78.583125,bakery
+291,Flavours by Abha Kanchan,ChIJ03MewjF3dzkRVow5NEy50PE,25.4575157,78.5838277,bakery
+292,MOJO CAKES,ChIJyWQlPw9xdzkRY6fhjaEtRSY,25.4549783,78.5472072,bakery
+293,Raju Bakery,ChIJweaN4d52dzkRh1FAS_IB9tQ,25.4555148,78.5848561,bakery
+294,IHAN FIVE STAR BAKERY,ChIJV3m4GYdxdzkRA3GX8J2eWWI,25.4696686,78.552598,bakery
+295,om bakery,ChIJvaukSCt3dzkR9dv0Am0GL9Q,25.4631194,78.5851253,bakery
+296,Online Cake Booking in Jhansi - MOJO Cakes,ChIJNS1srppxdzkRH0DWGo3u5AQ,25.4435749,78.5462057,bakery
+297,Cake Birthday cake my cake business home delivery online booking,ChIJ7akVWGVxdzkRSzPszA6MNug,25.450839,78.5412046,bakery
+298,SIMPI'S HOMEMADE CAKES,ChIJp6Rhced2dzkRFW3uXO3lfiU,25.461166,78.589851,bakery
+299,Nandani Baker's,ChIJ5bZKwDx3dzkRewt92583KXE,25.4394289,78.5847128,bakery
+300,Online Cake Delivery In Jhansi-Onlinecake.in,ChIJkfpdEWV3dzkRerieCfQdtwk,25.455937,78.5916335,bakery
+301,Star Bakery & Store,ChIJddBQMhlxdzkRffCBtFMNXzE,25.4550545,78.53969719999999,bakery
+302,Shree Siddhivinayak Bakers & Snacks,ChIJfY9lJB5xdzkRUMiBWDY1U9E,25.4494307,78.53952369999999,bakery
+303,GURUKRIPA CAKES ND MORE,ChIJy7ys2-FwdzkROBSYdPtrLMI,25.44847529999999,78.5396047,bakery
+304,Jain Bakery,ChIJq9NiBj13dzkR5FxmeUSf4kQ,25.4384455,78.5864902,bakery
+305,Bake my cake,ChIJVVVVYrpwdzkR4TIudIlryuM,25.4631387,78.5388432,bakery
+306,Hunny Provision & Bakery Store,ChIJ_e02IedwdzkRnWixhqW5Gsk,25.4420608,78.5407826,bakery
+307,Health Food Bakery,ChIJT5LVIOdwdzkRn9WhQko8PLo,25.4421135,78.540728,bakery
+308,Bhanu Book Depot,ChIJx2AlzyZxdzkRL0UVelzE96g,25.4536713,78.54961809999999,book_store
+309,Arora Book Depot,ChIJ_bkoaTt3dzkRO7ayfmkDj0M,25.43877,78.58213599999999,book_store
+310,jantacart,ChIJnaqqquF2dzkRG10flZwqaNY,25.4536378,78.5999993,book_store
+311,Arihant Publication India Ltd.,ChIJDQCQhtV2dzkRYPxpbsC5slk,25.4515941,78.5694118,book_store
+312,Om Pustak Bhandar,ChIJrWcMcdp2dzkR0ZJ5zzrTw7s,25.4597147,78.577946,book_store
+313,Shree Radhe Traders,ChIJyZkZa9p2dzkRDhCU2toFO-g,25.459409,78.57864699999999,book_store
+314,Amar Book Depot,ChIJfY7NyCZxdzkR02s2s0sCDK4,25.453752,78.5496283,book_store
+315,Karan Book Depot,ChIJc4yNcSFxdzkRjM2L_QF3M8s,25.4542931,78.5468047,book_store
+316,Suresh Books And Stationery Mart,ChIJa_u4ByV3dzkROuYfykb30JA,25.44319519999999,78.5796679,book_store
+317,English Book Depot,ChIJzxmh8NF3dzkRj4EEkIe0UlI,25.4392769,78.5824059,book_store
+318,Gyan Book Dipo,ChIJIbi9tUtxdzkRIrMsV79kb8E,25.4772123,78.56192349999999,book_store
+319,Balaji Book Bank,ChIJ60rb0S93dzkR7p8dWUQTuHI,25.4392361,78.584666,book_store
+320,Lovely General Store,ChIJ94K0jcdwdzkRN5w6vbxj7X8,25.4271864,78.5530641,book_store
+321,NEHA BOOK STORE,ChIJh4fGmuxwdzkRLdclDvyNfLw,25.4274723,78.53713859999999,book_store
+322,Saraswati Pustak Bhandar,ChIJyzl7cAV6dzkRhmDnMLdGEsY,25.3941169,78.5554794,book_store
+323,NAWAB'S CAFE,ChIJI5Eje39xdzkRmq-CHxhXDO8,25.4568326,78.56307919999999,cafe
+324,Sarwariya Sweets - Jeevan Shah Outlet,ChIJL1E24-t3dzkR8jq9TuuE1Hc,25.4518428,78.5702723,cafe
+325,A1 TEA CENTRE,ChIJT_PhxSp3dzkRvuCh1bcUYv8,25.4492442,78.56686309999999,cafe
+326,Nav Bharat RestroBakery - Since 1956 (PURE VEG.) Restaurant In Jhansi,ChIJ8fRPXFx3dzkRivOk3_FF-Cg,25.4592081,78.57203899999999,cafe
+327,Yappy Cafe & Lounge,ChIJPQi4ySR3dzkRzO4fwEHmwGs,25.4436409,78.567308,cafe
+328,Natraj Ras Bahar,ChIJq6Ig99p2dzkRainj0FbuBZI,25.46110939999999,78.5793951,cafe
+329,NINAAD CAFE,ChIJGZsGkcRxdzkR2hCNUeLhU4E,25.45567789999999,78.5498186,cafe
+330,Sarwariya Sweets - Bada Bazar Outlet,ChIJ7YZYGtt2dzkRb7jOqvJgoqM,25.4618485,78.5808682,cafe
+331,Burger Point,ChIJBxkZlFx3dzkR5d_t3KtUSXk,25.4392572,78.57922959999999,cafe
+332,Sharma Coffee,ChIJn6AFIjt3dzkRa2MYtQxb5As,25.4390505,78.5806721,cafe
+333,Black Mud Restaurant And Cafe,ChIJo-x3Tzt3dzkRrLV1kRgcQyY,25.439922,78.58225639999999,cafe
+334,The Imperial Chaat,ChIJx-UVU693dzkRSh9cnrphr3s,25.439986,78.58443299999999,cafe
+335,Sarwariya Sweets - Sipri Outlet,ChIJhWevSYtxdzkR3Gi7fdL--bo,25.4555592,78.5368494,cafe
+336,Zam Zam Food & cafe,ChIJMYfExT53dzkRAw91njjZHPE,25.43300979999999,78.58394009999999,cafe
+337,GIRISH CYBER JHANSI,ChIJ66jAhGN3dzkRUVrL6CQ78KM,25.4222557,78.5717631,cafe
+338,Ramraja Restaurant & Cafe,ChIJ-UDPZNF5nTkRrKTYMd1w-fc,25.4585651,78.6093803,cafe
+339,The Kitchen Restaurant N Cafe,ChIJraNvmm13dzkRErs6T2XmjfA,25.4266499,78.59921059999999,cafe
+340,HIMANSHI PHOTO COPY CENTER AND ONLINE FORM,ChIJX8_xbqB3dzkRtHEXFVdP3C4,25.4526457,78.6150196,cafe
+341,"Maruti Suzuki ARENA (Suri Automobiles, Jhansi, Nehru Marg)",ChIJC4BMitV2dzkRawTJfzWZ3ts,25.4514988,78.5701093,car_dealer
+342,Tata Motors,ChIJX2SS0LlxdzkR6dlW0vltnO8,25.4581,78.50139999999999,car_dealer
+343,Kanal Ford,ChIJiUiljU5xdzkR11OyYuEfNF0,25.451194,78.556972,car_dealer
+344,RENAULT JHANSI,ChIJlzOx6llxdzkR_SjJ-LswvTw,25.4513564,78.5568191,car_dealer
+345,R N G NISSAN - KANPUR,ChIJ6xDDu9p2dzkR1XvWc_qAZQg,25.4626757,78.5784536,car_dealer
+346,JMK Toyota Jhansi,ChIJB7NdJUpxdzkRlH1Ol8lKal0,25.4670075,78.53249559999999,car_dealer
+347,NEXA Jhansi,ChIJq6qqvahxdzkRTDBa9LsbfuY,25.4570012,78.51485579999999,car_dealer
+348,YS Services,ChIJrdTkGPJwdzkR2YJCh_ZV7vo,25.4562449,78.53496659999999,car_rental
+349,A.R Tour & Travels - Tempo Traveller Hire in Jhansi - Taxi Service Provider In Jhansi,ChIJ1VHDfkh3dzkRrHfm6J47vYo,25.4467449,78.5675047,car_rental
+350,Cab Services Jhansi,ChIJlSHRNwNxdzkR53-_GL0Ihu8,25.452643,78.531446,car_rental
+351,Cab Service in Jhansi,ChIJOXf5Q-ZxdzkRmH6o7eWxc6o,25.4611952,78.5203753,car_rental
+352,Jmk Auto Pvt Ltd. - Hero MotoCorp,ChIJHR3o5QRxdzkRi_UXnf30Kbs,25.4556707,78.5214775,car_repair
+353,"Maruti Suzuki Service, Jhansi",ChIJh88EJcJ3dzkRhyKlpMCOY8U,25.45155,78.570171,car_repair
+354,DNM Services,ChIJE_KvDSt3dzkRiXqLuBLaKS0,25.4471374,78.5684362,car_repair
+355,Kanal Ford,ChIJiUiljU5xdzkR11OyYuEfNF0,25.451194,78.556972,car_repair
+356,Neeraj Traders - Best MRF Tyre Shop In Jhansi,ChIJ4R9pWHV3dzkRg6Hg3XHHDm4,25.446672,78.578374,car_repair
+357,Bridgestone Selecte - Sarna Tyres,ChIJJTNw6iV3dzkRBJwGZXfY8C8,25.4449047,78.57881069999999,car_repair
+358,Jawahar auto and motors,ChIJpXOzFCR3dzkR4EK-QAFO5Ng,25.444806,78.58157779999999,car_repair
+359,Prakash Motor House,ChIJZ8xgFDt3dzkR0UQua46RQI8,25.4390968,78.5816988,car_repair
+360,JMK TATA motors service centre,ChIJtwZ2RsdxdzkRES_myGdChAo,25.4756493,78.5553451,car_repair
+361,Jakson Enterprises,ChIJaxjuGeVxdzkRGRZ9_7nXhS4,25.45581779999999,78.5334187,car_repair
+362,Ambika Auto Mobiles Wa Spears Parts,ChIJ-Y2qPBtxdzkRbR8bBQEZbAk,25.4564411,78.53308,car_repair
+363,Sahil Tyre House ( MRF TYRES & SERVICE FRANCHISE ),ChIJ4bw-KgN3dzkRmHNvh2crI7o,25.450494,78.6002724,car_repair
+364,Bhagwati Filling Station IOCL Petrol Station,ChIJR3Ba5VlxdzkRnJDP388sxAg,25.4917255,78.5540485,car_repair
+365,Jhansi Car Spa,ChIJk39elyFxdzkRJNcI1CsWrGo,25.4540599,78.5454779,car_wash
+366,The Raymond Shop Jhansi,ChIJF9CwTip3dzkR4NRY-dmD4JA,25.448828,78.569953,clothing_store
+367,Nakhra Sarees & Suits,ChIJHRyNdzt3dzkRFqEREGGw5Lk,25.4377879,78.582374,clothing_store
+368,jantacart,ChIJnaqqquF2dzkRG10flZwqaNY,25.4536378,78.5999993,clothing_store
+369,Sai shingar shilpi makeup studio and training centre,ChIJ8QCMA-hxdzkRdP8jq3Sfjjw,25.4539883,78.55715409999999,clothing_store
+370,Manyavar,ChIJq0v-XUl3dzkR5MDcG040Ev4,25.4450006,78.56921779999999,clothing_store
+371,Ravindra cloth store,ChIJmxLGQ9B2dzkRxfG5nWYpmIc,25.4622185,78.5768363,clothing_store
+372,New Adarsh Traders,ChIJq_Ufa9p2dzkR4YtdNH0T99M,25.4601022,78.5795698,clothing_store
+373,Triveni Matching Corner,ChIJE0rv9tp2dzkRPYGG0bLDucc,25.4609677,78.57927450000001,clothing_store
+374,Western Look Collection,ChIJRwBQ8tp2dzkRwUI8VIjnNHs,25.4613225,78.57920179999999,clothing_store
+375,JOCKEY COMFORT JHANSI,ChIJARkcco5xdzkR56_OmVpEHzs,25.4543066,78.5496477,clothing_store
+376,Arun General Store,ChIJWTdg4dp2dzkRBbn_XQIDXlo,25.4619672,78.5800217,clothing_store
+377,Joginder cloth store,ChIJR0EkHCJxdzkREzom3QafQrE,25.4529947,78.5492685,clothing_store
+378,B & G outfits,ChIJ8W5o9Ul3dzkRfcUDAmIA6Rs,25.461795,78.5803833,clothing_store
+379,Shiva General Store,ChIJpQFtHtt2dzkRQLxA5Odbr4w,25.4620471,78.5803784,clothing_store
+380,Raj Suit Collection,ChIJ-7EHUyFxdzkRYoaB-BNLOs4,25.4549925,78.5488815,clothing_store
+381,M.S. Garments,ChIJuSjQcPF3dzkRdpWxcXMOX4Y,25.4704658,78.5684258,clothing_store
+382,Neelam Matching Centre,ChIJEcRFNMp2dzkRxKQLZCRZnM0,25.4720537,78.57057259999999,clothing_store
+383,CosmicSales - Online Stationery,ChIJA9OsolJ3dzkRAYRx7UwBA2A,25.44816040000001,78.5860637,clothing_store
+384,Numero Uno showroom,ChIJdSpBnTJ3dzkRIpOpL4T5Bc0,25.4406848,78.5818805,clothing_store
+385,Muft showroom,ChIJZ5azQnV3dzkRre3-XSWjYWc,25.4398719,78.5820474,clothing_store
+386,Divya Kirana Provision Avum General Store,ChIJ0YrZhUtxdzkR91MyuZO9w14,25.4795583,78.5626637,convenience_store
+387,Khan Kirana store,ChIJAUp3V-hwdzkR07k3FhqY_MA,25.4350999,78.5407287,convenience_store
+388,perfect systems,ChIJu6fBlSx3dzkR-xPYZSyRGOc,25.44769,78.5695192,electronics_store
+389,Texo Mfr And Traders,ChIJkbnKe9p2dzkRhLaPiaZ5iR4,25.4601555,78.57788,electronics_store
+390,Dell Exclusive Store,ChIJj3nGuC93dzkRFfu-P1f0eow,25.4416537,78.575611,electronics_store
+391,Shruti Electronics,ChIJPfadO-dwdzkRitaAXc4n8lM,25.44220529999999,78.541418,electronics_store
+392,Webtech IT Services,ChIJb-9qgwJ3dzkR91Pq9enpiOs,25.4535758,78.6023735,electronics_store
+393,Blue Dart,ChIJ6b1WNtVwdzkRMOVdyjxtyQ0,25.448831,78.566958,electronics_store
+394,Jio Store,ChIJv7SQQSp3dzkRpbbmbtonvI4,25.4497329,78.570055,electronics_store
+395,A TO Z CORNER,ChIJeRbHywhxdzkRQo_NJgn3Fqk,25.4605248,78.5586285,electronics_store
+396,Netbrill Computer,ChIJB6Wt3JJxdzkRek6OHlAl_24,25.452884,78.5540122,electronics_store
+397,Tata sky service center,ChIJvRFYfSh3dzkR-P28H8gyU2E,25.44893579999999,78.57677919999999,electronics_store
+398,My Jio Store,ChIJs7X_-rBxdzkRbH8LnhSOID4,25.4540682,78.55196459999999,electronics_store
+399,ANNA COMPUTERS,ChIJUXDvJCx3dzkR1yS-JaPNofQ,25.4434462,78.57191619999999,electronics_store
+400,Gyasi Lal Electronics,ChIJa-6BYNp2dzkRlNzToq5EqJs,25.460598,78.578861,electronics_store
+401,Musical Instruments Shop jhansi,ChIJlWdUXNp2dzkRtVIp14NYehE,25.4602614,78.57905099999999,electronics_store
+402,Perfect Solution,ChIJhVeC6SZxdzkRP4y3fknjEFY,25.4537822,78.5506381,electronics_store
+403,Modi Traders,ChIJB_LfMtp2dzkR6Ga4osk3O3M,25.4587725,78.580203,electronics_store
+404,Jai Maa Kali Computers,ChIJCUL_Cy93dzkR-CXlkBbKyRg,25.4433669,78.5756832,electronics_store
+405,Pacific Computers,ChIJccyOiSV3dzkR-Q6wJk0BTtk,25.4442248,78.5775599,electronics_store
+406,Hp World Hari Computer,ChIJB7Y8DQV3dzkRPW--VtSna24,25.4413454,78.5754257,electronics_store
+407,SJ MUSIC RECORDS,ChIJ3egmSSJxdzkRbAiDBK14X78,25.4570154,78.5456918,electronics_store
+408,Dinar set sope,ChIJZb0mgDNxdzkR9foWU531ymk,25.4547721,78.5558334,furniture_store
+409,NAGPAL FURNITURE Jhokan Bagh Jhansi Uttar Pradesh,ChIJr2CcUCh3dzkRTBQRkrmuy2c,25.4493053,78.5752949,furniture_store
+410,Agarwal Furniture,ChIJRYqkj9B2dzkRtrlGB8IwBbU,25.4600183,78.5766156,furniture_store
+411,triveni furnishing,ChIJ4TpL7DJ3dzkRYB2qn91KrKM,25.4495808,78.57731969999999,furniture_store
+412,NAGPAL FURNITURE JHOKAN BAGH.JHSNSI,ChIJ41vMvSh3dzkRotN8qwr0LYc,25.4472757,78.5764356,furniture_store
+413,Indie Decor,ChIJfUBjg0FxdzkRJAnh4ptVugs,25.4524398,78.5517235,furniture_store
+414,M/s Rama Bartan Store,ChIJ2dAudNt2dzkRAtRfNzkFJy8,25.461279,78.5820487,furniture_store
+415,Pramod Service Station,ChIJA13Eyip3dzkRANzDlDlJM8Q,25.4493387,78.5662033,gas_station
+416,Urja Petrol Station BPCL Petrol Pump,ChIJWUboKtVwdzkR6L0dVtFHZ4Q,25.448199,78.56597430000001,gas_station
+417,Amber Filling Station BPCL Petrol Pump,ChIJDbbbJidxdzkRr1a8BpenADw,25.4524893,78.5497697,gas_station
+418,HP Petrol Pump,ChIJSdXb-992dzkRN_JaWpstwVk,25.4531452,78.5883185,gas_station
+419,Petrol Pump,ChIJjadzdTt3dzkR6SDytTFP9nU,25.4377172,78.581854,gas_station
+420,Indian Oil Petrol Pump,ChIJHbIkhgdxdzkR7ZRHaqwoWA0,25.4569052,78.5208911,gas_station
+421,HP Petrol Pump,ChIJu0QDhb13dzkRi7u_pKrwYRk,25.432946,78.626239,gas_station
+422,Petrol Pump,ChIJi1g69bdxdzkRW9yyQlHXThA,25.4573103,78.49929329999999,gas_station
+423,Hindustan Petroleum,ChIJT6Ep9LdxdzkROC2d-P6GIHY,25.4572,78.499,gas_station
+424,Astha Indian Oil Petrol Pump LPG Gas Filling Station,ChIJ3VlMvpR3dzkRnY44x9Tn1G4,25.4283,78.63289999999999,gas_station
+425,Bharat Petrolium,ChIJ6TBXwzB2dzkRcAy4B77Ut0M,25.4664593,78.6410262,gas_station
+426,Indian Oil Petrol Pump,ChIJPfKsEhd6dzkRp4znozZi3_4,25.3835163,78.5534058,gas_station
+427,HP Petrol Pump,ChIJ1a-F1TF2dzkRIgbngQRF5Eo,25.465769,78.645517,gas_station
+428,Hindustan Petroleum,ChIJ74iMli52dzkRwtNGe8XqKpo,25.4644,78.64959999999999,gas_station
+429,Anil Automobiles Bharat Petroleum Petrol Pump,ChIJ37glPtVwdzkRxZ2fiERjDC8,25.449209,78.564694,gas_station
+430,Petrol Pump,ChIJ-0d2yPF3dzkR1CBJo1TBTYM,25.4500326,78.57020849999999,gas_station
+431,SHUBHAM HOUSING DEVELOPMENT FINANCE COMPANY LIMITED,ChIJteC51Cp3dzkRqTeMdXM2R_4,25.4483877,78.5661305,gas_station
+432,"Bharat Petroleum, Petrol Pump -Urja Petrol Station",ChIJVcM5LEd3dzkRXyz-F-unGk8,25.4482252,78.5659689,gas_station
+433,SRI RAM HP petrol pump,ChIJWVm2GTR3dzkRKJ5ms00qbq8,25.4590373,78.5713518,gas_station
+434,Refinery,ChIJPWfruGV3dzkR2Nm9fXS-94A,25.4484257,78.5684594,gas_station
+435,Ansals Palm Court,ChIJ07keJPZ2dzkRTlEkvvj0GaA,25.4696008,78.6095358,real_estate_agency
+436,Kkg Real Estate,ChIJ9y30WitxdzkRNt7GEPg1vmk,25.4562298,78.5652672,real_estate_agency
+437,Vaibhav pandey,ChIJS1VVFSt3dzkRwHD1YrmeHT8,25.45651,78.57018599999999,real_estate_agency
+438,Shri Girrajji Infra Creation,ChIJmfAu9tN2dzkRzY99KIVxej4,25.4572601,78.57084560000001,real_estate_agency
+439,14M Real Estate Solutions,ChIJlS23_Sp3dzkRIKbbjA3Ovxs,25.4484257,78.5684594,real_estate_agency
+440,Gayatri Associates,ChIJ_zSftdZ2dzkRtX7rrpLSoFU,25.4572,78.57310009999999,real_estate_agency
+441,Provintage Group,ChIJPaxhQC5xdzkRCxBEsVJzV9I,25.4605851,78.5588191,real_estate_agency
+442,Bhagwati Rail Ventures LLP,ChIJt7ORD9F2dzkR_85KfcjipwA,25.4597855,78.5738581,real_estate_agency
+443,Jyoti Property Dealer,ChIJbQAAodB2dzkRe_8dqL7S60Q,25.4590085,78.577263,real_estate_agency
+444,Kamla Infrabuild,ChIJsbwKs253dzkRE0l63QwWQgE,25.4627324,78.5863205,real_estate_agency
+445,Balaji Property Dealer,ChIJ6-qb50txdzkR4xcE1X7UVNU,25.4784154,78.5609666,real_estate_agency
+446,Om Sai Property Consultant,ChIJb07TYRxxdzkRIjq9clNfLC0,25.4531253,78.53487609999999,real_estate_agency
+447,Ravi Property Dealer,ChIJR3tqCxtxdzkRGqjG-FAL0sg,25.455931,78.53457159999999,real_estate_agency
+448,The Signature Tower,ChIJ727u3bd2dzkRupkKB9kr_FQ,25.47557999999999,78.5759696,shopping_mall
+449,Kisan Bazar Jhansi,ChIJu2LRHB93dzkRid4wQXFQPxs,25.4493269,78.59142580000001,shopping_mall
+450,jantacart,ChIJnaqqquF2dzkRG10flZwqaNY,25.4536378,78.5999993,shopping_mall
+451,Patanjali Mega Store,ChIJp0VVyNR2dzkRIYU8U359K0s,25.4552556,78.5666251,shopping_mall
+452,Jai complex,ChIJk5wq7rt3dzkRlcSfmFkIgXo,25.4507501,78.5703604,shopping_mall
+453,VIKAS PAINTING SERVICE,ChIJ3f9DRNF2dzkR-WTk1wfvHLg,25.4583559,78.5727167,shopping_mall
+454,Sunder Market,ChIJId-HSip3dzkR0nDMEiugN8I,25.4486,78.5703,shopping_mall
+455,Bahadur Pan Bhandar,ChIJs6YYuMp2dzkRaBZ9Ka92fww,25.4730623,78.56682119999999,shopping_mall
+456,Up Top Tour& Travels Jhansi,ChIJpRgaEJVxdzkRpAFYeucGYVE,25.4538471,78.5451812,shopping_mall
+457,Dr Dileep Rajpoot House,ChIJM60g6q5xdzkREFxmZC2sMqw,25.4644658,78.5467278,shopping_mall
+458,Shashi Departmental Store,ChIJKUzbRThxdzkRXHxAZOVTKEQ,25.4712671,78.55291059999999,shopping_mall
+459,Kamashya Shopping,ChIJOaUh_jAPnDkR7V4TQfIzs0Q,25.4558705,78.59235579999999,shopping_mall
+460,Priyanshu General Store,ChIJQbyUDhVxdzkRM7LjrVE_EZ0,25.4699979,78.5415111,shopping_mall
+461,Kaushik Bazaar,ChIJzXQbiRxxdzkRnBgamlFKN0g,25.4535725,78.5345237,shopping_mall
+462,मिनी बाल ट्रेडर्स,ChIJ85a8adN3dzkRNyf5HuVOTSs,25.4618562,78.6058269,shopping_mall
+463,Sonu yadav Ki Dukan,ChIJrQeTQfpwdzkRmZLJgBWFJTA,25.4380083,78.528014,shopping_mall
+464,Kirtisesh Dada Narayan Singh Shopping Complex,ChIJiTmZfOZ3dzkRojiDZDLcXHM,25.4143252,78.56656579999999,shopping_mall
+465,Shree Departmental Store,ChIJKV45n-9xdzkRUzIWqxRJ1LM,25.4592166,78.519941,shopping_mall
+466,Swadeshi Snack Store,ChIJ22x2U41wdzkRtNs1IKa5PAs,25.4248504,78.5314932,shopping_mall
+467,Koyal Cargo packers and Movers jhansi,ChIJVeLMQTVHnDkRRy11briUURo,25.456912,78.5788036,storage
+468,Bharat Gas Godown,ChIJB_VXq6hxdzkRK_eBdbTE6Fs,25.45831369999999,78.515024,storage
+469,Store Depot,ChIJw3_5NcBwdzkRjpsdCBtGVcw,25.428567,78.54476799999999,storage
+470,Railway Warehouse,ChIJsXeu6thwdzkRLHFgW4yb-4k,25.448307,78.5505057,storage
+471,Old Tadikhana,ChIJGzpYf992dzkRNlqLCGxtkOU,25.4528866,78.5859485,storage
+472,"FCI, Food Storage Depot, Jhansi",ChIJedbrX0hxdzkRkRJIm9EcGdU,25.4764405,78.5562151,storage
+473,Central Warehouse Corporation,ChIJe8xuOBtxdzkRxScYGqRmseo,25.4557683,78.5328387,storage
+474,RFC GODAM,ChIJr1aSXlpxdzkR5fi4kCcB80Y,25.4606075,78.5331286,storage
+475,NUTRI WORLD - (STOCK HOUSE),ChIJJaLdIOFwdzkREkK2iwoRD0g,25.4339121,78.5408229,storage
+476,Himalaya Marbles,ChIJjWrB0wRxdzkRuva0VGyBvCg,25.4566001,78.53172719999999,storage
+477,Qumar Siddiqui Enclave,ChIJqf27_uVwdzkRSVUNjAio22w,25.4373767,78.5374001,storage
+478,Acc Cement Godwn,ChIJs-2IDllxdzkRYMHLJhFQHhg,25.492614,78.551371,storage
+479,OM BHADRAKALI BRANCH JHANSI,ChIJqVSalfp3dzkRBOjwa7aWxoA,25.4581053,78.6172623,storage
+480,AWL - Jhansi Depot (Adani),ChIJEXNs4w93dzkRoQ2uSQ5ZH7E,25.433919,78.625224,storage
+481,Railway Goods Godown,ChIJrVFlmthwdzkR4VlUs4QZIRQ,25.44928179999999,78.5510015,storage
+482,NEW GRAIN STORE,ChIJd-ynHR93dzkRK0_JwjWvM4E,25.4492402,78.59119,storage
+483,Proctor and gamble office,ChIJHVXIG6ZxdzkRyFu40Gl6xAI,25.454971,78.52840619999999,storage
+484,Vishal Mega Mart,ChIJLSitCiJ3dzkRcDDk3QEQJWk,25.4455556,78.58888890000001,store
+485,"VLCC Weight Loss, Beauty, Hair, Make Up, Skin, Figure Correction Centre",ChIJu4jFxyx3dzkRDZWRsMI_ckE,25.4435753,78.56707229999999,store
+486,Preeti Electronics,ChIJR-4dxzx3dzkRNzfKV56JfAU,25.4398291,78.5847625,store
+487,perfect systems,ChIJu6fBlSx3dzkR-xPYZSyRGOc,25.44769,78.5695192,store
+488,Forever Living Products,ChIJq6qqqhpxdzkRubbkpGd4_7Y,25.4368385,78.5481052,store
+489,TOP N TOWN ICECREAM PARLOUR,ChIJIXTori13dzkRh_OpI3ZLmeo,25.4419444,78.5694444,store
+490,Jhansi Mandi,ChIJD7W8GdV2dzkRF-Vmz2CrNHo,25.4534712,78.5677537,store
+491,"Maruti Suzuki ARENA (Suri Automobiles, Jhansi, Nehru Marg)",ChIJC4BMitV2dzkRawTJfzWZ3ts,25.4514988,78.5701093,store
+492,My Idea Store,ChIJUfX-FNVwdzkR__jT_Jfowjk,25.449262,78.56447700000001,store
+493,Kwality,ChIJa0spWyp3dzkRHT-ijMeSlZ0,25.449305,78.5696073,store
+494,The Raymond Shop Jhansi,ChIJF9CwTip3dzkR4NRY-dmD4JA,25.448828,78.569953,store
+495,Pratibha Store,ChIJmbIhbC5xdzkRq-YpFUaONvg,25.4603511,78.5594686,store
+496,Sahara Q Shop,ChIJBbE0ENF2dzkRxNN7csbRscQ,25.4593103,78.573115,store
+497,Eureka Forbes Ltd,ChIJYazyXSt3dzkRxpdINoLrLBA,25.44573699999999,78.56746199999999,store
+498,Top' N Town,ChIJoRf3-NB2dzkRaV5e18pwC74,25.4603544,78.5751183,store
+499,PROTEIN POINT - SUPPLEMENT JUNCTION,ChIJdfCN69l2dzkR86oCRgRaIY0,25.456815,78.578923,store
+500,Texo Mfr And Traders,ChIJkbnKe9p2dzkRhLaPiaZ5iR4,25.4601555,78.57788,store
+501,Nav Bharat Bakery,ChIJ021_xSZxdzkRYF9t4OHQQj4,25.4551219,78.5510015,store
+502,City market,ChIJ6-lu_c92dzkRqXxIA6aGfII,25.4635999,78.5768478,store
+503,Samsung SmartCafé (Gayatri Agencies),ChIJpS8XWtp2dzkRpkvWrFsgiJA,25.4606394,78.5793722,store
+504,Tornado Top N Town,ChIJV0IADdl2dzkREQdLO1P6nsc,25.4563736,78.5808193,store
+505,Modi Jewellers,ChIJBfa3vtp2dzkRONJEHDufljs,25.462535,78.57858999999999,store
+506,Bhanu Book Depot,ChIJx2AlzyZxdzkRL0UVelzE96g,25.4536713,78.54961809999999,store
+507,Top N Town Icecream Parlour,ChIJLV8XAiRxdzkRn_i04Ma7p10,25.4556202,78.5494492,store
+508,Dell Exclusive Store,ChIJj3nGuC93dzkRFfu-P1f0eow,25.4416537,78.575611,store
+509,Titan Eye Plus,ChIJEZfUuCV3dzkRR2EitWJSuQE,25.4446826,78.5794866,store
+510,Sumitra Packers And Movers,ChIJv6qqqhpxdzkR9o6dnycxBaU,25.469665,78.552599,store
+511,Medical Store,ChIJj9fz9992dzkR0dfSCjvnrCM,25.45280529999999,78.5880549,store
+512,Star World Packers And Movers Jhansi,ChIJ-UDdWjhxdzkRg-7gClC3Aqk,25.4712704,78.5525036,store
+513,The Crust Pizza & Icecream Parlour,ChIJ6UDQSzt3dzkRe14QNPLD3Ao,25.4403678,78.58186839999999,store
+514,Samsung SmartCafé (M/S Digital Shoppe),ChIJxzS5ZTt3dzkRiPA_0jw8okE,25.4390961,78.58170199999999,store
+515,Nav Bharat Bakery & Stores,ChIJHeFoFzt3dzkRFD57u6tDm44,25.438797,78.581596,store
+516,Archies Gallery,ChIJpYzsazt3dzkR1_17AjFJnVQ,25.438784,78.58198639999999,store
+517,Arora Book Depot,ChIJ_bkoaTt3dzkRO7ayfmkDj0M,25.43877,78.58213599999999,store
+518,Nakhra Sarees & Suits,ChIJHRyNdzt3dzkRFqEREGGw5Lk,25.4377879,78.582374,store
+519,Mathura Madhuram,ChIJo3opwDx3dzkRTyjz_45otT0,25.4393072,78.58476689999999,store
+520,A* Mart,ChIJIcRG5x53dzkRqEix-tMl_nw,25.4487002,78.5919072,store
+521,Shruti Electronics,ChIJPfadO-dwdzkRitaAXc4n8lM,25.44220529999999,78.541418,store
+522,Dauji Sweets,ChIJwTuxJudwdzkRoAe-vfQsMDU,25.4421241,78.54082260000001,store
+523,Jhansi Taxi Service,ChIJETWCWjh3dzkRkR30AyJzc_o,25.4308996,78.57972,store
+524,Vishal Mega Mart,ChIJLSitCiJ3dzkRcDDk3QEQJWk,25.4455556,78.58888890000001,supermarket
+525,Tornado Top N Town,ChIJV0IADdl2dzkREQdLO1P6nsc,25.4563736,78.5808193,supermarket
+526,Kota stone,ChIJlS23_Sp3dzkRw9HZUhNb6zs,25.4484257,78.5684594,supermarket
+527,Celebration Super Market,ChIJa6so_ShxdzkRdfOlhxc6YEM,25.4539028,78.55739439999999,supermarket
+528,Craft Mela Ground,ChIJRyR8ttd2dzkRdaM2sSkPE00,25.4533391,78.57498079999999,supermarket
+529,Amar Lal TopN'Town Ice Cream Parlour,ChIJY_Wg-YZ3dzkRa9Ts28lDiJg,25.4603538,78.5751186,supermarket
+530,Preeti Smart Shope,ChIJVVVVlTFxdzkRfqARwtAQeOA,25.4635707,78.5589231,supermarket
+531,Britannia Agencies,ChIJ6fJfaMRxdzkRxGemjY4APjo,25.4560765,78.5515309,supermarket
+532,At the Tour Jhansi Fort,ChIJuRoVaNp2dzkRrMd9PkwBktw,25.4599578,78.5787795,supermarket
+533,Easy Choice Departmental Store,ChIJ5U3_BdB2dzkRvXPS4aRJX9A,25.462829,78.57706499999999,supermarket
+534,Lahariya Kirana Store,ChIJbXCGANB2dzkRBSQ01nSTqcY,25.4633797,78.5774045,supermarket
+535,Deepak jewellers jhansi,ChIJ9eDMwqF3dzkRk7NqS4Uxzdo,25.4620128,78.5792285,supermarket
+536,CENTRAL PLACE,ChIJ_7yQSxRxdzkRViZOg_3xEfE,25.4446479,78.5546182,supermarket
+537,Jai maa jewellers,ChIJ0-a2rEt3dzkR3gN_QBgwa2I,25.4621799,78.5791689,supermarket
+538,Peh cc Hanlo CV E,ChIJCwxoCghxdzkRADKC1L9aUXw,25.4629813,78.5523893,supermarket
+539,Lakhan Rai Kauni Store,ChIJwUDI3tt2dzkRHVKNwp4tAFE,25.4583217,78.5813817,supermarket
+540,Girraj kirana store,ChIJz97Phwl3dzkRZNaDk3k4DFA,25.4583244,78.5814882,supermarket
+541,Bara Bazaar,ChIJYTf_Xdl2dzkRb_KChE5gIeE,25.4576944,78.5817053,supermarket
+542,Car Rental Service Jhansi,ChIJF3FvEe1xdzkR3tA2aFFJJmg,25.4545797,78.5488709,supermarket
+543,Nitin Upadhyay,ChIJqRPiuiRxdzkR_aEpAMHtVhI,25.460517,78.5496333,supermarket
+544,Raju Departmental Store,ChIJq3fqZCNxdzkRBEkDjtLXHjk,25.4588175,78.5486308,supermarket
+545,Mohd Azeem Book Binders,ChIJK-42Awh3dzkRIYlZhAZ4sqQ,25.4465722,78.5812361,supermarket
+546,Muskaan Gift Galary,ChIJ60rb0S93dzkRzR7JiyyclbY,25.4407226,78.5750729,supermarket
+547,RAMDASS Kirana Store,ChIJ60rb0S93dzkRwl0V8Z7hWTU,25.4407226,78.5750729,supermarket
+548,Vaarta Store,ChIJIYz2bztxdzkRGK7q6TAhrLk,25.4635386,78.5497721,supermarket
+549,Deepti Departmental Store,ChIJpVaYx5NxdzkROidf9MFISF4,25.463736,78.5497134,supermarket
+550,Biosash Jhansi (Bio-Triangulam),ChIJLRFDyA9xdzkRJ3UPN9q0vek,25.4591311,78.5467498,supermarket
+551,Studio chhaya,ChIJq6qqqiNxdzkR2kRBbfrewLo,25.4581954,78.546184,supermarket
+552,Ashu Kirana Store Jhansi,ChIJpwCuhs12dzkR8XmAQQ_ne3g,25.4390075,78.5542447,supermarket
+553,Mirza Naim Baig,ChIJVwZaU8h2dzkRHUl4vUciAUw,25.4725166,78.5746472,supermarket
+554,Pawan general store,ChIJoSAF-xp3dzkR0AGIzFynB28,25.4485074,78.5876274,supermarket
+555,Shri Tripuati Balaji Namkeen,ChIJX9pJ5Lx3dzkRujDgEyzqcCE,25.439096,78.58171709999999,supermarket
+556,Ramnarayan Store,ChIJu4JwYDx3dzkRuA6JVKBx8qI,25.4377198,78.58450669999999,supermarket
+557,Kamashya Shopping,ChIJOaUh_jAPnDkR7V4TQfIzs0Q,25.4558705,78.59235579999999,supermarket
+558,"Naincy Patanjali Store Annapurna Colony Badagaon Gate Jhansi,uttar Pradesh",ChIJ-a9oMOh2dzkRrV2O4Fnwh9Q,25.4668027,78.5896351,supermarket
+559,Sabji Mandi Jhansi (Naveen Mandi),ChIJz_BtNUN3dzkRq46Jtae-L9o,25.4470045,78.5918288,supermarket
+560,PickAndMove,ChIJebnuIOFwdzkRLzHM-jnSSz4,25.4443696,78.5404152,supermarket
+561,Rv palace,ChIJDQ7hL7VxdzkRSPTK7nHDhCc,25.4484034,78.5375607,supermarket
+562,mayank kushwaha genral store,ChIJk3BxCxVxdzkROY-dJYkBmiM,25.4698455,78.5418042,supermarket
+563,Gauri Kirana Store,ChIJaZ0G47hxdzkRhptsxSkRbf4,25.4392034,78.5392902,supermarket
+564,Anchal Roadlines Jhansi,ChIJlQTKIyB3dzkREWCeOl5nryg,25.456836,78.578122,travel_agency
+565,Shreenath Travels,ChIJbd71Cip3dzkRnYk8cY7bBXI,25.4512486,78.5705152,travel_agency
+566,Elite Chouraha,ChIJUzKfKe13dzkRlSOrEo7-pg4,25.4486486,78.5698541,travel_agency
+567,Sunny tour& travel's,ChIJi8kslmVxdzkR7-jfRfUMSJk,25.4595316,78.5585962,travel_agency
+568,A.R Tour & Travels - Tempo Traveller Hire in Jhansi - Taxi Service Provider In Jhansi,ChIJ1VHDfkh3dzkRrHfm6J47vYo,25.4467449,78.5675047,travel_agency
+569,VT TOURS AND TRAVELS,ChIJQ6O2xVlxdzkR_KW8CglqkeM,25.45143629999999,78.5554726,travel_agency
+570,dev travel agency,ChIJgR7w7IV3dzkRxZkt4aLbhWk,25.4436628,78.56642579999999,travel_agency
+571,Atithi Travels Jhansi,ChIJC7rmaF53dzkR0Q8uDWWjB_k,25.4473928,78.5753288,travel_agency
+572,A.k tour & travels jhansi,ChIJt1_KcMtxdzkRtkv5CJWn7Ew,25.4550486,78.5519525,travel_agency
+573,INDIA TOUR AROUND,ChIJU_CHWH5xdzkRcDBRvzGsGls,25.4557342,78.5496568,travel_agency
+574,Rajput Travels,ChIJnWkNmSZxdzkRaqK6ftr7IIE,25.4622774,78.5503512,travel_agency
+575,prashant bhashne,ChIJXeEv0VV3dzkRXijp80tnevo,25.4479773,78.5820737,travel_agency
+576,Maheshwari,ChIJ12PO5Tx3dzkRyVoeJP06lOI,25.4389653,78.58539809999999,travel_agency
+577,Aditi Online Center,ChIJEzpddx53dzkRzh3bV81hzu4,25.4510697,78.59419849999999,travel_agency
+578,Om Shanti Tours,ChIJAdi1dwJ3dzkRuWclIBS-MZQ,25.450713,78.597006,travel_agency
+579,YS SERVICES,ChIJbdwHSV9wdzkRA6TRo84Hf5I,25.428567,78.54476799999999,travel_agency
+580,Jhansi Car Rental Taxi Service,ChIJj6JqVwRxdzkR0cI7RmSdZfY,25.4562068,78.5289066,travel_agency
+581,SAKET ORO TRIPS,ChIJj4FbklZxdzkR6xzymUjk50Y,25.4386747,78.5321417,travel_agency
+582,Swamiji's Online Shopee,ChIJMdWlROxwdzkRZjDmFWhaLQA,25.4289875,78.535893,travel_agency
+583,आराध्या मोबाइल,ChIJAQAAsLBxdzkRtdSmfLa80BQ,25.4577568,78.5044934,travel_agency

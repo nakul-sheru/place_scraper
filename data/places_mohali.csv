@@ -1,0 +1,995 @@
+,place_name,place_id,lat,lng,type
+0,Triangular Park Sushma,ChIJ_TyYrzaVDzkRxEAwSE6RAdg,30.6383986,76.8274969,parking
+1,Children’s Park,ChIJj1RNcq-VDzkRHy8xQUweDE8,30.6339246,76.82925809999999,parking
+2,Parking Market,ChIJry6YdG7uDzkR8QSBu_LcM-U,30.7302756,76.7205652,parking
+3,Punj Security & Housekeeping Services Pvt Ltd,ChIJo9iODADuDzkRzoDzWCjAFHU,30.7588069,76.7332168,parking
+4,Sector 48A Parking Lot,ChIJ9UkZrGvsDzkRNnL275LRiKc,30.6920184,76.7599377,parking
+5,Sector 49 B Market Parking Lot,ChIJP2g2rWrsDzkRxma5Bd4YIlE,30.694153,76.75669169999999,parking
+6,Rehri Market 46 Parking Area,ChIJaVrgDUPsDzkRmIVDzfZdpVQ,30.6995956,76.7660461,parking
+7,Sector 46 Market Front Parking Lot,ChIJ2Uv_CkPsDzkR_Fx13thJNN8,30.69981829999999,76.7656404,parking
+8,Parking Area,ChIJf4g4nUPsDzkRKxgPlUSrHAA,30.7007316,76.7653023,parking
+9,Parking Area,ChIJX0DAATjsDzkRY5G5WFTyxEs,30.706042,76.7565114,parking
+10,Parking Lot,ChIJuYP2D4buDzkR9CdfbsFqBPU,30.7088329,76.722965,parking
+11,E Block Parking,ChIJlR1VCFjsDzkRAV-1-ZRs-18,30.70759850000001,76.77964419999999,parking
+12,Parking Lot,ChIJxb1Ij4juDzkRqcCbGGlsTyE,30.7107646,76.72075530000001,parking
+13,Parking for Pvt Vehicles,ChIJP5spvdLtDzkR2cCSVAZuYio,30.7172863,76.7445638,parking
+14,ECHS Parking Lot,ChIJ250j5_rsDzkR3CMPruy8wes,30.7119355,76.7896882,parking
+15,Sector 34 Parking,ChIJdWuAaa3tDzkRa783L01icz8,30.7199043,76.7681874,parking
+16,Parking 34 Vijaya Bank,ChIJdWuAaa3tDzkRIeBsaH6e_mY,30.7201946,76.7688636,parking
+17,Parking Lot adjacent to CBI Office,ChIJN78pcPzsDzkR1-DoDTapwq0,30.71569089999999,76.7876149,parking
+18,Parking Lot for Lake,ChIJ7SARHtrtDzkR8H_u3s1J7ZA,30.7285017,76.7396041,parking
+19,Parking,ChIJHxRtecrsDzkRS_4Y2x8aeFQ,30.7018739,76.8226309,parking
+20,Bank of India,ChIJfdR4LPHsDzkRbUkRqpuWvVE,30.7060511,76.7860795,bank
+21,Canara Bank,ChIJ____v-XtDzkR4a78OXZeXDw,30.7444754,76.743578,bank
+22,Corporation Bank,ChIJRdNcgQ3tDzkRUEmWd50Q0l8,30.7442806,76.7888243,bank
+23,Corporation Bank,ChIJjVZ0gw3tDzkRSw06m1qm-OQ,30.7365742,76.79500279999999,bank
+24,IDBI Bank,ChIJ1wBjIxLtDzkRKcPor2MF-Q4,30.7386679,76.7931505,bank
+25,IDBI Bank,ChIJH2mMF6btDzkRdwxw0wm89HA,30.7108797,76.7203746,bank
+26,Punjab National Bank,ChIJVdnclgztDzkRHZbWeaqk18U,30.7413977,76.7866944,bank
+27,State Bank of India,ChIJVVVVyXftDzkRfj4KBoTxu7I,30.7261782,76.7951054,bank
+28,HDFC Bank ATM,ChIJq6qqqgvtDzkR3ZFEmKk_csY,30.7404,76.78313,bank
+29,Axis Bank,ChIJ_0quW5vuDzkRbe8pyiXZJjA,30.70776960000001,76.7246407,bank
+30,CBI,ChIJq6qq6l2TDzkRt643cVhbFx4,30.6916477,76.8514771,bank
+31,Bank Of Maharashtra,ChIJq6qqqgvtDzkR-mBTYc_3g8U,30.7393517,76.7848655,bank
+32,Canara Bank,ChIJq6qqqgvtDzkRy8gQww6TBXk,30.7380329,76.7844638,bank
+33,State Bank of India,ChIJVVVVFbPtDzkRtSZr-RtUn_Q,30.7226156,76.7699165,bank
+34,Union Bank Of India,ChIJVVVVFUGTDzkRsbE6MgpFBZU,30.69964169999999,76.844708,bank
+35,State Bank Of India,ChIJ____UCftDzkRTS0jmBrAwso,30.72253510000001,76.80887969999999,bank
+36,State Bank of India,ChIJbbORGJqUDzkRR7t8CQViS7Q,30.6717793,76.8550618,bank
+37,State Bank of India,ChIJ-9peflfuDzkR4h-kOXtki8E,30.71446119999999,76.6988621,bank
+38,"ICICI Bank Sector 35C, Chandigarh - Branch & ATM",ChIJ_UqYn7XtDzkRP5osK-8GEB0,30.7205,76.7581,bank
+39,Punjab State Cooperative Bank Limited,ChIJ63BDcq_tDzkRJSEs52zpQqU,30.7281136,76.7702401,bank
+40,Corporation Bank,ChIJZ1RVVbbtDzkRuNWEHSCLKDc,30.7198685,76.7574207,bank
+41,Canara Bank,ChIJY8UcLAXtDzkRLA4tAVculQ8,30.72968799999999,76.7910533,bank
+42,HDFC Bank,ChIJXYZis1TsDzkR02kzNlb9XTw,30.719156,76.77511,bank
+43,State Bank Of India,ChIJH2mMF6btDzkRY5tyscDxYrc,30.7416066,76.78042680000001,bank
+44,State Bank of India,ChIJh4SaFI_tDzkRKLScrsbcmp8,30.75632839999999,76.766779,bank
+45,Canara Bank,ChIJxcA_p--_DzkRTXKjrkg4MG8,30.5680948,76.8332961,bank
+46,Punjab National Bank,ChIJV8lGbhztDzkRSpB5fiwfTv0,30.7245167,76.8063641,bank
+47,HDFC Bank,ChIJPX7Z1lRYaTkRYHIq7bCXmU0,30.7232367,76.7687078,bank
+48,Bank of Baroda,ChIJfXbI8LSUDzkRO0EssIk7cQs,30.660753,76.827919,bank
+49,State Bank of India,ChIJVVVVFaPuDzkR9ZsawB5xDMk,30.68718189999999,76.72361889999999,bank
+50,Indian Bank - Sector 12 Branch,ChIJ4dNN8J2UDzkR9WIxudsXEZ0,30.6817656,76.8557768,bank
+51,Canara Bank,ChIJq6qqajTsDzkRCfnHNo_rdiQ,30.7128632,76.75207069999999,bank
+52,ਐਚ.ਡੀ.ਐਫ਼.ਸੀ. ਬੈਂਕ,ChIJhQ6a6xepDDkRts9KlCDeQc0,30.7381714,76.79390649999999,bank
+53,State Bank of India,ChIJH5XHYiTtDzkRDDeWRrt1eoM,30.7312077,76.8094338,bank
+54,Punjab & Sind Bank,ChIJAQAA8EPsDzkRO21VCE9XX5E,30.700303,76.76506619999999,bank
+55,Union Bank of India,ChIJIbBeg_vsDzkRLdcWoL9TqMU,30.714346,76.78824809999999,bank
+56,Punjab National Bank,ChIJh7evaKXuDzkRqaWyMbOm0aE,30.6808735,76.7238754,bank
+57,Punjab National Bank,ChIJs0og76TtDzkRE-4BkRKxmDQ,30.7338241,76.7701572,bank
+58,The Jammu & Kashmir Bank Ltd,ChIJH2mMF6btDzkR82HKX0t3LaE,30.6799468,76.7221082,bank
+59,ICICI Bank & ATM,ChIJ71_jYt-SDzkRnlR1lm86Kz0,30.7259278,76.84511060000001,bank
+60,HDFC Bank,ChIJa-oQ6kZhUzoR7HCIXlrYCGc,30.723618,76.763126,bank
+61,"State Bank Of India, Zonal Office",ChIJ8Xn1tm-TDzkR_BcEzWyCIQ4,30.6992202,76.8442769,bank
+62,HDFC Bank,ChIJNyef9pCUDzkRoZYJoV_uJz0,30.6861906,76.8488948,bank
+63,YES Bank,ChIJn2yky5DuDzkRbEqvjcwWIYs,30.6961281,76.7158524,bank
+64,Bank Of Maharashtra,ChIJlU18uEfsDzkRVENgVZT1y6g,30.7048743,76.7587327,bank
+65,Dena Bank,ChIJ_xfNnYjuDzkRg2xEhyw3VHg,30.7100665,76.72189589999999,bank
+66,HDFC Bank ATM,ChIJqZYKlKTtDzkRId-SMh5csgk,30.7345555,76.7702151,bank
+67,ਐਚ.ਡੀ.ਐਫ਼.ਸੀ. ਬੈਂਕ,ChIJmzuKIHPtDzkRoK2MdsJkrC4,30.7381103,76.7935109,bank
+68,"ICICI Bank Sector 16, Panchkula - Branch & ATM",ChIJhQvEr0WTDzkR0vXQ2Dd872Y,30.6954257,76.8397897,bank
+69,State Bank Of India,ChIJz5wF22STDzkRlQZystt8p3o,30.6907879,76.8596769,bank
+70,Punjab & Sind Bank,ChIJ1aOsNMHtDzkRvlZDGvfGVZ8,30.7340342,76.7526766,bank
+71,Cooperative Bank,ChIJhStazMbtDzkRY7kKHNis-T4,30.7337334,76.7528942,bank
+72,Punjab & Sind Bank,ChIJ1aOsNMHtDzkRuB9XwQJtH64,30.73392239999999,76.7527454,bank
+73,Vijaya Bank - Panchkula Branch,ChIJq6qqamGTDzkRvxC-N8X8y-I,30.687604,76.85047759999999,bank
+74,State Bank of India,ChIJt7GGAN_tDzkR6b2X5si_25g,30.73501749999999,76.7363383,bank
+75,Union Bank Of India,ChIJQeATWJCUDzkRwEm3e7NKbI0,30.6692789,76.8577444,bank
+76,State Bank Of India ATM,ChIJH2mMF6btDzkRIEd-ufwT-9E,30.7354498,76.78000329999999,bank
+77,Punjab State Coop Agriculture Development Bank Limited,ChIJq6qqqgvtDzkRanu8m_r5ofA,30.7408033,76.7863241,bank
+78,Corporation Bank,ChIJyaqAEWiTDzkRuU3etx_-0ms,30.6939521,76.8501276,bank
+79,Landsmiths investments p ltd,ChIJX-zShaftDzkRZpoSqBkSRCY,30.7310345,76.7863078,bank
+80,Consulate General of Canada,ChIJ_____3TtDzkRFHCeoH0BO40,30.70408500000001,76.80150290000002,embassy
+81,British Deputy High Commisson Chandigarh,ChIJK1b8i-nsDzkRLcuNnOlEusA,30.7055079,76.801104,embassy
+82,"PEC Attestation, Apostille and Translation Services",ChIJf93ivsOVDzkRlW0qIh5DZGk,30.668055,76.8447927,embassy
+83,Haryana State Agricultural Marketing Board,ChIJAQAAQBOTDzkRDtLSgCwhgY4,30.70352830000001,76.8526092,local_government_office
+84,Forest Division Office,ChIJZ4TY-f_vDzkRfNxRU60Az7I,30.7499092,76.6415068,local_government_office
+85,Office Of The Principal Accountant General,ChIJ____P1LsDzkR4s3OtzTfCG0,30.71498099999999,76.777554,local_government_office
+86,Quick Service Passport,ChIJVVVVVaTtDzkRWYwJAlUC0PY,30.732999,76.7711626,local_government_office
+87,Rural Development And Panchayats Department,ChIJ1fOD5p7uDzkRRhTu5FLBDgI,30.6953331,76.72969429999999,local_government_office
+88,"Sinchai Bhawan, Irrigation Department Haryana",ChIJT62nLW6TDzkRWJ9VtUh0wlk,30.6973677,76.8597028,local_government_office
+89,Haryana Shahri Vikas Pradhikaran,ChIJjyKtLxWTDzkRcW12uAlt8a4,30.7051087,76.8517286,local_government_office
+90,Associates Group Security & Services Private Limited,ChIJH2mMF6btDzkRND1Wp8mo6dI,30.730707,76.7745886,local_government_office
+91,Signicent Information Solutions LLP,ChIJhTxiwgruDzkRN7NrBMAmGWw,30.737821,76.681145,local_government_office
+92,Director General of Police Vigilance Bureau,ChIJDcHSIAvtDzkRXpxyqZX7PP4,30.6838407,76.7255311,local_government_office
+93,Municipal Corporation Office,ChIJaeMaGertDzkRhOcy4IoNGi0,30.7406277,76.7514539,local_government_office
+94,Paryavaran Bhawan,ChIJHTsovRntDzkR9iW8pXLciLE,30.7310123,76.79839319999999,local_government_office
+95,Office Of Licencing And Registering Authority,ChIJhQ7zF6DtDzkRXjKxSnM5dtA,30.7413623,76.77952239999999,local_government_office
+96,Printing & Stationery Department Chandigarh,ChIJRdNcgQ3tDzkRmCWhZMGXxi8,30.73942919999999,76.7908813,local_government_office
+97,Parivar Kalyan Bhawan,ChIJR4Ev6rPtDzkREtqefmQTnzo,30.7224801,76.76406039999999,local_government_office
+98,Haryana PWD,ChIJQ4UpwSHtDzkRUFipfVEgJfM,30.726216,76.8049158,local_government_office
+99,Omkara Transport Private Limited,ChIJKxdEkNDsDzkR5CMe85UKRTE,30.7157857,76.81526769999999,local_government_office
+100,Punjab State Consumer Disputes Redressal Commission,ChIJtcZc3ertDzkRfLowlW4n7XQ,30.74201669999999,76.755268,local_government_office
+101,Police Station Palwal,ChIJjRWXSpnyDzkRPZ1IFRvmZ6E,30.7727337,76.7984092,local_government_office
+102,State Bar Council,ChIJ3QTj4urtDzkRAx51YOPfiXg,30.7423694,76.75468529999999,local_government_office
+103,Command Area Development Authority,ChIJAQAAQHuTDzkRH9SVe_ODUlA,30.6903348,76.86095759999999,local_government_office
+104,Jobsmanch.com,ChIJucqsIAnsDzkRyntsJRoW88s,30.67593200000001,76.748109,local_government_office
+105,Punjaabi Crew,ChIJ__8vAgTsDzkR_ZvgoHh4fVU,30.6762673,76.7398295,local_government_office
+106,Vipul Sharma,ChIJPWI0inmTDzkRaOEjmpVTI-E,30.6373566,76.8083048,local_government_office
+107,Gram Suwidha Kendra,ChIJq6qqquHoDzkRJtJ23eCcjCE,30.63935739999999,76.68458319999999,local_government_office
+108,Punjab Medical Council,ChIJURBAXo7uDzkRcngsRm6FP8I,30.6921827,76.71597659999999,local_government_office
+109,Feedback Infra Pvt Ltd,ChIJ3VX-ACbrDzkRkeZJSA9YbrQ,30.6384595,76.81423699999999,local_government_office
+110,Career Maker Staffing Solutions Co.,ChIJNdJltkfsDzkRgkcGVwVZyW4,30.70481,76.75919600000002,local_government_office
+111,Meshcron Carer Builder,ChIJ28-545LuDzkRIsdjh3ZR5zI,30.6988838,76.71246599999999,local_government_office
+112,Naukrizone,ChIJEea-IMuUDzkRMFkSrd43XbA,30.658079,76.8212094,local_government_office
+113,ADVERTADPRO,ChIJp4pKvkvrDzkRccjXKuf56Fk,30.6605072,76.821831,local_government_office
+114,Office of the Traffic Advisor Punjab,ChIJ6XZQXITuDzkRE15jJpGrPaU,30.7062925,76.7261903,local_government_office
+115,Conspan Immigration - ICCRC Regd. - Best Immigration Consultant In Chandigarh,ChIJ9_iSbVTsDzkREcEGWsrZkL8,30.7092492,76.7734791,local_government_office
+116,Future Abroad Education Consultants,ChIJT3RETJvuDzkRuUyOpfu_MZs,30.7134052,76.75161729999999,local_government_office
+117,Hiring Solutions,ChIJmcNnkYjuDzkRS4bQ_fcCXxQ,30.7099216,76.7210674,local_government_office
+118,Kiran Infotech,ChIJa1nsbLOUDzkR3DbdaQzbDxk,30.663913,76.82786999999999,local_government_office
+119,AngelHope HealthCare,ChIJOTVlkFHsDzkRxby9kjleG74,30.712321,76.77039599999999,local_government_office
+120,Tazaajob,ChIJS6Dk7bOUDzkRDCWZ8XyTln0,30.663657,76.83062799999999,local_government_office
+121,Overseas Jobs Portal - ESIS International,ChIJiYMszLOUDzkR2UoeMeH06vk,30.665432,76.8308065,local_government_office
+122,Mr Avish : Lawguru India : Divorce lawyers in Chandigarh High Court,ChIJ967EZNLtDzkR8FadQcIQXIw,30.719429,76.74440799999999,local_government_office
+123,Police Station Sector 19C,ChIJYVLZuBztDzkRhNYQOGa9LFA,30.7254162,76.7923206,police
+124,Police Station,ChIJTUlX4A7uDzkR1OVYEO6FMvg,30.7450393,76.7263981,police
+125,Police Station Manimajra,ChIJB8hsryiTDzkRb75DQIsJRYg,30.7209739,76.8364753,police
+126,Police Station Banur,ChIJS-hF-2rCDzkR7YBuHNCo5SM,30.5566442,76.70830819999999,police
+127,Police Station,ChIJD1IsEMLsDzkRbfdMLIZ1dBU,30.7061722,76.8036491,police
+128,Director General of Police Vigilance Bureau,ChIJDcHSIAvtDzkRXpxyqZX7PP4,30.6838407,76.7255311,police
+129,Police Beat Box,ChIJg5BW8aTtDzkRBRd3OoPO_Fg,30.7340027,76.7707765,police
+130,Police Station,ChIJ6e0evua_DzkRw6Zqaqp-xso,30.5838181,76.8444281,police
+131,Sector 66 Police Station,ChIJYyz3PgLsDzkR01UfbraP4y8,30.6770326,76.7354723,police
+132,Police Beat Box,ChIJidrLeEPsDzkRW3HT_BV5itI,30.6959112,76.75605379999999,police
+133,Police Beat Box,ChIJWXC_xI3sDzkRk9ZbzWRw_3I,30.6933311,76.7894661,police
+134,Police Post,ChIJbZNOkkfsDzkRnrz3uNaPBgY,30.70455309999999,76.7576108,police
+135,Traffic Police Station,ChIJpe_0LUrrDzkRXyG6E_0A1PU,30.6588543,76.8209419,police
+136,Chandigarh Police Beat Box,ChIJQWyw_C7sDzkRrkaopTGo_kM,30.7074549,76.7418687,police
+137,Punjab Police Intelligence Office,ChIJLQEV3ejuDzkRsFg9ODFbcME,30.6934103,76.7012823,police
+138,NRI Police Station,ChIJAe7AXoTuDzkRdm7IBOKOnq4,30.7060254,76.72615259999999,police
+139,Punjab Police Housing Corporation,ChIJnQA4XITuDzkRw-qkM-qC9nw,30.7062147,76.72621090000001,police
+140,Police Station Zirakpur,ChIJfcFhxsyUDzkRD4LDr6OOLgY,30.64945509999999,76.82758799999999,police
+141,Police Station Out Reach Centers,ChIJST8WLvPuDzkRAc_2-_0BXfU,30.7047521,76.71011759999999,police
+142,Police Beat Box,ChIJewnII1LsDzkRMx-5hGO0eMY,30.7135552,76.7699446,police
+143,Central Bureau Of Investigation,ChIJdarJbfzsDzkRF5VZYozGWWU,30.7157597,76.7873106,police
+144,Police Beat Box,ChIJr287-bPtDzkR47JKaW787N0,30.7232475,76.7627406,police
+145,IBTS HPAS Allied Coaching Institute,ChIJI_ZV8a3tDzkR-PPyY4F1Zlg,30.7228979,76.7683188,police
+146,Inspector of General of Police Office,ChIJOwyzHKaUDzkR5MjtHVac6wE,30.6756396,76.8377182,police
+147,Chandigarh Police Station Daria,ChIJnUzUl8nsDzkRmv1IbjX49Ac,30.703168,76.81876749999999,police
+148,Police Post Sector 19,ChIJz_IqqaSUDzkRyzvNrhCziDM,30.67033409999999,76.8429148,police
+149,Police Line - S.A.S Nagar,ChIJSwglg1buDzkReGUs3wv3m5I,30.7143185,76.6934584,police
+150,Police Suvidha Kendra,ChIJZ1eRRmqVDzkRPfj0on2mmTQ,30.610193,76.85095009999999,police
+151,Police Beat Box,ChIJ1YoSSbztDzkReb4s0zKjEsE,30.7374702,76.7641809,police
+152,Police Station Balongi,ChIJt5opJE_uDzkRlcTVpR97EBM,30.727182,76.6965001,police
+153,Police Post Bapu Dham,ChIJ9xgHgtfsDzkRFjaiAiikuYg,30.7205877,76.8148073,police
+154,Police Station sector 17 Chandigarh,ChIJ4SrsQaftDzkRFsj7WtASmu8,30.7390941,76.7786247,police
+155,Chandigarh Police Beat Box,ChIJJTD04hftDzkRqelKP6rtgNY,30.7343068,76.80278360000001,police
+156,Haryana Police Recruitment Board,ChIJq4ACnGWTDzkRC4iatatBGDs,30.6927746,76.8572498,police
+157,Police Station,ChIJm1BZMDyTDzkRQKNRd5aGZfE,30.7104705,76.8455441,police
+158,Police Beat Box,ChIJ6Y39q-3tDzkRxKtkBXXcqMk,30.7505669,76.7533318,police
+159,Police Beat Box,ChIJZ8oNkTyTDzkRrEJFPrP5Hqw,30.7132137,76.8442402,police
+160,Chandigarh Police Headquarters,ChIJNTcxFnLtDzkRirA-uTdWHDk,30.7483077,76.78987289999999,police
+161,Punjab Police HeadQuarters,ChIJW0w0Xm7tDzkRc7dnfqkWKjI,30.7509565,76.794045,police
+162,Traffic Police Station,ChIJacQDkniTDzkR_aPxxhBZpaw,30.6917227,76.8709999,police
+163,Sub Post Office Maloya,ChIJ-RvPdxzuDzkR7uNqH3qs5hU,30.7530332,76.7184216,post_office
+164,Sector 12A Post Office,ChIJc7pSr5iUDzkRi5RpZ39BAKQ,30.675457,76.84939609999999,post_office
+165,Sub Post Office Sector 19 Chandigarh,ChIJVc4gcBztDzkRVvYyiItAiJo,30.7263514,76.7949462,post_office
+166,Chandimandir Post Office,ChIJw9mSdamTDzkRLM7zM3YuVY4,30.722756,76.875153,post_office
+167,Sub Post Office MHC Manimajra,ChIJ8WuMdy6TDzkRvymlzFr9nCg,30.7159379,76.8318383,post_office
+168,Post Office PANCHKULA SECTOR 4 (SUB OFFICE),ChIJn4cwMXuTDzkRDLyQ1WvIkT8,30.690478,76.861055,post_office
+169,Raj Bhawan Sub Post Office,ChIJufptdDztDzkRaLNHsEyzOqU,30.73799959999999,76.8083489,post_office
+170,"Village Post Office, Rally",ChIJsbqvH5-UDzkR_UlrV50FBeQ,30.67791849999999,76.8517725,post_office
+171,India Post,ChIJ____vyPtDzkRvfMtWgaby0o,30.7296617,76.8072196,post_office
+172,"India Post Sector-15, Panchkula",ChIJiyAmklmTDzkRcREUBOPhEcU,30.6855543,76.8392714,post_office
+173,Branch Post Office MAULI BAIDWAN,ChIJmQ3SWLLuDzkRHssDK4ZYcmU,30.6728162,76.7205377,post_office
+174,Sandesh Bhawan,ChIJScApSKDtDzkReopYnkMGztg,30.7407032,76.77750189999999,post_office
+175,Sub Post Office Sector 8,ChIJqaMEahTtDzkRsAp03YKFVqY,30.7403834,76.7985266,post_office
+176,Post Office,ChIJ____v2zsDzkRgOcXOTUtGeA,30.6879904,76.75749789999999,post_office
+177,"Sub Post Office, Zirakpur",ChIJb8N5JDnrDzkRsXQ-NdQe0P8,30.651814,76.8100176,post_office
+178,Zirakpur Post office,ChIJuypi2jXrDzkRwZYPXUL8lbw,30.6518688,76.8099847,post_office
+179,Sub Post Office Sector 62 SAS Nagar,ChIJRRkfxyDsDzkR_yB057yfTcc,30.69728289999999,76.7352597,post_office
+180,India Post,ChIJ77qJq0LsDzkRQXrH7cy-Rfw,30.6963312,76.76803760000001,post_office
+181,India Post - Sohana,ChIJpc2RBsHuDzkRv1OCY4aAybQ,30.6865712,76.707184,post_office
+182,India Post,ChIJcUqyBo7sDzkR-MCeBXegxbw,30.6924271,76.7911945,post_office
+183,INDIA POST,ChIJuRuK5vXsDzkRSli2NaXE-D4,30.7024296,76.7809491,post_office
+184,India Post,ChIJh7cus1DsDzkRvZUI4F0YLoY,30.7087975,76.77401379999999,post_office
+185,Sub Post Office Sector 44 Chandigarh,ChIJaZgPhzTsDzkRDr_V-kxQSJI,30.7141458,76.75148109999999,post_office
+186,Post And Telegraph Office,ChIJDVdSVX3tDzkRTdU0us0jb3E,30.7661143,76.7913416,post_office
+187,Sub Post Office Sector 60,ChIJd4RfNX3uDzkR6fr2XamyMAA,30.7160155,76.7226895,post_office
+188,India Post,ChIJMYu1da6UDzkRTwo_xRAs7Vg,30.6703555,76.83189600000001,post_office
+189,Sub Post Office Sector 29,ChIJ4Sk-z_rsDzkRhdIqP7v6JIM,30.7114703,76.7907378,post_office
+190,India Post,ChIJHTYHEsLsDzkRFftYJi7Wrow,30.7063817,76.8036201,post_office
+191,Indian Defence Academy (IDA) Reporting Office,ChIJAd5JTavtDzkRqnsK3nwCoQ0,30.719406,76.77486689999999,post_office
+192,Sector 60 Post Office,ChIJ8btiYGPuDzkR3vBBOY8r9kM,30.7191253,76.7206066,post_office
+193,India Post,ChIJFS__XLbtDzkRagluFR7mqTY,30.7248911,76.7590716,post_office
+194,Post Office Sector 55,ChIJuxpdKnDuDzkRxQUCjIidVC0,30.7279311,76.7225105,post_office
+195,Post Office,ChIJEz71A9_tDzkR6J-f_7x7YCM,30.7345951,76.7361793,post_office
+196,Sector 22 Sub Post Office,ChIJiw2h-KTtDzkRCkDpNuxVtRI,30.7333772,76.77117779999999,post_office
+197,India Post Sector 56,ChIJQV--LkLuDzkR2W_KtiqY1_Y,30.7289193,76.7080719,post_office
+198,India Post,ChIJh9IBuIHyDzkRN1M9GB3IP_w,30.7634508,76.7746489,post_office
+199,Post office,ChIJ6_605j3CDzkRqE80_MfNBrU,30.55399279999999,76.71670689999999,post_office
+200,India Post,ChIJ484KUiftDzkRzwylKqoOKfE,30.7235843,76.80906809999999,post_office
+201,Sub Post Office Dera Bassi,ChIJSc3fUeK_DzkRM1yy334wHvE,30.5879939,76.84151109999999,post_office
+202,Post Office,ChIJt8aTsknuDzkRDMoSDPy6-Fw,30.7316032,76.6960101,post_office
+203,Learning Paths School,ChIJH2mMF6btDzkRAtcdLbbN6n4,30.679946,76.729023,primary_school
+204,Government Primary School,ChIJCQi4krCUDzkRfHUMYD9z4KQ,30.6654939,76.83610569999999,primary_school
+205,Kids R Kids School,ChIJAwIZb9HtDzkRB_7GQmZcdBM,30.722299,76.741329,primary_school
+206,Foster Kids Rajpura,ChIJ____D3ncDzkRe6h0xd7sRvc,30.477391,76.5871105,primary_school
+207,Government Primary School,ChIJi8dAYL7tDzkRxnLWBcfEOCY,30.7378317,76.76160569999999,primary_school
+208,Sarakri School Ground,ChIJvfHufT_CDzkRQ5kTP-7kdMY,30.5511197,76.71038279999999,primary_school
+209,TC Global - Chandigarh (formerly The Chopras Group),ChIJq6qqqgvtDzkRIewTIvW6PXw,30.7380665,76.7843959,school
+210,Delhi Public School,ChIJZ4S0YHXuDzkR6GTYB_bI6xo,30.7362888,76.7336036,school
+211,Ryan International School,ChIJ____r8PtDzkRTgihdZ7SOcA,30.6944421,76.7553776,school
+212,MEDICARE PHYSIOTHERAPY & REHABILITATION CENTRE,ChIJ____v2zsDzkR9IV0EIWsWP8,30.6975749,76.766995,school
+213,Paathshala Preparatory Playway Kindergarten School,ChIJdU5_i7uUDzkRSo8sXFzzpNg,30.665645,76.84295999999999,school
+214,Indian Audio Centre,ChIJWeBsoAvtDzkR4bohpGSxH5g,30.7395249,76.7829534,school
+215,V.B. International Senior Secondary School,ChIJ0yiT6SzrDzkRKmo0xSeIxUY,30.6422892,76.8258938,school
+216,St. Xavier’s High School,ChIJcXLzHpGUDzkRel0y7dqNm4A,30.6681627,76.8563879,school
+217,Anee's School,ChIJUWZgWZfuDzkRRynqE0qLHW8,30.6957999,76.721735,school
+218,Anees School,ChIJV71wqan6DzkRflNA79dq8pM,30.7583743,76.63845479999999,school
+219,Divya Public School,ChIJJYLybTTsDzkRgX4ncNszWgo,30.7127845,76.75151290000001,school
+220,"Saint Soldier International Convent School, Mohali",ChIJ_ZdrLIXuDzkR3-Ds4PFf7fI,30.70364200000001,76.72552329999999,school
+221,SMT. N. N. MOHAN D. A. V. SEN. SEC. SCHOOL,ChIJmaqzW-C_DzkR4QUUpNaBAaQ,30.5942761,76.8472309,school
+222,Kendriya Vidyalaya No.2 Chandimandir,ChIJ7T-c7weTDzkRoy5VD-EfXqw,30.7184657,76.8706383,school
+223,Chandigarh Business School of Administration | Chandigarh | Punjab | North India | Mohali | Landran,ChIJ49mtz2rvDzkRuWqtBkFg1_U,30.6872405,76.66382279999999,school
+224,Aarogya Sadan,ChIJJVNc4j7sDzkRmIK8Kk0-JMk,30.69766559999999,76.7527616,school
+225,Green Castle Smart School,ChIJnyHhi2jsDzkRWhpJOGP5Jrk,30.6928025,76.7671055,school
+226,Haryana Model Senior Secondary School,ChIJOVgVgF6TDzkRKKjojU5i-Ag,30.68691839999999,76.846037,school
+227,Kendriya Vidyalaya,ChIJL5Dpm7WUDzkR7ee0VGgTMCU,30.6593761,76.8285251,school
+228,C CUBE,ChIJJ3B1IHPtDzkRC7ta4bWl6hU,30.744565,76.788468,school
+229,V.B. International Senior Secondary School,ChIJ0yiT6SzrDzkRKmo0xSeIxUY,30.6422892,76.8258938,secondary_school
+230,Anees School,ChIJV71wqan6DzkRflNA79dq8pM,30.7583743,76.63845479999999,secondary_school
+231,"DISHA TEUTONICS+ online coaching/ tuition for 7th to 10th, 11th, 12th classes , JEE , NEET , NDA subjects Physics , Chemistry , Maths , Biology , Science",ChIJ4VtCdXXuDzkRJn-FwajmnM4,30.7360337,76.73554879999999,secondary_school
+232,Saksham Academy,ChIJzbdGN3DuDzkRd-3EPClYuxg,30.727409,76.72325599999999,secondary_school
+233,ALPHA CLASSES,ChIJPYNqz97tDzkRIwGpnhQtViM,30.732969,76.737529,secondary_school
+234,Best Mathematics coaching institute for IIT-JEE| NDA IN CHANDIGARH,ChIJVVVVVdntDzkRcrNAAUZh8BI,30.73313799999999,76.737759,secondary_school
+235,DISHA TEUTONICS+ Dishtek,ChIJITDcu9_tDzkRPee2E8PiKi4,30.735263,76.7345903,secondary_school
+236,Bhavan Vidyalaya,ChIJ2_e5RSDtDzkR4JYAEmWWF_w,30.72429829999999,76.8050789,secondary_school
+237,"Neha's Institute of Mathematics Bsc,11th,12th maths class coaching in chandigarh",ChIJi94H8uXtDzkRnYmg9wSoDa4,30.7463868,76.7431675,secondary_school
+238,A-SQUARE TEACHINGS Home Tuition in Panchkula Chandigarh Mohali Zirakpur,ChIJ5eN8U2OTDzkRcFXg35vaLaI,30.688013,76.8602946,secondary_school
+239,Indian Sports Gym Manufacturers in Chandigarh,ChIJR8XUGteSDzkRirT9oifbslE,30.7290116,76.835171,secondary_school
+240,Noble High School,ChIJG13TJOCNDzkRRaRbE0oS9mY,30.7997301,76.9174943,secondary_school
+241,Springfield Public School,ChIJi7k7zSW2DzkREqPjHattvqc,30.4170127,76.7820228,secondary_school
+242,Vivek High School,ChIJ____v-XtDzkRqy2syuhcMrQ,30.7457603,76.7488515,secondary_school
+243,Chitkara International School,ChIJ64lMGIvtDzkRM_RCC6Vymbs,30.7594927,76.7576253,secondary_school
+244,Paragon Senior Secondary School 71,ChIJVVVVFfPuDzkRk60JRZQjQIg,30.7007195,76.70828159999999,secondary_school
+245,Learning Paths School,ChIJH2mMF6btDzkRAtcdLbbN6n4,30.679946,76.729023,secondary_school
+246,Government Model Senior Secondary School,ChIJKygxjJ7tDzkRzJi6kF59pWM,30.746894,76.7765325,secondary_school
+247,Vivek High School,ChIJ1fRGJZPuDzkR8msPG6TwzTg,30.697973,76.7112925,secondary_school
+248,"Online Maths Tuition - 8th, 9th, 10th, +1, +2 by 5 experienced teacher",ChIJUXnPaxTtDzkRiAg1t20DXE0,30.6853849,76.7359735,secondary_school
+249,Panjab University,ChIJ27w-eojtDzkRlmHXip3S47k,30.75801069999999,76.76847819999999,university
+250,Chandigarh Group of Colleges - Landran,ChIJW6iRSxXvDzkRMWaYfvmdi00,30.68693060000001,76.6648404,university
+251,"Post Graduate Institute of Medical Education & Research, Chandigarh",ChIJ-xpmZ3_yDzkRg5rh7uCJQ60,30.7649646,76.7750066,university
+252,Fraser Valley India — UFV Canada,ChIJq6qqalfsDzkRBwkfXUFNFRA,30.7048444,76.77195770000002,university
+253,National Institute of Technical Teachers Training & Research,ChIJE3Amj9nsDzkRgFOrll4T8_0,30.7290401,76.80768300000001,university
+254,DAV College,ChIJawcWLnftDzkRj0OOczJy4Gc,30.7523154,76.7855182,university
+255,TC Global - Chandigarh (formerly The Chopras Group),ChIJq6qqqgvtDzkRIewTIvW6PXw,30.7380665,76.7843959,university
+256,Chandigarh University,ChIJBz7WCxT7DzkRiKkXTTMeWWg,30.7691099,76.5758537,university
+257,Dr. Harvansh Singh Judge Institute of Dental Sciences & Hospital,ChIJ____v5LtDzkR-cE-gU7eR-s,30.7469727,76.75432289999999,university
+258,Khalsa College Mohali Of Technology & Business Studies,ChIJtZ5W5X7uDzkRNvaQ6y_IxyE,30.71862149999999,76.7303276,university
+259,Best HM College- UEI Global,ChIJCSUKdbLtDzkRBsBv-uGINhQ,30.72291770000001,76.76790489999999,university
+260,"Sunny Dhiman - Best Indian Professional Wedding Photographers in Chandigarh, Punjab",ChIJy4H096XtDzkReqhD4ztvAnk,30.72733499999999,76.78916,university
+261,Chandigarh Business School of Administration | Chandigarh | Punjab | North India | Mohali | Landran,ChIJ49mtz2rvDzkRuWqtBkFg1_U,30.6872405,76.66382279999999,university
+262,Chandigarh Institute of Hotel Management & Catering Technology,ChIJZ9K5mtDtDzkR6nlmTMn_ph0,30.7264483,76.7415944,university
+263,Dentafix Multi Speciality Clinic –Dental Implants | Best Dental Clinic | Invisible Braces,ChIJgSdBWQftDzkRzZ84Bfxorhc,30.7207226,76.80053360000001,university
+264,Sri Guru Harkrishan Sahib School of Nursing,ChIJ-aUd9-fuDzkRvAimmV_f6uQ,30.6900355,76.6988138,university
+265,"DISHA TEUTONICS+ online coaching/ tuition for 7th to 10th, 11th, 12th classes , JEE , NEET , NDA subjects Physics , Chemistry , Maths , Biology , Science",ChIJ4VtCdXXuDzkRJn-FwajmnM4,30.7360337,76.73554879999999,university
+266,KIHMS Nursing,ChIJfWxkkT6SDzkR8mqAK_lm_sw,30.750927,76.89986499999999,university
+267,Nagpal Institute of Training & Coaching (Computer & Commerce Institute),ChIJsX75F2GTDzkR4q9GVoPs7q0,30.684172,76.852643,university
+268,Linux Training in Chandigarh - CBitss,ChIJW9UkXK3tDzkRDJ4ZJwty2dQ,30.7243924,76.7688435,university
+269,Chandigarh International Airport,ChIJU92pMILsDzkROrVYw12DxkI,30.6684056,76.7864017,airport
+270,Pinjore Airstrip,ChIJ70-VHFKMDzkRB2XZ5vW3_Vs,30.82339929999999,76.88412149999999,airport
+271,Mohali Station,ChIJu0GQzP7rDzkRi0JtYFB82hU,30.666602,76.739295,bus_station
+272,Phase 1 Mohali Bus Terminal,ChIJ1ZkVE_7rDzkRqamlLu_4sIQ,30.6653,76.735,bus_station
+273,Phase 11 Market,ChIJkWeSKg_sDzkRVmWCg0AyMjA,30.677107,76.748004,bus_station
+274,Nabi,ChIJqw-v1EzpDzkReDxGDwVweAQ,30.66828600000001,76.718893,bus_station
+275,Sector 80/79,ChIJ9aUtF7DuDzkRGkLnUwakUBY,30.67878600000001,76.721243,bus_station
+276,Sector 80/79,ChIJC-BJa7DuDzkRppBVYEt8dMk,30.678648,76.720637,bus_station
+277,Amb Sahib Gurdwara Chandigarh,ChIJEbBFzJ3uDzkReJ0bBAzBGD8,30.698738,76.731006,bus_station
+278,Sector - 46C,ChIJ8-pifkPsDzkRbSEVugA7HTY,30.70122,76.76570199999999,bus_station
+279,Ramdarbar Bus Stand,ChIJT1pmLYzsDzkRY2uXA5J8MU8,30.693151,76.788333,bus_station
+280,Shinkpura,ChIJtxLzCNXqDzkROTLEUd_JQjQ,30.631884,76.82329,bus_station
+281,Shinkpura,ChIJKeT9DNXqDzkRJjdQH4_mIYs,30.62711620000001,76.8242168,bus_station
+282,Sector 52,ChIJiQSAh4HuDzkRWd3iUL8tqKI,30.70925999999999,76.731314,bus_station
+283,Public Bus Stop,ChIJiwa_7U7sDzkRw7S9jJo-hus,30.7108985,76.7645697,bus_station
+284,Tribun Chowk,ChIJnzl_i_HsDzkRR-JtISvzrVQ,30.704204,76.78974,bus_station
+285,Sec 43,ChIJezlgMC3sDzkRFO3mQ-2WZxU,30.7153747,76.7432068,bus_station
+286,ISBT Sector 43,ChIJ3bF9wdLtDzkRrCELk-NAhRQ,30.71647529999999,76.744401,bus_station
+287,Haryana State Parivahan Chandigarh Bus Stop,ChIJ70Ev8evsDzkR07J25kj8l9Y,30.70360930000001,76.79748529999999,bus_station
+288,Inter City Bus Station,ChIJs-howdLtDzkRW6tEvq5Fwjs,30.7171163,76.74334640000001,bus_station
+289,Mohali Phase 2,ChIJs4IsmnnuDzkRZRJiISqFPC8,30.723548,76.72921099999999,bus_station
+290,Railway Station Chandigarh,ChIJaYi67MnsDzkRms7VE6tYVKs,30.702618,76.819172,bus_station
+291,Amsons Transformers,ChIJGYRx41XuDzkRdju4FVzd6wI,30.7116372,76.69294909999999,light_rail_station
+292,CHANDIGARH CAR RENTAL -//STAY HOME//STAY SAFE//,ChIJl8zgwNjtDzkR6elQ1ygfrZ0,30.73097700000001,76.73536399999999,taxi_stand
+293,Karan Car Rental Tempo Traveller - Bus - Car Rental Services,ChIJiV6eNzCTDzkRqAUI2Fnxomw,30.7129701,76.8352269,taxi_stand
+294,Mr Singh Cab Service One Way & Tour and travel Chandigarh,ChIJCYhhGXnrDzkRQPjIcY4V3iE,30.6673521,76.7830979,taxi_stand
+295,GILL TAXI SERVICES CHANDIGARH,ChIJl5Q1VibvDzkR2cyHBeHQb-Y,30.6913388,76.7226809,taxi_stand
+296,Jaharveer Tour And Travel,ChIJr0j81GXrDzkRbySdRcxYqBg,30.64254959999999,76.8173359,taxi_stand
+297,NRI Travels,ChIJZ1VD4gLvDzkR8k7z2s2Dnlc,30.697633,76.71902899999999,taxi_stand
+298,"Chandigarh Taxi Service, Hire Cabs on Rent-Innova/Crysta-Etios-Fortuner",ChIJW_dVJkbtDzkRizvfLASVXnU,30.7110253,76.7539816,taxi_stand
+299,My Himachal Travel,ChIJaWvL5M_tDzkR1gExe5qlbks,30.69951519999999,76.8179664,taxi_stand
+300,"Saini Tour & Travels. Phase 1, Mohali",ChIJMVYZOnDuDzkRfjiVitwJLbM,30.72726189999999,76.72316599999999,taxi_stand
+301,TRAVEL TREND CHANDIGARH-Taxi & Tempo Traveller Service In Chandigarh,ChIJrRKUfZ3tDzkRGuA-KnihBkY,30.735256,76.77769839999999,taxi_stand
+302,Welcome Travels,ChIJBQ1s2yDtDzkRDrIJwWXCFdA,30.7375127,76.76647640000002,taxi_stand
+303,One Way Taxi / Tourist Taxi / Tempo Traveller in Chandigarh-Top Tour And Travel Chandigarh,ChIJ_9W_5PXvDzkRbj62StQUuZI,30.7384916,76.7320065,taxi_stand
+304,Guru Nanak Taxi Stand - Pammy Travels,ChIJQ1D-1RDtDzkRtAhXVNpt7FI,30.73562759999999,76.7967731,taxi_stand
+305,APM,ChIJObaYSLbvDzkR4s-fYVVGEio,30.7303274,76.679507,taxi_stand
+306,Kalka Taxi Services,ChIJR4SWjOCNDzkREFALdwJcT6U,30.8000835,76.9149023,taxi_stand
+307,Mahajan Taxi Service Morinda,ChIJrUJ8TK39DzkRYXDWPtHZXd0,30.7913348,76.5023767,taxi_stand
+308,Lalru,ChIJ0xcQoDvHDzkRijGXbhDB3Co,30.4793597,76.79425049999999,train_station
+309,Rajpura Junction,ChIJQbjxEWPcDzkR7FFQq1THhn8,30.4862424,76.59362949999999,train_station
+310,Ambala City,ChIJqViPrezIDzkRS960iWojEPM,30.37806399999999,76.76456499999999,train_station
+311,Sahibzada Ajit Singh Nagar,ChIJWUr2S_nrDzkR6ylkBJ-CJfs,30.6659351,76.7397112,train_station
+312,Chandigarh Junction railway station,ChIJAQBsHcrsDzkR4qgCpSg3leQ,30.70239329999999,76.8214717,train_station
+313,Dappar,ChIJCUEZxkGVDzkRdth6ab52Fio,30.610345,76.8482765,train_station
+314,Ghagghar,ChIJr6Nxz0GVDzkRH22MAaQl15E,30.6103283,76.84828379999999,train_station
+315,Kharar,ChIJGU_YuWDlDzkRlXtz2nNOfkY,30.72605410000001,76.6362314,train_station
+316,Dappar,ChIJ883Na77ADzkRXcu-dG0Wclw,30.5174863,76.8074518,train_station
+317,Railway Level Crossing,ChIJTQYKzWDbDzkRvC48Bl7dPwo,30.4714008,76.6161096,train_station
+318,Railway Level Crossing,ChIJg0oybtvEDzkRPSxqN4_GaHQ,30.4452052,76.6576785,train_station
+319,Shambhu,ChIJ3_sNSAbFDzkRNtxQ9rjKaQY,30.4288545,76.6838635,train_station
+320,Sarai Banjara,ChIJDXzoxzneDzkRukTu0g7DEYM,30.5379038,76.51584079999999,train_station
+321,Kurali,ChIJwWsH4F_5DzkRb26jaoXJ67s,30.8351427,76.57240259999999,train_station
+322,Kalka,ChIJNdl9M5CODzkRPNg8yy2CUC0,30.8383939,76.9322876,train_station
+323,Dhulkot,ChIJucJ3pnvIDzkRsBbrlbsHTJc,30.3960752,76.7877764,train_station
+324,Morinda Junction,ChIJCemIb038DzkRHYAgyOfY-Ao,30.7953247,76.50465659999999,train_station
+325,New Morinda Junction,ChIJf9NU5Qj9DzkRPXYi0heTHag,30.7759953,76.4885176,train_station
+326,Sadhoogarh,ChIJW-2fZdofEDkRHc-6P8PwRPI,30.5826826,76.4483053,train_station
+327,Taksal,ChIJ2yVKdeaODzkRZZSYqYngNog,30.8449146,76.9540718,train_station
+328,Swaraj Mazda Limited,ChIJVVVVFbPtDzkRCYzvxS7xSs0,30.72264469999999,76.76816780000001,transit_station
+329,Sector 52C,ChIJKd6TKYLuDzkRHy2YhNM6I18,30.70900199999999,76.731189,transit_station
+330,P.E.P.S.U. Road Transport Corporation,ChIJs4xeFfLsDzkRREjx9_PhN_Y,30.7025537,76.7899305,transit_station
+331,Lalru,ChIJ0xcQoDvHDzkRijGXbhDB3Co,30.4793597,76.79425049999999,transit_station
+332,Rajpura Junction,ChIJQbjxEWPcDzkR7FFQq1THhn8,30.4862424,76.59362949999999,transit_station
+333,Ambala City,ChIJqViPrezIDzkRS960iWojEPM,30.37806399999999,76.76456499999999,transit_station
+334,Housing Board Chowk Bus Stop,ChIJv4Vm5TmTDzkR8YsdIY2Use0,30.7080398,76.83818839999999,transit_station
+335,Punjab State Bus Stand Management Company,ChIJq6qqqgvtDzkRY9tf-IswM8s,30.7398339,76.782702,transit_station
+336,New Airport Chowk,ChIJSVrCCMfrDzkRCOfhHCC4Jts,30.641239,76.754695,transit_station
+337,Sector 82,ChIJlRSaeOPrDzkRUWwPW888uZI,30.65632099999999,76.738945,transit_station
+338,Sector 82,ChIJHbhzF_3rDzkRxvYRFy6QTTE,30.660392,76.735743,transit_station
+339,Sahibzada Ajit Singh Nagar,ChIJWUr2S_nrDzkR6ylkBJ-CJfs,30.6659351,76.7397112,transit_station
+340,Mohali Station,ChIJu0GQzP7rDzkRi0JtYFB82hU,30.666602,76.739295,transit_station
+341,Phase 1 Mohali Bus Terminal,ChIJ1ZkVE_7rDzkRqamlLu_4sIQ,30.6653,76.735,transit_station
+342,Kishanpura,ChIJEwuUmlTqDzkRjs9j7Xhjuwc,30.6269,76.77469599999999,transit_station
+343,Phase 9,ChIJJY_Hiv_rDzkRhC9MiSukJjo,30.669915,76.735148,transit_station
+344,Phase 9,ChIJrQ-ZdQDsDzkRN4UfRE8p_us,30.670095,76.73530699999999,transit_station
+345,Kishanpura,ChIJRW0pi1TqDzkRxgyK8kbIe6E,30.626354,76.77546199999999,transit_station
+346,White House,ChIJ6yegTwbsDzkRWNet7G4J4y8,30.67427799999999,76.743203,transit_station
+347,White House,ChIJNzBIWQbsDzkRAyvm3gpc3DM,30.67462,76.742583,transit_station
+348,White House,ChIJgQjsQwbsDzkRjKL9GHcIGws,30.674797,76.743321,transit_station
+349,Sector 66,ChIJWbcJaqruDzkRHWHZMOooC_g,30.67352799999999,76.732477,transit_station
+350,Sector 66,ChIJWbcJaqruDzkR4_ND-k4TVZc,30.673641,76.732216,transit_station
+351,Phase 11 Market,ChIJkWeSKg_sDzkRVmWCg0AyMjA,30.677107,76.748004,transit_station
+352,Dayalpura,ChIJQc-ouQXrDzkRAAAM6yNFln8,30.639537,76.787247,transit_station
+353,Phase 11 Market,ChIJ61cSLA_sDzkRPWGQkVqGrBU,30.67722099999999,76.747666,transit_station
+354,Phase 11,ChIJOd-4zw7sDzkRiNHkjX_Ei0M,30.67766399999999,76.748903,transit_station
+355,Phase 11,ChIJv9gs2w7sDzkRMbWVzJy8jiQ,30.677977,76.748798,transit_station
+356,Phase 11/Sector 65 Market,ChIJ5V1SIA_sDzkRiMsDiwbtLcQ,30.678244,76.747913,transit_station
+357,Phase 11/Sector 65 Market,ChIJeQ-R3w7sDzkRAQ9wdXHvHkE,30.67828699999999,76.748139,transit_station
+358,Nabi,ChIJqw-v1EzpDzkReDxGDwVweAQ,30.66828600000001,76.718893,transit_station
+359,Sector 48,ChIJuatWEQ3sDzkROPCvFZFn3oc,30.681554,76.75491,transit_station
+360,Mauli,ChIJv7Qrb67uDzkRI-EfX0zjOu4,30.675551,76.724104,transit_station
+361,Mauli,ChIJrcHwQq7uDzkRiCD_ufG-au8,30.676047,76.72412,transit_station
+362,Bus Stop - Sector 65,ChIJb2LmyxrsDzkRUj5UcRa6vpQ,30.682476,76.7434629,transit_station
+363,New Airport,ChIJE9iifHnrDzkRhuSC_WsqTO8,30.667337,76.785268,transit_station
+364,Sector 48,ChIJfQJgag3sDzkRLupPvmQqoPc,30.682548,76.75574999999999,transit_station
+365,Bus Depot,ChIJEaINrhLsDzkRYj-I2W5_R0A,30.6841169,76.7563369,transit_station
+366,Phase 10,ChIJEX9qBxvsDzkRAy4LRlp9LfA,30.684737,76.741858,transit_station
+367,Sector 65/64,ChIJDVV3fRDsDzkRPqyIHnt9i0E,30.685172,76.745758,transit_station
+368,Sharon Fellowship Church,ChIJJ6vbycbuDzkRgHA5mTcevnY,30.68347700000001,76.706267,church
+369,Pastor Philemon Philip,ChIJOwGKpVXrDzkRtlhrHcsqKOs,30.6764701,76.8249754,church
+370,Spread The Word Church,ChIJOVssm4TtDzkRhWSqVLo5ybI,30.7128952,76.6900266,church
+371,LEFI MOHALI,ChIJB3h4EenvDzkRXYVxOXMzSZM,30.6727023,76.7054986,church
+372,CrossPointe Church,ChIJAfXHQVTrDzkRUz_B28fioTA,30.638975,76.81621779999999,church
+373,Kanchan Mittal Ministries,ChIJnyU0gReVDzkRkwtfdZRgt28,30.6254267,76.8516523,church
+374,The Way Church,ChIJmUXKaYLxDzkRfJjU5aia_LA,30.75410519999999,76.6656574,church
+375,RAPHA ASSEMBLY OF GOD CHURCH,ChIJAQAAwB7kDzkRWItZHaTuJQU,30.65679860000001,76.5676071,church
+376,First Baptist Church Dhabali,ChIJ6yjshojkDzkR0ZK5VyYRDNY,30.700041,76.5608209,church
+377,New Life Church,ChIJPx-KLXrdDzkR-VabL_M6_kQ,30.50886829999999,76.60444439999999,church
+378,Christ Church CNI,ChIJGRWIi_7vDzkRGlxJQbZEzWI,30.7477379,76.6460092,church
+379,Church,ChIJbWrvhWTcDzkRrFeQZxTyXAA,30.4876852,76.5885438,church
+380,Rajpura's Church,ChIJx6cD8uzbDzkRUVco_8osu50,30.456938,76.569684,church
+381,Prachin Chandi Mata Temple,ChIJ-VxQ8TmSDzkR92HpYA6NMXc,30.7443744,76.90058630000001,hindu_temple
+382,"ISKCON Temple, Chandigarh",ChIJOUvVMLntDzkRgBKx9y3rsX8,30.73439029999999,76.76092969999999,hindu_temple
+383,Prachin Shiv Mandir,ChIJcfRkqM_rDzkRl9-Y14sl288,30.6553986,76.80054969999999,hindu_temple
+384,ਗੂਗਾ ਮਾੜੀ,ChIJo6K7ZmPpDzkR9lkUTgE04QU,30.653687,76.69728599999999,hindu_temple
+385,Shiv Mandir,ChIJv-QJTuzqDzkRG1GTiHVoLQA,30.61195549999999,76.7946026,hindu_temple
+386,Shri Dera Thakur Dwara( Temple of Shri raghunath ji & Smadhian),ChIJq6oag57sDzkRSPsDIt78ErM,30.6800865,76.7960342,hindu_temple
+387,thakur dwara ram lala temple,ChIJO3imjEjsDzkR8yT6YpYzYuo,30.7078056,76.76000479999999,hindu_temple
+388,Ram Mandir Motiaz Royal Citi,ChIJJxtdo5jrDzkR46p51N3vfZQ,30.6326037,76.8251773,hindu_temple
+389,Shiv mandir,ChIJhebjYOeVDzkR2Gg9Tk4D6gA,30.63678529999999,76.82768329999999,hindu_temple
+390,Shanidev mandir Motia citi,ChIJg8uzfvOVDzkRI0TaGhPL4bY,30.6356388,76.8279197,hindu_temple
+391,"Mandir Motia Citi, Zirakpur Punjab India",ChIJ_dO4Wg6VDzkR5272Pq1HPLA,30.63632459999999,76.8282406,hindu_temple
+392,SHIV LOK DHAM,ChIJs3cQuZrBDzkRp6K40RFR0BM,30.57498999999999,76.7431759,hindu_temple
+393,APM ᴘᴀᴄᴋᴇʀs ᴀɴᴅ ᴍᴏᴠᴇʀs Mohali,ChIJR7--u2TuDzkRIEp5SvPP9kc,30.717588,76.723833,hindu_temple
+394,Sri Satya Sai Old Age Home And Seva Centre,ChIJZ6hOPPvsDzkR7lLytxuT-zU,30.7134118,76.7898524,hindu_temple
+395,Shiv Shakti Mandir,ChIJCwvtN-PsDzkRsaxtcVB82kQ,30.71766000000001,76.791906,hindu_temple
+396,Prem Mandir,ChIJwR2h-UCVDzkReMZI7SFAElo,30.6113411,76.8458945,hindu_temple
+397,"Radha Krishna Temple, 18C Chandigarh",ChIJqzLz7wXtDzkRo2dx7JKUVMA,30.7310345,76.7863079,hindu_temple
+398,Valmiki Ji Mandir,ChIJb1_9LZ_BDzkRjGJ80RaBWJg,30.556121,76.78683149999999,hindu_temple
+399,Shri Brijeshvari triveni navahi devi panch peer lala wala mandir sector 38 C chandigarh,ChIJpa9m4ZXtDzkRHl_KsfUwnHw,30.7410704,76.7438455,hindu_temple
+400,Shri Goga Ji Mandir (श्री गोगा माड़ी),ChIJyXTlL3e_DzkR3GkyPPPsTqg,30.5881759,76.84554709999999,hindu_temple
+401,Mosque,ChIJfXdChdLuDzkRfM2f8iT4IvU,30.6683985,76.69835479999999,mosque
+402,Bassi Esa Khan,ChIJB83nmpXrDzkRQzVqBfj0ckQ,30.58547360000001,76.7389977,mosque
+403,Jama masjid,ChIJb1QBAdTtDzkRF0LxfjaRXz8,30.7245896,76.7867933,mosque
+404,Umer Masjid,ChIJARHdQ0_zDzkRus4wvOI3pl8,30.7722566,76.79442019999999,mosque
+405,Badali Masjid,ChIJuQ4sqqHlDzkRiIkiY59ySQc,30.729603,76.61877,mosque
+406,Jama Masjid Kharar,ChIJPzaJKfX7DzkR_wwplXdKEgU,30.7799218,76.6175497,mosque
+407,Mughal Sarai Mosque,ChIJ4dvl1CjFDzkRNgGZPLUNJ6M,30.4352824,76.6859068,mosque
+408,Masjid Kumbhra.,ChIJ5TLgfqHuDzkRR67OTmXi2Uo,30.6887758,76.7281509,mosque
+409,Ramdarbar Mosque,ChIJg6JxfZHsDzkRCQUqbEdnLgU,30.6930583,76.7948262,mosque
+410,Mani Majra Eid Gah,ChIJVYfoBTeTDzkRPiSRoSifZjU,30.70624849999999,76.8351567,mosque
+411,Masjid,ChIJaYZb-TTiDzkRdBSjETvCLqc,30.6647508,76.49997669999999,mosque
+412,Peer Baba ji,ChIJ0c2lRVLiDzkRqP-A0xngZ6g,30.6811624,76.498644,mosque
+413,Baba Jain Peer,ChIJMznaefXhDzkRlILlqQ8Ou90,30.64236679999999,76.47686809999999,mosque
+414,Tawakkal Shah Ki Dargah,ChIJEf1_sI_IDzkRE6WBVRh5wi8,30.3888269,76.7702159,mosque
+415,Dargah Garib Nawab,ChIJEUJVVf6VDzkRIKT9fDLzZxU,30.634655,76.82746809999999,mosque
+416,Balwinder Associates,ChIJY6XV_1TsDzkRfSBIiQXoFGs,30.7272216,76.77938,accounting
+417,Cogneesol,ChIJMXR9BlnuDzkRKCp5T_AHfd0,30.7006813,76.6929141,accounting
+418,Babuta Sukhen Pal,ChIJq6qqaqntDzkRuBdfNHUOo38,30.7263907,76.77548999999999,accounting
+419,Dhillon & Associates,ChIJ_____7btDzkRPdO-SGcip4w,30.728561,76.758506,accounting
+420,Balwinder Associates,ChIJVVVVFfbuDzkRQVA4oixzFyA,30.7077818,76.68936040000001,accounting
+421,guglani Ashok & Associates Chartered Accountant,ChIJq6qqamGTDzkR0Lgr7n7y9Ro,30.68641160000001,76.8533575,accounting
+422,Parveen Aneja - Income Tax - GST - Sales Tax - VAT - Service Tax - Chandigarh Panchkula Mohali,ChIJVVVVRertDzkRRt5K9KRGGv4,30.7393153,76.7462027,accounting
+423,Jindal Goyal Gupta & Associates,ChIJzVkYQOftDzkRb8Pz2n3o6ac,30.739659,76.74083200000001,accounting
+424,Parkash Ved & Co,ChIJ7Tx6scntDzkRx5R4THNW-XI,30.7253067,76.75471069999999,accounting
+425,Karan Sahni and Associates,ChIJVVVVVaTtDzkRwvX_vk4dSjg,30.7352415,76.77650990000001,accounting
+426,NG Associates XBRL,ChIJqT3FDMDsDzkRIxcCO29f8-s,30.7002022,76.8042827,accounting
+427,Akhil Raman & Associates,ChIJRdNcgQ3tDzkR3SraRkbNQIo,30.6929333,76.82209999999999,accounting
+428,Jagdish Chand Associates,ChIJ1TJUeYvsDzkRkUuRyYGaNkg,30.6952586,76.7851979,accounting
+429,IFM Global,ChIJHRVq_mztDzkRRtgSPLIEDME,30.742108,76.7901717,accounting
+430,K J M A & ASSOCIATES,ChIJnznD16uUDzkROMpZE8PbPAY,30.676527,76.831684,accounting
+431,Vigyan Arora & Co,ChIJGZR0rTGTDzkRjuNXL8SGUuc,30.711426,76.8444844,accounting
+432,VASK Finance Solutions,ChIJ_RKa7djtDzkRmagsWHPA16c,30.738233,76.74555099999999,accounting
+433,KAMAL BATRA AND ASSOCIATES,ChIJR2jUmrbtDzkR41vjOGtrM5I,30.738293,76.749132,accounting
+434,Ajay Pathak & Associates,ChIJ____77ntDzkR6npfdL69KrQ,30.7290447,76.7579495,accounting
+435,Dass Gupta & Associates,ChIJq6qqqj-TDzkRmzjYEIDl2Q4,30.7350091,76.8043355,accounting
+436,Sonia's Cakes n All,ChIJq6qqqnqTDzkRI-b6b_IIhEw,30.70101500000001,76.8546899,bakery
+437,Baba Dairy,ChIJq6qqaqntDzkRrhvuzNRrrjE,30.724464,76.778678,bakery
+438,Bakefood bakery,ChIJ_____-rsDzkRNjkvzdW_gak,30.7027373,76.7973291,bakery
+439,Super Donuts,ChIJa5ECeRTtDzkRjpsO_CxC9NU,30.740838,76.7972747,bakery
+440,Vinnie's The Artisan Bakers,ChIJZcBp0rLtDzkRClItzF5kJuM,30.7186562,76.7658802,bakery
+441,Singh Brothers,ChIJ____z7XtDzkRKKnYvd9pPxg,30.7225608,76.75890079999999,bakery
+442,Bakefood Bakery,ChIJAQAA8EPsDzkRTtsS7uwVhVU,30.7002726,76.76320609999999,bakery
+443,Fire N Grill,ChIJYw3OkXDtDzkRpr2IaR2txBc,30.7539193,76.7875912,bakery
+444,Sweet Nothings,ChIJq6qqqhXtDzkRXK8jZFjSgxs,30.74100409999999,76.7976217,bakery
+445,The German Bakers,ChIJb6UUflmTDzkRe3lpOtu6LDs,30.6864715,76.8406048,bakery
+446,Raunak Sweet Shop & Restaurant,ChIJIVUYl5CUDzkRUhZ1Q8B4eBc,30.670433,76.856494,bakery
+447,"Punsons Flora - Florist in Zirakpur, Flowers and Cake Delivery in Zirakpur",ChIJHSz3ybaUDzkROr0FKaZ7BV4,30.6336232,76.8123549,bakery
+448,R.S.Farm Outlet,ChIJV8JSP93vDzkRIdq5SL5TuxE,30.735186,76.642715,bakery
+449,Ess Pee Quality Products,ChIJhbOzo1npDzkRRnuPHsHpKF4,30.65602189999999,76.7370133,bakery
+450,Gulati bakers & Grocery store The Cake Shop,ChIJkY0hZQ_sDzkRDnUPvfyC_QM,30.679227,76.7461,bakery
+451,R.S.Farm,ChIJfcVPdRzsDzkRupj-HWr73QQ,30.6897431,76.72362269999999,bakery
+452,The Bakers,ChIJrah_A2jsDzkR19eTSWdSLNA,30.695611,76.76772799999999,bakery
+453,Fiesta Bakers And Confectioners,ChIJpXIGaTrrDzkRGHVVk2-52Ds,30.6480329,76.8130578,bakery
+454,The Bakers,ChIJq6qqalfsDzkRUSiCkOLqBpM,30.6974962,76.7670351,bakery
+455,Murliwala Sweets,ChIJXxzp6TnrDzkRxWEtwe2hKQw,30.65118489999999,76.8135124,bakery
+456,JEET CYCLE STORE,ChIJGZR0rTGTDzkRsAAdKOGRNKI,30.7153563,76.84443499999999,bicycle_store
+457,Rama Stores,ChIJ24ykFwDvDzkRe5hQ07oQ63A,30.7089086,76.69403880000002,bicycle_store
+458,Gupta Cycle Store,ChIJH2mMF6btDzkRESHPGS2M5wQ,30.70223539999999,76.78106509999999,bicycle_store
+459,merida bikes chandigarh,ChIJQYrEPsLsDzkR74VdqI6uTPo,30.7110645,76.8080113,bicycle_store
+460,Darshan Cycle,ChIJH13LTOjtDzkRN3sGm--5qIs,30.7409254,76.74798779999999,bicycle_store
+461,Firefox bike station,ChIJH2mMF6btDzkRRYI-PWM7780,30.7276066,76.769505,bicycle_store
+462,SKYANG BIKES,ChIJ9UVkRDzrDzkRFYnaQC7M-Ek,30.6472467,76.8067935,bicycle_store
+463,Aggarwal Cycle Store,ChIJ_SmlJ0rrDzkRnSrbHoSarbI,30.6581797,76.8203216,bicycle_store
+464,Ridebmxindia,ChIJ6fXPRa6UDzkRSP34KYjsF6A,30.6706844,76.8337597,bicycle_store
+465,Darshan Brothers,ChIJvcO0Kv7sDzkRiK7uMRwxp5c,30.72021089999999,76.7827106,bicycle_store
+466,Nagpal cycle store,ChIJg9MB6E3rDzkRk5kfg4aJ3To,30.659251,76.8447253,bicycle_store
+467,CYCLES FAT TYRE,ChIJEfz4WcPsDzkRvU8i-ynTV4k,30.71069069999999,76.8083113,bicycle_store
+468,Pedalerz-World Of Bicycle,ChIJmb5_GJqUDzkRoE80WcSX9Uo,30.6710437,76.8573725,bicycle_store
+469,FIREFOX Bike Station,ChIJ4zvfb7iVDzkRCx5lWZzeR4Y,30.6699583,76.8605568,bicycle_store
+470,Paramhans cycle store,ChIJ8bK5KXmTDzkRpvfMGiLFY74,30.7107803,76.8373056,bicycle_store
+471,Popular Cycle & General Store,ChIJhVLFUlXlDzkR1Svf2_kcjvQ,30.750381,76.64068,bicycle_store
+472,Nagpal Cycles Store,ChIJJTJNQGGTDzkRjWqctXShZao,30.70398490000001,76.9009191,bicycle_store
+473,Kross Cycles,ChIJlwPBSc-NDzkRPCdvWdZIhfE,30.8115986,76.91720029999999,bicycle_store
+474,Satish Law Agency,ChIJjbgiTVlaGjkRqiEqeeB8ARs,30.7572064,76.80800169999999,book_store
+475,Amit Book Depot,ChIJVVVVFbPtDzkRhXK7jKlT10g,30.720605,76.7691602,book_store
+476,Manchanda Book Store,ChIJe48QfE-TDzkRxldbZh_mEJ0,30.695008,76.837181,book_store
+477,Allied Book Centre,ChIJ____P5vtDzkRi__aK-GWh08,30.7535877,76.7709461,book_store
+478,Mohindra's The Book Shelf,ChIJq6qqalfsDzkR2obTTpPUfms,30.71051629999999,76.77244379999999,book_store
+479,Manchanda Books and Stationery Store,ChIJZ-R_fxztDzkRHW7QyEXIvcc,30.726846,76.79434599999999,book_store
+480,Narula Book Shop,ChIJYw41NWzuDzkRYA2O_usJHD0,30.73174309999999,76.7191473,book_store
+481,Rama Stores,ChIJ24ykFwDvDzkRe5hQ07oQ63A,30.7089086,76.69403880000002,book_store
+482,Arth Parkash,ChIJo78efPDsDzkRrcy5efSSMaQ,30.7115792,76.7899932,book_store
+483,Giri Book Store,ChIJq2rbTjCTDzkRQBldkNO1TUU,30.7142737,76.8383168,book_store
+484,Kumar Book Depot,ChIJT4EMerLtDzkRhziCkxkT0Z8,30.7224133,76.7676117,book_store
+485,Litmus News,ChIJb1i6ri7rDzkRMJPl3XVOTWw,30.6362555,76.8092858,book_store
+486,FREE EBOOKS DOWNLOAD,ChIJV1WAtJHsDzkRAdev1IO7puQ,30.69027199999999,76.7931474,book_store
+487,Jivesh Book Depot,ChIJeSYsGTbrDzkRTmQOvVl9ihA,30.6556826,76.8189664,book_store
+488,Indian Book Shop,ChIJXWFVTJLuDzkRx-7NXehYjLs,30.69907869999999,76.7143585,book_store
+489,Fragrance Of Master,ChIJkwr6w__sDzkRd6dbrkqWouA,30.7165475,76.7792898,book_store
+490,Bhardwaj Jyotish (Astrologer & Vastu Expert),ChIJ1ZnXuFTrDzkRfj4kPhXnWNg,30.678636,76.829454,book_store
+491,School Suppliers,ChIJqx2CIwDtDzkRRLWfU5b3qsg,30.7263907,76.77548999999999,book_store
+492,Popular Book Store,ChIJiXjV96XtDzkRR-BEm0iA7_4,30.7343357,76.76995939999999,book_store
+493,Manchanda's Mixedbag,ChIJKZLql0WTDzkRRljH-e8T6JI,30.6955964,76.838859,book_store
+494,Maya Hotel,ChIJNfcdmbHtDzkRByNlGXk_5bQ,30.7250742,76.7657471,cafe
+495,Hotel Cama,ChIJXY24yH7uDzkRjefpfutfuVY,30.7197546,76.7297092,cafe
+496,Sonia's Cakes n All,ChIJq6qqqnqTDzkRI-b6b_IIhEw,30.70101500000001,76.8546899,cafe
+497,The Eating House,ChIJeYSVW6_tDzkRerlIWp5aBhc,30.730145,76.773416,cafe
+498,Cafe Coffee Day,ChIJT_Kfcr3tDzkRNOBmRm75ImI,30.7381377,76.76637099999999,cafe
+499,Subway,ChIJxQoZPf3rDzkRfGGUbFYDaMk,30.65999,76.73568999999999,cafe
+500,geneswapping : The Community Biotech Incubator,ChIJJw0Gzi7rDzkRdDb8wbGVUos,30.638388,76.815505,cafe
+501,Coffee shop Skylight Chandigarh,ChIJ5ZwgefLsDzkRnms6fqAXjDU,30.70162170000001,76.7911747,cafe
+502,Urban Café,ChIJp3w5LersDzkRIKnt6_SoWTQ,30.704407,76.800551,cafe
+503,Brooklyn Central,ChIJe-dCiensDzkRRhymSo80c1I,30.7053024,76.80072369999999,cafe
+504,The Beer Café,ChIJqcEVIOrsDzkRax7TIy1uH6k,30.7050075,76.8014146,cafe
+505,Citrus Cafe,ChIJGbrTCcLsDzkRGytCX2uBEAY,30.706125,76.80292399999999,cafe
+506,the chocolate room mohali,ChIJ3w3vbWHuDzkRu10Z5M2_jvI,30.7166839,76.7152014,cafe
+507,Cafe 88,ChIJRznC6VjuDzkR7HOJFa7R0LE,30.7137219,76.703284,cafe
+508,Tea Aroma,ChIJJ3rxn7uUDzkR06nl0q4DqYU,30.666823,76.8418691,cafe
+509,Veda 26,ChIJfY4c7iHtDzkRpfTMlyOPKbA,30.7271872,76.8039208,cafe
+510,Cyard Kitchen & Bar,ChIJfWyKrxjtDzkRv2Ae5mPyCTQ,30.72862899999999,76.803315,cafe
+511,Multipurpose Booth,ChIJZReY40KTDzkRhbCr5nCeDaU,30.6947963,76.8464182,cafe
+512,Rahat-Vatika (Peaceful Abode) Home-Stay,ChIJ3-b0thHtDzkRR7sFfph3F4k,30.7357845,76.7929559,cafe
+513,Indian Coffee House,ChIJg0GbYQrtDzkRnutNSluBjeU,30.7403316,76.7804304,cafe
+514,Joshi Honda,ChIJA2JlAGqTDzkRcaLLRxYEuoA,30.6987826,76.8491268,car_dealer
+515,Joshi Hyundai Mohali,ChIJjXooo17uDzkRMEaQXO3U0K4,30.71667750000001,76.7062321,car_dealer
+516,Mercedes-Benz Joshi Autozone,ChIJc1VVFVaTDzkRE6IGYrvZU2s,30.700093,76.7896827,car_dealer
+517,"Tata Motors - PMG Mohali Automobiles Pvt. Ltd., Mohali",ChIJNycp20LuDzkR2Ik-J_9DpqM,30.6543449,76.7391925,car_dealer
+518,"Maruti Suzuki ARENA (Tricity Autos, Zirakpur, Patiala Highway)",ChIJySzZkiLrDzkRXNfD1LofqoY,30.636273,76.8011779,car_dealer
+519,Harmony Honda,ChIJH2mMF6btDzkREC5VldGbmXo,30.69819249999999,76.78601820000002,car_dealer
+520,Mehar International Marketing Private Limited,ChIJt7f4aTTrDzkRuuIv9CkZ3gU,30.6521081,76.8220053,car_dealer
+521,Tata Motors,ChIJxec0XvPsDzkRc8VFgLexoms,30.6990283,76.78551990000001,car_dealer
+522,Bhagat Ford,ChIJOUQcVvLsDzkRHhDGKlLCZps,30.7009984,76.7889229,car_dealer
+523,The Mediators Real Estate & Car Bazar,ChIJFWzwTojuDzkR3Ue8EYOQDWc,30.7116643,76.7197142,car_dealer
+524,Harbir Automobile Mahindra (Sales) Dealership,ChIJH2mMF6btDzkR0WYWmPnyhW0,30.703258,76.798614,car_dealer
+525,"NEXA (Autopace Network, Chandigarh, Industrial Park)",ChIJMzzCEOrsDzkROmX6n5J9IjQ,30.7043021,76.80189550000001,car_dealer
+526,"NEXA (Autopace Network, Chandigarh, Industrial Park)",ChIJKcmsEOrsDzkRzNMaXmEBkoA,30.70549299999999,76.8012561,car_dealer
+527,"Maruti Suzuki ARENA (Autovogue, Panchkula, Industrial Area Phase 1)",ChIJaQAAwFWTDzkRueS0jYra8Bo,30.6696432,76.83670169999999,car_dealer
+528,Saluja Ford,ChIJR5L95YrsDzkRFHgYsCHFdtw,30.7089676,76.8031809,car_dealer
+529,Harmony Honda,ChIJT_eBx7uUDzkRNqjoaZ4xHs8,30.6694649,76.8372139,car_dealer
+530,Tata Motors,ChIJVyWUkK-UDzkRunv9a3LUcRk,30.6712036,76.8365225,car_dealer
+531,Ultimate Hyundai,ChIJj7mrqnCTDzkR6B3_FxbptlM,30.6844304,76.8322441,car_dealer
+532,PMG Renault Chandigarh,ChIJnbl0JsPsDzkR0YYosNo6Hqc,30.7105465,76.8061361,car_dealer
+533,"CM Autos (MarutiService Centre, Chandigarh, Plot 42)",ChIJIRHl9ersDzkRI0akq0PP3TQ,30.71107529999999,76.8067288,car_dealer
+534,Fiat Dealer Jeep Dealer -WSL Automobiles,ChIJiwNleFnuDzkR4wDNoPFgUos,30.716806,76.70195799999999,car_dealer
+535,"NEXA (Modern Automobiles, Panchkula, Industrial Area Phase 2)",ChIJfRkENFGTDzkRrfaJZ5e1VtM,30.686114,76.83351019999999,car_dealer
+536,"Maruti Suzuki ARENA(Navdesh Autos, Chandigarh, Sector 58)",ChIJVVVVlWfuDzkRWl_CvezBi98,30.7218026,76.71227019999999,car_dealer
+537,"Maruti Suzuki ARENA (CM Auto Sales, Chandigarh, Phase 1)",ChIJ4aGImFDuDzkRzXOY5ZdGiwo,30.712559,76.80680199999999,car_dealer
+538,Volkswagen Chandigarh Showroom,ChIJw03gK8PsDzkRJ99BpXVx9ps,30.71342850000001,76.80691929999999,car_dealer
+539,"NEXA (Navdesh Autos, Chandigarh, Industrial Area Phase I)",ChIJSW8P7tzsDzkRr5xXxISFop4,30.7135495,76.80705429999999,car_dealer
+540,Berkeley Hyundai Chandigarh,ChIJY-uVoPTsDzkRT1qstqraORc,30.71241789999999,76.80936009999999,car_dealer
+541,Harmony Honda,ChIJkZihClvuDzkRfgUYi4AOiis,30.7203782,76.7031899,car_dealer
+542,Charisma Hyundai Chandigarh,ChIJUaNcndzsDzkRx2pQGDcUe3o,30.71343149999999,76.8088375,car_dealer
+543,TRICITY CARNATION,ChIJgzO_H7jtDzkR6hq1KOD9ETw,30.7323356,76.7337393,car_dealer
+544,Mercedes-Benz Panjab Motors | Authorized dealership for Mercedes Benz India,ChIJVVVVVVbuDzkRo79g76oEpxI,30.7299243,76.70623859999999,car_dealer
+545,"CM Autos (MarutiShowroom, Sector 37 CHD)",ChIJVTbIOQ3tDzkRLVIosI_K-Cs,30.7405555,76.74791619999999,car_dealer
+546,Tata Motors,ChIJS0WigwvtDzkRtjBv7WEDMYY,30.7393517,76.7848655,car_dealer
+547,Singh Auto Industries,ChIJp6Qr1oTtDzkRA19QJcT_5ZE,30.7532117,76.77114759999999,car_dealer
+548,Tata Motors,ChIJkcL-ODC-DzkRHbRGxWWNlh0,30.58080799999999,76.8795399,car_dealer
+549,TM HONDA- MULLANPUR GARIBDASS,ChIJEQGu3zHyDzkREAr8AaBX3Io,30.799217,76.74553999999999,car_dealer
+550,Avonn Honda,ChIJ7Yfx_n3cDzkRjdYaCutqNQg,30.4805465,76.595002,car_dealer
+551,Globe Toyota Ambala,ChIJPQ2dr83HDzkR4QIA2iw9wlg,30.417177,76.78331589999999,car_dealer
+552,Pioneer Toyota,ChIJKVy_XOnsDzkRq_ITiASx5ds,30.7053044,76.79752549999999,car_dealer
+553,Fair Brother Auto Sales,ChIJi7k7zSW2DzkR1WWz3uSh3wk,30.38848939999999,76.78062919999999,car_dealer
+554,Avtar Travels SINCE 1972,ChIJa8lu5gvtDzkRgP7xGimvChk,30.74333649999999,76.7898936,car_rental
+555,Chandigarh Travelz,ChIJ6Tai6wrtDzkRuNVpXJKcxY8,30.7408384,76.7814868,car_rental
+556,"Rana Cabs Pvt. Ltd™ Self Drive Car, Bike On Rent , Luxury Wedding Car Rent.",ChIJ_yYic0fsDzkRc61H8VDVqIk,30.6940081,76.77106119999999,car_rental
+557,Rent A Bike In Chandigarh-Rana Cabs Pvt Ltd™,ChIJN847Un7uDzkR7aB628STrro,30.6940169,76.7710383,car_rental
+558,Self Drive Car Rental Co.-Rana Cabs Pvt Ltd™,ChIJFTHViDmTDzkRtgiJK4UYHdI,30.6939983,76.77105030000001,car_rental
+559,Best Tempo Traveller Services in Chandigarh | Best Taxi Service in Chandigarh,ChIJK-Y7X6vtDzkRiHp9rJBqSEo,30.720318,76.774163,car_rental
+560,CHANDIGARH CAR RENTAL -//STAY HOME//STAY SAFE//,ChIJl8zgwNjtDzkR6elQ1ygfrZ0,30.73097700000001,76.73536399999999,car_rental
+561,RBTS Car Rentals Pvt. Ltd : Luxury Self Drive Cars Chauffeur Driven Cars Wedding Cars in Chandigarh,ChIJxyXHBt_tDzkRr41XWu32a9g,30.734763,76.7361129,car_rental
+562,Mercedes-Benz Panjab Motors | Authorized dealership for Mercedes Benz India,ChIJVVVVVVbuDzkRo79g76oEpxI,30.7299243,76.70623859999999,car_rental
+563,Karan Car Rental Tempo Traveller - Bus - Car Rental Services,ChIJiV6eNzCTDzkRqAUI2Fnxomw,30.7129701,76.8352269,car_rental
+564,Punjab Rent A Car - Rent Luxury Cars | Wedding Cars | Self Drive Cars in Punjab,ChIJH1esH_7vDzkRnuDjvbwIMLM,30.64568060000001,76.7498523,car_rental
+565,Self Drive Car Rental Service. Rana Cabs Pvt. Ltd™,ChIJT9suQyPtDzkRtRtR3jv0Z9s,30.6940779,76.7710697,car_rental
+566,"Chandigarh Taxi Service, Hire Cabs on Rent-Innova/Crysta-Etios-Fortuner",ChIJW_dVJkbtDzkRizvfLASVXnU,30.7110253,76.7539816,car_rental
+567,Zoomcar Self drive car rental- Sector 43B Parking Lot,ChIJq6qqttLtDzkRxAtA0Ydkv-o,30.716446,76.74411289999999,car_rental
+568,Royal Bike & Self Drive Car Rentals Chandigarh,ChIJkxCRvErsDzkRvTarYcGkTQo,30.716369,76.7575784,car_rental
+569,Hiway Cabs: Best Taxi Service in Chandigarh|Mohali,ChIJtfNEDrTtDzkRMBtrTe8bQUg,30.722636,76.761912,car_rental
+570,My Himachal Travel,ChIJaWvL5M_tDzkR1gExe5qlbks,30.69951519999999,76.8179664,car_rental
+571,Punjab Self drive car rental Chandigarh,ChIJX_40fgvtDzkR0YqFGN_BfkM,30.716792,76.79189,car_rental
+572,Punjab Car Rentals - Rent Luxury Car | Wedding Car | Self Drive Car in Punjab,ChIJK3RC7obvDzkRme4JNkITVFk,30.7146052,76.7010999,car_rental
+573,RBTS Car Rentals Pvt. Ltd : Luxury Self Drive Cars Chauffeur Driven Cars Wedding Cars in Punjab,ChIJ_cKOg57vDzkR9fepPDnUP6I,30.71658799999999,76.7017338,car_rental
+574,Goel Auto Lines,ChIJq6qqat7sDzkRBtY8xdNUKQw,30.71834829999999,76.80221499999999,car_repair
+575,Bushcon Batteries,ChIJH2mMF6btDzkR6zEdy7GBc8s,30.7186169,76.7023081,car_repair
+576,Bawa Car Wash,ChIJX-zShaftDzkRRR8iKgAD22g,30.69385650000001,76.82742979999999,car_repair
+577,Gujarat Guardian Limited,ChIJT4uCiJrtDzkR38TZEX07Nz0,30.74991240000001,76.7688636,car_repair
+578,Garg Motors,ChIJH2mMF6btDzkRpkFey9XpiPo,30.7096689,76.7590708,car_repair
+579,The Tyre Zone,ChIJGZR0rTGTDzkRVL5tpxkHmM0,30.7150543,76.8449559,car_repair
+580,JAECO REBUILDING SYSTEMS PVT. LTD.,ChIJ2SSOooi9DzkR96-evoPK0CM,30.5974995,76.9522602,car_repair
+581,"Tata Motors - PMG Mohali Automobiles Pvt. Ltd., Mohali",ChIJNycp20LuDzkR2Ik-J_9DpqM,30.6543449,76.7391925,car_repair
+582,Aqua Systems,ChIJdy34sKruDzkRCXVBiMJaKco,30.6703266,76.7327397,car_repair
+583,Best car service | xtracare (Anand Motors),ChIJ3T1sbCDrDzkRKo8AjYmKzuo,30.6326648,76.8042882,car_repair
+584,Chandigarh Electronics - inverter|Battery Dealer in Zirakpur,ChIJPQof8UnrDzkRt-fdKr2UznQ,30.65793810000001,76.8184239,car_repair
+585,Harmony Honda,ChIJH2mMF6btDzkREC5VldGbmXo,30.69819249999999,76.78601820000002,car_repair
+586,Bhagat Ford,ChIJOUQcVvLsDzkRHhDGKlLCZps,30.7009984,76.7889229,car_repair
+587,CM Auto Sales (MarutiService Centre),ChIJZ2Jox-vsDzkRxxVvpHVjFx8,30.7020977,76.801067,car_repair
+588,"AUTOBOTT SERVICES : MODIFICATION, CERAMIC COATING, MECHANICAL SERVICING, CAR WASH, BODY SHOP AND DETAILING STUDIO",ChIJ7wss-cHsDzkR6zbaip6iuaY,30.70503159999999,76.80329929999999,car_repair
+589,Royal Enfield Service Center,ChIJFTh0gsLsDzkRKE86NXFlq8M,30.708666,76.8030606,car_repair
+590,Saluja Ford,ChIJR5L95YrsDzkRFHgYsCHFdtw,30.7089676,76.8031809,car_repair
+591,Harmony Honda,ChIJT_eBx7uUDzkRNqjoaZ4xHs8,30.6694649,76.8372139,car_repair
+592,Revheads,ChIJ_____-rsDzkRXPuVzgkqTRQ,30.70863649999999,76.8047996,car_repair
+593,Joshi Honda Workshop,ChIJO_8NilOTDzkRwN26oHqecJ0,30.6854871,76.8300299,car_repair
+594,Bawa Car Wash,ChIJX-zShaftDzkRRR8iKgAD22g,30.69385650000001,76.82742979999999,car_wash
+595,Best car service | xtracare (Anand Motors),ChIJ3T1sbCDrDzkRKo8AjYmKzuo,30.6326648,76.8042882,car_wash
+596,CM Auto Sales (MarutiService Centre),ChIJZ2Jox-vsDzkRxxVvpHVjFx8,30.7020977,76.801067,car_wash
+597,"AUTOBOTT SERVICES : MODIFICATION, CERAMIC COATING, MECHANICAL SERVICING, CAR WASH, BODY SHOP AND DETAILING STUDIO",ChIJ7wss-cHsDzkR6zbaip6iuaY,30.70503159999999,76.80329929999999,car_wash
+598,3M Car Care Chandigarh,ChIJPYtWtpLsDzkRHjHQfjw27rs,30.707447,76.801749,car_wash
+599,Detailing Devils Chandigarh,ChIJ3anIkensDzkR9Qdtcm-0BN8,30.7082589,76.8036998,car_wash
+600,PITSTOP GARAGE,ChIJAUKc6F3uDzkROfSEz2A4_so,30.7186912,76.70962159999999,car_wash
+601,PITSTOP TYRE SOLUTIONS - 3D Wheel Alignment Experts,ChIJQXfQ6V3uDzkRH3xxT97mRtg,30.7189043,76.7093184,car_wash
+602,"CM Autos (MarutiService Centre, Chandigarh, Plot 42)",ChIJIRHl9ersDzkRI0akq0PP3TQ,30.71107529999999,76.8067288,car_wash
+603,Sharma Diamond Steam Car Wash and 3D Alignment,ChIJ8UqBtQbsDzkRLnOBjqcLpZQ,30.6748985,76.74010779999999,car_wash
+604,"We Wash Incorporation ""Car Spa & Detailing Xperts"" Ceramic Coating and Teflon Coating Xperts",ChIJJyn3TCDrDzkR1ygr1dA5Sgk,30.6347151,76.8048227,car_wash
+605,We The Washers :- Car Wash & Detailing Studio / Ceramic Coatings Specialist,ChIJPbd1HyXrDzkRxZCiwVv6KwM,30.64327999999999,76.8130058,car_wash
+606,Saini Car Washing Point,ChIJtyCYITrrDzkRlPuf4aqAOao,30.6504684,76.8127772,car_wash
+607,Jot Motor Garage - Car Repair and Service in Zirakpur,ChIJkXmYDDLrDzkRlgqshRMQ5Rw,30.647377,76.813491,car_wash
+608,GoMechanic - Saini Motors,ChIJu3QTuljrDzkRrLfHqsA4xT0,30.67662,76.80959,car_wash
+609,Kabir Automobile Car Washing,ChIJf6w_yjPrDzkR-Li_Wz207do,30.6478941,76.8214612,car_wash
+610,Car wash,ChIJEVD4H2yVDzkRON_pHbS7Tw4,30.6299386,76.8286945,car_wash
+611,Maruti Suzuki - Panchkula Auto Services,ChIJ-_Ch8laTDzkRdhEnr6ew0Ko,30.682667,76.833889,car_wash
+612,PITSTOP CAR DETAILING STUDIO (CERAMIC COATING/CAR WASH & FOAM WASH IN CHANDIGARH MOHALI),ChIJcevy6V3uDzkRp13V-Qe5fE8,30.7191386,76.70957589999999,car_wash
+613,"CM Auto Sales (MarutiService Station, Mohali)",ChIJTZ_f-M7vDzkR5AjHlhaSBvI,30.7152835,76.7005689,car_wash
+614,VEER CAR WASH & WASHING STATION,ChIJr_iBqr6UDzkRTxza-4kGKmY,30.66390590000001,76.8433649,car_wash
+615,Grace Car wash,ChIJd0LDcQbtDzkRkifGz3q0h9M,30.7113184,76.8072873,car_wash
+616,GoMechanic - Whipped Motors,ChIJx94b94zvDzkRq131zv5S1UA,30.71359450000001,76.6918676,car_wash
+617,MODERN CAR POINT,ChIJ_SGhkN_sDzkRBzEPUC5_8K8,30.7143716,76.808139,car_wash
+618,Carpool Service Station,ChIJf4n0fjqVDzkRK5sksaB3KLA,30.64979340000001,76.8526989,car_wash
+619,JMD CAR WASH,ChIJAXGMNtiVDzkROrpoR0J2W2s,30.6559174,76.8555269,car_wash
+620,Car A-Z Car Detailing,ChIJZTfrj2fvDzkRmw_E37Gm3Po,30.6847639,76.65081889999999,car_wash
+621,Carexpress,ChIJWWSHRjmTDzkR2VpyKAP3_Tc,30.6851879,76.8482622,car_wash
+622,"Car Planet, Panchkula",ChIJq6qqamGTDzkRmAxso3oonZc,30.6860879,76.8495303,car_wash
+623,"Hayr Car Care, Multi Brand Car Services",ChIJd62nFEDuDzkRNGIiFvCpeoo,30.733988,76.70918449999999,car_wash
+624,B.K. Motors,ChIJoRfnihftDzkRQOdMnKRtQKE,30.7326184,76.8032661,car_wash
+625,Auto detailerz,ChIJk0WGkr2_DzkR9PyfGenGkJk,30.5808291,76.84187849999999,car_wash
+626,Best Car wash,ChIJSaMTTl_tDzkRJQCMXkZpj5s,30.7498521,76.7463312,car_wash
+627,Modern Car Wash,ChIJtxDlCUTvDzkRDqfL5WD9cw0,30.7255918,76.6702379,car_wash
+628,Foam car washing center in Chandigarh -Magic Car wash Diesel wash & Dry clean,ChIJeTjf0r3vDzkRERk6mdVbNlE,30.7506971,76.7413106,car_wash
+629,Guru nanak || Foam car washing centre in chandigarh -3m coating - car mechanic service,ChIJPSdANr3tDzkRAiGhYD5a9kk,30.75117329999999,76.741732,car_wash
+630,HYBRID CUSTOMS,ChIJ82gFPT2TDzkRPymJSMvO4xw,30.714129,76.84701199999999,car_wash
+631,Car chemist,ChIJP12GZxS_DzkR2KBiHPgcQyA,30.5873704,76.85850280000001,car_wash
+632,SHINE CAR WASH & DETAILING,ChIJVTLowSvvDzkRRmTeRVQxqzI,30.7282203,76.6669694,car_wash
+633,chandigarh car washing center,ChIJeQJaNcLzDzkRqV4bakHq8Yo,30.77011660000001,76.7452376,car_wash
+634,POSHAK CHANDIGARH,ChIJW6zfCkWTDzkRgpXrSCDLJkM,30.7389512,76.7833419,clothing_store
+635,Rama Stores,ChIJVVVVVaTtDzkRxhpeODA1wfU,30.7314887,76.7757584,clothing_store
+636,Raymond - Milan Editions - Men's Clothing Shop In Mohali,ChIJDwAAwJ3uDzkRsYnUGP4Aesg,30.70421339999999,76.7261462,clothing_store
+637,Digital Vision,ChIJHSbp2-XtDzkRzipxaua0EmA,30.744294,76.743702,clothing_store
+638,Archies Chandigarh,ChIJW8fMsgvtDzkREMq_y5o0zh4,30.7408897,76.7817913,clothing_store
+639,Sunder Emporium,ChIJ1aOsNMHtDzkRywQQ2Kxz6KY,30.7243897,76.75958849999999,clothing_store
+640,More Store,ChIJ_YCUZsLtDzkR6AsI2rfMmJg,30.7379434,76.74859769999999,clothing_store
+641,Sahni Emporium,ChIJG7W5QMLtDzkR3KGfXN1aqbs,30.7374083,76.7495351,clothing_store
+642,Raman Medical Store,ChIJVVVVVWztDzkR11oq07oHUEc,30.747124,76.793492,clothing_store
+643,Baby Shopee,ChIJoSsiMsLtDzkRx4IiZlDjzh4,30.7368313,76.7500879,clothing_store
+644,Jockey Exclusive Store,ChIJe6FGxwvtDzkRdQo5JjsSP3A,30.7213572,76.7598016,clothing_store
+645,Jack & Jones,ChIJraqqqnqTDzkR9cN0Q3K5ZrE,30.6952527,76.8498427,clothing_store
+646,Rama Stores,ChIJ24ykFwDvDzkRe5hQ07oQ63A,30.7089086,76.69403880000002,clothing_store
+647,Bombay Dyeing Showroom,ChIJVVVVmRztDzkR9OUTa211PV8,30.7264122,76.79478089999999,clothing_store
+648,Cloth Palace 17,ChIJq6qqqgvtDzkRZ-ERvp-3bus,30.7382383,76.78297549999999,clothing_store
+649,Monte Carlo,ChIJe1iD8bSUDzkR3nFGqjSE_Eo,30.6607432,76.8281178,clothing_store
+650,A TO Z COLLECTIONS (Wholesale Only),ChIJn11hKQXtDzkRUum7llqFE9M,30.7090861,76.7578875,clothing_store
+651,Sushira Fabrics,ChIJqUIBGzzsDzkR8t_X90N6ABw,30.6521927,76.73192999999999,clothing_store
+652,"Laxmi Suits Zirakpur, Women Clothing & Fashion Store Latest Suits Designs, Latest Plazzo Suits and Kurti, Trendy Designer Suits Dresses Kurtis Leggings",ChIJO4rctT7rDzkRyOMFoP2iaaQ,30.6508265,76.80754089999999,clothing_store
+653,SAI NOVELTIES,ChIJZUXsuj7rDzkRgmptebSoYYo,30.650622,76.8075899,clothing_store
+654,24SEVEN,ChIJIZSG24nuDzkRiWtpRpL1z90,30.7083219,76.723126,convenience_store
+655,24SEVEN,ChIJr6kcGFLsDzkRK1LoMThaWZs,30.71722260000001,76.775763,convenience_store
+656,24SEVEN,ChIJ__-DaubtDzkRd4M7pmb-Tso,30.7205479,76.7584909,convenience_store
+657,Daily Needs shop,ChIJl78vcXruDzkRkgn9TWDHxhE,30.7251486,76.7259188,convenience_store
+658,24SEVEN,ChIJSxADWBbtDzkRqxNncr9z0m8,30.735104,76.80442219999999,convenience_store
+659,24SEVEN,ChIJl0eMATvrDzkRqYiTDwwf6o0,30.629797,76.82315919999999,convenience_store
+660,Bansal Namkeen & sweets,ChIJV5tIzFDsDzkRat5cFWyS3X0,30.70956559999999,76.7739362,convenience_store
+661,LaPrime 24*7 Convenience Store,ChIJ3dl1IxTtDzkRUUdTk8zdgwE,30.71319969999999,76.7502447,convenience_store
+662,Manpreet Dairy,ChIJV44jFljvDzkREg-kHecnbLc,30.6767203,76.67408619999999,convenience_store
+663,Amrita's Convenience Store,ChIJWU6MznyVDzkR0moYnq7Mw5g,30.638352,76.8335491,convenience_store
+664,24SEVEN,ChIJl_2BiI3vDzkRK4kxYB7SO0E,30.7189156,76.71347279999999,convenience_store
+665,My Grocer (A & A Retail),ChIJf994h6rtDzkRnmXF2upqODg,30.7225225,76.7792875,convenience_store
+666,Jindal Traders Supermarket,ChIJi0xKiHDuDzkR7pZp5dNxbNM,30.72637,76.7250004,convenience_store
+667,Dayal And Company,ChIJq6qqat7sDzkRUi5OUsI8RVU,30.71891309999999,76.80172710000001,convenience_store
+668,Toy store,ChIJHRke4f3tDzkR7iDAdFJAJds,30.73239299999999,76.7643389,convenience_store
+669,Today Provision Store,ChIJIfmLSmzuDzkR_0lW2AVX5Q4,30.7318649,76.71910079999999,convenience_store
+670,Des Raj Provision & General Store,ChIJ____r8PtDzkRZRchl5u_L4Q,30.73562609999999,76.74880189999999,convenience_store
+671,Today Departmental Store,ChIJkxGtMmzuDzkRDy0t-2MA7uk,30.73196299999999,76.719003,convenience_store
+672,Easyday Club,ChIJIf792-rtDzkRcamuAH-ywwI,30.73597029999999,76.7350005,convenience_store
+673,24SEVEN,ChIJBY8wmSbtDzkRXhusIWKOIc0,30.7261575,76.8046169,convenience_store
+674,Simla Music House,ChIJBQAAQB7tDzkRM93u8OouPuk,30.72234229999999,76.7989975,electronics_store
+675,Columbus Electronics Private Limited,ChIJ_____-rsDzkRhDFP8keULvQ,30.712339,76.807761,electronics_store
+676,Broadways Marketing Pvt. Ltd,ChIJRdNcgQ3tDzkReAjp47C3Dx0,30.735138,76.7957666,electronics_store
+677,Goel Auto Lines,ChIJq6qqat7sDzkRBtY8xdNUKQw,30.71834829999999,76.80221499999999,electronics_store
+678,Universal Network Power Quality,ChIJ____vy2TDzkRxj6NGY4cCyE,30.714205,76.832939,electronics_store
+679,The Computer Federate,ChIJyeSe2g7tDzkRllwFkMla3UM,30.73586499999999,76.7863251,electronics_store
+680,Acer Noble Infomatique,ChIJAQAAQADtDzkRFh0yEQuRk10,30.7158797,76.7780782,electronics_store
+681,Shopia.in,ChIJq6qqqgvtDzkRwfvzKiYx_xA,30.7332254,76.78702899999999,electronics_store
+682,Sangeet Bharti Music Academy,ChIJq6qqqgvtDzkRRS_FJTEzNc8,30.6786494,76.8319673,electronics_store
+683,Office Infotech India,ChIJPSMJH7jtDzkRf2eUq0k3ftM,30.7217974,76.7679596,electronics_store
+684,Rasnal Telecom & Security,ChIJq6qqakTsDzkRlFpzMa2Zt9A,30.6975853,76.78361819999999,electronics_store
+685,Rajindra Electronics,ChIJ____L8jtDzkRRMTud0u49rg,30.7259753,76.75882969999999,electronics_store
+686,Yantra Systems,ChIJVVVVFUjsDzkRP1sLTeyjJQg,30.7054961,76.758453,electronics_store
+687,Garg Electronics,ChIJH2mMF6btDzkRAZPXCKVQafA,30.7547397,76.7188721,electronics_store
+688,Central Computers,ChIJ4RzdAQvtDzkR8ZB987FuZBk,30.74009199999999,76.78273899999999,electronics_store
+689,Prakash Solutions,ChIJVVVVVaTtDzkRGcLyJcu8t8w,30.7305016,76.77423619999999,electronics_store
+690,ELPS Computer Technologies - Tata Tele Business Services Channel Partner,ChIJVVVVFbPtDzkRRjhzrh0bnnE,30.723374,76.767876,electronics_store
+691,44 D MARKET,ChIJX187gzTsDzkRAxUDBNq8XVE,30.714643,76.751196,electronics_store
+692,"""Rental Plaza""-only rentals, sco 68, sector 20-c, chandigarh for Computers, Laptops, Projector ON RENT in Chandigarh, Mohali, Panchkula",ChIJd02bpVXsDzkRdJxpznS7FuE,30.7162127,76.7776004,electronics_store
+693,"TouchTec - CCTV Camera, IP Camera, HD DVR",ChIJnewnH5PuDzkRr3SmBz6k86s,30.6698232,76.74337799999999,electronics_store
+694,Softphoton Web Haus,ChIJGbMZx_jrDzkRfXlbnqK22mI,30.668997,76.740404,electronics_store
+695,Blue Shark Software Solutions,ChIJBwAAwDXsDzkRevTijOfHfXE,30.67180799999999,76.74126199999999,electronics_store
+696,Modelling Portfolio Shoot / E commerce photo shoot,ChIJoRQh4znrDzkRZhSFiy7nj0E,30.649057,76.806472,electronics_store
+697,Dell Exclusive Store,ChIJeViFEfm-BTsR7cNlM510WJA,30.6932493,76.7331279,electronics_store
+698,Adroit Infoways,ChIJ1zaOiYrsDzkRlk3qP62hJfs,30.6962214,76.7855721,electronics_store
+699,Adarsh Electricals,ChIJS5TIB33rDzkROopM7yBNsQw,30.6950959,76.78885330000001,electronics_store
+700,Teksolvr.com,ChIJUdOx3EfsDzkRey-LzOJPKfk,30.705576,76.758489,electronics_store
+701,Jai Sai Market,ChIJa4yM5TXrDzkRExhLcSsb-CU,30.6551603,76.82114849999999,electronics_store
+702,Exide Industries Limited Chandigarh,ChIJnb3BFKfsDzkR8YsPfH5dn8o,30.67969330000001,76.81046719999999,electronics_store
+703,Ranjha Yaar Studio,ChIJi_zb64_uDzkRMJGTZUDaTBo,30.703484,76.720911,electronics_store
+704,"iConcept -  Apple Authorised Reseller , Sector 20 , Chandigarh",ChIJTST_rlXsDzkRmYmFALH0lrU,30.7161881,76.7776693,electronics_store
+705,Reliance Digital,ChIJQT6wjunsDzkRUzWte66A_ZM,30.705875,76.801217,electronics_store
+706,Boss computers pvt ltd,ChIJzzLhj__sDzkRSZS_-XzgWOU,30.7168511,76.7772825,electronics_store
+707,Dell Exclusive Store ( S T COMPUTERS ),ChIJ4U_sAFXsDzkRicMSgwFyuUw,30.7170343,76.7769939,electronics_store
+708,Fragrance Of Master,ChIJkwr6w__sDzkRd6dbrkqWouA,30.7165475,76.7792898,electronics_store
+709,Asus Exclusive Store - Accord Computech,ChIJnQRK41TsDzkRiTkKEnspR24,30.71755569999999,76.7764784,electronics_store
+710,A One Global Entertainment / A One PA System / A One Light House,ChIJGZdsTbTtDzkR1KdmWPyqenk,30.7212921,76.75936759999999,electronics_store
+711,SETIA INFOTECH,ChIJyzyFtFTsDzkRD2AnamqcOkA,30.719075,76.7751275,electronics_store
+712,Dell Exclusive Store,ChIJq55xTavtDzkRIZUKaj4dn3U,30.7194134,76.7748383,electronics_store
+713,Sole Network,ChIJeQAA0KrtDzkRoAGkC-GphdM,30.72211,76.770851,electronics_store
+714,Modern Furniture,ChIJV4iDUrOUDzkRdK55NF1axRg,30.6631309,76.8262142,furniture_store
+715,Grace Locks - Modular Kitchens in Chandigarh Panchkula Mohali - Hettich Blum Kitchen Manufacturers,ChIJ_____-rsDzkR0pnxmRX-wYo,30.708968,76.802768,furniture_store
+716,Amar Furniture Palace - Wooden Furniture in Chandigarh - Furniture in Chandigarh - MM Foam Mattress - Furniture Showroom - Pillows - Bed Sheets - Mattress Protector - Foam - Sofa Material,ChIJyzgJH5PsDzkRbDPRjt4xNwQ,30.6972746,76.794296,furniture_store
+717,Rama Stores,ChIJ24ykFwDvDzkRe5hQ07oQ63A,30.7089086,76.69403880000002,furniture_store
+718,Surya Textech,ChIJH2mMF6btDzkRfHzShCe1xog,30.70608039999999,76.8093305,furniture_store
+719,Bombay Dyeing Showroom,ChIJVVVVmRztDzkR9OUTa211PV8,30.7264122,76.79478089999999,furniture_store
+720,RBJ STEEL PRIVATE LIMITED,ChIJ82OIifHsDzkR5FAj7M28IF0,30.67209059999999,76.7431766,furniture_store
+721,Ahuja Furnishers,ChIJq6qqamGTDzkR0eJZS2xUs4s,30.688391,76.85139199999999,furniture_store
+722,Fabindia,ChIJBwck3GmTDzkRiD0ZkawJ_4s,30.696083,76.84176599999999,furniture_store
+723,Universal Waves,ChIJI3A4xp_uDzkRI_0-boF2Jio,30.6944717,76.73231299999999,furniture_store
+724,Homestudio,ChIJRemfnVfpDzkR2axKJc9JWHA,30.6591801,76.7308481,furniture_store
+725,Falcon Modulars,ChIJSfxDR1XpDzkRHPyvsUcK4O8,30.66918459999999,76.74086659999999,furniture_store
+726,Falcon Office Furniture,ChIJwXGE3I_sDzkRZrAMpQd5xYQ,30.6691346,76.7335342,furniture_store
+727,Falcon Innovative Furniture,ChIJzwEAALDuDzkRp4Dj3N4CtYU,30.6687151,76.7321789,furniture_store
+728,R D Sons,ChIJKQpNyRrsDzkRJh9Ibx2eCLQ,30.6825435,76.7434104,furniture_store
+729,Decor Plus 99,ChIJkds-yyfrDzkRwGKI7pdKpsg,30.6374519,76.8155895,furniture_store
+730,Sahil Collections,ChIJ5dxMHTfrDzkRuEpIVWWgN4U,30.638355,76.817069,furniture_store
+731,Sleepwell Exclusive Gallery Basant,ChIJ1zn7oIzsDzkRe2i14wexq6E,30.6959298,76.78640879999999,furniture_store
+732,Toystoons,ChIJp6V-tU_rDzkR-pk-cXAU_jk,30.6622096,76.8187097,furniture_store
+733,Featherlite,ChIJNcVNzzPrDzkRXR5SkBy1V2o,30.6485349,76.82155639999999,furniture_store
+734,HATIL by Kratos Furnishers - Furniture Showroom In Zirakpur,ChIJ7QxfsS3rDzkR9TLtScAfnE8,30.64254309999999,76.82196499999999,furniture_store
+735,Kapoor Furniture House,ChIJ5ek2QaqUDzkR27aS3ystET4,30.6640999,76.8259841,furniture_store
+736,"Trendz, The Furniture Mall",ChIJF4YrXursDzkRVfe3QaPOSsw,30.7026492,76.8015276,furniture_store
+737,KAKA FURNITURE,ChIJC9ZLTS7rDzkR_8sxUTw96DA,30.6754057,76.8279235,furniture_store
+738,Chumbak – Home Décor & Fashion Store,ChIJZ2yOjunsDzkRci_2eLJRsPY,30.70549299999999,76.8012561,furniture_store
+739,"Alfa Furniture (Office Furniture, Office Chairs & Office Table Manufacturer in Chandigarh)",ChIJD63dhYzsDzkRDLf1fr4OV7A,30.6699648,76.8439531,furniture_store
+740,"Durian Furniture - Panchkula, Haryana",ChIJ79vhw7yUDzkR077q7gW1jW0,30.6688824,76.84506789999999,furniture_store
+741,Kitchen Kraft,ChIJU3jGvgTtDzkRnvC07fUgL_Q,30.7270437,76.7873305,furniture_store
+742,Aggarwal Distributors,ChIJizOG6yHtDzkRIm99GzbXhkY,30.7269216,76.80415190000001,furniture_store
+743,The Vastuwood,ChIJ__-DaubtDzkR2xh__IrA16Q,30.7428686,76.74359439999999,furniture_store
+744,Mayra Plaza Furnishing and Furniture Mall,ChIJ1eA85fKUDzkRpVGqKaJB0Ow,30.6583695,76.8647711,furniture_store
+745,"Jindal Industries Furniture Manufacturer in Panchkula Zirakpur (Almirahs, Coolers, Racks, Cupboards)",ChIJwwU9UmOTDzkRDRuZkewflec,30.688059,76.860289,furniture_store
+746,Kits,ChIJ9eYPX4KUDzkR4mu4cQYUwbY,30.6811506,76.86411729999999,furniture_store
+747,Glass Palace,ChIJT7Zr1ou_DzkRCIxYgSR4aAs,30.5348566,76.8172132,furniture_store
+748,Godrej Interio D S and Co.,ChIJYdNooYruDzkRiJ4t88QEd0A,30.7354855,76.681259,furniture_store
+749,Metro Sale,ChIJe1UBuDPrDzkR3kuk_59uu64,30.517519,76.8084156,furniture_store
+750,Hotel The Terrace,ChIJJ2Knoa_6DzkRP_JL0RgxyXo,30.7592205,76.6325505,furniture_store
+751,Shahi Furnishers & Exporters,ChIJ-_af1sbcDzkRPkaytS2LBbE,30.503696,76.6245696,furniture_store
+752,The Supreme Furniture Industries Ltd.,ChIJKxXqUwfHDzkRA-MvcZNbf74,30.4490303,76.7864874,furniture_store
+753,Godrej Interio,ChIJq6qqqgvtDzkR124x4f3lFvc,30.738389,76.78524999999999,furniture_store
+754,National Service Centre - BPCL,ChIJH5sCEaftDzkRFvj7tjNilSc,30.739532,76.78062899999999,gas_station
+755,Indian Oil Petrol Pump,ChIJTRTDREDsDzkRIO2Wj5ymaY0,30.6970436,76.7586303,gas_station
+756,Indian Oil Petrol & CNG Pump,ChIJ83XUnZvuDzkRiiVyLXmQhkA,30.70003149999999,76.7268205,gas_station
+757,Indian Oil Petrol Pump,ChIJ____vxLuDzkRdRH_iq2PgAk,30.7110106,76.7431196,gas_station
+758,"Sangam Filling Station, IOCL Petrol Pump",ChIJ3U4F7kDsDzkR8toZg89nXMw,30.6986084,76.7585831,gas_station
+759,Indian Oil Retail Outlet,ChIJD__6gm-TDzkRRT5g7a6TlgI,30.694473,76.857702,gas_station
+760,Indian Oil Petrol Pump Sector - 33,ChIJ5UiGwlTsDzkRr9pp4gkkLHU,30.717209,76.7757228,gas_station
+761,Shiva Hindustan Petroleum & CNG Station,ChIJkempUCLrDzkRdX3hvhRgxq8,30.6400457,76.8045365,gas_station
+762,Nanak Filling Station,ChIJValRHeLoDzkRGU2OnpmmqbU,30.63687620000001,76.6867246,gas_station
+763,Indian Oil Nirmal Sain Enterprises,ChIJcfz25F-TDzkR74j9RqqKeAA,30.682222,76.8480647,gas_station
+764,Indian Oil Retail Outlet,ChIJx44NPa3tDzkRGYO5CQSIWqc,30.7201057,76.7705075,gas_station
+765,"Reliance Petrol Pump, Mohali",ChIJ97lNi9HoDzkRblkRirmtVYQ,30.6581659,76.6778343,gas_station
+766,Indian Oil Petrol Pump,ChIJr-7ywtjsDzkRlyGbrv3jZp8,30.7209139,76.81000379999999,gas_station
+767,BPCL Petrol Pump,ChIJB5MidLDtDzkR4CZtUSvcfWI,30.729437,76.7665118,gas_station
+768,Petrol Pump,ChIJE3Amj9nsDzkRKZNhhOs_MNw,30.7256051,76.80427949999999,gas_station
+769,HP Petrol Pump,ChIJvei7TVXlDzkR-P5Yxbthjps,30.7501742,76.6404108,gas_station
+770,Indian Oil Petrol Pump,ChIJ1dC44peUDzkRKk3zDCSGVEo,30.6667,76.8483,gas_station
+771,City Service Centre CNG,ChIJ80-MHuvtDzkRvQJMR7--niU,30.742568,76.75483,gas_station
+772,Gas Station,ChIJhesBLqHtDzkRRJjLcZFXhpU,30.7367132,76.77621599999999,gas_station
+773,Pirzada Enterprises Indian Oil Petrol Pump,ChIJm8DPgXTuDzkRO0e4xTtO5xU,30.7342642,76.7278668,gas_station
+774,Indian Oil Petrol pump,ChIJMcegrkWTDzkRnJZP0RMjE2I,30.6951604,76.8401577,gas_station
+775,Petrol Pump,ChIJF7BkFWqTDzkRiJCJPiRLp7U,30.7001007,76.8504488,gas_station
+776,Happy Service Station,ChIJ____LAuTDzkR2muO0TaeXqg,30.706664,76.8706097,gas_station
+777,Essar Filling Station,ChIJ_yLdannpDzkRKcQMFrkCxDc,30.6281262,76.7268094,gas_station
+778,Indian Oil Petrol Pump Coco sector 65,ChIJu9MWoA_sDzkRsdwdLfHGyuA,30.6797129,76.74631099999999,gas_station
+779,HP PETROL PUMP - CITY SERVICE STATION,ChIJm_6n8R_sDzkRai8F_6hIzsA,30.69179,76.73461019999999,gas_station
+780,Indian Oil Petrol Pump,ChIJ8bQGDQHpDzkRmFfgOoSOmT8,30.6243266,76.6909214,gas_station
+781,Indian Oil Petrol Pump,ChIJPQw-q5XuDzkRQuLtbAidaNI,30.69279090000001,76.7138342,gas_station
+782,Chandigarh Automobiles,ChIJwdMGySHtDzkRFbedb76G9rs,30.7256174,76.80414209999999,gas_station
+783,Bharat Petroleum,ChIJNSk_6YzsDzkRHllaClg3Iac,30.6962207,76.78749309999999,gas_station
+784,Indian Oil,ChIJLViKsE_rDzkRNHp7TqytDqY,30.6651828,76.816671,gas_station
+785,Hindustan petroleum - Parmar Filling Station,ChIJDx7pyTXrDzkR0opILYMVJZM,30.653927,76.82158299999999,gas_station
+786,H P Filling Station,ChIJ91gHWSzrDzkRT5aDzZtVdxU,30.6408887,76.822926,gas_station
+787,Amalia Pump CNG Filling Centre,ChIJy85VcjHsDzkRTAzuJLIZ7GE,30.7097261,76.748739,gas_station
+788,Hindustan Petroleum,ChIJ88AyNPPlDzkRiugivrQdtBc,30.6817632,76.6339157,gas_station
+789,Bharat Petrol Pump,ChIJx-Nl1TPvDzkRRX773H9oENE,30.6691584,76.6729211,gas_station
+790,Petrol Pump,ChIJoyKP1TPvDzkRX-QZulirV3M,30.6691587,76.6728004,gas_station
+791,HP Petrol Pump,ChIJXUeNIi3sDzkRrbYUOGLi4kw,30.7147576,76.74297849999999,gas_station
+792,Bharat Petroleum,ChIJm1VS3VTsDzkRchhRJr-5qGo,30.7180336,76.77622269999999,gas_station
+793,HP PETROL PUMP ESS VEE FILLING STATION,ChIJl9vySXnuDzkRxvQoaZRmncE,30.720585,76.729237,gas_station
+794,Offlineproperty Properties in Chandigarh,ChIJ7fcBq-vsDzkRWkvmSMkCpo4,30.70226800000001,76.79985099999999,real_estate_agency
+795,"DLF Mullanpur, DLF Hyde Park, Plots in Mullanpur",ChIJ61gTLjryDzkRl1od-xaD_uw,30.720439,76.728866,real_estate_agency
+796,Reality Solutions,ChIJq6qqakTsDzkRgxIBukQ-jRY,30.7026207,76.7639499,real_estate_agency
+797,Estate Oaks,ChIJq6qqqjHrDzkRK8Z-kDgT_qE,30.650354,76.82074,real_estate_agency
+798,Sushma Chandigarh Infinium,ChIJdcqMQCvrDzkRgoia4zvmIMw,30.6382757,76.8246602,real_estate_agency
+799,Rubal Property,ChIJq6qqqgvtDzkR04DnU14VxMw,30.7398339,76.782702,real_estate_agency
+800,BookmyPG - Online Tolet Service Provider,ChIJAQAAwGHuDzkRfwPBcodSpR4,30.7144142,76.7149153,real_estate_agency
+801,Allied Realty,ChIJq6qqaqntDzkRAx0y0HVEYGQ,30.72514499999999,76.7775454,real_estate_agency
+802,Punjab Property,ChIJYf-0iBXtDzkRaZI5vV4_ar8,30.741098,76.802544,real_estate_agency
+803,Indiaproperty.com,ChIJH2mMF6btDzkRByYorymhJIs,30.731349,76.7754674,real_estate_agency
+804,www.123yards.com,ChIJq6qqqg_tDzkRH0HyL9lZ96A,30.72616290000001,76.7596221,real_estate_agency
+805,AMARJIT S SETHI & SONS (Since 1958),ChIJJ_j4erHtDzkRTVIe6Xv_-y0,30.7236138,76.7632063,real_estate_agency
+806,New Generation Real Estates Limited,ChIJVVVVBbHtDzkRRWWdHfLxHEM,30.7235713,76.7633239,real_estate_agency
+807,TDI Tuscan Floors,ChIJVVVVVaTtDzkR_FeDfo1Hlyc,30.732999,76.7711626,real_estate_agency
+808,"Office Space in IT Park, Chandigarh",ChIJN369cGqTDzkRTT9GVQIV8hI,30.726998,76.845627,real_estate_agency
+809,Amazon Bhoomi Greens,ChIJ____v26TDzkRXTXCZAkipoA,30.7231132,76.8533575,real_estate_agency
+810,Sachdeva Estates,ChIJ6xTKppDuDzkRadI-6hCkvwc,30.6978959,76.72184229999999,real_estate_agency
+811,India real estate,ChIJGfsvvK3tDzkReCko7gYczJ0,30.722601,76.769943,real_estate_agency
+812,DLF Valley Panchkula,ChIJa8lu5gvtDzkRunM3n3U5iz4,30.73783479999999,76.7843923,real_estate_agency
+813,Gandhi and co.,ChIJKQZXmRPtDzkRvCWvI4l6UwY,30.7408762,76.7961219,real_estate_agency
+814,Bata,ChIJVVVVmRztDzkRcPkOONhlsUA,30.7267996,76.7937449,shoe_store
+815,Metro Shoes,ChIJq6qqqgvtDzkRTt37tk3emNA,30.7398709,76.78222989999999,shoe_store
+816,Bata,ChIJAQAA8EPsDzkRO__NraD0Hpg,30.7002726,76.76320609999999,shoe_store
+817,Bata Shoe Store,ChIJH8bHP5qUDzkRVV3CxcGwwy4,30.6726549,76.85610989999999,shoe_store
+818,BATA,ChIJh9G2HCbrDzkRgBqFIBOoOsU,30.6378783,76.81413839999999,shoe_store
+819,Mochi Shoes,ChIJl0f_XpvuDzkRxHwAXU1sByk,30.70185,76.7277,shoe_store
+820,METRO Cash & Carry,ChIJw9s-yyfrDzkR9LVW80za_wU,30.6399362,76.8210019,shoe_store
+821,adidas,ChIJwT8XxIXuDzkRWJiyixgT0kM,30.707188,76.72448,shoe_store
+822,Sports Station,ChIJ2yqyOPjuDzkRIHLYps1EGTM,30.7081648,76.7235718,shoe_store
+823,Liberty Exclusive Showroom,ChIJr78Q8aXtDzkRSQJpApKZTPo,30.7308353,76.7730795,shoe_store
+824,Liberty Exclusive Showroom,ChIJFRhdDl-TDzkRic2TIVrhkTU,30.683233,76.84557699999999,shoe_store
+825,URBANTOES,ChIJZfoBAN_tDzkREIBjjXQqw9Y,30.7360331,76.7355108,shoe_store
+826,Hush Puppies,ChIJ98UxVgrtDzkRce-F_gHfpZQ,30.739834,76.782702,shoe_store
+827,"Skechers - Sector 17, Chandigarh",ChIJz5ecoArtDzkRByFTHSoiLN4,30.7411752,76.7798363,shoe_store
+828,NIKE,ChIJU1HVXaDtDzkR1DrdMwhfBoI,30.7403629,76.783068,shoe_store
+829,Bata,ChIJ1_RYcjyTDzkRg1fz0ZpW4Hg,30.7113121,76.84434139999999,shoe_store
+830,Mochi Shoes,ChIJq6qqqgvtDzkRTPM-lQj-oZA,30.739748,76.7826973,shoe_store
+831,Bata,ChIJVVVVVaTtDzkR-47Ky95B5Og,30.7354613,76.768963,shoe_store
+832,Bata,ChIJAQAA0LvbDDkRHupC6wPRUsA,30.7124202,76.7186558,shoe_store
+833,Sharma Collection And Footwear,ChIJn_g98A-dGjkRSLftHQe6oCM,30.6802877,76.7457489,shoe_store
+834,Desi Tech Guru,ChIJkRfliELsDzkR1Hhu-QWfxk8,30.696343,76.765174,shopping_mall
+835,Maya Garden Magnesia,ChIJoaL7EvvrDzkRwc-Ow3hpxnU,30.6224027,76.8250451,shopping_mall
+836,"Globstar Pvc Wall & Ceiling Panels Importers, Wholesalers, Dealers in Chandigarh",ChIJIa7G3LaUDzkRtabbicKaGk0,30.6618031,76.8342152,shopping_mall
+837,GCDL Shopping,ChIJKWrggv_sDzkRCNUGCDKkTOc,30.719092,76.78302,shopping_mall
+838,Homeskyshop,ChIJR6KkMqPuDzkRG6oNW7XThm8,30.713558,76.696137,shopping_mall
+839,Health Sky Shop,ChIJw8Anj6TuDzkRcxAcNthPqnc,30.713964,76.696266,shopping_mall
+840,GUPTA ELECTRIC CO.,ChIJX-pGO6btDzkRFzpm_OlBlbs,30.7328147,76.77621119999999,shopping_mall
+841,Mayra Plaza Furnishing and Furniture Mall,ChIJ1eA85fKUDzkRpVGqKaJB0Ow,30.6583695,76.8647711,shopping_mall
+842,Jain Motors and Mill Store,ChIJ8Sj98-C_DzkRSszi3rXiLxI,30.587939,76.8472413,shopping_mall
+843,TVS SERVICE CENTER KHARAR,ChIJ____IvzvDzkR76Q_UYHA5E4,30.7468583,76.6480606,shopping_mall
+844,Patanjali Store,ChIJIz1FkPLcDzkRknwFqDeWOEg,30.5004011,76.6057616,shopping_mall
+845,ARORA DEPARTMENTALS,ChIJCzwuRrL9DzkRmThbXh5oJek,30.7940277,76.49832339999999,shopping_mall
+846,Elante Mall,ChIJCW8IJ-rsDzkRI1FpwEbBRwk,30.7055464,76.8011422,shopping_mall
+847,"MaxExcel, KrazyGang - Factory Outlet",ChIJeZ6fgsvpDzkRKhXTWI93rf8,30.6541713,76.73160229999999,shopping_mall
+848,FLP OFFICE MOHALI,ChIJ0VT34QvsDzkRHE6crb6gIp0,30.6762102,76.751012,shopping_mall
+849,Atta chakki,ChIJWW-ZnQbsDzkRevBeD8ccKBI,30.6762221,76.74132689999999,shopping_mall
+850,Tirupati balaji builders pvt ltd,ChIJK9Uqe_rqDzkRMiLjnziHo2w,30.619681,76.787941,shopping_mall
+851,Krishna stationery hub,ChIJ4SSE6xTrDzkR2nkwC-Hund0,30.652081,76.79927649999999,shopping_mall
+852,SATYA ENTERPRISES,ChIJA7pRvSnrDzkR07i-8U33x-M,30.6449765,76.80103489999999,shopping_mall
+853,Myntra Office,ChIJkZA75rjvDzkRnWYqf5E8Kn4,30.6861572,76.7242519,shopping_mall
+854,Oswal Enterprises,ChIJ61KWy0DrDzkRoY3nJ2X0wRw,30.6566584,76.8084247,shopping_mall
+855,J S Baidwan General Store,ChIJH7baw8DuDzkRXfv2ECETnY4,30.68538969999999,76.7087159,shopping_mall
+856,"Galaxry dry cleaner #23 , Ravindra Enclave Baltana",ChIJxReQB1TrDzkRu88dPCmJI6U,30.66250180000001,76.8129878,shopping_mall
+857,HLP Galleria Mohali,ChIJB683r9_vDzkRB_XWCcZZ8D0,30.6983582,76.72460939999999,shopping_mall
+858,Central Plaza,ChIJq6qqWtHoDzkRQmeA6_INUP8,30.65688179999999,76.6822832,shopping_mall
+859,Joyland 70,ChIJGTrE-JPuDzkRCPwbPa_qoiM,30.6963716,76.71590119999999,shopping_mall
+860,PARIDHAAN,ChIJl9O-2yfrDzkRvU6-3HfS1kQ,30.6387183,76.8185872,shopping_mall
+861,pardhan genral store,ChIJ5c9YysvrDzkRH3M2g1SclBI,30.6555679,76.8201721,shopping_mall
+862,DCP DHIMAN COMPLEX,ChIJ-wIQA0rrDzkRepr-6LeL9WA,30.6567804,76.8204252,shopping_mall
+863,Lovy house,ChIJO7AcguXvDzkR_hcbOQelGL0,30.7052941,76.7328588,shopping_mall
+864,Gupta Cloth House,ChIJZ1PJljPrDzkR54tKb9LCyEo,30.6494922,76.8221277,shopping_mall
+865,Vandana's collection,ChIJoa2VaeOVDzkR3ToNpCjyYNQ,30.6462131,76.8248773,shopping_mall
+866,Hanuman traders,ChIJpafa1kjsDzkRcMd1wbzHYQE,30.7091806,76.7620087,shopping_mall
+867,Dhiman Atta Chakki,ChIJhfxQIP3BDzkR23ycOJw-DuE,30.5778713,76.7438971,shopping_mall
+868,"Aquafresh (RO,geyser,LED)",ChIJG2O7pbSUDzkRNPLeliPufio,30.6639127,76.82418659999999,shopping_mall
+869,Sai Super Market,ChIJ9fUMyFDsDzkRGeV-U7kc1u0,30.7093041,76.7733168,shopping_mall
+870,Krishna departmental store,ChIJNea93GzvDzkRZNWdAPMvk74,30.70473900000001,76.7119301,shopping_mall
+871,Balvinder Jewellers,ChIJ4SlciTrvDzkRA3qO3qKGxD4,30.6759213,76.6733184,shopping_mall
+872,Janta Market Phase 3B1 Mohali,ChIJ1-pviX3uDzkR2wbjFFnqUf4,30.7138252,76.72535599999999,shopping_mall
+873,P.T.C.(Panchkula Trading Co.),ChIJPRmbp0CVDzkRePSxvied_5w,30.6696438,76.8284219,shopping_mall
+874,Ansal Housing & Construction Limited,ChIJ____v26TDzkRejOqLRdHW-Y,30.698195,76.856005,storage
+875,CORE LOGISTIC PVT. LTD.,ChIJKQZXmRPtDzkRhAoIoQse-78,30.7408762,76.7961219,storage
+876,Cold Storage Warehouse (BGL - Group),ChIJqYVkhRHtDzkRSR23aZXRRtY,30.737548,76.793544,storage
+877,Central Warehousing Corpn,ChIJRdNcgQ3tDzkRiNF-YsiuNQs,30.706571,76.77678209999999,storage
+878,Central Warehousing Corpn,ChIJq6qqqgvtDzkR-J7orcLY61s,30.7398339,76.782702,storage
+879,Balaji Enterprises,ChIJAQAAQB7tDzkRLXeqiOOeNo4,30.7207064,76.80040369999999,storage
+880,Gati,ChIJAQAAAOHrDzkRU-r8kwLI51w,30.6506062,76.7364796,storage
+881,Sharma Maniyari and General Store,ChIJ11eVqGfsDzkRSfKv5l2avCE,30.69407759999999,76.7708921,storage
+882,Delhi Punjab Goods Carrier Pvt. Ltd,ChIJP1VVlSPtDzkRHLoNf-C5au8,30.6620735,76.8127169,storage
+883,Johnson & Johnson Private Limited Zirakpur,ChIJqbI8HEXrDzkRKveXpkw-5iE,30.6647398,76.81186199999999,storage
+884,Indane - M/S Arunita Gas Agency,ChIJ-wacaYzsDzkRAqJNCXoeclI,30.6941113,76.7868704,storage
+885,Ripple Fragrances Private Limited,ChIJgaCt_UjrDzkR8K2QOpwXQAI,30.659185,76.817145,storage
+886,Attar Logistics,ChIJjzkZqFrrDzkR5IO00_arnTs,30.66728939999999,76.81519829999999,storage
+887,Snap22,ChIJdwAA1JnsDzkRHhGOb-pXpn0,30.6876,76.799649,storage
+888,Central Warehousing Corporation,ChIJaSBrQe3sDzkR-4KrSM6XFVk,30.6965305,76.78702899999999,storage
+889,ProConnect Supply Chain Solutions Limited,ChIJBzC53PLsDzkRkWZYNKztsAA,30.6992856,76.7891248,storage
+890,Abbelo Organic Private Limited,ChIJV1VVRUnsDzkRrhUZfNOWDD8,30.71146969999999,76.761951,storage
+891,Office On Lease,ChIJWS9MeuzsDzkRlsjS5Me0Lp8,30.7022388,76.7967396,storage
+892,Bunge India Pvt Ltd,ChIJiXlPiOvsDzkR4SsSwMj08Vc,30.7026589,76.79721510000002,storage
+893,BSNL CIRCLE STORE,ChIJl_rURfjuDzkRE1EMEweYXBQ,30.7092827,76.6971992,storage
+894,"Stockyard, Jindal Steel & Power Limited",ChIJ4YPi78PsDzkRTiaWKuEtGrg,30.7065035,76.8079395,storage
+895,Samsung India Electronics Pvt. Ltd.,ChIJMwE2kcPsDzkRXf4suALMyfM,30.7076329,76.8076577,storage
+896,Emerson Climate Technologies Warehouse Chandigarh,ChIJWR3amsPsDzkRIN8Ibj1RTcI,30.7080107,76.8078926,storage
+897,Homeskyshop,ChIJR6KkMqPuDzkRG6oNW7XThm8,30.713558,76.696137,storage
+898,Global 360 Solution Pvt. Ltd,ChIJu8Y5B7HtDzkRgUUpwIUP_oM,30.72634699999999,76.765287,storage
+899,Health Sky Shop,ChIJw8Anj6TuDzkRcxAcNthPqnc,30.713964,76.696266,storage
+900,J.S.J. Builders Private Limited,ChIJY8AfjrftDzkR9ba0vMhoIug,30.72842129999999,76.75859179999999,storage
+901,Saini Tour & Travels,ChIJQy-OUNntDzkRdpfltPmOR7A,30.7320152,76.73892599999999,storage
+902,Sandor Medicaids Private Limited,ChIJ_Q7xvJiUDzkRvWfv52EbB2k,30.6749486,76.8499348,storage
+903,J.P Builders,ChIJHcIBDEWTDzkRznyYbWQoQEM,30.6947498,76.839158,storage
+904,Duke,ChIJOcaNLgXtDzkRpVsoMvRzLn4,30.73010690000001,76.7909316,storage
+905,Jai Shree Balaji Trading Co.,ChIJfbY-sNjsDzkRV9ObYbMT7bI,30.7220307,76.8092813,storage
+906,Black Dragon Martial Arts Academy Panchkula,ChIJK-4HilyTDzkRT1MthIyWzbw,30.6899791,76.84424949999999,storage
+907,Nitco Logistics Private Limited,ChIJDZa8L9fsDzkRD-77vP76hjQ,30.71853799999999,76.816722,storage
+908,Shivjot Developers & Builders Limited - Shivjot Landmark Society,ChIJUcIJIebtDzkRRbd_ehHp_oY,30.7430194,76.7449425,storage
+909,"Xplent | On-Demand Warehouse - Buy, Sale, Lease & Rent Warehouse or Godown in India",ChIJRUSM6wrtDzkRciBqICfKDTA,30.740799,76.781515,storage
+910,Central Warehousing Corporation,ChIJFQ7jhWaTDzkRaJhbGp9ylAc,30.6903586,76.8541321,storage
+911,Gati Packers And Movers,ChIJFbW96zqTDzkRiCGE9A2ShOw,30.7129491,76.8392678,storage
+912,Pharma Sales Corporation,ChIJraP-Y2OTDzkR27qA6qQRJhg,30.6881399,76.8593046,storage
+913,B.K. Black,ChIJG5cWjTyTDzkREvuofq80lcM,30.71293769999999,76.844735,storage
+914,Capital Store,ChIJAQAAwN_tDzkR4--xCK86HCY,30.7379145,76.7323466,store
+915,Satish Law Agency,ChIJjbgiTVlaGjkRqiEqeeB8ARs,30.7572064,76.80800169999999,store
+916,Sidhivinayak,ChIJO9jyq2vsDzkRKvukWLqLnh8,30.69211090000001,76.7599481,store
+917,Parveen Store,ChIJVVVVFbPtDzkR-cypl0fcFYU,30.722675,76.7668351,store
+918,Bata,ChIJVVVVmRztDzkRcPkOONhlsUA,30.7267996,76.7937449,store
+919,Bittu Bangle & Art Jewellery,ChIJX5cy8aXtDzkRa_CnwgwmqM0,30.73060999999999,76.772949,store
+920,Hotel Cama,ChIJXY24yH7uDzkRjefpfutfuVY,30.7197546,76.7297092,store
+921,Printing Press- AZAD OFFSET PRINTERS ( Also Azad Aquariums-Aquarium Shop) Roll Labels & Sticker & wedding cards & boxes in chandigarh,ChIJlZ12dMDsDzkRk3TBJcAqHo8,30.700073,76.80456099999999,store
+922,POSHAK CHANDIGARH,ChIJW6zfCkWTDzkRgpXrSCDLJkM,30.7389512,76.7833419,store
+923,Sricure Herbs (India) Private Limited,ChIJ_____6SUDzkRJlMmgSfnf9g,30.6762039,76.8390311,store
+924,Simla Music House,ChIJBQAAQB7tDzkRM93u8OouPuk,30.72234229999999,76.7989975,store
+925,Rama Stores,ChIJVVVVVaTtDzkRxhpeODA1wfU,30.7314887,76.7757584,store
+926,Jack and Gill,ChIJfVVVld_tDzkRkLFreROMh9k,30.736053,76.748448,store
+927,Indian Audio Centre,ChIJWeBsoAvtDzkR4bohpGSxH5g,30.7395249,76.7829534,store
+928,New Singh Document Centre,ChIJr7jKRjbrDzkR-irhcrZEnzA,30.6542156,76.818445,store
+929,Singh Department Store,ChIJVVVVCQTwDzkRxtsXaDGXrCU,30.754924,76.647279,store
+930,Sonia's Cakes n All,ChIJq6qqqnqTDzkRI-b6b_IIhEw,30.70101500000001,76.8546899,store
+931,Raymond - Milan Editions - Men's Clothing Shop In Mohali,ChIJDwAAwJ3uDzkRsYnUGP4Aesg,30.70421339999999,76.7261462,store
+932,Reliance Fresh,ChIJz8PciRvsDzkRsngEHL1zhYU,30.6855165,76.73945429999999,store
+933,Deep Glamour Lights,ChIJ____Pz3tDzkRx-N5K8x247o,30.7364573,76.80047309999999,store
+934,Reliance Fresh,ChIJz8PciRvsDzkRsngEHL1zhYU,30.6855165,76.73945429999999,supermarket
+935,Easyday Club,ChIJN0ofZSbrDzkRnWLRtpFdw3w,30.6374982,76.8117182,supermarket
+936,Peshawari Super Market,ChIJC8veUTyTDzkRtuUiV1yjpgs,30.7117912,76.845772,supermarket
+937,Spencer Super Market,ChIJAQAA8EPsDzkRRGPYAGwyl9g,30.7003815,76.7658624,supermarket
+938,Aditya Birla Retail Limited,ChIJQ4UpwSHtDzkRfq4Th1lMNY0,30.7261946,76.8041465,supermarket
+939,Amar Traders,ChIJAQAAALDuDzkRER4MEqX2Lkk,30.71431,76.70105699999999,supermarket
+940,Sahil Super Market,ChIJ0YJy1nHuDzkRclY_EYUzo-0,30.7283305,76.722207,supermarket
+941,More Supermarket,ChIJycywat3vDzkRsCTzrAOQVpE,30.74327540000001,76.66584879999999,supermarket
+942,Reliance SMART,ChIJIysv2gbsDzkRU_yUTiZMAOU,30.6737349,76.7402908,supermarket
+943,More Supermarket,ChIJk3MjEA_sDzkRvoNrMb3GUPM,30.6790401,76.7471888,supermarket
+944,GURU PRASADAM,ChIJZa7eqBvsDzkR5Ck3IgHReHs,30.6850927,76.74060209999999,supermarket
+945,Reliance Fresh,ChIJ7atApSbrDzkRH51Use2ER7g,30.63705529999999,76.8101926,supermarket
+946,Raashan Mart,ChIJWyp42ijrDzkR13hDvH-HEcU,30.6381742,76.8168176,supermarket
+947,REALROOTS OFFICE,ChIJ7Yjf1SjrDzkR2dPcsSGoxt0,30.6385793,76.8172156,supermarket
+948,SENTIMENT OFFICE FURNITURE,ChIJURBAXo7uDzkRkOLkDzQbILE,30.7046486,76.71787259999999,supermarket
+949,US Dollar Store,ChIJaaQUorXtDzkRRWt6AF6wLYk,30.72031029999999,76.757999,supermarket
+950,Chhabra,ChIJaeG767CUDzkRLacLZHLOc74,30.665084,76.83581099999999,supermarket
+951,Reliance Fresh,ChIJnfr_v2HuDzkRsXW8e17N_sg,30.7161739,76.71578199999999,supermarket
+952,Vishal Mega Mart,ChIJPzidsmnuDzkRTZAYvBZRAog,30.7163236,76.7161161,supermarket
+953,Desi Sangrah - Live Oil Extraction In Panchkula - Desi Jadi Buti Shop in Panchkula - Ayurvedic Treatment In Panchkula,ChIJva751lCTDzkRlQMWt001rhE,30.68641530000001,76.8348092,supermarket
+954,Chandigarh Immigration Services,ChIJUVVVFbPtDzkRQQER6hZ8JkQ,30.7241247,76.7692021,travel_agency
+955,WWICS Global Law Offices Pvt Ltd Mohali,ChIJR1t0HETuDzkRqdm-HC7L6lM,30.731568,76.7108318,travel_agency
+956,CrossBorders EduGroup,ChIJjfpzyQztDzkR2o-PeBgeJpM,30.678125,76.74780700000001,travel_agency
+957,EKLAVYA Travels,ChIJI4BqRZftDzkRyF_EMAA_Hd8,30.7394376,76.7241597,travel_agency
+958,Globus Overseas Consulting Private Limited,ChIJawAAQADtDzkRwTPRMRU892A,30.7202063,76.758011,travel_agency
+959,Avtar Travels SINCE 1972,ChIJa8lu5gvtDzkRgP7xGimvChk,30.74333649999999,76.7898936,travel_agency
+960,Globizz Overseas Consultants (P) Ltd,ChIJa5oOhw3tDzkRnXs6r3kMl1M,30.7228379,76.76775549999999,travel_agency
+961,Sumit Enterprises,ChIJq6qqajTsDzkRSDGiPtJPtY4,30.71314480000001,76.7518427,travel_agency
+962,Trip / Tours Planner (U.K./ U.S./CANADA/AUSTRALIA/NEWZEALND/INDIA/SINGAPORE),ChIJVVVVVZXtDzkRyqSDiuYQ8JE,30.73778,76.78443899999999,travel_agency
+963,Seva Tours & Travels,ChIJAQAA0HPuDzkRxStSJrsPnAk,30.734772,76.71551889999999,travel_agency
+964,Art of Travel,ChIJw3ldc_XsDzkRHTAOgnQzRtQ,30.69977699999999,76.781172,travel_agency
+965,CWC Immigration Solutions Inc.,ChIJYRWX2usv9hQRLRjz_aRRzr8,30.6574535,76.73750319999999,travel_agency
+966,Eazy Money Travels,ChIJUZEb7GHuDzkRUP-cK4WySSo,30.6818886,76.7438298,travel_agency
+967,Unicorn Overseas Solutions,ChIJ_alEnx7sDzkRTIJHSAhKx2A,30.6864056,76.74091279999999,travel_agency
+968,GLOBAL ROOTS,ChIJRT6DTojuDzkREjS392psmyE,30.6868337,76.7375407,travel_agency
+969,Jhajjz Luxury Rentals,ChIJ8azSDiDsDzkRKpUbsfm9oto,30.693394,76.7340135,travel_agency
+970,Ridhi Travels,ChIJxwzxSfHsDzkREOYA9hPCEHM,30.6996092,76.76638799999999,travel_agency
+971,Krishna Associates,ChIJS_OeEUPsDzkRDKVJFFYlXpU,30.69961429999999,76.76628110000001,travel_agency
+972,Broadway Immigration Services,ChIJrwuIypDuDzkR0GhlokpH6Cc,30.6966648,76.7202212,travel_agency
+973,Education Abroad Consultants,ChIJNVVVFZHuDzkRDmrZ4fSADU8,30.6969941,76.72072059999999,travel_agency
+974,TOORZ TRAVELS - One Way Taxi Service from Chandigarh to Delhi,ChIJec560pDuDzkRf_vqJZEN1D0,30.6968514,76.7198745,travel_agency
+975,Jai Mata Tours And Travels,ChIJY59Q7kfsDzkRUVzIk-arUGI,30.7051309,76.75757329999999,travel_agency
+976,Thomas Cook,ChIJvcIAiBHtDzkRuOWGXm8Y7g4,30.7093005,76.75125779999999,travel_agency
+977,Future Abroad Education Consultants,ChIJT3RETJvuDzkRuUyOpfu_MZs,30.7134052,76.75161729999999,travel_agency
+978,C P INFOTECH,ChIJ09o11bKUDzkRkRZHs7DNWwA,30.66534499999999,76.825985,travel_agency
+979,Mast Yatri - Tours & Travel,ChIJraqqquvsDzkRlQ6oGvRLRno,30.702105,76.800009,travel_agency
+980,Best Study Visa and Immigration consultant in Chandigarh and Jalandhar for Australia and Canada,ChIJGU3WdvbuDzkRhQFYPigOmtU,30.7090568,76.70729539999999,travel_agency
+981,Mega Immigration,ChIJg8gb-yrrDzkRcpqh0OXAW9k,30.7159803,76.7779012,travel_agency
+982,Ridhi Travels,ChIJs05nu1XsDzkRAy0CI-18dHc,30.715973,76.77799,travel_agency
+983,Charms Education & Immigration Services,ChIJEdpgP8LtDzkR6FKKzTq3MPA,30.71968889999999,76.7682688,travel_agency
+984,GLOBAL GUIDE VISA CONSULTANTS PVT. LTD.,ChIJDcs-e2HuDzkRgvMyz24NYfw,30.7162657,76.7159341,travel_agency
+985,Western Overseas,ChIJ4REUeQrtDzkRbNGlXQphlGo,30.721569,76.7601732,travel_agency
+986,Best Tempo Traveller Services in Chandigarh | Best Taxi Service in Chandigarh,ChIJK-Y7X6vtDzkRiHp9rJBqSEo,30.720318,76.774163,travel_agency
+987,Guardian Tours & Travels,ChIJh4gWGHnuDzkRyB98AVOCOSE,30.721865,76.73028099999999,travel_agency
+988,Easy Visa Education Consultants Private Limited,ChIJM6uqqgvtDzkRPIwWXsYJB-g,30.7225346,76.7682753,travel_agency
+989,Chandigarh Wale Pvt Ltd,ChIJHfR2Eq3tDzkRLqWeNth7hAQ,30.7228183,76.76755899999999,travel_agency
+990,Air India,ChIJiX8Mra3tDzkR-VpIlDjfvR4,30.72230029999999,76.7710048,travel_agency
+991,Planet Bulls Consultants Private Limited,ChIJG4JobXnuDzkRMVgAMRC39Uo,30.7225882,76.7288963,travel_agency
+992,"Global Bee Holidays: Book Cheap Flight, Hotel, Tour & Holiday Packages Chandigarh",ChIJxdhDuK3tDzkR0UsLsTJ4TGI,30.7229326,76.7703281,travel_agency
+993,Riya the travel expert,ChIJ6dwp8q3tDzkRQ2HRXFEEI4c,30.723347,76.76890800000001,travel_agency

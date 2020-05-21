@@ -1,0 +1,158 @@
+,place_name,place_id,lat,lng,type
+0,IndusInd Bank,ChIJfTKE9XtwDTkRQ1AjPf6Q-_k,28.6079165,76.64827729999999,bank
+1,Andhra Bank,ChIJD4e39HtwDTkRxDvQgPJucU4,28.607681,76.6484463,bank
+2,Union Bank of India,ChIJXwH7HGlwDTkRsuMj5AUkBEU,28.6003716,76.6606182,bank
+3,State Bank of India,ChIJrYiVbX5wDTkR2GJuGLHNt2s,28.6122538,76.64584459999999,bank
+4,Punjab National Bank,ChIJJzcbfHxwDTkR381CLhfmllE,28.6084628,76.64962109999999,bank
+5,ICICI Bank Jhajjar - Branch & ATM,ChIJpasuE2RwDTkRplcbnnlYKSQ,28.6079021,76.65713989999999,bank
+6,Co Operative Bank,ChIJcaGavWRwDTkREucEylxT9fk,28.6075996,76.654203,bank
+7,Central Bank of India,ChIJp0GVVm9wDTkR5BYAQ2pYb9E,28.6029366,76.6581516,bank
+8,United Bank of India,ChIJDXa9gGVwDTkRX8FZ_oI1ji4,28.60304,76.655985,bank
+9,Vijaya Bank,ChIJPwv_Wm9wDTkRbMJKiFc3snA,28.6026134,76.6577077,bank
+10,Sarva Haryana Gramin Bank,ChIJPRdF2HpwDTkRw7IiFI8Fxjo,28.605321,76.651972,bank
+11,Bank Of India,ChIJGV5Xt2hwDTkRCA1F3wdoh9g,28.6022166,76.6593264,bank
+12,Axis Bank ATM,ChIJawf-qGhwDTkRw4ZKoUFMT7o,28.612178,76.6508583,bank
+13,IndusInd Bank,ChIJAQ4GcmRwDTkRE-StaPP_Pp4,28.6079253,76.64827869999999,bank
+14,IndusInd Bank,ChIJ4b9-9XtwDTkRrBgy-jap3Ac,28.607912,76.648268,bank
+15,Oriental Bank of Commerce,ChIJxSuRcXxwDTkRXh5nso_6ypc,28.6101463,76.6469755,bank
+16,IDBI Bank,ChIJ8RDLfH5wDTkR1QI5sYPLZ1I,28.610363,76.6465312,bank
+17,YES Bank,ChIJjT29en5wDTkRr_OY7myqcLI,28.61183,76.646109,bank
+18,HDFC Bank,ChIJrU6qAX5wDTkReSW8pQA7xQI,28.6133,76.6467,bank
+19,HDFC Bank ATM,ChIJJ7QFbn5wDTkReBHkMiGZiYs,28.6133,76.6467,bank
+20,Irrigation Department,ChIJ_xZFpXlwDTkRAi-VJZxpti0,28.60408249999999,76.6448766,local_government_office
+21,Employment office,ChIJi2pfhH5wDTkRGF59r8HpIrI,28.611929,76.642876,local_government_office
+22,Lac Office Jhajjar,ChIJU2TnsH1wDTkRUhynFEkX4iI,28.611438,76.6489442,local_government_office
+23,Public Health Sub Div. No2 Jhajjar,ChIJE7aSQXpwDTkROji4tNVvQtU,28.6037889,76.648802,local_government_office
+24,Umraniya Law Firm Jhajjar (Haryana),ChIJmQxoxGlwDTkROaKMl9gAjfA,28.5998732,76.66342379999999,local_government_office
+25,Public Health Engineering Pipe Store,ChIJXfY0XopwDTkRV0qZb_ypo6U,28.6164836,76.6612291,local_government_office
+26,Drinking Water Supply,ChIJ3eAWgWlwDTkR3umYZaD6oto,28.5980675,76.6617397,local_government_office
+27,Mini Secretariat Jhajjar,ChIJc3aEn0dwDTkRKNSPC-kP6U0,28.599205,76.6642251,local_government_office
+28,ADC House Jhajjar,ChIJjVjMREJwDTkRt7K5j9KKnQA,28.6004216,76.6662978,local_government_office
+29,Dhanirwas,ChIJu9s1dm5wDTkReK9pRlqdCyk,28.5972206,76.6547871,local_government_office
+30,"Happy Spine Therapy, Ceragem Spine Centre",ChIJYd1QqjRxDTkRq15Bb40CtsU,28.610222,76.6457021,local_government_office
+31,CIA STAFF JHAJJAR,ChIJlevkx0lxDTkReEvnyk2BqJg,28.6029392,76.6465279,local_government_office
+32,Office of The Superintending Engineer Public Health Engineering Circle,ChIJP3WAimlwDTkRYqSax65vaF0,28.59793090000001,76.6627273,local_government_office
+33,Zila parishad office,ChIJYRHkwHlwDTkR4ZEECOLXR-U,28.6032033,76.6453591,local_government_office
+34,Provincial Division PWD B&R Branch Jhajjar,ChIJc96sGn9wDTkRNbGVWeAcqU4,28.609604,76.6434697,local_government_office
+35,Public Health Division No. 3 Jhajjar,ChIJrWvBn39wDTkRwutSTzYoinc,28.610294,76.642609,local_government_office
+36,Fishries Office,ChIJjxfTtqJxDTkRYRvpSi25VHY,28.6045226,76.6415289,local_government_office
+37,Jhajjar Police Station,ChIJ6TR3pGRwDTkRxE04AhGm0ao,28.6080154,76.6538832,police
+38,Police Station Jhajjar,ChIJw9A14nlwDTkRS9uWll6D8ms,28.6021513,76.64604539999999,police
+39,Jhajjar Mukhya Daak Ghar,ChIJTT0PnmRwDTkRrqVEMYO449s,28.60848159999999,76.6548729,post_office
+40,Jhajjar Courts Post Office,ChIJZfC712lwDTkRNSXSpRK3acg,28.6003439,76.66425690000001,post_office
+41,Sunil kumar,ChIJmWP3haBxDTkR8D3oe_udaT4,28.6054875,76.6537749,school
+42,GENIUS EDUCARE,ChIJY60eA3lwDTkRRu_cNZ8UMN4,28.6052947,76.64436169999999,school
+43,Government Boys High School,ChIJlQMs2mRwDTkRIjYpFCLqJN4,28.6058731,76.6544468,school
+44,Red Cross Computer Centre,ChIJyQbM8XlwDTkRfHq9AvvxiQY,28.60310780000001,76.6460092,university
+45,Bus Stand,ChIJI0lQgntwDTkRlTQsVxu2BTw,28.6076002,76.6495712,bus_station
+46,Bus Stand,ChIJI0lQgntwDTkRlTQsVxu2BTw,28.6076002,76.6495712,transit_station
+47,Lekhraj Mandir,ChIJ--Ac7E5xDTkRjklMkb1rjHw,28.6090347,76.6572757,hindu_temple
+48,"Digital Photo Studio, Jhajjar",ChIJPyASyGZwDTkRczkhSSTAefs,28.6084566,76.6601096,hindu_temple
+49,Trimurti Mandir,ChIJVcBhh29wDTkR7iC2V_cK488,28.6029054,76.6552427,hindu_temple
+50,ACE COMPUTER CENTER,ChIJVVVVGWRwDTkRTfG0BohB4oI,28.6078614,76.6582368,accounting
+51,SCA AND COMPANY,ChIJB_VTA6dxDTkR1T6ePFyQd14,28.6089174,76.65441349999999,accounting
+52,Alankit,ChIJ_RpSuHdxDTkRi7hC19KWxVs,28.6100712,76.6499334,accounting
+53,Alankit,ChIJ3x3RnylxDTkRv2oTfNmUZJQ,28.6118069,76.6458348,accounting
+54,Dhaka enterprises,ChIJNy_fw2lwDTkRuLzyRjIUbGw,28.613214,76.645348,accounting
+55,Chotu Ram Baker's,ChIJ-12YImRwDTkRbxoJpwC3HsQ,28.6073513,76.6579182,bakery
+56,Sunny Bakers,ChIJ3SL1ImRwDTkRsw4SJHw5m60,28.6073791,76.6580462,bakery
+57,Biscuit bakers,ChIJm5LYPQZxDTkR4L7l4v0Vpw0,28.6060944,76.6584946,bakery
+58,Jagdish Biscuit Bakery,ChIJDcXSULVxDTkRf9i_Ww-pwXQ,28.6060062,76.6586652,bakery
+59,Shyam Bakery,ChIJsxLdrWRwDTkRbf-JIvIfR_Q,28.6078256,76.6531615,bakery
+60,shree shyam ice cream parlour & cake shop,ChIJZ_zuJ2VwDTkRpo1qYk6AG8w,28.605552,76.6536019,bakery
+61,Guru kirpa bakery,ChIJ60uPVmdxDTkRbk1EjLIbGuY,28.6028265,76.65926069999999,bakery
+62,Raadhe Murli Wala,ChIJN3v5mXtwDTkR-j1O5DDshBQ,28.606581,76.6534795,cafe
+63,R.S solution point & stanographer class Hindi & English,ChIJxb-UrBlxDTkRaweyGS99xac,28.6054875,76.6537749,cafe
+64,Partab Tea Vala,ChIJX8-EhHxwDTkRdQizQpKWjVo,28.6085529,76.6505186,cafe
+65,24×7,ChIJpz9fJqNxDTkR-VOgHLaCrpA,28.6097814,76.6464313,cafe
+66,Kaushik Tea Stall,ChIJLeJk939wDTkRll7GECou1DU,28.61228539999999,76.6415315,cafe
+67,Lohchab Mahindra Showroom Jhajjar,ChIJkQitOHpwDTkRdpi3xVfltw8,28.60427219999999,76.6492496,car_dealer
+68,Sales And Purchase Of Old Cars,ChIJU2iLZKRxDTkRCMLoWtYWIeo,28.6053202,76.6578759,car_dealer
+69,Lohchab Mahindra Workshop Jhajjar,ChIJLYDMw2twDTkRVaiA5DliAyw,28.5995098,76.6596689,car_dealer
+70,Shri Shyam Honda,ChIJTWYkU29wDTkRj7UIZXPhl4w,28.6113906,76.64617009999999,car_dealer
+71,Chauhan Tyre house jk,ChIJi1v_4RlxDTkRIQ81XzcCz1E,28.6054875,76.6537749,car_repair
+72,Pushkar Automobiles - Hero MotoCorp,ChIJKdgMO_RxDTkRnF8MP7xycFI,28.6033316,76.6666247,car_repair
+73,Royal Enfield Service Center,ChIJPSsrjV9xDTkR98AWp4wdFQI,28.60862999999999,76.64605999999999,car_repair
+74,Ashoka Automobiles,ChIJd7B99H5wDTkRIZTYKCCqbU4,28.6101722,76.6453399,car_repair
+75,CONTINENTAL PREMIUM DRIVE,ChIJXyj9RSBxDTkRQjlS5yl1UDs,28.6104583,76.6450433,car_repair
+76,BKT Tractor &JCB Tyres,ChIJ0QsT_BtxDTkRzI0tTOXPMaM,28.6105336,76.64500939999999,car_repair
+77,Yadav Motors ©®™ | MRF | BRIDGESTONE | YOKOHAMA | MICHELIN | CONTINENTAL | HANKOOK | PIRELLI | MAXXIS | BKT | OLD SHOP,ChIJq3Mq9n5wDTkR0ub7kTIK5RY,28.6105837,76.64495409999999,car_repair
+78,MRF Jhajjar- Yadav Motors - Bridgestone|Yokohama|Continental|Hankook|PIRELLI|BKT|MAXXIS|Michelin,ChIJJRoKC3xxDTkR1rwVNBf_NxY,28.6105723,76.644892,car_repair
+79,MICHELIN,ChIJ0TQJDSZxDTkRDMcQPJLf8iA,28.610629,76.6448721,car_repair
+80,S Kumars Tarun Emporium,ChIJSRC_mmRwDTkRPnuYSRkkfO8,28.6079695,76.6549125,clothing_store
+81,"CHAHAR FASHION POINT, GURUGRAM ROAD, JHAJJAR",ChIJDcq-pSRxDTkRVvbbC4hXcg8,28.6014476,76.66010849999999,clothing_store
+82,Uniparels Pvt Ltd,ChIJAQBEiHxwDTkRhL3-YHx5F-I,28.608946,76.6500476,clothing_store
+83,Khoobsurat cloth house,ChIJpasuE2RwDTkRIamJRQLDPhM,28.6078106,76.648065,clothing_store
+84,diamond telecom,ChIJ_9ti10FxDTkRuN44tGtDzMA,28.6082143,76.6550105,electronics_store
+85,Chawla Electronics,ChIJVzZOnXxwDTkRrmv_RSBN8ik,28.608199,76.6505995,electronics_store
+86,SHRIRAM FURNITURE & ELECTRONICS,ChIJJfI0YZ9xDTkRWDLzRWper1M,28.6133438,76.6602635,electronics_store
+87,COMPUTER EMPIRE & CYBER CAFE,ChIJ_-zD23FxDTkRTC2FWjzcrCg,28.608946,76.6500476,electronics_store
+88,Voltas Service Centre,ChIJnxQnB_FxDTkRWbVaL5kHCQQ,28.6090848,76.6498666,electronics_store
+89,Dhruv IT Solution,ChIJ6bAnvntwDTkRU5jMgHoLNOQ,28.606546,76.648724,electronics_store
+90,Yadav Properties,ChIJu-1qFHlwDTkRgRjSN02dv9o,28.6059335,76.64534019999999,electronics_store
+91,IFB Point - Jhajjar,ChIJ-cjhE2RwDTkRleJKK_wbtzc,28.607865,76.65751,furniture_store
+92,SHRIRAM FURNITURE & ELECTRONICS,ChIJJfI0YZ9xDTkRWDLzRWper1M,28.6133438,76.6602635,furniture_store
+93,Bharat Petroleum Petrol Pump,ChIJsYdzqWRwDTkR8igr_42-g-w,28.608212,76.65322859999999,gas_station
+94,HPCL Petrol Pump,ChIJuZhuZ2VwDTkRnA5_fJwOb5Q,28.6032952,76.6543324,gas_station
+95,Rathi Petro City Hindustan Petroleum,ChIJP_9bZ2VwDTkRXtSnT6ly6M4,28.60324,76.65429,gas_station
+96,Essar,ChIJa3IsIH5wDTkRPJR1TOa7Blo,28.6131945,76.6457068,gas_station
+97,"Bharat Petroleum, Petrol Pump -Suraj Filling Station",ChIJmZwT3tpxDTkR3qs71PG1M4c,28.61203669999999,76.6540893,gas_station
+98,"Bharat Petroleum, Petrol Pump -Shadi Ram Udmi Ram",ChIJFfcDRDlxDTkR8T2pdu2sWIo,28.6001923,76.66020069999999,gas_station
+99,S K Petro Jhajjar-CNG Station,ChIJnx-7vIBwDTkR9PJdjkLQ7ms,28.6133445,76.6455939,gas_station
+100,Haryana Service Corporation Indian Oil Petrol Pump,ChIJtU_6vGtwDTkRNkmASL53hsM,28.595685,76.660258,gas_station
+101,Petrol Pump Jhajjar,ChIJE68Fo2twDTkR0eiaKKiQRig,28.5953892,76.6602583,gas_station
+102,PetROL Pump Monu,ChIJqUzypGtwDTkRII_HEtA2eQk,28.5954161,76.6605082,gas_station
+103,Pump House,ChIJS5LVAWtwDTkRsP82oPbkgcs,28.5947517,76.661474,gas_station
+104,Haryana Service Corp,ChIJx2eoifBxDTkRyLgmOGkX9OU,28.590487,76.66291199999999,gas_station
+105,Milan Properties & Consultants,ChIJRXCq735wDTkR-7U81122Ibc,28.60959,76.645047,real_estate_agency
+106,Swastik Properties,ChIJOXNoYW9wDTkRs9TCxbcihsM,28.602807,76.65684,real_estate_agency
+107,Bhardwaj Real Estate,ChIJ1WH5T_NxDTkRGpo6m-fPuOg,28.6062258,76.6434439,real_estate_agency
+108,Vishal Mega Mart,ChIJ_6T18X5wDTkRhd4j0k2dDE8,28.60986149999999,76.64523439999999,shopping_mall
+109,Shyam Painter - SLG Printer & Gifts Gallery,ChIJq2ljZWZwDTkREn1JVyiwdik,28.6054958,76.6594326,shopping_mall
+110,MAHENDER KIRYANA,ChIJp0V8sGdwDTkRMEOcWJwDxq4,28.6056215,76.6622003,shopping_mall
+111,Bedwal Shop,ChIJ9Xx9gGhwDTkR-CCjnp9hDj0,28.6033511,76.6614493,shopping_mall
+112,Pintu Gift Shop,ChIJL3DQPt5xDTkRw-4IbhFihHs,28.60803649999999,76.65108459999999,shopping_mall
+113,CITY MALL,ChIJr0VTR9txDTkRqmrDaORWzXc,28.6097369,76.6464048,shopping_mall
+114,Patanjali Pasu Ahar And Arogya Kendra,ChIJMSk8i3lwDTkRoGqyWVOOSUo,28.6035045,76.64647149999999,shopping_mall
+115,CSD Canteen Jhajjar,ChIJMaBV5ndwDTkR5CFZqzotFDY,28.6001106,76.6406133,shopping_mall
+116,pacᴋers and moᴠers jhajjar call 𝟾307091500,ChIJscc4IQ5xDTkRB2mIuUY0iTo,28.605488,76.653775,storage
+117,Devi Barfi Bhandar,ChIJL9vyI2RwDTkRu1cmx7mXAD4,28.6072056,76.6581806,store
+118,Crunchy Burger Jhajjar,ChIJYbCxJ2VwDTkRppd3Uja1Vi0,28.605418,76.6534367,store
+119,Samsung SmartCafé (Kapil Telecom),ChIJGU_bWntwDTkRA1MPArIP6yM,28.6081254,76.65150080000001,store
+120,Devi Barfi Bhandar⁠⁠⁠⁠,ChIJC-_-BWpwDTkRwf2Yh7Rzh14,28.601155,76.66051,store
+121,mayank traders,ChIJe5U6nGhwDTkRtRSa_HYNieo,28.602384,76.663234,store
+122,Lohchab Mahindra Showroom Jhajjar,ChIJkQitOHpwDTkRdpi3xVfltw8,28.60427219999999,76.6492496,store
+123,Daily Needs,ChIJtbpZyXtwDTkR9HMS1eUurQ8,28.6054416,76.6481835,store
+124,Ansh Bajaj,ChIJQ6TNE3lwDTkR6i3yQ_UgQEw,28.6056368,76.64534479999999,store
+125,Easy Day,ChIJneQkNXlwDTkRBJ6vWNHhfNY,28.6075606,76.6455324,store
+126,Vishal Mega Mart,ChIJ_6T18X5wDTkRhd4j0k2dDE8,28.60986149999999,76.64523439999999,store
+127,Mayank Traders,ChIJa5axX09wDTkRCvg5tfMd3WI,28.6005639,76.67607459999999,store
+128,IFB Point - Jhajjar,ChIJ-cjhE2RwDTkRleJKK_wbtzc,28.607865,76.65751,store
+129,Jindal Cycle STORE,ChIJl_JePWRwDTkRS3ZzFN7qGWw,28.6074435,76.6577995,store
+130,Sanjay Hukka Works,ChIJUShNPWRwDTkRhxR0NBOcFz8,28.607412,76.6578736,store
+131,"Ramrung surender kumar,General store",ChIJ40IE9-VxDTkRhr6D-Ulj9DE,28.6074264,76.6579239,store
+132,SS Jewellers,ChIJ-wjjz35xDTkRIPSBINfouyM,28.6077569,76.6570656,store
+133,Paschim Vihar,ChIJpasuE2RwDTkRt9HEGh8oo9g,28.6079115,76.6571775,store
+134,Suraj Trading Company,ChIJpasuE2RwDTkR37WsinLP_Uc,28.6079115,76.6571775,store
+135,Laxmi Panner Bhandar,ChIJEwIoE2RwDTkR-RrC9NNd5o8,28.60793649999999,76.6571974,store
+136,Chotu Ram Baker's,ChIJ-12YImRwDTkRbxoJpwC3HsQ,28.6073513,76.6579182,store
+137,Vishal Mega Mart,ChIJ_6T18X5wDTkRhd4j0k2dDE8,28.60986149999999,76.64523439999999,supermarket
+138,Jindal Cycle STORE,ChIJl_JePWRwDTkRS3ZzFN7qGWw,28.6074435,76.6577995,supermarket
+139,Suraj Trading Company,ChIJpasuE2RwDTkR37WsinLP_Uc,28.6079115,76.6571775,supermarket
+140,Shiv Shakti Dispojal Stor,ChIJZ6yWdFNxDTkR066hCQZyocs,28.6078614,76.6582368,supermarket
+141,Punia Kriyana Store,ChIJZ3oYBmNwDTkRiKwFr7Y7auc,28.61083929999999,76.65543749999999,supermarket
+142,Dhola toys shop,ChIJW-z9s2hxDTkRhtdhFBcLzFQ,28.6054875,76.6537749,supermarket
+143,Peel-work's Pvt Ltd Jhajjar Fc,ChIJbT0_jhpxDTkRp2mmfuHKGt0,28.6054875,76.6537749,supermarket
+144,केशव किरयाना स्टोर,ChIJryABdyNxDTkRyDZG5vupUjc,28.6088457,76.6532471,supermarket
+145,Chauhan building,ChIJG9HrNNJxDTkRvdCWb4_gwD0,28.6031415,76.6602762,supermarket
+146,Hari Om Trading Company,ChIJodt-mGhwDTkRaLi7lJODYbk,28.6028347,76.66005489999999,supermarket
+147,Baba opticals,ChIJ0e86sfZxDTkRt9RwdgXYgNY,28.6078335,76.651376,supermarket
+148,New Ganpati Traders,ChIJZ6NX_UNxDTkR5CkmKl1zJNQ,28.6052422,76.6514491,supermarket
+149,Raja Fruit Company,ChIJ1TfAv2hwDTkRoPcweIpMuZA,28.6020441,76.6599604,supermarket
+150,Brothers Photostate Machanic $ Reffiling & Dish Installer,ChIJNZeq4GdwDTkRXc5xYhtop4U,28.60402779999999,76.6629323,supermarket
+151,Shri Shyam Fruit Co,ChIJ2wH4X2hwDTkRca9IuPjFV4U,28.6020565,76.6614862,supermarket
+152,RSM Fruit Company,ChIJtYulZ2hwDTkRtuSh6Xmsj20,28.6022914,76.6620559,supermarket
+153,Haryana Marbel House,ChIJK7_r42RxDTkRkLhCpwRI8oQ,28.614036,76.66011259999999,supermarket
+154,Singla Gen.. Store,ChIJTZnOvZhxDTkRoVg38OpbvAk,28.6015514,76.66120529999999,supermarket
+155,Krish Trading Company,ChIJ6XYFPmhwDTkRRIWSZQMj3iI,28.6022364,76.6632551,supermarket
+156,New Tekchand Kiryana Store,ChIJC01bXwdxDTkRf7DkCnnEuPE,28.6001838,76.6610201,supermarket

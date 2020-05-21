@@ -1,0 +1,741 @@
+,place_name,place_id,lat,lng,type
+0,Railway Station Parking,ChIJM3eIM6DGdjkRdr_Rhn7RGeg,26.2153756,78.1804011,parking
+1,Railway Station Car Parking,ChIJ1XBa_KDGdjkRnEs2wXTXLyY,26.2155528,78.1825384,parking
+2,Railway Station Two Wheeler Parking,ChIJFV2EHaHGdjkRlYt02kzmgTI,26.2159116,78.18302810000002,parking
+3,Sarafa Bazar Paid Parking,ChIJtYl8udHFdjkRvOTZA2Lrr4I,26.2015267,78.15088709999999,parking
+4,Gorkhi Car Parking,ChIJUW0MLNDFdjkR0pXaUc7PwwI,26.198653,78.1476246,parking
+5,Pinto Park Parking Lot,ChIJc6Qy2iTBdjkR951ytndSyKI,26.2514285,78.21668389999999,parking
+6,State Bank of India,ChIJq4u2E83FdjkRYNrwe_auzJ4,26.1970987,78.1543052,bank
+7,IDBI Bank,ChIJd_Oj2THEdjkRJGLzHAhJ2WI,26.1994999,78.16413039999999,bank
+8,Punjab National Bank,ChIJ3eSEFzPEdjkRNikeF4SbhFE,26.195928,78.156869,bank
+9,Bank of India,ChIJgUEpgZ3GdjkR-RI3C-eHEEM,26.2120595,78.1712524,bank
+10,Canara Bank,ChIJJ5Wy_TLEdjkROlmVOEQoaj4,26.1960557,78.15858999999999,bank
+11,Syndicate Bank,ChIJ1anAkS7EdjkRCyj5coKQofs,26.2033762,78.1631378,bank
+12,Oriental Bank Of Commerce,ChIJvXx0Is3FdjkRLmi9hZSz2Kc,26.1965054,78.1550321,bank
+13,Canara Bank gole ka mandir,ChIJL_ZB2kjBdjkRpVTy8N8nrxs,26.2335259,78.21092,bank
+14,State Bank of India,ChIJdwLrGr3GdjkRSHy4A22kXLs,26.2265532,78.18144880000001,bank
+15,Bank of Maharashtra,ChIJkW-fF9fFdjkR-GnySUlG2NQ,26.2057763,78.14709309999999,bank
+16,Bank of Maharashtra,ChIJU2YW3SzEdjkRvyeMI1Fs0Ho,26.2027188,78.1577753,bank
+17,State Bank of India - Alapur Branch,ChIJ_y6QiFXBdjkR-TwqyoUVy7k,26.212422,78.1993207,bank
+18,State Bank of India,ChIJWcl-li7EdjkRTHo9DQMvQa4,26.2038775,78.163197,bank
+19,ICICI Bank ATM,ChIJ82eDBNHFdjkR6Z4ai3wQG2g,26.205928,78.14935299999999,bank
+20,State Bank of India,ChIJ1Vp6S9PFdjkRhbyjb3l8d0c,26.2054466,78.15690719999999,bank
+21,State Bank of India,ChIJxePzF8zFdjkRkpU8SNMwYds,26.1942678,78.15148119999999,bank
+22,State Bank of India,ChIJ50AfHJ_GdjkR2dNwmQ0xANA,26.2164066,78.1766643,bank
+23,Axis Bank ATM,ChIJoaRlYFXBdjkR1o1qeXUrNa8,26.2334236,78.1734803,bank
+24,State Bank of India,ChIJPbNlRenFdjkRhqYPMItT1Ug,26.191826,78.128671,bank
+25,Nagrik Sahakari Bank Maryadit,ChIJVynl0czFdjkR0wYJD3V0LdU,26.1954784,78.1560409,bank
+26,[SCIENTIST] architects.,ChIJReLnnSHEdjkRni2gnE5Gveg,26.204614,78.175377,local_government_office
+27,Kendriya Bhandar,ChIJkWUHm6rGdjkRITD2pkeFswg,26.2148846,78.2000774,local_government_office
+28,The Packers Movers Ghaziyabad,ChIJIxTKRE0dYzkRhFL_eL3WQa8,26.212771,78.179023,local_government_office
+29,Divisional Commissioner Office,ChIJeX0I6ybEdjkRGRgHMgovyLc,26.2081928,78.1724413,local_government_office
+30,Moti Mahal,ChIJV3CLtybEdjkRKIyD83fxt1g,26.2076485,78.17285030000001,local_government_office
+31,Globalduniya Gwalior | Tour Operator,ChIJU5MaMi_ahVQR3cXjRc0cS0A,26.2092146,78.1875767,local_government_office
+32,e-Filing,ChIJq6qqagXEdjkRTEH_xKtiJZo,26.2035227,78.1920664,local_government_office
+33,MP Online,ChIJjYrBnFXBdjkRBnT3k-kVQHo,26.2155999,78.205133,local_government_office
+34,Gwalior Collectorate Office,ChIJx0LJZKHGdjkRDdYOqTmYuUk,26.1920298,78.20075299999999,local_government_office
+35,RTO Office,ChIJMYfuUjXEdjkRBJ5BAC2Bmco,26.1880491,78.1568451,local_government_office
+36,Mahendra,ChIJs-_TbcnFdjkRJvZDHiSVxns,26.1907105,78.14964789999999,local_government_office
+37,Clear Secured Services Private Limited,ChIJbaAk6EnBdjkRXtZkGoPM7z4,26.2375519,78.2091219,local_government_office
+38,Speaker Gopal Sharma,ChIJfTD5DGbBdjkRwJ7w8bhYv_0,26.223486,78.22510199999999,local_government_office
+39,ITS Gwalior - Best Web Design and Digital Marketing Company in Gwalior,ChIJebM9OGjBdjkR1CGdnB5jAAY,26.2287057,78.2300001,local_government_office
+40,Janmitra kendra,ChIJh5gPlCjBdjkRSffBRKu2jzk,26.2578945,78.2123163,local_government_office
+41,Assistant Excise Commissioner Office,ChIJjcntUZbHdjkR7GAsqXlHDO4,26.2131012,78.1792534,local_government_office
+42,RTO Padav,ChIJQdLLCSDEdjkR2PSgTeo-Efw,26.2124825,78.1783346,local_government_office
+43,Sankalp Samaj sevi sanstha,ChIJF3fRP5zGdjkRVgYKBzgGKO8,26.2163954,78.1722715,local_government_office
+44,Nagar Nigam Training Centre Gwalior,ChIJp4l7vB3EdjkRNJ4j_HVx4AI,26.211492,78.1869126,local_government_office
+45,P.W.D Electrical Section,ChIJrR7cICfEdjkRANZmWfsFaJs,26.209425,78.172502,local_government_office
+46,Parikahetriya Udyog Karyalaya,ChIJ1TEFHyfEdjkR_Fst8zsD-kY,26.209356,78.171977,local_government_office
+47,"Add Commissioner Court ,Gwalior Division",ChIJnfOSPITFdjkRIzscUce_4kA,26.208223,78.1729036,local_government_office
+48,Jan Sampark Karyalaya,ChIJObhUCyfEdjkRVizGnfogt5c,26.210504,78.171033,local_government_office
+49,Sarvesh sharma@advocate,ChIJpQbWxhXHdjkRMzcB4J_ktEM,26.2221927,78.1767854,local_government_office
+50,"Mayor's Office,Gwalior Municipal Corporation",ChIJBRuhUybEdjkRHVxEoLcB1dU,26.20879099999999,78.1702342,local_government_office
+51,Karyalay Mahapour Jal Vihar,ChIJ64P1syfEdjkRVcGO68YaaGo,26.209221,78.1696269,local_government_office
+52,Regional Art Craft & Design Centre,ChIJGQW6i4rFdjkRVN_aF3TQBIQ,26.2069681,78.1713627,local_government_office
+53,M.P Board of Secondary Education,ChIJNS2aXwfDdjkRTXKk42mq4Ww,26.2088442,78.1909094,local_government_office
+54,Ravi Shakya new saket nagar gwl mp,ChIJ2xDLYrfHdjkR7vFdvQYD7mw,26.2257035,78.177597,local_government_office
+55,TIN Facilitation & PAN Card Center,ChIJeySzNRvEdjkRacH3sWNW16I,26.20602,78.190553,local_government_office
+56,Jio Town Office,ChIJQ3CmJ0zFdjkRpacCQujW2aI,26.2062489,78.19124719999999,local_government_office
+57,SHANTA TAI,ChIJp9bWlQjFdjkRulZ6Xh6cIAs,26.2071347,78.16311879999999,local_government_office
+58,Trademark Gwalior,ChIJ_____1PBdjkRkVLuQI422GY,26.2062533,78.1953384,local_government_office
+59,COPYRIGHT GWALIOR,ChIJAfURrZrFdjkRwehm4hHfASc,26.206246,78.1953436,local_government_office
+60,Praveen Agarwal,ChIJq0G7TwTEdjkRn9FctOx_c3M,26.206272,78.1954552,local_government_office
+61,J P Associates,ChIJ3eoBOwTEdjkRCJUGy2_GcnM,26.2062059,78.1955042,local_government_office
+62,MPMKVVCL CIRCLE OFFICE,ChIJ20SBNi7EdjkReVQMMXUy9ok,26.2010453,78.1646189,local_government_office
+63,"Muncipal Corp. Water Department Office,",ChIJN_M9ISzEdjkRK1iujqgERIw,26.2036561,78.1619042,local_government_office
+64,HON'BLE M P HIGH COURT BENCH GWALIOR,ChIJ9yb0qw_EdjkRzQJycbSdBPk,26.1995427,78.1931496,local_government_office
+65,MPMKVVCL DIVISION OFFICE,ChIJr4IIMC7EdjkRXXGH_Xz5u1Y,26.2005381,78.16429509999999,local_government_office
+66,Indarganj Police Station,ChIJkbAM6S3EdjkR9YLq7Fi-NXE,26.200591,78.161007,police
+67,Police Station Madhav Ganj,ChIJHYxda8bFdjkRKTdvm2b5fNc,26.1924898,78.14509579999999,police
+68,Gwalior Police Station,ChIJHUvRcJPGdjkRWE5kf2DIpbM,26.2344569,78.1721888,police
+69,Police Station Thatipur,ChIJo4bpVPzDdjkRzRSowU01r1w,26.21230319999999,78.2103784,police
+70,Police Control Room Gwalior,ChIJHUvrkRzEdjkRWinNxP1Nz6w,26.2073559,78.1891243,police
+71,Police Sahayata Kendra Hazira,ChIJv0NAub_GdjkRmLdumadB3KM,26.234156,78.180942,police
+72,Office of Nagar Police Commissioner,ChIJNTq68LLGdjkRpnkMupzIFow,26.2020571,78.1595249,police
+73,Thana Gwalior,ChIJE6o_QZPGdjkRCbgD5dip6ZI,26.234109,78.17234069999999,police
+74,महिला थाना,ChIJ9RmRwZpCfDkRXp9C8YIWsOU,26.1911746,78.1792432,police
+75,Police Chowki Ghasmandi,ChIJbQjpl_LGdjkROTBOxpAaOwo,26.2364189,78.1670539,police
+76,"Police Station -Jhansi Road,Gwalior",ChIJqSJLp0DEdjkRcA-7DJtDenc,26.1884899,78.1746,police
+77,Police Sahayata Kendra Sarafa Bazar,ChIJK9_Nt9PFdjkRJxfkca4MbKY,26.202239,78.152219,police
+78,police station,ChIJaTInpmbGdjkRw6MtPkxPbjg,26.2275535,78.1504673,police
+79,Police Station,ChIJfWAICNHFdjkRY_whtGOh_OM,26.203819,78.1468259,police
+80,Kampoo Police Station,ChIJU6XqmMrFdjkR7jU81rOU3_U,26.1877708,78.1549414,police
+81,Police Line Saf,ChIJseAvIMrFdjkRpNrsqQJtRtY,26.1885896,78.1509109,police
+82,Hazira Police Station,ChIJi8_XkOfGdjkRcCRrSDfgRNE,26.24947,78.1782109,police
+83,State Cyber Police North Zone Office,ChIJiYYyx7XFdjkRTKS13SywYqs,26.1860538,78.1532139,police
+84,Police Station,ChIJiWgXa0TBdjkRBzNKk5UMCB8,26.2317415,78.2179332,police
+85,Police Station Gole ka mandir,ChIJWRbeF0TBdjkREttCaYV9crs,26.2320332,78.21791689999999,police
+86,Police Chowki Gol Pahariya,ChIJNcPFut3FdjkRo-fEneN9OJE,26.2010739,78.135662,police
+87,Maharajpura Thana,ChIJ3zMvfdzAdjkRs6X7Rwe_t20,26.27112,78.219807,police
+88,Police Station Maharajpura,ChIJMzgO0-nAdjkRibGuAUmagN0,26.277692,78.2253046,police
+89,Padav Police Station.,ChIJD2lRyZ_GdjkRWAFE7fcr7TQ,26.2141134,78.17658829999999,police
+90,M. P. Police,ChIJCdSb2V3BdjkRokHGD8qYz4w,26.2223611,78.222493,police
+91,Traffic Police Booth,ChIJAc-dX6DGdjkRU7ijdjCZY9U,26.2145014,78.1820298,police
+92,Women Police Station(महिला पुलिस थाना ),ChIJUcLRYUzFdjkR4UYTUcsNMaI,26.2120081,78.1757531,police
+93,Ladies Police Station Gwalior,ChIJXe-kmyDEdjkRWPE0QW-sSSw,26.2118439,78.1754658,police
+94,Railway Police Force (RPF) Station,ChIJz2wtPaHGdjkR54VNsc1_90Q,26.2166051,78.1836194,police
+95,STATION POLICE CHOKI,ChIJ0VBUSqHGdjkRJUk_yqRdSng,26.2165979,78.1836412,police
+96,"Police Help Centre,Station Area,Gwalior",ChIJkd7TJaHGdjkR8qvRW35Be1g,26.2163458,78.18407330000001,police
+97,Police Help Centre-Phoolbagh,ChIJ8RUXiCfEdjkR1NA83zQtFoI,26.2118162,78.1699089,police
+98,"Crime Investigation Department (CID),Gwalior",ChIJTRadgxzEdjkRoqwdx-_I58w,26.2078886,78.1883189,police
+99,SP Office Gwalior,ChIJx0S7nxzEdjkRD-7v3ee3Qm0,26.2079623,78.1891129,police
+100,Cybercorps Information Solution,ChIJM9bYshzEdjkR0u1hy7Byar4,26.2086617,78.19057699999999,police
+101,Police Thana Sewanagar,ChIJ7Yih-9jHdjkRpM9703atll8,26.2259177,78.1729703,police
+102,Regional Forensic Science Laboratory,ChIJq6qqagXEdjkRGU09FuG5Mwg,26.2035226,78.1920663,police
+103,MP POLICE HOUSING CORPORATION GWALIOR,ChIJUa8B-QbEdjkR8OX1EqeF9NU,26.2057159,78.1986692,police
+104,University Police Station,ChIJfRCVXg7EdjkRM6Py40dy2Gk,26.1980632,78.1932163,police
+105,Office of CSP Jhansi Road,ChIJCbu1nLDFdjkRJLTcbYTdbY8,26.2001846,78.1605819,police
+106,National Speed Post Centre,ChIJTyvA9qDGdjkR-rOZDV89ZiE,26.2148894,78.1824456,post_office
+107,INDIA POST,ChIJQ8KGNoHGdjkR4_TkfDqK3xk,26.2164087,78.1604253,post_office
+108,University Post Office,ChIJpZKVegbEdjkR43vK-2g7sQg,26.205227,78.1962124,post_office
+109,RMC Centre Indian Post,ChIJgXiB-6DGdjkR8xcSTV4aDhY,26.2152408,78.18243919999999,post_office
+110,DRDE Branch Post Office,ChIJvzUnHJ_GdjkRXAUS74W04oU,26.2164406,78.1767284,post_office
+111,Post Office,ChIJ_UZhaUnBdjkR-DxeLC5-Alc,26.234264,78.208775,post_office
+112,"Head Post Office, Morar",ChIJ6R-cDmjBdjkRlcuOXp2G3sY,26.2287153,78.2258346,post_office
+113,INDIA POST,ChIJJd36fy7EdjkRebbzvWy4TYw,26.202473,78.1621789,post_office
+114,"Lashkar Head Post Office,Gwalior",ChIJW4AkzNHFdjkRA8_xOPMgOaU,26.1994205,78.1481981,post_office
+115,General Post Office,ChIJN4vky9HFdjkRGtNq0aHRq-o,26.1995766,78.1482204,post_office
+116,India Post,ChIJv2k7zibEdjkR26ZrWtVAND8,26.2084265,78.17307629999999,post_office
+117,Post Office,ChIJnRwRiJvGdjkRwBpGn3a_zIc,26.2178744,78.1714653,post_office
+118,INDIAN POST OFFICE,ChIJc3ZbIhjEdjkRb-njQIVcPqI,26.2016441,78.1807836,post_office
+119,Post Office,ChIJW3Ux_A7EdjkR0hx0mSlN-Gk,26.1991004,78.19390299999999,post_office
+120,Ram Krishna Puri Thatipur Post Office,ChIJ2baIkv_DdjkRUc3PJ-nGX3U,26.2129788,78.2027999,post_office
+121,kitchen product home service,ChIJtxXYc7jGdjkRRaVQ-vki84U,26.236176,78.188834,post_office
+122,Post Office,ChIJ1WZoDjPEdjkRPKHrqzrsg3A,26.1953098,78.1586798,post_office
+123,Post Office,ChIJrdisNuTGdjkR24pOK7snTUk,26.2487511,78.1784083,post_office
+124,Morar Town Post Office,ChIJaxbGI1_BdjkRIXKM9BoBLLw,26.218517,78.2203299,post_office
+125,India Post,ChIJM0bvMZTFdjkRpV1jVYfQTME,26.1802949,78.130425,post_office
+126,Rishi Galav Public School,ChIJH3BTcinBdjkRV9nqvBK9brI,26.2581895,78.2089579,primary_school
+127,Little Angels High School - LAHS,ChIJHR_HgqrFdjkRy2Yti8quj5g,26.1645764,78.15426959999999,primary_school
+128,Little Falcons,ChIJIZsUcujBdjkR24pS_tNcmzs,26.2280989,78.2546344,primary_school
+129,Wendy School Junior College,ChIJt6Shi6nGdjkR_ylZm6xkrNs,26.2158793,78.1960591,school
+130,Vidya Bhavan Public School,ChIJcYfCoyXBdjkRvo33uD07V0Y,26.253856,78.215071,school
+131,A.M.I. Shishu Mandir,ChIJoSu9ZybEdjkRynjj9WDY6J4,26.2075484,78.1699865,school
+132,Kendriya Vidyalaya No.1 Gwalior,ChIJnXGbhqDGdjkRkNUS2aLpSDg,26.2151878,78.1907896,school
+133,Kerala Convent School,ChIJ4beJrffDdjkR4LfiFTcpb_E,26.2004024,78.2041812,school
+134,Silver Bells High School,ChIJ2_-eSP7EdjkRKZgjB9cUGyE,26.1614567,78.15765019999999,school
+135,Amar Public School,ChIJOeIap_3DdjkRtFOZPPTKm-U,26.2132715,78.2104877,school
+136,PAT By Beerval Dhakad,ChIJv9IzJJ7GdjkRk9JLxb3ZDlM,26.212582,78.17544699999999,school
+137,Samvet Gurukul,ChIJk_XrKzrEdjkRDztXNMKT6AQ,26.197973,78.17123099999999,school
+138,Alpine Public School,ChIJW-rhOQfEdjkRKUlpY6kSYEo,26.207839,78.2003299,school
+139,KIDDY'S CORNER SCHOOL,ChIJHWy_3szFdjkRcJq1GutCcNU,26.1958318,78.1553003,school
+140,Sharda Balgram,ChIJwXQ4RvHDdjkRWE4-4hbEdZo,26.1974834,78.20594439999999,school
+141,samarth bal school,ChIJ28rP1GbGdjkRC81LwbOJZOs,26.2304044,78.1507087,school
+142,"Little Angels, City Centre",ChIJz2iXNYrDdjkR7NtAxydIRV0,26.1870103,78.2045562,school
+143,Pioneer Public School Gwalior,ChIJi0MwsF_GdjkR5OG9-39BE6M,26.2455974,78.16125559999999,school
+144,Kendriya Vidayala 1,ChIJ_2cCJdzDdjkRE1Ms48keeiU,26.2103603,78.2285677,school
+145,St. Paul's School,ChIJY7G0MkPBdjkRa65sXQWG6dM,26.227125,78.22082139999999,school
+146,Kid's World School,ChIJsRuzNtPGdjkRS5iffjhvPTI,26.2534414,78.2016467,school
+147,Aryan School Of Sanskar,ChIJkcn_HULBdjkRrHAkO8yv8eI,26.2337956,78.22394,school
+148,Army Public School,ChIJ62o8kmHBdjkRf1xzR9KrePE,26.2285626,78.24539779999999,school
+149,THE RADIANT SCHOOL C.B.S.E,ChIJ0Ri0x67FdjkRVh9LLJir154,26.1701328,78.1493783,school
+150,Rishi Galav Public School,ChIJH3BTcinBdjkRV9nqvBK9brI,26.2581895,78.2089579,school
+151,Swami Vivekananda Academy Campus,ChIJ89PY-STBdjkRmOXbYuSIADY,26.2533852,78.2171018,school
+152,Little Angels High School - LAHS,ChIJHR_HgqrFdjkRy2Yti8quj5g,26.1645764,78.15426959999999,school
+153,"Saraswati Shishu Mandir Kedardham,Residential School",ChIJpT9-BALFdjkRwaceIKwxN0E,26.1573833,78.1586245,school
+154,Greenwood Public School,ChIJpf7vVhnBdjkR-fm7ZMErjsM,26.257127,78.2302703,school
+155,IRA World School,ChIJKZmJTdnAdjkRe-5rlP_Xx5U,26.267693,78.2175255,school
+156,ST.JOHN VAINNEY SCHOOL GWALIOR,ChIJGVYRyrnHdjkR0jVVmw5C6u4,26.268677,78.13677860000001,school
+157,ITM GLOBAL SCHOOL,ChIJP_A7E1rDdjkRsRbeyyMl8Wc,26.13619,78.206268,school
+158,Kendriya Vidyalaya No.2 AFS Maharajpur,ChIJz2OAqpLAdjkRYoRfAj1E-S8,26.2873526,78.2356355,school
+159,Oxford Public School,ChIJdTyaPF_EdjkROnH988qXV6Y,26.1388053,78.12470739999999,school
+160,Morning Star School,ChIJWxGUX-7BdjkRvmCujBwV5rw,26.2352345,78.2775083,school
+161,St. Joseph School,ChIJfdsUv-fBdjkRyYDrwL8wPN4,26.2428,78.2833,school
+162,Miss Hill Higher Secondary School,ChIJi3ArNJ7GdjkRVCnl2oCfbbU,26.21311750000001,78.1756624,school
+163,Carmel Convent Senior Secondary School,ChIJL-qwYSvEdjkRwXld4MjM_Qo,26.2050784,78.1580613,school
+164,Physics & Science Classes By Er. Mohit Dubey,ChIJqbnfXLzHdjkR0NULeKroCbw,26.2128576,78.1812679,school
+165,Shivam Mobile,ChIJy4BbokfBdjkRjIZBXTHcoZU,26.2106431,78.18194009999999,school
+166,UCMAS,ChIJz7hJBHrFdjkRsINJizMxEsY,26.2100085,78.1820501,school
+167,Arihant Education Centre,ChIJj-1PzpjGdjkRIiArPBSbW7I,26.218798,78.177235,school
+168,Super lady,ChIJUd_z5JfHdjkR1NEMS_taJlY,26.2182871,78.18283079999999,school
+169,Silver Bells High School,ChIJ2_-eSP7EdjkRKZgjB9cUGyE,26.1614567,78.15765019999999,secondary_school
+170,PAT By Beerval Dhakad,ChIJv9IzJJ7GdjkRk9JLxb3ZDlM,26.212582,78.17544699999999,secondary_school
+171,Aryan School Of Sanskar,ChIJkcn_HULBdjkRrHAkO8yv8eI,26.2337956,78.22394,secondary_school
+172,Rishi Galav Public School,ChIJH3BTcinBdjkRV9nqvBK9brI,26.2581895,78.2089579,secondary_school
+173,Swami Vivekananda Academy Campus,ChIJ89PY-STBdjkRmOXbYuSIADY,26.2533852,78.2171018,secondary_school
+174,Little Angels High School - LAHS,ChIJHR_HgqrFdjkRy2Yti8quj5g,26.1645764,78.15426959999999,secondary_school
+175,UCMAS,ChIJz7hJBHrFdjkRsINJizMxEsY,26.2100085,78.1820501,secondary_school
+176,UCMAS,ChIJzZFbO8nFdjkR5k_veDQVunI,26.20757,78.18871,secondary_school
+177,Maths Tuition Classes - Cuemath,ChIJiR_uomDFdjkRsnd6JWinbKk,26.20031299999999,78.176429,secondary_school
+178,UCMAS,ChIJuydwTiPEdjkRV47yvEcOQSo,26.2011962,78.17278809999999,secondary_school
+179,Jiwajirao Goverment Higher Sec. School,ChIJ-bzFhzrEdjkRXu10EP9x2Xo,26.20187379999999,78.1622103,secondary_school
+180,UCMAS,ChIJE0VnLG_HdjkRVRqeJR1OTuI,26.2289,78.16291,secondary_school
+181,UCMAS,ChIJeaJ8bUfFdjkRhz1xxj0t1i8,26.202252,78.15829289999999,secondary_school
+182,UCMAS,ChIJd6aMeLnFdjkRN8ILgrw6nHo,26.1990299,78.1560287,secondary_school
+183,UCMAS,ChIJj9dElWrFdjkR8Bw_36pmCcw,26.19634,78.15629,secondary_school
+184,UCMAS,ChIJn_rbKSfBdjkRUedJUMB5mac,26.21651,78.21303999999999,secondary_school
+185,UCMAS,ChIJLRyGzKbBdjkRRtxjG0xqID8,26.269715,78.21782499999999,secondary_school
+186,Maharudra Mandal School,ChIJBe5QlMXFdjkR12KW1YRpIFE,26.1939289,78.1438386,secondary_school
+187,Mama Ka Bazaar School,ChIJSYQ17MXFdjkRLJidRfvBRT0,26.1934965,78.14410579999999,secondary_school
+188,Career Launcher: Coaching in Gwalior,ChIJI535PBvEdjkRxg9pz4l2gxQ,26.205528,78.190105,university
+189,Kamla Raja Girls Government Post Graduate College,ChIJ1d2LD8vFdjkRaQ6ry99BotY,26.19198459999999,78.15449439999999,university
+190,Madhav College,ChIJQfaYI9fFdjkRsupSFa854aE,26.2053603,78.1473465,university
+191,Raja Mansingh Tomar Music & Arts University Gwalior,ChIJjcNDOjDEdjkRmoc9Xbb9GAw,26.1909242,78.1790224,university
+192,Optimus College of Higher Studies,ChIJQ-rn21XBdjkR7pHglqooq98,26.218134,78.207156,university
+193,P.S Fashion & Cinematics,ChIJPSrh5RbEdjkRId-M7QVCZfg,26.2091553,78.1914645,university
+194,LNIPE,ChIJJxhAIP7DdjkRCDaomyFKVEE,26.220545,78.1910327,university
+195,Sophia Homeopathic Medical College,ChIJsRTPagPEdjkRE1TrUvvrJ6M,26.2014698,78.1878479,university
+196,Gwalior Nursing College,ChIJraqqqtbAdjkRzHvfduannFg,26.2214242,78.16080149999999,university
+197,Jiwaji University,ChIJAQAAALDFdjkRY8xhcjkKLWA,26.2020003,78.1980647,university
+198,Dr. Bhagwat Sahay Govt. College,ChIJVVVVFb_GdjkRJsybUvEynqQ,26.2348167,78.1835179,university
+199,Maharani Laxmi Bai Govt. College Of Excellence,ChIJ38qRoTHEdjkR-YLLPLIjbZY,26.1971237,78.1636051,university
+200,Guru Kripa Girls Residence,ChIJVwKERvjDdjkRKY9arRz0dMk,26.204847,78.203975,university
+201,Naval Kishor Shivhare Nursing College,ChIJeZX__6_FdjkRtmvFV4kgvYs,26.1748846,78.1450466,university
+202,Govt. Shyamlal Pandviya College,ChIJW-dfPxXBdjkRo15YSi3E2yA,26.2409287,78.2252328,university
+203,INSTITUTE OF HOTEL MANAGEMENT,ChIJz-qSUtnAdjkRnLlZAgx-MQ8,26.2677527,78.218954,university
+204,Vasundhra Raje Homeopathic Medical College and Hospital,ChIJK6Zr4QDFdjkRnVJN6Z809Ck,26.15892659999999,78.15312109999999,university
+205,Jain College,ChIJRZYFM97EdjkRyEZJO0n7eRA,26.1398981,78.1594716,university
+206,Dream Valley College,ChIJueiDZqTEdjkR_By9MBJxl-A,26.1371,78.194,university
+207,VISM GROUP OF STUDIES Gwalior,ChIJ1bCAfqbEdjkRG82P4iNYJ9c,26.1356022,78.19779079999999,university
+208,Gwalior Airport,ChIJbR0oiZfAdjkRQHBPZ5HrTJU,26.2854852,78.2171403,airport
+209,Gwalior Railway Station Bus Stop,ChIJM4GXYKDGdjkROwKOxmjuLSQ,26.2142662,78.1818357,bus_station
+210,Padav,ChIJp6TzfyDEdjkRntOoB4gSt6E,26.212383,78.176469,bus_station
+211,Kampoo Laskar,ChIJ9YzZKKHGdjkRTgjjmJueBLU,26.2162908,78.18438789999999,bus_station
+212,Gwalior Interstate Bus Stand,ChIJvyjbPafGdjkRp8YHXXsetgA,26.2150225,78.18601129999999,bus_station
+213,Amkho Bus Station,ChIJZ9rXmTXEdjkRO8fMqul7DoY,26.1891061,78.15972699999999,bus_station
+214,Jawahar Colony Chauraha,ChIJVdnM78vFdjkRy-2jnSf3R6I,26.192114,78.15159,bus_station
+215,"City Center, Hotel Central Park, Gwalior",ChIJ9xy46t3FdjkR_jS6czUgqeI,26.20171599999999,78.134957,bus_station
+216,ITM Bus Station,ChIJZ1UOOpfEdjkR_u7_fvNIRmI,26.1486965,78.1888282,bus_station
+217,GHUMOO DUNIYA,ChIJcaxkow7EdjkR_0AkXUJ7CQs,26.197104,78.19524799999999,taxi_stand
+218,Gwalior,ChIJeQZcB6HGdjkR48QKwUvFoMU,26.2160405,78.1824372,train_station
+219,Bhadroli,ChIJRcVna17HdjkRk9X-sVH2OFo,26.3011056,78.180874,train_station
+220,Ghosipura,ChIJJZShGX_GdjkRtRzRLAxH_ec,26.2128755,78.1523517,train_station
+221,Birlanagar Junction,ChIJE0wf4MnGdjkRpchK-LuxOdI,26.2377,78.195278,train_station
+222,Motijheel Railway Station,ChIJo5jNKEzGdjkRwDMU-ITBvmE,26.2469119,78.145037,train_station
+223,Motijheel,ChIJhd6IK0zGdjkR1ABd4SVmZ2U,26.2507175,78.1419793,train_station
+224,Sithouli,ChIJ3asyRZbEdjkRHeKh7PTElJk,26.1467196,78.1871347,train_station
+225,Milaoli,ChIJ1_9OevjHdjkRjjGqK3Z5LEs,26.30029399999999,78.119959,train_station
+226,Rayaru,ChIJh_o4igu4djkRLv3PQP7y5NA,26.3058901,78.1302572,train_station
+227,Gwalior,ChIJeQZcB6HGdjkR48QKwUvFoMU,26.2160405,78.1824372,transit_station
+228,Bhadroli,ChIJRcVna17HdjkRk9X-sVH2OFo,26.3011056,78.180874,transit_station
+229,Gwalior Railway Station Bus Stop,ChIJM4GXYKDGdjkROwKOxmjuLSQ,26.2142662,78.1818357,transit_station
+230,Padav,ChIJp6TzfyDEdjkRntOoB4gSt6E,26.212383,78.176469,transit_station
+231,Kampoo Laskar,ChIJ9YzZKKHGdjkRTgjjmJueBLU,26.2162908,78.18438789999999,transit_station
+232,Gwalior Interstate Bus Stand,ChIJvyjbPafGdjkRp8YHXXsetgA,26.2150225,78.18601129999999,transit_station
+233,Rodveg Bus Stand,ChIJabDKPafGdjkR0itEVg_wfq4,26.215125,78.18619190000001,transit_station
+234,Hotel Tansen Bus Stop,ChIJK3FOfKfGdjkRxItzonxqEB8,26.2135178,78.18731009999999,transit_station
+235,Phoolbagh Bus Stop,ChIJE-mRYp3GdjkR8hwmyaBA3l4,26.2118971,78.1698208,transit_station
+236,Phoolbagh Gurudwara Bus Stop,ChIJHaOsiijEdjkRptjB7eEG15g,26.2086448,78.1664237,transit_station
+237,Madhav Nagar Bus Stop,ChIJ22z5WT3EdjkRfyWK-lGQGws,26.2002195,78.1789041,transit_station
+238,University Gate Bus Stop,ChIJs6NXxxrEdjkRDZKnNzz-H5c,26.2033457,78.18959,transit_station
+239,City Center,ChIJv8OXrxrEdjkR40OZib7VmSs,26.2024957,78.1900146,transit_station
+240,Chetakpuri Petrol Pump,ChIJt_E7oDzEdjkRrfGd4j7Z7AY,26.1991519,78.17365749999999,transit_station
+241,Nadi Gate Bus Stop,ChIJsSly0y7EdjkRr4g4t5x094A,26.205538,78.16458639999999,transit_station
+242,Shinde Ki Chawni Bus Stop,ChIJkY_gOCnEdjkRuNsvF6zL13s,26.2065343,78.16373349999999,transit_station
+243,University Road Stop,ChIJEVlpdarGdjkRAW_qhVNHZtc,26.2142806,78.1978699,transit_station
+244,Achaleshwar Bus Stop,ChIJhe7ZNDDEdjkRptPEgi40_60,26.19857339999999,78.16504239999999,transit_station
+245,Govindpuri Stop,ChIJxc4MRwfEdjkRB7JO_6t9mEE,26.207663,78.2007051,transit_station
+246,High Court Square City Center,ChIJH0su6C3EdjkRUpcIEktYpss,26.200931,78.16128599999999,transit_station
+247,Mela Ground Bus Stop,ChIJw86yD7LGdjkR6YKiyHUqvmI,26.2263694,78.1972289,transit_station
+248,High Court Bus Stop,ChIJbUuc0w7EdjkRGcHc0qc92OU,26.1990715,78.19615069999999,transit_station
+249,Thatipur Bus Stop,ChIJyYPC2P_DdjkRu47t9xe9a1Y,26.2146295,78.2038486,transit_station
+250,Chandrabadni,ChIJ--DrSz_EdjkRdd8CFYfe_2o,26.190083,78.1738324,transit_station
+251,Ghosipura,ChIJJZShGX_GdjkRtRzRLAxH_ec,26.2128755,78.1523517,transit_station
+252,Jayarogya Hospital Bus Stop,ChIJQRSqjDbEdjkRtp3DrDMltNU,26.1913435,78.16355109999999,transit_station
+253,Birlanagar Junction,ChIJE0wf4MnGdjkRpchK-LuxOdI,26.2377,78.195278,transit_station
+254,Amkhoh Private Bus Stand,ChIJTRWevDXEdjkRuvKGDy7TkPI,26.189593,78.160112,transit_station
+255,Gwalior Bus Stand,ChIJe5vNFMLGdjkREpBgmTJJ7yA,26.2433414,78.18031549999999,transit_station
+256,MITS Bus Stop,ChIJFedUgUvBdjkRuCWNuy6PTfU,26.2326034,78.205238,transit_station
+257,Amkho Bus Station,ChIJZ9rXmTXEdjkRO8fMqul7DoY,26.1891061,78.15972699999999,transit_station
+258,KRG College Bus stop,ChIJy3_OOMvFdjkRO8hByhWpggs,26.1916275,78.1553972,transit_station
+259,Roxy Pul,ChIJJxfSIczFdjkRSPIo9x5byUY,26.1942742,78.1509031,transit_station
+260,IIITM Bus Stop,ChIJccNZtkvBdjkRfUeHWpv9sTE,26.2345907,78.20618209999999,transit_station
+261,Gole Ka Mandir,ChIJZzVE2kvBdjkRvP8tLZAtDRs,26.234478,78.207264,transit_station
+262,Shiv Nagar Bus Stop,ChIJO45waFjBdjkRnDcvtd8TpXQ,26.2169709,78.2155403,transit_station
+263,Jawahar Colony Chauraha,ChIJVdnM78vFdjkRy-2jnSf3R6I,26.192114,78.15159,transit_station
+264,Baradari Chauraha Bus Stop,ChIJo6RrB1_BdjkRWd5op-JMHzU,26.2180176,78.220337,transit_station
+265,"City Center, Hotel Central Park, Gwalior",ChIJ9xy46t3FdjkR_jS6czUgqeI,26.20171599999999,78.134957,transit_station
+266,Motijheel Railway Station,ChIJo5jNKEzGdjkRwDMU-ITBvmE,26.2469119,78.145037,transit_station
+267,Motijheel,ChIJhd6IK0zGdjkR1ABd4SVmZ2U,26.2507175,78.1419793,transit_station
+268,ITM Bus Station,ChIJZ1UOOpfEdjkR_u7_fvNIRmI,26.1486965,78.1888282,transit_station
+269,Sithouli,ChIJ3asyRZbEdjkRHeKh7PTElJk,26.1467196,78.1871347,transit_station
+270,Naugaon,ChIJ4bLCa0HFdjkRylK_ixGhyx8,26.13454999999999,78.12904999999999,transit_station
+271,Milaoli,ChIJ1_9OevjHdjkRjjGqK3Z5LEs,26.30029399999999,78.119959,transit_station
+272,Rayaru,ChIJh_o4igu4djkRLv3PQP7y5NA,26.3058901,78.1302572,transit_station
+273,Sas Bahu Temple,ChIJ5_dOf5DGdjkRAXUNz8rNKno,26.2236713,78.17025439999999,hindu_temple
+274,"Gannayak Sweets-Ganesh Mandir in Gwalior, Sweet Shop in Gwalior, Ganesh Temple in Gwalior",ChIJ5UvC-yjEdjkRabBUf89vcxw,26.207503,78.164672,hindu_temple
+275,Arya Samaj Mandir gwalior,ChIJC-p5nZPGdjkR3jeMwlZN5Qw,26.2508119,78.2025949,hindu_temple
+276,Ravi Nagar Temple,ChIJo709LkLHdjkRd_M5oNG3S9U,26.2152865,78.1723846,hindu_temple
+277,Shree Shiddh Kheda Pati Hanuman Mandir,ChIJFwhxOJnGdjkRPhfJJvdK3uY,26.2190836,78.17500509999999,hindu_temple
+278,Karaoli Mata Mandir,ChIJAQAAAA_EdjkR0arlT8-mYnk,26.1992764,78.1934911,hindu_temple
+279,Shani Dev Mandir,ChIJESGD8C3EdjkRWrOTIM4dLI8,26.2000312,78.1614191,hindu_temple
+280,Shri Ram Hanuman mandir,ChIJc5Wo1ADFdjkRs3EauPDxM6Y,26.2007736,78.1589498,hindu_temple
+281,Technical_prashant,ChIJA8crwSzEdjkRECJhYO5Rhrc,26.2031089,78.1572537,hindu_temple
+282,Kali Mata Mandir Sindhiya Nagar,ChIJu31gzAnFdjkREWf7OWwi-Tg,26.1893284,78.18179549999999,hindu_temple
+283,Shri Anandpur Satsang Ashram Paramdham,ChIJD5kCkmPGdjkRABEwXf0XVvU,26.225977,78.151493,hindu_temple
+284,पार वाले हनुमान जी मंदिर (Krishna-Nand Ki Bagiya),ChIJm9p08knHdjkRzWLfUvcO3qk,26.2416979,78.1788813,hindu_temple
+285,Jai maa online,ChIJHU4lldfFdjkRu5qJHwdS0XQ,26.2083428,78.14628770000002,hindu_temple
+286,Shani Dev Mandir Gwalior,ChIJm3z8yHnGdjkR-hNJCP_tj58,26.2125489,78.1457791,hindu_temple
+287,"Vitthal Mandir, Kampoo",ChIJWR8GC8zFdjkRVRb0Z2c19Ek,26.1931519,78.1520062,hindu_temple
+288,तिकोनिया हनुमान मंदिर,ChIJaY8KmxXBdjkRCuAluxKtlEc,26.2311764,78.2096821,hindu_temple
+289,Pathar Wale Hanuman Mandir,ChIJPyY8M3HGdjkRztUmB-r9kzM,26.21538,78.1412338,hindu_temple
+290,Arya Samaj mandir ganga vihar colony gole ka mandirGwalior,ChIJSzhA1-bBdjkRlBT1ouM3R_4,26.232785,78.2122454,hindu_temple
+291,Rajman Mata Mandir,ChIJa4juC6HHdjkRO_mIj88brDI,26.2412571,78.1542103,hindu_temple
+292,MATA KA MANDIR,ChIJ83vMdBTFdjkRLyhgjf2bR2A,26.2066887,78.13972629999999,hindu_temple
+293,दिग्गर्रा भवन,ChIJYVxqAETBdjkRzMzTiAkG1lE,26.2420154,78.2121312,hindu_temple
+294,Santoshi Mata mandir,ChIJc1dHCSDDdjkR7PJdMkwOt5c,26.2166767,78.2293299,hindu_temple
+295,Trisakti Maata Ka Temple,ChIJj1dmSizBdjkRZSuhIPfzWQ0,26.2529164,78.2062371,hindu_temple
+296,dandeshwar mahadev mandir,ChIJs8mPVi7BdjkR_mITvDVRdyg,26.2506107,78.2111707,hindu_temple
+297,Shitla lodi mata mandir,ChIJY9UfK8vFdjkREgoISqu0LNs,26.1823769,78.1200685,hindu_temple
+298,Jai Girraj mandir,ChIJ9SWBsFvFdjkR9DRPjT2E2D8,26.1883951,78.1149042,hindu_temple
+299,Girraj mandir,ChIJ3VpGkGfFdjkRzgoH4qe3CWU,26.1884414,78.1148758,hindu_temple
+300,Shitla Mata Ji ka Mandir,ChIJuzvxwMTBdjkRQiakIDC3UwA,26.2683501,78.2169321,hindu_temple
+301,Shri Heera Bhumiya Baba Mandir,ChIJVcTw99XPdjkRFeu8dnYnUeE,26.1686222,78.1055564,hindu_temple
+302,"Maharshi Valmiki , Mata Bijasen Mandir",ChIJX5gfzJ_GdjkRkf8rLUxuTzc,26.21344049999999,78.1767332,hindu_temple
+303,Mata Ka Manidr,ChIJVeJjhVXBdjkRN6s-9tI-pHc,26.2154384,78.20557780000001,hindu_temple
+304,Chanakyapuri Mandir,ChIJa-VtU_fDdjkRAAjcUH1zLzQ,26.20292379999999,78.20762549999999,hindu_temple
+305,Shiv Shaktidham Mandir,ChIJleLID_rDdjkRcmZH-hgqGqk,26.2040996,78.2086494,hindu_temple
+306,Bhairo Temple,ChIJlxwEmtHFdjkRnog-q0lMW_U,26.2007295,78.1497736,hindu_temple
+307,Jain Mandir,ChIJhdYMY1jBdjkR3VNyqw7jdl0,26.2165211,78.2161943,hindu_temple
+308,Hindu Temple,ChIJgZg6qibBdjkRB-WBXJro2fE,26.2567455,78.2188649,hindu_temple
+309,Masjid Ground,ChIJPae1OF_BdjkRLhX8Zl1fw0Y,26.217587,78.22028929999999,mosque
+310,Daga Arun & co.,ChIJ-9GG7QTEdjkRVmQf_Onm0m8,26.206531,78.1923884,accounting
+311,Jain Sanjay & Associates Chartered Accountants,ChIJt07Diy7EdjkRDRN7ShOj9aA,26.202881,78.163354,accounting
+312,Solanki Singh & Co,ChIJRw_bQRvEdjkRyogAEU7RxGc,26.2064409,78.189252,accounting
+313,SANJAY RIKHAV & COMPANY,ChIJubciUCnEdjkRWGXQ7yU9cvM,26.206092,78.162814,accounting
+314,CA Sanjay Jain,ChIJlYbrVCnEdjkRMvbe0q5u5zc,26.2055389,78.162398,accounting
+315,SUNIL R SEVAK & CO SUNIL AGRAWAL FCA,ChIJXabtli7EdjkRBLPrEyZmjEI,26.2037789,78.163118,accounting
+316,Manappuram Finance Ltd,ChIJy0yFGl_BdjkR_yTkMpjj0fE,26.2182754,78.22116179999999,accounting
+317,Manappuram Finance ltd,ChIJj6qqqrrFdjkRWM3bdBr02LI,26.174891,78.14504099999999,accounting
+318,Vidyarthi & Sons,ChIJTx7sJp_GdjkRwXWnXwsXwBE,26.217273,78.176639,accounting
+319,Ca firm,ChIJF8Eoc_bHdjkRzaqNOEUeQUs,26.2153131,78.172511,accounting
+320,DUBEY ASSOCIATES,ChIJ0ZsnGpnGdjkRs0DzruLd7t0,26.220001,78.175806,accounting
+321,Manoj Jeevan & Associates,ChIJi-U6kQ3HdjkRyTvipa9H48U,26.2149189,78.171309,accounting
+322,DOUNDERIYA & COMPANY,ChIJtwwiahvHdjkRQc8ftst8Mmw,26.220016,78.1730511,accounting
+323,Vishal Accountancy Services,ChIJVU-2gJzGdjkRum9aD6Pf0_c,26.217413,78.1706118,accounting
+324,Reliance Securities,ChIJFb7qdoHFdjkRmHEbgXGWsHI,26.2064467,78.1871613,accounting
+325,M.A. MAHESHWARI & CO.,ChIJSSEOVzzHdjkRZ3p0IsE8jd4,26.2250437,78.1812751,accounting
+326,N.K. Gupta & Co,ChIJr4kdMRvEdjkRzoyGNCx69KE,26.205785,78.190108,accounting
+327,shubham housing finance co.,ChIJK5XeLxvEdjkR7Q7cpciCQxo,26.2055207,78.1900454,accounting
+328,Vanijyik Kar Bhawan,ChIJfzuc2BrEdjkRaQGPjo9z660,26.2047649,78.1896879,accounting
+329,Unique SMCS,ChIJjTo9lQTEdjkRmqHrelMEubM,26.206526,78.1921969,accounting
+330,Alfanzo,ChIJsQ7CXxzEdjkRQFGP6QoNBwY,26.209044,78.187702,bakery
+331,Nirankari Bakery,ChIJb-Z5z9DFdjkRFUB7T_3oCCI,26.204906,78.14643989999999,bakery
+332,Crisp Corner,ChIJG8MMXUnBdjkRcmeefSZzLNw,26.2338849,78.208258,bakery
+333,Relish Bakers,ChIJt7FejA7EdjkRpu36DA2sw1Y,26.1974856,78.19547469999999,bakery
+334,Crisp Corner,ChIJPXuvayjEdjkRGWqJOWfb-XU,26.2093331,78.16641299999999,bakery
+335,Crisp Corner,ChIJsQqR1J_GdjkRVuOdM0I_trA,26.2127084,78.1764999,bakery
+336,Param Food Complex,ChIJe6649yDEdjkR065Gu7eHHoY,26.2104596,78.1767747,bakery
+337,Crisp Corner,ChIJqwzp69HFdjkRtzJKmJs7WyU,26.199603,78.1495219,bakery
+338,"www.Smiledelivery.in | Online Cake , flower, Gift Delivery service in Gwalior",ChIJWU-2gJzGdjkRjJ0ZcYM3Upg,26.217413,78.17061199999999,bakery
+339,Clarks Inn Suites Gwalior,ChIJuxv1EijEdjkR4Y4xxXQmxbQ,26.2103847,78.1670487,bakery
+340,Crisp Corner,ChIJnZ2eQQPEdjkR0TUHBF-LPa0,26.2091183,78.192122,bakery
+341,Foodz Inn,ChIJW5O36DzEdjkRhcPXKgo9O80,26.1988249,78.1758609,bakery
+342,Gajanan Bakers,ChIJc-6qhSnEdjkRij1h8a8Q1Js,26.2089119,78.162671,bakery
+343,Glorious Bakers- Bakery and cake shop in gwalior,ChIJqe-cE8zFdjkRyi535spWgw0,26.21743,78.16067,bakery
+344,"Ferns N Petals : Flowers Delivery In Old High Court, Gwalior",ChIJC9aDeTDEdjkRjJhASbzSXOA,26.197681,78.1675102,bakery
+345,Kwality,ChIJD0z6kyzEdjkRem7sqNOSBOY,26.2039559,78.158254,bakery
+346,Crisp Corner,ChIJK0i1Y1XBdjkRQ95VC2BUk-s,26.214871,78.203914,bakery
+347,Naveen Gift Collection,ChIJ07W98FXBdjkROsi74eWB-XE,26.215753,78.205221,bakery
+348,Tasty Nights- Cake Delivery Service,ChIJAe6AkfnDdjkRsvKC943ff_E,26.2051189,78.20686549999999,bakery
+349,Sachdeva Bakery,ChIJmVsEE9LFdjkRPC_gh8FhnEE,26.199685,78.1520209,bakery
+350,Jain Brothers,ChIJc-ED6dHFdjkRto9UEQJRH1A,26.199465,78.1495183,bakery
+351,Crisp Corner,ChIJ42dpXc7FdjkR5W9OXhD4OOE,26.196226,78.149253,bakery
+352,Crisp Corner,ChIJl_wr713BdjkRHEWSzNDUkwg,26.2240626,78.22110529999999,bakery
+353,Crisp Corner,ChIJd5-ITSjBdjkRPz8FgQjgkp8,26.2596463,78.2108145,bakery
+354,Cake Shop,ChIJY-dxHaDGdjkR2BI3_Ihga3g,26.2135137,78.1793047,bakery
+355,Shri Ram Patties Corner,ChIJQ8DZJJ7GdjkRZW2jS3pcaSw,26.213079,78.1755589,bakery
+356,Flower Delivery in Gwalior,ChIJm9nBXl7FdjkRcRm4Aqiay9E,26.2114438,78.1721857,bakery
+357,Akash,ChIJa0VYEETHdjkRZm9OaEC0_Y0,26.2178701,78.1855258,bakery
+358,Radha Rani Bakers,ChIJd06NDj3HdjkR9N0sxP_OtyU,26.2125111,78.1715402,bakery
+359,"fnpCakes n more - Cake Delivery in City Center, Gwalior",ChIJJxMM6_nFdjkR_DP5J1s8ek8,26.2101597,78.1914675,bakery
+360,Samose Kachori Shop,ChIJbX6rIBvEdjkR13TQJZwDeuY,26.2047985,78.1894113,bakery
+361,Cake Shop,ChIJyb_62BrEdjkRYFe_PrNNYUg,26.204641,78.189712,bakery
+362,Khushbu Bakers,ChIJFxEkAr3GdjkRgz5qiQpr6xY,26.227026,78.181978,bakery
+363,Grains ‘n’ Beans,ChIJv_4Ru8fHdjkRNjo0bX1niI0,26.2276324,78.181725,bakery
+364,BAKEOLOGY,ChIJKRsEQEbFdjkRXijGZmHUVbs,26.2120895,78.19516999999999,bakery
+365,Bleu,ChIJx_sYpEjFdjkR42BvZa7CdFw,26.2099739,78.1948073,bakery
+366,Galaxy Bakers,ChIJM0rCsb3GdjkRPNwXlZiJnBs,26.228177,78.1816379,bakery
+367,Ishika bakery and gift centre,ChIJR9KozUnFdjkRLZZDTaDFyaw,26.1995637,78.1847358,bakery
+368,Lush Eggless Cookies n Cakes,ChIJMzt6vTzEdjkRJndTTNtD0jg,26.19930949999999,78.1743527,bakery
+369,Arora Sweets - Manufacturer and Supplier of Sweets and namkeens made by Desi Ghee,ChIJZci2bCnEdjkR3vL93ShkI64,26.2071433,78.1634495,bakery
+370,Beri Cycle Emporium,ChIJy-eclCzEdjkRlmk9vlznrSg,26.2033019,78.157473,bicycle_store
+371,NMA BICYCLE STUDIO,ChIJjzV-0izFdjkRasKCIVrr7KQ,26.2096522,78.1937876,bicycle_store
+372,Richa Cycle Store,ChIJUzBxO1TBdjkRxKKS0X0CWJY,26.2188719,78.2068709,bicycle_store
+373,Gungun Cycle Store,ChIJ3WWIeF7BdjkROjoH7CVMBM8,26.22178479999999,78.2224992,bicycle_store
+374,Kitab Ghar,ChIJEd8XHi3EdjkRRxfX1VGswRM,26.202111,78.158136,book_store
+375,Bombay Fancy Stores,ChIJkzD9MCfEdjkReytZa_cVWoY,26.210168,78.173002,book_store
+376,Geeta Press Gorakhpur,ChIJd8ArOyfEdjkRtOq29RN6xtU,26.20993,78.172637,book_store
+377,Kuber Books And Stationery,ChIJBXKrAb3GdjkRVvk8KYpau_A,26.2272219,78.181933,book_store
+378,Sona Book Stationery,ChIJwz5Z-hHHdjkRc1sTQYUTcug,26.22901079999999,78.1867323,book_store
+379,Sacred Publication,ChIJVRsI2jHEdjkRc-6OGgyD2lI,26.1993519,78.1642799,book_store
+380,Jain Book Depo,ChIJfTClCw_HdjkR8v50sFKcnnI,26.23296550000001,78.1749548,book_store
+381,Anand Pustak Sadan,ChIJRaoOCC7EdjkRFbaI29q4nQ0,26.1997825,78.162928,book_store
+382,Jai Jwala Maa Stationery And Cyber Cafe,ChIJu3xRS7rGdjkRwomUYuAH8j8,26.2323802,78.189217,book_store
+383,Grover Law House,ChIJ2dMZrC3EdjkRuuA_URMVvMU,26.2015688,78.1597553,book_store
+384,Kalpana Pustak Sadan,ChIJhfSnmsnFdjkRuKiP5MDe-dc,26.201955,78.15868250000001,book_store
+385,Krishna Pustak Kendra,ChIJQw0gzizEdjkRtB0v3mVNFlg,26.2027813,78.15672889999999,book_store
+386,Jyoti Mobile Repairing Centre & Book Store,ChIJdWAwBcDGdjkRAKQDRbS9gLQ,26.236653,78.179833,book_store
+387,New Bhartiya book depo,ChIJAeNrzizEdjkRC9Byk8Gi42o,26.2026209,78.15663649999999,book_store
+388,Shilpa Books and Stationery,ChIJvz7MXEnBdjkRy08osTn9Kx4,26.23371,78.2079104,book_store
+389,Some one's Book Store,ChIJHzszQ0nBdjkRU-qwHFqrPr4,26.2337392,78.20845489999999,book_store
+390,Balaji Book House And Stationery,ChIJ7YiCqF_BdjkRIAs5ngBJCtk,26.2186194,78.222387,book_store
+391,Bansal Pustak Sadan,ChIJ927V1l3BdjkRK-F2-0vC1r0,26.2223552,78.22240149999999,book_store
+392,Bapu Stationery Books Store,ChIJByXlLEPBdjkRM_AAfkx7YrQ,26.2279875,78.2213896,book_store
+393,New Balaji Book House & Stationery,ChIJC6Vt4KbBdjkRMV29MKnWB_0,26.2213005,78.2255449,book_store
+394,Indian Coffee House,ChIJSdOy5qDGdjkRcBzynnB_JuM,26.2155323,78.18325039999999,cafe
+395,Param Food Complex (Pure Veg),ChIJwfG3QAfEdjkRQGM_FGaTOzQ,26.2074043,78.20072449999999,cafe
+396,Jain Corner,ChIJAcefMp_GdjkRCb5r5c7zQJk,26.215117,78.1766629,cafe
+397,Shivi's Food,ChIJhT9EZZzGdjkRkkN2iSbU0n0,26.2170248,78.1713485,cafe
+398,Hangout Cafe,ChIJ88mcWhzEdjkRNkVMo_uNWlw,26.2096092,78.18715809999999,cafe
+399,Icekraft Gwalior,ChIJjxF2K9bFdjkR1_eNjoRo6HM,26.2085841,78.18983539999999,cafe
+400,"fnpCakes n more - Cake Delivery in City Center, Gwalior",ChIJJxMM6_nFdjkR_DP5J1s8ek8,26.2101597,78.1914675,cafe
+401,Pizza by the way,ChIJb_k3uQ7FdjkR1whlpdyNiOY,26.2091544,78.1916604,cafe
+402,Cafe Prizon,ChIJochWQSPEdjkRu6sTcvd-fBk,26.2016761,78.1747929,cafe
+403,Jain Tea,ChIJdREOKRvEdjkRghN9uJd5ju0,26.2050438,78.1901707,cafe
+404,Boulevard 69 Cafe & Restro,ChIJvaqqqlbBdjkRdVGNd0sVOSE,26.20617550000001,78.1914444,cafe
+405,Bansal Tea Stall,ChIJA8W8Ab3GdjkR2CYmEBmzTBA,26.22715659999999,78.18196499999999,cafe
+406,Lush Eggless Cookies n Cakes,ChIJMzt6vTzEdjkRJndTTNtD0jg,26.19930949999999,78.1743527,cafe
+407,Tasty Town Foods,ChIJ3wST2jXFdjkRT1mHhp99xpo,26.2035227,78.1920664,cafe
+408,Bapu Di Rasoi (Pure Veg),ChIJQQGk6HTFdjkREdJyPoylPDU,26.2055965,78.1960314,cafe
+409,The Kitty Cafe || Best Cafe In City Center Gwalior ||,ChIJ_bhHOgXFdjkREqCc4nVA5iI,26.2097505,78.1986767,cafe
+410,High Speed Computer,ChIJI2fvJ2PFdjkReJ5L0CxDBUQ,26.1978574,78.1678694,cafe
+411,Tealogy Cafe Gwalior,ChIJHbQV9fbDdjkRh6y0HNLD5eY,26.2079349,78.20052799999999,cafe
+412,Chai Sutta Bar,ChIJ-eSP677FdjkRBht7RXVo6jk,26.2076594,78.2012445,cafe
+413,Shivam Super Softi And Bhelpuri,ChIJPeR7KO3GdjkRYdkClAsK_Js,26.2358969,78.170542,cafe
+414,A S MOTORS HONDA,ChIJS-qZI57GdjkRF1AeYzM4i5o,26.212375,78.175497,car_dealer
+415,Volkswagen Gwalior,ChIJoclz1EbEdjkRUCJGvcsevyc,26.1856222,78.17333529999999,car_dealer
+416,ASM Hyundai,ChIJoS-nGPnEdjkRnpAu_-26Uio,26.161891,78.16324929999999,car_dealer
+417,Samadhiya Ford,ChIJH_3x2vjEdjkRk14Gba0AdSQ,26.1617308,78.1616184,car_dealer
+418,"Maruti Suzuki ARENA (Prem Motors, Gwalior, Shivpuri Link Road)",ChIJ9fxBNfnEdjkRBlFf70Io830,26.161287,78.1615463,car_dealer
+419,Sumedha Nissan,ChIJr_k5MubEdjkR8959Xk1UR-8,26.145149,78.166455,car_dealer
+420,Tata Motors,ChIJvWm8UlbFdjkRcvnQA0AL5TU,26.2061992,78.18099579999999,car_dealer
+421,"NEXA (Prem Motors, Gwalior, MLB Road)",ChIJl9rH4ijEdjkRwhXEdpBfg6A,26.21215369999999,78.1707756,car_dealer
+422,"Maruti Suzuki ARENA (Prem Motors, Gwalior, AG Office Road)",ChIJc81pwhjEdjkRs10pXCTBgiU,26.2057453,78.18092949999999,car_dealer
+423,ASM Hyundai City Showroom,ChIJxxp8ZJ3GdjkRoCemm_INJ5I,26.2122847,78.1697567,car_dealer
+424,CARS24,ChIJPY80xXXFdjkRrppx5HoYZAg,26.2107643,78.1999589,car_dealer
+425,New Baba Auto Deal,ChIJQ5toPizEdjkRuHZ5TG9ke8Y,26.2039071,78.161315,car_dealer
+426,MAHINDRA ROYAL AUTOMOBILES PVT. LTD.,ChIJlcYrMjnEdjkRgLNvubf-4lE,26.192667,78.1732025,car_dealer
+427,GHUMOO DUNIYA,ChIJcaxkow7EdjkR_0AkXUJ7CQs,26.197104,78.19524799999999,car_dealer
+428,SAMARTH CARS PRIVATE LIMITED,ChIJcY1B2PjEdjkRaiXhFIVvkXo,26.1619274,78.162965,car_dealer
+429,MAHINDRA ROYAL AUTOMOBILES PVT. LTD.,ChIJMUHFz_7EdjkRlTgtf3mzbWE,26.1609364,78.1615601,car_dealer
+430,Sumedha Datsun,ChIJH2fu8hnFdjkRUdWkhiI9oYE,26.14525,78.16659,car_dealer
+431,MG Motor India,ChIJgxkb3PnFdjkR1RDuNywLu7g,26.14937,78.14292999999999,car_dealer
+432,Renault Service Center Gwalior,ChIJI0w3dxTFdjkRukkKU1IKn4o,26.1456352,78.1370019,car_dealer
+433,Sumedha Honda,ChIJS2J8-Q_FdjkROjndCt83134,26.1420187,78.1303657,car_dealer
+434,A-One Tours & Travels,ChIJkbiYY17BdjkRV1eBRwhbrVk,26.221087,78.222253,car_rental
+435,Rent My UFO,ChIJ0-9y_Y3HdjkRpRNILE_M61E,26.2169507,78.1832536,car_rental
+436,Shri Krishna Tours And Travels,ChIJu2N0NhvEdjkRgMDoDzUVBA4,26.2060883,78.1903113,car_rental
+437,Ocean MP Online,ChIJd24b-bzGdjkRKEsB4jraqDk,26.2272756,78.18258229999999,car_rental
+438,Jai Mahakali Bhojanalay And Tiffin Center,ChIJQxXBXYbGdjkR9drYPCOd3w0,26.2202619,78.160613,car_rental
+439,Jai Mata Di Tours & Travels || Best Taxi in Gwalior || Best Cab in Gwalior || Best Tour and Travels in Gwalior,ChIJzyhG91XBdjkRR_Yhr5mRtTY,26.215255,78.206949,car_rental
+440,R.K.B Travels,ChIJ8Q1KYV7BdjkRySM6sPd9umY,26.2150072,78.20737079999999,car_rental
+441,Premium Car Rentals,ChIJwb5PrMPBdjkRfMJP8EAWUbc,26.2208223,78.207651,car_rental
+442,Shruti Travels,ChIJ_bsSJHnBdjkRfTawhMWbcrg,26.2400729,78.2085372,car_rental
+443,Exide Care Bawa Electricals Gwalior - Battery Dealer in Gwalior - Exide Battery Dealer in Gwalior - Key Duplicating - key maker In Gwalior - Computerised Car Key Maker,ChIJ1zZxWCjEdjkRXIZvcEtvPVw,26.2087029,78.1657604,car_repair
+444,Samadhiya Ford,ChIJH_3x2vjEdjkRk14Gba0AdSQ,26.1617308,78.1616184,car_repair
+445,Sumedha Nissan,ChIJr_k5MubEdjkR8959Xk1UR-8,26.145149,78.166455,car_repair
+446,ASM Hyundai City Showroom,ChIJxxp8ZJ3GdjkRoCemm_INJ5I,26.2122847,78.1697567,car_repair
+447,Royal Enfield Service Center,ChIJQwOJU7THdjkRTvdywLIeN3I,26.21453549999999,78.1685619,car_repair
+448,A S Motors Honda Service Workshop,ChIJ9Q-OxKLGdjkRH25emZSFgKc,26.2231989,78.181674,car_repair
+449,"Sainik Service Station (Petrol Pump , Gas Station & Pollution Inspection Centre)",ChIJAX4b6qXGdjkRwZXsyPTjlBo,26.22023,78.188999,car_repair
+450,Shivsing bike service,ChIJxRlCQCjEdjkRdk6uQut_PrU,26.209737,78.1661184,car_repair
+451,Dhiman Auto Electricals,ChIJJfzM8CjEdjkRzhAHGXbs4Y8,26.2082112,78.16584929999999,car_repair
+452,AIS Windshield Experts - Gwalior,ChIJB6-I67vFdjkR8jRGcirK0IM,26.2077332,78.1659097,car_repair
+453,Kamal Automobiles कमल ऑटो मोबाइल्स ट्रैक्टर पार्ट्स,ChIJFbSB-SjEdjkR1Lkznp6zW8I,26.2082449,78.1655349,car_repair
+454,Khan pandit Bullet accessories & modification,ChIJ164Gh4rFdjkRmKSWkYO_MhA,26.2085204,78.1648577,car_repair
+455,Adarsh Auto Center,ChIJy7kS_SjEdjkRX-LlkavuSSo,26.207963,78.165086,car_repair
+456,Royal Enfield Service Center,ChIJNb9_VVTFdjkRBoc5sR2QXhM,26.2016738,78.1905807,car_repair
+457,Achal Auto Electricals,ChIJfa7QRynEdjkRy85fSGYTk0w,26.2062639,78.163433,car_repair
+458,Punjab Motors & Tractors House,ChIJWQaqgS7EdjkRnLMs_5FSJw4,26.202713,78.16232090000001,car_repair
+459,Sharma Enterprises,ChIJWYTLFyzEdjkRGgtJtDfYTeY,26.203948,78.161266,car_repair
+460,New Jain Battery Works,ChIJ45X0vTLFdjkR2jOm7LY9PkQ,26.2034951,78.1606844,car_repair
+461,"Shiv Battery & Auto Electricals - battery shop in gwalior | inverter, battery | auto electricals",ChIJFdjaWTnEdjkREphrMRT87ak,26.1943786,78.1728105,car_repair
+462,Gwalior Lubricants,ChIJLRdTAC7EdjkRNaGYrlEIW9Y,26.199934,78.16239499999999,car_repair
+463,Total solution,ChIJHzxzCVjFdjkRIr_n-6qLZoY,26.2052293,78.1609002,car_wash
+464,Dream Car Solutions India Car Washing Center,ChIJzx7WxGbBdjkRwJrYirWpFKI,26.2169246,78.2165619,car_wash
+465,Peter England,ChIJAQAAALDFdjkRyAqC5D7lebM,26.2127293,78.1768399,clothing_store
+466,Vishal Mega Mart,ChIJu_32VTDEdjkRPcifGO5fg9E,26.2111211,78.1871998,clothing_store
+467,7 Ocean,ChIJW0tJQijEdjkRuhZuZz7sxT0,26.2096412,78.1662652,clothing_store
+468,Gallerie Select,ChIJe-lqzjHEdjkRx0jVr-9AXhA,26.1989404,78.1645368,clothing_store
+469,Give & Take,ChIJt2X4f9TFdjkRDRXf9CglFKU,26.2055256,78.1505853,clothing_store
+470,A To Z Sellar India,ChIJYfEW3drFdjkREqiMTWhiSTE,26.1993131,78.1428012,clothing_store
+471,NEW BHILWARA RETAIL STORE,ChIJ-8Q6LsLHdjkRXnyXMoLNUrs,26.215988,78.176452,clothing_store
+472,Surya Super Bazar,ChIJJy4PL5_GdjkRiKXDBQnPtXs,26.217388,78.1766339,clothing_store
+473,mehar collation,ChIJ_5hpeSTHdjkRxN9eATbdaCw,26.2183412,78.17702919999999,clothing_store
+474,The Body Shop India,ChIJp8iFWWPHdjkRRHAzKTXImr8,26.216128,78.1849642,clothing_store
+475,Mothercare,ChIJ4f3EjjfHdjkRm21iIt5lp5k,26.2163863,78.18534960000001,clothing_store
+476,Meher collection,ChIJ3xKSuWXHdjkRwo3iSSLZXWA,26.220818,78.17720899999999,clothing_store
+477,Wardrobe women,ChIJnRmb9xzEdjkR2lcUA4r6eVw,26.20967479999999,78.1879391,clothing_store
+478,Glamour Beauty Parlour And Boutique,ChIJHZXnTRjFdjkRgmoWJAb3-EE,26.2222106,78.1736937,clothing_store
+479,SUBHASH PRO,ChIJO4OYdiDFdjkR06aTeRLUz8U,26.2135605,78.1917297,clothing_store
+480,The Chambal,ChIJicWDNwPEdjkRn5SpE3xQsck,26.2042028,78.1684674,clothing_store
+481,Just you boutique,ChIJWat4OKbFdjkRFYsytZKRqIA,26.2077709,78.192961,clothing_store
+482,Govind Handloom,ChIJtecrhQTEdjkRtpK92QBzUUI,26.2074378,78.19285599999999,clothing_store
+483,J.Hampstead,ChIJoSL3Ul_FdjkRXiNr9QyPdKU,26.199936,78.17852169999999,clothing_store
+484,WARDROBE,ChIJYY-qQT3EdjkReOSy8bqRowg,26.1997342,78.1781384,clothing_store
+485,Firstcry.com Store Gwalior Chetakpuri,ChIJUws3-p7HdjkR2shUZErLjqU,26.1989969,78.1751652,clothing_store
+486,Om Collection-Best Men's Wear Shop In City Center Gwalior,ChIJobhTonnFdjkRt_xHb76NaOY,26.2035227,78.1920664,clothing_store
+487,Vardhmaan Gift Center & Hosiery Store,ChIJkeMMQinEdjkRADdJr88FhpI,26.206909,78.1631309,clothing_store
+488,Nari collection,ChIJ4X1Ri-7HdjkR22_iSIxLRmE,26.2293932,78.1844565,clothing_store
+489,Sacred Publication,ChIJVRsI2jHEdjkRc-6OGgyD2lI,26.1993519,78.1642799,clothing_store
+490,SHRI RAM COLLECTION,ChIJATYPBVHHdjkR9smv4fMpgRw,26.216305,78.1576171,clothing_store
+491,Nagaji General Store,ChIJJTrOZCzEdjkR-YQFAOuwkwk,26.2044377,78.15979899999999,clothing_store
+492,Arun Terene Center,ChIJYWPlz7_GdjkRAxg7Cfz48fs,26.2337177,78.179982,clothing_store
+493,Kalakriti Boutique,ChIJJTTFJD7EdjkRJUyeAiqZS7s,26.1932382,78.1788114,clothing_store
+494,Preeti Saree Collection,ChIJjX63r2LGdjkRrS_7D6kk9ww,26.22272139999999,78.1557388,clothing_store
+495,New Sapna Saree Center And Beuty Parlour,ChIJAVrwiBzFdjkRSZX2tdmDyBY,26.1907483,78.170316,clothing_store
+496,Shobha General Store,ChIJ7Sc6ZdPFdjkRsHk78hiJTbc,26.204145,78.154358,clothing_store
+497,vishal tailoring material,ChIJO9XL2tLFdjkRi2__-gv_ucQ,26.2012499,78.15563019999999,clothing_store
+498,Garg Sarees,ChIJv66YtnzGdjkRiKNmlMGMky0,26.22000969999999,78.1521058,clothing_store
+499,Shri Vinayak General Stores,ChIJvXmyT_nDdjkRowJGodp1oLw,26.208555,78.206892,clothing_store
+500,Men's Garments shop- Harsh collection,ChIJp4ivYbzFdjkR-BfmTfPTYHI,26.2050815,78.1527862,clothing_store
+501,Top Shop,ChIJ10iCqNPFdjkREH_xnIDO2qA,26.202492,78.153595,clothing_store
+502,Masp Fashion Store,ChIJ5wa4ZmTHdjkRBNhkgfnz-hg,26.239887,78.17888719999999,clothing_store
+503,Firstcry.com Store Gwalior Daulat Ganj,ChIJfapVFnvFdjkRGc09NI8eefo,26.2007459,78.15256839999999,clothing_store
+504,Raj Shahi Kurta Pajama,ChIJS7J0LdLFdjkRx0z8Nb11B3I,26.20196009999999,78.1514919,clothing_store
+505,Ten To Ten,ChIJq3xqjtHFdjkRVPiKOTLdisQ,26.2004951,78.1501313,convenience_store
+506,Ramkishan Vijay Kumar & Sons,ChIJ3RQTP87FdjkRCBWkoI1cnM4,26.1971439,78.149078,convenience_store
+507,Sheetal Tarang,ChIJc6PHMr3GdjkR4Jv-U5B9_F4,26.2245581,78.18122489999999,electronics_store
+508,EurecaTech Group,ChIJvbkfdy7EdjkRkb5rem5AnYY,26.200787,78.17339299999999,electronics_store
+509,Khetan Computers/K.K. Infotech,ChIJITwQENPFdjkRD4PQT_VgWXY,26.20257,78.154071,electronics_store
+510,HP World,ChIJLVAX59LFdjkRzMBksSCN6Yw,26.2033479,78.16265299999999,electronics_store
+511,Tech Adapt Associates,ChIJGyhGBELGdjkRcZrGImHd60c,26.229924,78.14489499999999,electronics_store
+512,Imagine - Apple Authorised Reseller,ChIJi7y8XSjEdjkR95C3KAGI1zE,26.2161784,78.18502199999999,electronics_store
+513,P.S Fashion & Cinematics,ChIJPSrh5RbEdjkRId-M7QVCZfg,26.2091553,78.1914645,electronics_store
+514,Canon,ChIJmUESayjEdjkRa4t_AdsSbb8,26.2096476,78.166274,electronics_store
+515,Pankaj Electronics,ChIJbRTc4r3GdjkRNPBpPeQbffY,26.230009,78.180027,electronics_store
+516,Samvet Gurukul,ChIJk_XrKzrEdjkRDztXNMKT6AQ,26.197973,78.17123099999999,electronics_store
+517,Laptop Gallery,ChIJe1fUmi7EdjkRpNAylfsyCZg,26.203281,78.1626919,electronics_store
+518,MANISH SALES (A Complete Electronic Store),ChIJM1dply7EdjkRfbdxxgO1lcg,26.2032181,78.1627012,electronics_store
+519,Lenovo Exclusive Store - The Computer Associates,ChIJj6qqqrrFdjkRTN-HXWRJ7d8,26.20320599999999,78.162596,electronics_store
+520,LOKPLAZA,ChIJO_OFRizEdjkRMaRkT9Z7QMQ,26.2034558,78.1606312,electronics_store
+521,sony service center,ChIJb2A_RyzEdjkRYjr139tshy4,26.2037462,78.1602601,electronics_store
+522,Sony Center - Imperial Radio & Gramophone Co.,ChIJRwIj0DHEdjkRu-Qhz8E_jws,26.1991021,78.1643625,electronics_store
+523,Gupta Stationery and Paper House गुप्ता स्टेशनरी एंड पेपर हाउस,ChIJw_9KJM3FdjkRgEQVJLv5-Ow,26.1965951,78.1556128,electronics_store
+524,ADL Computer Services,ChIJ3Ve_-svFdjkRh9Afzz5BKbs,26.1922159,78.151366,electronics_store
+525,"S.S. AIR CONDITIONER, Auth. Sales, Service & Repairs",ChIJAQAAQL7FdjkR38z4NiOqLJg,26.18622,78.15091199999999,electronics_store
+526,Balaji Paper Craft,ChIJR6Hnu-vFdjkR7k97BdZm3kw,26.1892255,78.12980019999999,electronics_store
+527,Sanskar Kitchen Gallery,ChIJI8oG2jHEdjkR_EpKR1nVlgM,26.2070253,78.20061919999999,furniture_store
+528,Jainson Kitchens Gallery,ChIJr0WWcs3FdjkR8kdVBGBxO9Q,26.1979263,78.1542018,furniture_store
+529,Hotel Safari,ChIJqQaNLaHGdjkRbnxkC_tS93U,26.2167092,78.18469780000001,furniture_store
+530,Madhvi Enterprises,ChIJ_eiVQifEdjkRmnX8rJK1cK0,26.2112347,78.1721891,furniture_store
+531,Total solution,ChIJHzxzCVjFdjkRIr_n-6qLZoY,26.2052293,78.1609002,furniture_store
+532,"Lokplaza Furnitures(dining table , shoe rack ,centre table, designer furniture, bar cabinets , bar stools , office table , boss chair , mandir , mattresses , wall art , show pieces , cushions , pillows, customised furniture , lounge chairs",ChIJE3TjKAbFdjkRT73L56HRpL8,26.2037232,78.16056139999999,furniture_store
+533,Kurlon Gwalior,ChIJ48DFDwfEdjkRCWipGaFrxSA,26.206301,78.200029,furniture_store
+534,Gwalior Bartan Bhandar,ChIJRyYHgpTGdjkRLM7X79FFhwg,26.2329249,78.173554,furniture_store
+535,Nav Bharat Sales,ChIJlbAJ_CzEdjkRjdqCc31RO3k,26.2026957,78.15867209999999,furniture_store
+536,Sardar Steel Industries,ChIJs-VwsEDEdjkRciG8FumYR-g,26.1880967,78.1742266,furniture_store
+537,Renwal Metals,ChIJf5Z2sdPFdjkRFzAvfQ7a_lk,26.2021167,78.15269479999999,furniture_store
+538,Jai Santoshi Maa Bartan Bhandar,ChIJ0zaDdmPGdjkRruOtwabmcDM,26.2246877,78.1518395,furniture_store
+539,Bhagwan Iron Works,ChIJR_xpYdHFdjkRw2m_Q8Lns9U,26.2026839,78.150476,furniture_store
+540,Deepak Modular Kitchen,ChIJQQDVvebDdjkRt5hZ_kMUhNg,26.2152617,78.2108658,furniture_store
+541,Shree Dharti Pakad Handloom Sadan,ChIJrSwlIdLFdjkRNNz0Vn8LhdI,26.200421,78.150965,furniture_store
+542,Shivhare Steel,ChIJz7b_Dc_FdjkRkQm2oA-NpJ4,26.1946859,78.146816,furniture_store
+543,'Sleepwell' Rohit Enterprises,ChIJZ3rymVjGdjkR2w6VWE31plU,26.241562,78.155806,furniture_store
+544,Abhishek Catering & Crockery,ChIJW2mAqs_FdjkRBmIFc9dKh6U,26.1930565,78.1452906,furniture_store
+545,Om Prakash Radheshyam Agarwal Bartan ki Dukan,ChIJDSleJV7BdjkRKqZQR0bEeh4,26.2199589,78.224173,furniture_store
+546,Akash Steel Palace,ChIJBTLNTWfBdjkRMB4udQtmYQE,26.222751,78.2257269,furniture_store
+547,Khattri Plywood,ChIJx3wvPTDBdjkRkCNmtDZQt-s,26.2480902,78.2106182,furniture_store
+548,Siddharth Window Coolers and Furnitures,ChIJWVFv8JjBdjkRTzHWw_nxKeI,26.2499562,78.2125579,furniture_store
+549,Indian Oil Petrol Pump,ChIJ7ZDecczFdjkRqQHPRO6lb7k,26.1973344,78.1684974,gas_station
+550,Jai Bharat Petroleum Fuel Station,ChIJU3TcQjnEdjkRcpeEtgOzJN4,26.193735,78.1724708,gas_station
+551,Bharat Petroleum Fuel Station,ChIJTcoLiMzFdjkRsGquDJREy6w,26.1938342,78.1536373,gas_station
+552,Petrol Pump,ChIJA8vvpkDEdjkRehw89JsCItc,26.1887345,78.17448379999999,gas_station
+553,"Bharat Petroleum, Petrol Pump -Vaishya & Mukherji, Stn Road",ChIJ4wZBgCTHdjkRqwBvWE7E2ho,26.2141644,78.1819367,gas_station
+554,Hindustan Petroleum Petrol Pump,ChIJE4NUnCDEdjkROcjkSt87SHE,26.2121401,78.1754818,gas_station
+555,HP PETROL PUMP - GWALIOR SERVICE STATION,ChIJwbRGiJ3GdjkRA28Xj0S-MMM,26.212111,78.17151799999999,gas_station
+556,"Kesar Services, HPCL",ChIJG9Bkg6bGdjkRgRYwlVRML6U,26.21879,78.1872109,gas_station
+557,Jai Bharat Petrol Pump,ChIJ-7zFhzrEdjkRW2GrH-5C8hg,26.1973344,78.1684974,gas_station
+558,Bharat Petroleum Petrol Pump,ChIJ2Q0k5XzGdjkRddl4DT3Wlzo,26.21986859999999,78.1529493,gas_station
+559,Petrol Pump,ChIJ7_NY9VPBdjkRX5Uklhlshig,26.220716,78.2063696,gas_station
+560,Vaishya & Mukerji (City),ChIJzWbtOfXDdjkRTcu3fcQdQ70,26.19230529999999,78.20377839999999,gas_station
+561,Essar Petrol Pump,ChIJJVnWYNfFdjkROr4fLvyzIO4,26.2056151,78.1456594,gas_station
+562,HP PETROL PUMP SHRI RAM HARSHAN PETROLEUM,ChIJ8W2YTF_BdjkRse5pL32KtR0,26.20306699999999,78.2243419,gas_station
+563,Bharat Petroleum,ChIJY1G7rVjBdjkRTZ5iE1Hkk8w,26.2165389,78.218908,gas_station
+564,Bharat Petroleum Petrol Pump,ChIJoWgWEl3GdjkRqGkEiv32NCo,26.2349997,78.14709839999999,gas_station
+565,Sarda Auto Fuel -IOCL Petrol Pump,ChIJdactLjHBdjkRLhCAC1o7rlU,26.2448106,78.2099104,gas_station
+566,"Bharat Petroleum, Petrol Pump -Jain Brothers",ChIJRYULpaHFdjkR2NHqxtIMH88,26.2029082,78.13895,gas_station
+567,"Krishna Service station, IOCL Petrol Pump",ChIJra5cwVzGdjkR8vX62SGEJ28,26.2372123,78.1461784,gas_station
+568,petrol pump,ChIJp6MVxFzGdjkR7OI9hkZ5Y7c,26.2370784,78.1460276,gas_station
+569,AGAM ESTATE,ChIJm7R33p7GdjkRqJGCOIZcAaA,26.2190075,78.17519030000001,real_estate_agency
+570,Mantri City,ChIJq8rvPRvEdjkR3plqM3kCXaI,26.2057492,78.1892712,real_estate_agency
+571,Kalsh realtors,ChIJv45KLBvEdjkRnUEDAkAc_tA,26.2053736,78.1903784,real_estate_agency
+572,WGCR Pvt. Ltd.,ChIJKRnglATEdjkRa0kAhPM4so0,26.206543,78.192246,real_estate_agency
+573,BASERA REAL ESTATE,ChIJgeXjSQTEdjkRJ7-_lpUp7ew,26.205641,78.194897,real_estate_agency
+574,Shri Property Trade Com,ChIJJ6XwED7EdjkRCUOZlRn20NI,26.194181,78.1784,real_estate_agency
+575,Vardan Construction Pvt Ltd,ChIJ2fNcUyzEdjkRoPYTuDhiVt8,26.202367,78.159685,real_estate_agency
+576,Shri Ji Awas Vikas Pvt. Ltd.,ChIJ0-SqWVXBdjkRBA7NdrSpDQg,26.214795,78.2029199,real_estate_agency
+577,Sahara Construction,ChIJ0dG9mFjGdjkRONd-mt1njVU,26.241338,78.156008,real_estate_agency
+578,orange tivoli,ChIJX4J9zojDdjkRJo3bDAUo4hU,26.182057,78.207348,real_estate_agency
+579,Premia Group,ChIJj6qqqrrFdjkRiGE7Yb8PYf0,26.174891,78.14504099999999,real_estate_agency
+580,Adarsh Awas Vikash Pvt.Ltd.,ChIJk3l-ndvAdjkRwdVEGCo--DA,26.271141,78.2182629,real_estate_agency
+581,A RVS India Associates,ChIJ2dsVcp3GdjkRiXryI7mTrdI,26.2130419,78.170063,real_estate_agency
+582,Property Junction,ChIJh4-a8xzEdjkRtcVRv7qOthU,26.209246,78.1882019,real_estate_agency
+583,Shiv Shakti Property Consultancy Gwalior - Property Dealer - Broker- For Rent -for Sell,ChIJ_dM4IR3EdjkRPiKL-yr4mYw,26.2108474,78.1895077,real_estate_agency
+584,CCADEVELOPERS OFFICE,ChIJewPCxD7FdjkR3kDaNqfL7sM,26.2071,78.1895,real_estate_agency
+585,CCADEVELOPERS by amansinghgoyal,ChIJd_QZ_0HFdjkRDodVZXB66nc,26.2073119,78.1900629,real_estate_agency
+586,Indra Creater,ChIJXW4ZFhvEdjkR4tW_IuLFM_w,26.2057487,78.18926069999999,real_estate_agency
+587,Shri Vrindavan Dham,ChIJW1MOIRvEdjkRuN6s-dylFDs,26.204998,78.18943,real_estate_agency
+588,New Era Real Estate,ChIJv1fZLxvEdjkR8Op6BlFOQgo,26.20551519999999,78.19004610000002,real_estate_agency
+589,Metro Shoes,ChIJ9ZDLPRvEdjkRqPxIpKKfnWE,26.205478,78.189482,shoe_store
+590,Jai hind boot house,ChIJRZFQII7FdjkRZXIE3Zvl4-A,26.2108849,78.187918,shoe_store
+591,Liberty,ChIJx2OyrJ_FdjkR7SHkGca6aVw,26.1991125,78.176193,shoe_store
+592,Ideal Garments,ChIJKyeyANLFdjkRFqo2SRPgEHw,26.1987199,78.15107700000002,shoe_store
+593,Sai Kirpa,ChIJM2YtSNDFdjkR0vL_42OWf88,26.199855,78.14735100000001,shoe_store
+594,Ayudhi Store Gwalior,ChIJSZ2CcyLFdjkRN_0qJImvqzk,26.2459931,78.1864425,shoe_store
+595,Manish hosiery & boot house,ChIJOccyVSDJdjkR8-X-dEVVjKo,26.2261493,78.0856847,shoe_store
+596,Bengali garments,ChIJoyaaY_rFdjkRAcHk5PNdQnI,26.1960986,78.14963829999999,shoe_store
+597,"Sysnet Global Technologies (P) Limited ,",ChIJOasUV73GdjkRjnGmtSRiRGI,26.2249366,78.1794893,shopping_mall
+598,Sai Opticians,ChIJOwPJwS3EdjkRp_Cnn2WqPmo,26.2006759,78.16052420000001,shopping_mall
+599,Quick dial service online grocery store,ChIJSS0MzXzGdjkRE7w5W-jUDTk,26.2219335,78.1527713,shopping_mall
+600,Dindayal City Mall,ChIJF4Q0aCjEdjkRQCAl056D7QA,26.2094432,78.16644959999999,shopping_mall
+601,creative land,ChIJVVVV_NTFdjkRneH0IobyqRg,26.217413,78.17061199999999,shopping_mall
+602,Jai Anand Plaza,ChIJa4GKoALEdjkRSVKV7fDP1u0,26.2136258,78.1919154,shopping_mall
+603,PATANJALI CHIKITSALAY & STORE,ChIJHY2VIr3GdjkREOLJvB_sKwE,26.22599259999999,78.1813224,shopping_mall
+604,NMA BICYCLE STUDIO,ChIJjzV-0izFdjkRasKCIVrr7KQ,26.2096522,78.1937876,shopping_mall
+605,VESTIGE MINI DLCP,ChIJI3aofwHEdjkRy1dwGaQooW0,26.2110281,78.1965111,shopping_mall
+606,Jai baba provision & general store,ChIJ10nCpAHEdjkRMJEic_c60tI,26.2119534,78.1982381,shopping_mall
+607,Padma Shopping Centre,ChIJiV7oOTXFdjkRsXfQxs85Jto,26.2056233,78.1624183,shopping_mall
+608,My Idea Store | Vodafone Idea Limited Retail Store,ChIJW3HeFAfEdjkRYyZ89NrCDp0,26.2070969,78.2005135,shopping_mall
+609,Shrivastava Market,ChIJ96G_tr_GdjkRzLgObnFVLp4,26.2336569,78.18094119999999,shopping_mall
+610,NB Bazaar,ChIJISZlstHBdjkRAba2DHGp_KA,26.2205893,78.2022772,shopping_mall
+611,Ashoka Sales,ChIJu7VTa4zGdjkRrf_brttCJRE,26.2302417,78.1632427,shopping_mall
+612,Green's Super Store,ChIJ_caEaInGdjkRSZY5C8N1zDg,26.2222053,78.1564025,shopping_mall
+613,BRAND YUVA MENS WEAR,ChIJf6BeBkjBdjkRTe-IX9KPoCU,26.2159528,78.20477699999999,shopping_mall
+614,shri ram provision store,ChIJQTkT3X7GdjkRauXCPt6iXsM,26.2139031,78.15207459999999,shopping_mall
+615,Photo Copy Ankit,ChIJEcij8znFdjkRYJ92fi5aPfU,26.1881198,78.1812987,shopping_mall
+616,Lovely Kirana Store,ChIJReI_AlTBdjkR0nKXWaE111I,26.220364,78.20764729999999,shopping_mall
+617,The Packers Movers Ghaziyabad,ChIJIxTKRE0dYzkRhFL_eL3WQa8,26.212771,78.179023,storage
+618,Nitco Logistics Private Limited,ChIJN_Ej15_GdjkRw1_gC04-soU,26.212747,78.176954,storage
+619,Seasons Tea Store Room,ChIJs8Ww5pfGdjkREBGP28Ot_hM,26.22540309999999,78.17885009999999,storage
+620,FCI Godown,ChIJ952cP_PDdjkRR08_RQwgLIY,26.1931438,78.20921299999999,storage
+621,Anki Group Packers and Movers,ChIJQ1piwrjGdjkRoZI1ZltOHHQ,26.2455713,78.2099717,storage
+622,"Railway Maldhakka, Gwalior",ChIJv0BzmaHGdjkRoH9Wf6itZCY,26.2174786,78.18158629999999,storage
+623,Punjab Frozen Enterprises,ChIJ_8OHliHEdjkR4ku2knBFi7Q,26.207939,78.1774219,storage
+624,National Bulk Handling Corporation Pvt.Ltd,ChIJHS3FMRvEdjkRJuDCxsZPvog,26.205593,78.190161,storage
+625,COMMERCIAL EMERALD,ChIJFwrpyivEdjkRJwe_WJhMhkk,26.2081034,78.16083669999999,storage
+626,Madhya Pradesh Warehousing & Logistics Corporation,ChIJs40lLizEdjkR8sXEHIdGdP4,26.2029415,78.1614465,storage
+627,M/S Baboolal Bhaiyalal,ChIJbcndii3EdjkRl9SdLnGY-xI,26.2004874,78.1611611,storage
+628,Shri Krishna Packers And Movers,ChIJk07CrqLFdjkRA7e2OqR__Yo,26.2031168,78.15902009999999,storage
+629,Vikas sahu,ChIJtd7TeajFdjkRRkgHus2SCP4,26.2072255,78.15427439999999,storage
+630,SAIL Compound,ChIJlU6G_rbGdjkRUrnrHYbvVvA,26.2338792,78.193682,storage
+631,Laxmi Bidi,ChIJsRCXlXHFdjkR_f96-ZIrZCs,26.2052794,78.15199729999999,storage
+632,M P Traders Pepsico,ChIJa3j8VPbDdjkRODfMTferoK4,26.2000529,78.2046878,storage
+633,Shivam Mponline,ChIJg-cpveXFdjkRj5ZWLI_MV1E,26.190132,78.161777,storage
+634,Kamal Enterprises,ChIJT904WVnHdjkR7IwBZrNodqk,26.2470272,78.1894435,storage
+635,JMS GODOWN,ChIJbybZYmjGdjkR-H1k31P4Ph0,26.2303074,78.1442592,storage
+636,Central warehouse no.1,ChIJh3H58izFdjkR8aOZn0TMd8I,26.2055645,78.13803399999999,storage
+637,Sudarshan Cold Storage,ChIJBw4UbVHHdjkR4cPnduXBHBU,26.2397964,78.1454918,storage
+638,Mangal Sales Corporation,ChIJQeg8tqrHdjkRaSosVtWrNxA,26.2329719,78.1362992,storage
+639,Vicky Factory,ChIJeQlXdV_EdjkRh6NuwIb1nY8,26.1748905,78.1450412,storage
+640,Rahul Warehouse,ChIJg1eYVJ7DdjkRYokrYPVI9WI,26.1721961,78.2218831,storage
+641,Future Supply Chain Branch,ChIJFaDDy7fHdjkRhvMb2dftko4,26.2645234,78.13481259999999,storage
+642,Ashoka Warehouse,ChIJ_____8jHdjkR4LyUeD3vYco,26.2638813,78.130787,storage
+643,Brindavan agro industries pvt ltd,ChIJ__3ZzLnHdjkRrpSCQzkDsrg,26.268199,78.1365335,storage
+644,Reliance Jio warehouse,ChIJY1ZW6rG4djkRmRNZ6VH7l7c,26.3199337,78.195062,storage
+645,Food Corporation of India Godown,ChIJnXC-GR_EdjkRvdf-cJCCezc,26.2088494,78.1817369,storage
+646,Jai Mahakal Cold Storage,ChIJMxBGRcfHdjkRluXmuxkIFxU,26.2722542,78.1331034,storage
+647,Sheetal Tarang,ChIJc6PHMr3GdjkR4Jv-U5B9_F4,26.2245581,78.18122489999999,store
+648,"VLCC Weight Loss, Beauty, Laser, Hair, Make Up, Skin, Figure Correction Centre",ChIJjwauQBvEdjkRuGTH4nz_oRs,26.2063651,78.1891634,store
+649,Lakme,ChIJg0dWvQfEdjkRfRr_h8pkxn0,26.2027133,78.2042044,store
+650,Manglam Jewellers,ChIJ____g9HFdjkR5kf0yGhs-f8,26.200386,78.149154,store
+651,"Ferns N Petals : Flower Shop in City Center, Gwalior",ChIJ5WYH-ZfGdjkR9tO_7fKWDNw,26.2244488,78.1787114,store
+652,Flower Point,ChIJ9db57v_DdjkR_xwYU0rI1tY,26.2136526,78.20294200000001,store
+653,Acme Foods & Nutraceuticals - Green Gold Spirulina,ChIJNQSMQAfEdjkRtrJvrhbJlSQ,26.2073515,78.20068429999999,store
+654,Metro Shoes,ChIJ9ZDLPRvEdjkRqPxIpKKfnWE,26.205478,78.189482,store
+655,Indian Coffee House,ChIJSdOy5qDGdjkRcBzynnB_JuM,26.2155323,78.18325039999999,store
+656,Kunal Aquarium Gwalior,ChIJV28X05vGdjkRlt01GBERgq4,26.2207511,78.1730568,store
+657,Titan Eye Plus,ChIJC0r63izEdjkRFQmbNrvRMxs,26.202313,78.157589,store
+658,"Piles: Symptoms, Causes, Fissure Treatment, Fistula treatment, Best Ayurvedic Medicine for Piles",ChIJzyhG91XBdjkRNJqn_Sp6Gpw,26.215255,78.206949,store
+659,fruits2buy,ChIJV1zbLBvEdjkRtYOh2Wd6MIg,26.186241,78.209024,store
+660,Alfanzo,ChIJsQ7CXxzEdjkRQFGP6QoNBwY,26.209044,78.187702,store
+661,EurecaTech Group,ChIJvbkfdy7EdjkRkb5rem5AnYY,26.200787,78.17339299999999,store
+662,Nirankari Bakery,ChIJb-Z5z9DFdjkRFUB7T_3oCCI,26.204906,78.14643989999999,store
+663,Crisp Corner,ChIJG8MMXUnBdjkRcmeefSZzLNw,26.2338849,78.208258,store
+664,Khetan Computers/K.K. Infotech,ChIJITwQENPFdjkRD4PQT_VgWXY,26.20257,78.154071,store
+665,HP World,ChIJLVAX59LFdjkRzMBksSCN6Yw,26.2033479,78.16265299999999,store
+666,Relish Bakers,ChIJt7FejA7EdjkRpu36DA2sw1Y,26.1974856,78.19547469999999,store
+667,Veggkart,ChIJ4_0az1jGdjkRKWMSe81CA7w,26.2402616,78.1545378,supermarket
+668,Big Bazaar,ChIJy4lLZyjEdjkRhc_tSqQCEMg,26.20711769999999,78.1662691,supermarket
+669,Jayant,ChIJoeLqVXvHdjkR04i-ILZUPiE,26.2138472,78.1768287,supermarket
+670,Balram General Store,ChIJ3x-736DGdjkRY4yK2fKiGcw,26.2158215,78.18361680000001,supermarket
+671,Laxmi,ChIJMZHMThfHdjkRNk1WFzlfeT8,26.2182871,78.18283079999999,supermarket
+672,King Ak Villa,ChIJx0LJZKHGdjkRpBSaHfcsJkI,26.2182871,78.18283079999999,supermarket
+673,Big Bazaar,ChIJd5dqKqHGdjkRvy9nJN3QCPU,26.2161617,78.18510359999999,supermarket
+674,DD Mall,ChIJPyo9qzDHdjkRsLUQeugbXT8,26.2164222,78.1852555,supermarket
+675,Vishal Mega Mart,ChIJhRgp8FHHdjkR3mxM3xmr5Uo,26.2174098,78.1712122,supermarket
+676,Rawaldas Pool Bagh Gwalior,ChIJkb8acJ3GdjkRlurl3iNLWYk,26.2126557,78.1700206,supermarket
+677,Rawaldas True Mart,ChIJAXMgb53GdjkRfmoGYs9Plew,26.2127589,78.169708,supermarket
+678,Khandelwal Departmental Store,ChIJe9bulxzEdjkRTVAALv40mkM,26.208403,78.1890679,supermarket
+679,Anand plaza,ChIJI1y0yRfHdjkR5siOy3fH5w0,26.2142724,78.19146549999999,supermarket
+680,Reliance SMART,ChIJsRiH2wzFdjkR0hXwauObiZQ,26.2021801,78.1839617,supermarket
+681,Big Mart Retail Store,ChIJARP_6oTFdjkRdfgrytdqFtw,26.2051181,78.1893996,supermarket
+682,Balaji Kirana And General Store,ChIJydkYvKfFdjkR8H1OlgJ7lpA,26.2023453,78.1863387,supermarket
+683,Manish Patel Kirana Store,ChIJV1oB2c3HdjkRDNkuHIQgIrI,26.2267589,78.1840599,supermarket
+684,Anand Mini Mart,ChIJ51zF1wTEdjkRFwbQ8LFQoV0,26.2048038,78.1914058,supermarket
+685,MEGHA MART,ChIJsSv4iwTEdjkRI1SlLa_y5rc,26.2068015,78.1931499,supermarket
+686,Maha Lakshmi Provision store,ChIJP_LQlL3GdjkRqGi5mDSWrIw,26.228706,78.1804592,supermarket
+687,Agrawal departmental store,ChIJLeYPtgTHdjkRf8TXzLPGCFM,26.22936899999999,78.1800809,supermarket
+688,एस जनरल स्टोर,ChIJFy0ivxfHdjkRSa0RG5jY7Xk,26.22955989999999,78.1817901,supermarket
+689,Store One,ChIJt6Bb9w_EdjkRfGXWy7oAC9g,26.2016512,78.1914266,supermarket
+690,rajawat market,ChIJ65360b3GdjkRvjsyyQn_ByQ,26.22962,78.1816996,supermarket
+691,Shakti Bhakti Cement Agency,ChIJM1E-URDEdjkR-9oZbBuYaxk,26.1993083,78.18822779999999,supermarket
+692,Vishal Mega Mart,ChIJXfpxl3PFdjkRzO5IiRgq7RA,26.2050458,78.1621389,supermarket
+693,MistrE Car House,ChIJWQ9YBrHFdjkRwHaTZoNFjls,26.2028117,78.1623886,supermarket
+694,Kavy Shri Traders,ChIJj2AueILFdjkRnEUCCse2nLg,26.20886999999999,78.1995457,supermarket
+695,Easy Day,ChIJl_TF6ADEdjkRSf5hKKaxiMk,26.2103173,78.20001839999999,supermarket
+696,Mistre Car Accessories,ChIJ6QPcXsDFdjkRzMa8soKOH4o,26.2029092,78.1619401,supermarket
+697,Big Shop Departmental Stores,ChIJ6XR8BAfEdjkRz88WICQdn6U,26.2061976,78.1996277,supermarket
+698,Gupta retail Mart,ChIJS7kfLcvHdjkR6PscK7uQjH4,26.230158,78.1914556,supermarket
+699,Vaishno Fruit. ( Gaurav Agrawal ),ChIJIfNMfv7HdjkRdDelOA29IAw,26.2328223,78.1735455,supermarket
+700,Aap Ka Bazaar,ChIJ04zqBwfEdjkRhVab7YXSb7U,26.2057049,78.199822,supermarket
+701,kaurav bhavan and market,ChIJfZlo4v_DdjkR0aAaWgTL8Pw,26.2145234,78.2029987,supermarket
+702,New Balaji Departmental Store,ChIJt2rZG4zGdjkRmQU9AozaOPc,26.2292492,78.1631957,supermarket
+703,Vaishno Paints And Tiles Gwalior,ChIJRRZdOfnDdjkRWmN6y70H-v0,26.21019,78.203074,supermarket
+704,Bhagwanlal Johri Lal Jain,ChIJpX67jC3EdjkRulXbzWuhaug,26.199882,78.160653,supermarket
+705,Preeti Provision Store,ChIJVVVVFVXBdjkR-EGuVMAZYcA,26.2161044,78.2034633,supermarket
+706,Preksha Treaders,ChIJq6qqni3EdjkRr6APPluNBW0,26.2004705,78.1596497,supermarket
+707,Globalduniya Gwalior | Tour Operator,ChIJU5MaMi_ahVQR3cXjRc0cS0A,26.2092146,78.1875767,travel_agency
+708,Madhur Courier,ChIJqZdp0_LGdjkRDB07b4FRzQE,26.2348669,78.165412,travel_agency
+709,Neeraj Travels & Tours,ChIJY-dxHaDGdjkRK0566M-8nE4,26.2135137,78.1793047,travel_agency
+710,Chhaya forex ( Chhaya currency changer services PVT Ltd) foreign currency exchange,ChIJ1XR5sv_HdjkR5GLbQVxVJqk,26.213421,78.1768405,travel_agency
+711,Rastogi Stores Tour & Travels,ChIJPTmDJ6HGdjkReSh835_u-7U,26.2159939,78.184068,travel_agency
+712,Thomas Cook,ChIJB7OP7T7FdjkRmjz2hSR9LSM,26.2071155,78.1895838,travel_agency
+713,Shri Krishna Tours And Travels,ChIJu2N0NhvEdjkRgMDoDzUVBA4,26.2060883,78.1903113,travel_agency
+714,SAILANI TOURS N TRAVELS PRIVATE LIMITED,ChIJD6VtGwTFdjkRdgfCu-pdhVo,26.2062926,78.1919752,travel_agency
+715,Familys Holiday (Travel With Us),ChIJXzOVY3rFdjkRSQs98-Pv06s,26.2099204,78.1947302,travel_agency
+716,Tourismo Tour N Travels,ChIJnwFapQLEdjkRhHqKKl8e8Ho,26.2035227,78.1920664,travel_agency
+717,Zindagi Trip,ChIJi52A8fPHdjkR11amH1yC9TY,26.2245161,78.1946845,travel_agency
+718,ABROAD VISA HUB,ChIJ8ctT4LvHdjkR8k03Wt9fTZQ,26.2213044,78.15965380000002,travel_agency
+719,Make My Trip Store Gwalior,ChIJoUGr0Y7FdjkRId_DvSJJqvE,26.1995265,78.1635992,travel_agency
+720,Gwalior Travel Services,ChIJgUXTlADEdjkRuy5xoyDgybM,26.20396179999999,78.15844729999999,travel_agency
+721,GHUMOO DUNIYA,ChIJcaxkow7EdjkR_0AkXUJ7CQs,26.197104,78.19524799999999,travel_agency
+722,Travel Suru,ChIJMebBXe3HdjkRz8P---HeN90,26.2354786,78.17881729999999,travel_agency
+723,Hence Holidays,ChIJ-XEZRp_BdjkRVVOZq9INIoU,26.2177908,78.2059551,travel_agency
+724,Jai Mata Di Tours & Travels || Best Taxi in Gwalior || Best Cab in Gwalior || Best Tour and Travels in Gwalior,ChIJzyhG91XBdjkRR_Yhr5mRtTY,26.215255,78.206949,travel_agency
+725,JUST CLICK HOLIDAY,ChIJjb9Y-lXBdjkRmprDjs2w938,26.215494,78.20714100000001,travel_agency
+726,Travel Moods,ChIJ2WodrNHDdjkRxvgFtk_ER9k,26.2082855,78.20844699999999,travel_agency
+727,Meraki Holidays,ChIJ32iK7e3DdjkR1Qw9ROMWQpM,26.2089447,78.2090642,travel_agency
+728,Brij Namkeen & Brijwani Travels,ChIJT4xpEsbFdjkRGn5OXrtbpPY,26.192124,78.151614,travel_agency
+729,Shruti Travels,ChIJ_bsSJHnBdjkRfTawhMWbcrg,26.2400729,78.2085372,travel_agency
+730,A one travels,ChIJ75MbTWbBdjkRKIAlasdzIXE,26.224488,78.222786,travel_agency
+731,TRIP2HEAVENS,ChIJkfd8YjXHdjkR4H0-qj9NCh8,26.2349537,78.140788,travel_agency
+732,Travelsuru,ChIJ94v5C0PBdjkR4rRML-gq9Bk,26.2302949,78.2208746,travel_agency
+733,SHANTI COMPUTERS (Mponline & CSC center) And LIC Premium Point,ChIJ92TpUvvDdjkRVCcFBRR43bE,26.19928359999999,78.2221179,travel_agency
+734,Jai Balaji Tours & Travels,ChIJo1xVL_jFdjkRzW4QiUQzCog,26.1863665,78.1343507,travel_agency
+735,Om Jay Shree Dev Narayan Medical Store,ChIJVVVl4iTBdjkRFUIPwsxO2qI,26.252581,78.2163279,travel_agency
+736,Manu Tours and Travel,ChIJ18ldQobBdjkRmAgIlzkNrE8,26.2562403,78.2186641,travel_agency
+737,Chaubey ji tour & travels,ChIJ4x0txvPBdjkRXI2chUdPliQ,26.2637492,78.2096214,travel_agency
+738,S.A.T. Consultant Services,ChIJbUrPlNfAdjkR2IZ0jtdxPmg,26.26342,78.212254,travel_agency
+739,SURYANSH Tour And Travels,ChIJPU6E3NzBdjkR1soN4S3deHo,26.2628094,78.2141468,travel_agency

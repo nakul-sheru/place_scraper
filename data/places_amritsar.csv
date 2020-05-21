@@ -1,0 +1,808 @@
+,place_name,place_id,lat,lng,type
+0,Municipal Corporation Car- Cum- Scooter Parking,ChIJS1tDBapkGTkRSBCxKDroWrM,31.6354249,74.8697294,parking
+1,Best Parking,ChIJDe1aGu5jGTkRHS0UOgslOLI,31.6341767,74.88121679999999,parking
+2,Gurudwara Golden temple’s Parking,ChIJw3GBxad9GTkR0Xv33-k_avQ,31.6229182,74.8780175,parking
+3,Parking,ChIJ-9clUZBlGTkRqWviiCMMG0E,31.6639583,74.8599406,parking
+4,Multi Level Parking,ChIJJXL_D6pkGTkRBKVO8W8zoQw,31.6331542,74.87355629999999,parking
+5,DAV College Parking Lot,ChIJIaYwt6pkGTkRneA3ehO-09M,31.6286,74.87296239999999,parking
+6,Parking,ChIJ38O-Gql8GTkRAZxzbyEHs64,31.6208771,74.8778504,parking
+7,Parking Comlex Gurudwara Shaheeda,ChIJQ2F4E6R8GTkRbu_UKzfjy8k,31.6134172,74.88095679999999,parking
+8,IDBI Bank,ChIJVXOeVqpkGTkRqrH8RU8BpBU,31.6371065,74.8682903,bank
+9,Punjab National Bank,ChIJVXOeVqpkGTkRbOUI3mX27Ms,31.6301024,74.876746,bank
+10,Federal Bank,ChIJVXOeVqpkGTkRuaij8IwsGeY,31.6417375,74.86217049999999,bank
+11,HDFC Bank ATM,ChIJl6slhaVkGTkRx9arNS5_ht0,31.63893,74.86596,bank
+12,State Bank of India,ChIJ____z1RjGTkRXBpBROTQCPE,31.6313542,74.8742633,bank
+13,Central Bank of India,ChIJw6uwRVhkGTkRk7lJPPUtVko,31.67054169999999,74.84135789999999,bank
+14,State Bank of India,ChIJcSGxMdt8GTkRH0pnbdqnWjw,31.6177247,74.9097003,bank
+15,Bank of India,ChIJay7heUVjGTkR830IsEUq3I4,31.6425672,74.88839650000001,bank
+16,Punjab National Bank,ChIJD4sfCK9kGTkRnHhrFAzBruc,31.6383214,74.86603939999999,bank
+17,HDFC Bank,ChIJkwXUGJe1bTkRyaW8b51ux_o,31.6170372,74.8904701,bank
+18,Syndicate Bank,ChIJ_____5BkGTkR06AGzY08FTM,31.652351,74.864603,bank
+19,Punjab & Sind Bank,ChIJMwbkU6l8GTkROPf4OoCFvoQ,31.6227989,74.879649,bank
+20,Central Bank of India,ChIJEVmrdr7I5zsRVjNsCWOVeq0,31.645026,74.877265,bank
+21,State Bank of India,ChIJVXOeVqpkGTkRC_s3lufefXE,31.6451881,74.8773708,bank
+22,Indian Overseas Bank,ChIJVXOeVqpkGTkRu0Ke3I3tO2U,31.64276359999999,74.85656139999999,bank
+23,Personal Loan Amritsar,ChIJVYc3lqRkGTkRO0ni8eFPTYk,31.64292099999999,74.862429,bank
+24,Axis Bank ATM,ChIJIQqUMbZkGTkRU8C9eUuL53A,31.6403496,74.88437499999999,bank
+25,ਐਚ.ਡੀ.ਐਫ਼.ਸੀ. ਬੈਂਕ ਏ.ਟੀ.ਐਮ.,ChIJr88igLxkGTkRXjBY4yim2Xg,31.64314999999999,74.856914,bank
+26,The Jammu & Kasmir Bank Limited,ChIJVXOeVqpkGTkRQLYZaNbzptI,31.6339793,74.8722642,bank
+27,State Bank Of India,ChIJVXOeVqpkGTkRg0GYxInIHX8,31.64276359999999,74.85656139999999,bank
+28,Axis Bank,ChIJGaLQANYREDkRa09hoThpP3Q,31.6329524,74.84392629999999,bank
+29,Karur Vysya Bank,ChIJfTVH3lhjGTkRlkUb_uPqmR0,31.6434812,74.8764583,bank
+30,ਐਚ.ਡੀ.ਐਫ਼.ਸੀ. ਬੈਂਕ,ChIJAwT-cZhkGTkRyJKTtbVuwwQ,31.64995,74.86425,bank
+31,Oriental Bank of Commerce,ChIJrwgh_qZkGTkRA711usJ80oM,31.6421421,74.8712264,bank
+32,Punjab Gramin Bank,ChIJH1Tk83LYGzkR1BCZi4_ZUHo,31.6655013,74.9296456,bank
+33,HDFC Bank ATM,ChIJAQAAACdlGTkR5jmbPNKAGcE,31.63039999999999,74.8263,bank
+34,Oriental Bank Of Commerce,ChIJq6qqasp8GTkR29Z7cVnxX-M,31.6339793,74.8722643,bank
+35,Bank Of Inda,ChIJVXOeVqpkGTkRUnpn3-rr3BA,31.6339793,74.8722642,bank
+36,"ICICI Bank Deori, Amritsar - Branch & ATM",ChIJoc1nQqp8GTkRtnRWcO64OvE,31.6246662,74.8756576,bank
+37,State Bank Of India,ChIJf_qXrUp7GTkRY1TGnLBWhI8,31.62515890000001,74.8513313,bank
+38,Oriental Bank of Commerce - Civil Lines Branch,ChIJ4cYjJFZjGTkRLPmZ1bM57bE,31.635632,74.874563,bank
+39,Bank Of Rajasthan Limited,ChIJ____z1RjGTkRKXg_-zbfFcg,31.6293094,74.87775909999999,bank
+40,Punjab National Bank,ChIJ____z1RjGTkRVMQBOU4ey3o,31.6293094,74.87775909999999,bank
+41,New Bank Of India Ltd,ChIJVXOeVqpkGTkRGqrVrcYIoqY,31.6339793,74.8722642,bank
+42,The Amritsar Co-Operative Bank,ChIJnwR-n5h8GTkRK4aZ_7GDaHg,31.6065755,74.8814151,bank
+43,Oriental Bank of Commerce - Regional Office,ChIJVWqJlpBkGTkR3WSvC_zjPXQ,31.6560584,74.86140710000001,bank
+44,Bank of India - Mangager Branch,ChIJVXOeVqpkGTkRUcAQ1W6vn_s,31.6529406,74.9074895,bank
+45,ICICI Bank ATM,ChIJFauOEqt8GTkR8UIyNZQj8Uk,31.6296,74.8094,bank
+46,ICICI Bank ATM,ChIJAXScdZpkGTkRRsta0PdZlTg,31.614277,74.881912,bank
+47,toyota in amritsar,ChIJhS6cjqlkGTkRVm3euzCbZMY,31.6339793,74.8722642,bank
+48,Central Bank Of Commerce,ChIJVXOeVqpkGTkRKv_AxXgIuRw,31.6339793,74.8722642,bank
+49,United Commercial Bank Limited,ChIJVXOeVqpkGTkRa1OAaNiTG8o,31.6339793,74.8722642,bank
+50,HDFC Bank,ChIJ6x9bT1h7GTkRYHOu5bNHC-A,31.6338758,74.872247,bank
+51,Jk Bank ATM,ChIJhS6cjqlkGTkRp2eXl1Ptw9U,31.6339793,74.8722642,bank
+52,"ICICI Bank Majith Mandi, Amritsar - Branch & ATM",ChIJsdHEmalkGTkR_JzC4oFbEpQ,31.634634,74.871864,bank
+53,UCO Bank ATM - Civil Lines Branch,ChIJJx7uEalkGTkRTJJMkcKd-gg,31.63519,74.870245,bank
+54,The Amritsar Central Co-op Bank Ltd.,ChIJ23XzK1VjGTkRMlNCGDffBFU,31.630872,74.8741161,bank
+55,Central Bank Of India Civil Line Branch,ChIJp9ugQVZjGTkRZJYS6g1U4Yo,31.6355076,74.87582139999999,bank
+56,"Syndicate Bank, 80 Court Road",ChIJlZMYzqhkGTkRK-LYgfkl8No,31.6365969,74.8687078,bank
+57,Bank of India - Partap Bazar Branch,ChIJ4yVskKpkGTkRtmO95fVUyxA,31.6300582,74.8733134,bank
+58,Dena Bank,ChIJ-YkTyldjGTkRD6PysVE_ws0,31.6368915,74.8755394,bank
+59,YES Bank,ChIJa84eclVjGTkRsRDk1_HqKGA,31.630469,74.875222,bank
+60,Hdb Financial Services Ltd,ChIJxRzvbVVjGTkRwjx9HpNH2c4,31.6303428,74.8752571,bank
+61,Axis Bank ATM,ChIJw_PVg1R7GTkRnPDX17NgZBE,31.62870929999999,74.8697243,bank
+62,HDFC Bank ATM,ChIJM3TbQVRjGTkRZ5lYPD72438,31.63264,74.878455,bank
+63,YES Bank ATM,ChIJxxUay6dkGTkR-7JUeOBs9Vw,31.6290829,74.87520479999999,bank
+64,Indian Overseas Bank - Main Branch,ChIJgfeYKVVjGTkRepot89cO1k0,31.628934,74.876879,bank
+65,Axis Bank,ChIJwWHNu6p8GTkRzCLPxrV5GwY,31.6278696,74.875018,bank
+66,ਇਲਾਹਾਬਾਦ ਬੈਂਕ,ChIJTbPvLlV7GTkRu0C6dfF44uI,31.627411,74.8716759,bank
+67,Punjab & Sind Bank,ChIJ____z1RjGTkRFsLeFsvSef0,31.6293094,74.87775909999999,bank
+68,Passport Seva Kendra,ChIJSXWyX6RkGTkR0Z0DCUM2EmU,31.64224669999999,74.865516,local_government_office
+69,Amritsar Improvement Trust,ChIJ6SYnF5pkGTkRFETlzDsIOQc,31.655599,74.8638649,local_government_office
+70,Punjab Health Systems Corporation,ChIJVXOeVqpkGTkRBaQ36tZg2z0,31.64276359999999,74.85656139999999,local_government_office
+71,Punjab Food Inspector Cadre Association,ChIJVVVVUU5jGTkRvWYnqmlTlak,31.63765879999999,74.8894304,local_government_office
+72,"Punjab Irrigation Department, Amritsar Office",ChIJS35eyq9kGTkR2MHhhpb8zjg,31.635596,74.86350569999999,local_government_office
+73,SIGMA CONSULTANT,ChIJbUImu7J8GTkRJqvLmsQXRpw,31.628791,74.886583,local_government_office
+74,D.T.O. Office,ChIJqe-4BbdkGTkRw_qodkwwmZM,31.6347198,74.8540941,local_government_office
+75,DEO Amritsar,ChIJ_____5BkGTkRH1iHeTwmwzo,31.6461271,74.856381,local_government_office
+76,ANG LIFESCIENCES,ChIJ1QFYnpBkGTkRUhBqw1fzLws,31.6561971,74.86222719999999,local_government_office
+77,Regional Passport Office,ChIJZYsNnJBkGTkRXU1hK2z1Nv0,31.656382,74.8620881,local_government_office
+78,BSNL OFFICE,ChIJPRJOaMx8GTkR6AH6G-OTT5Y,31.628226,74.9046681,local_government_office
+79,Natureway Group Of Company,ChIJwfYRu1dlGTkR4jhJ2J-8YPc,31.62638,74.78258000000001,local_government_office
+80,The District Transport Co-Operative Society Ltd,ChIJVUvpLlVjGTkRgJjGosH7v_w,31.63214899999999,74.872356,local_government_office
+81,Vicky Telecom Mobile Repair,ChIJDdw0FKlkGTkRxyimYthEE-Q,31.635101,74.86993,local_government_office
+82,Sakhi One Stop Centre Amritsar,ChIJeexnxV9lGTkRdSxR8xhpCl4,31.6346767,74.8694261,local_government_office
+83,MULTIPLE CHOICE JOB PLACEMENT,ChIJmT2cLwFlGTkRVG-6SJMPKHQ,31.63576110000001,74.86937619999999,local_government_office
+84,Kumar Associates,ChIJ2fgzdA5lGTkR-M_IOYXAaHk,31.63576110000001,74.86937619999999,local_government_office
+85,Career Job Point,ChIJ__8rIalkGTkRqhKajN10-3U,31.63576110000001,74.86937619999999,local_government_office
+86,Electricty Board Office,ChIJFQ1nF6tkGTkRATm7tyXmV0w,31.629375,74.870418,local_government_office
+87,Nishan Motors,ChIJVXOeVqpkGTkRqMXqNjsmUTY,31.637686,74.86748,local_government_office
+88,Asia Surgical Centre & Hospital,ChIJIeH90MRlGTkRwRdxH3O5Jlg,31.63703939999999,74.865336,local_government_office
+89,JAI Group,ChIJHWw_wV9jGTkRYoSBMssvN1o,31.6418383,74.87670829999999,local_government_office
+90,"Electric Shed, Rso Amritsar",ChIJdbTU-7FkGTkRSatH7xt1HI4,31.63263,74.861862,local_government_office
+91,gupta job point,ChIJ29N1TVJjGTkRPTMpzb4WvVA,31.6328,74.883048,local_government_office
+92,Tourist Information Booth,ChIJOTszQaRkGTkR38bhmz-zcfY,31.64223400000001,74.86655209999999,local_government_office
+93,Corporation House,ChIJ_basEk1jGTkRCm1r80k3tgE,31.640881,74.8803752,local_government_office
+94,Singh Passport Agent - Passport Consultant in Amritsar,ChIJbccwWFJjGTkRdPjIMJWAKUA,31.632248,74.88367099999999,local_government_office
+95,Aadhaar card center,ChIJJ9zHGG9jGTkRGa0MlOXaXFc,31.64343329999999,74.8765076,local_government_office
+96,Commissionar Corporation,ChIJAQAA7FV7GTkRGPIUDenXgM0,31.6235135,74.87300809999999,local_government_office
+97,A Faith Security Group,ChIJM0BDaVJjGTkR2-_-fcrbvZM,31.633223,74.88462899999999,local_government_office
+98,Sachin marketplace-Marketing jobs,ChIJB0TYLol9GTkRIwc-hrZ6pDI,31.6278595,74.8839409,local_government_office
+99,Sai Job Placement,ChIJPU14sVZ7GTkRjZFc9MD5l4w,31.621063,74.86865999999999,local_government_office
+100,Next Infoz,ChIJsWfbytpkGTkRTTNxMbbOJ0g,31.64259,74.85974,local_government_office
+101,Raju Nose Ear Pearsing,ChIJGY5H1ql8GTkROnafTG0CP4M,31.6202988,74.8741986,local_government_office
+102,Municipal Town Planning Office,ChIJqQsjh7J8GTkRXA0rE8lWdaw,31.6269983,74.8862443,local_government_office
+103,"District Welfare Office, Amritsar",ChIJ1QSkLU1jGTkR5US9iJEW5zk,31.6300593,74.8881085,local_government_office
+104,New Bharat Transport Operators,ChIJMyJFmq58GTkRCRcj_fpxpHw,31.623352,74.883095,local_government_office
+105,Anganwari Office,ChIJ45v-JVtjGTkRVlsxBZCsFaY,31.6437815,74.8850468,local_government_office
+106,"Environmental Testing in Amritsar, water testing in chandigarh",ChIJeXGecTdlGTkRRVtfXV7GEo8,31.64238,74.85729090000001,local_government_office
+107,AMRITSAR WALE CANADA VISA MASTER,ChIJ24n66KFkGTkRhkrj9hxDJ5k,31.6490664,74.8695017,local_government_office
+108,Amritsar Police,ChIJVXOeVqpkGTkRqzPrgK6r6tw,31.6435428,74.90918529999999,police
+109,Traffic Police Centre,ChIJV4uSH7FkGTkRiIlALFyRRWI,31.64276359999999,74.85656139999999,police
+110,Police Station - Sadar,ChIJ4zRjgEhjGTkRAy7MjWdHZT4,31.641608,74.8945229,police
+111,Police station D-Division,ChIJlT_9oVF7GTkRSbm7L_-nFrA,31.6201171,74.86507139999999,police
+112,Police Station C Division,ChIJ7-mFuqB8GTkRQt5aymU5R4w,31.6108495,74.875002,police
+113,Police station,ChIJhS6cjqlkGTkRdQKrY3ZVagk,31.6339793,74.8722642,police
+114,Police Station - Civil Line,ChIJ9aZaslZjGTkR-35mGQ9X6wE,31.6355253,74.8793136,police
+115,Police Station,ChIJcyxECLBkGTkRcU5tzOVEarw,31.6376868,74.8615536,police
+116,"DCP, Amritsar",ChIJuRwP37BkGTkR0BUzMNaNjZM,31.6346804,74.85780930000001,police
+117,Community Police Suvdha Centre,ChIJH6tKnlF7GTkRDIomeazYJIQ,31.620313,74.865241,police
+118,Police Commissioner Office,ChIJr_oZmblkGTkR-jEAlnhbm9s,31.6393754,74.8553177,police
+119,Police Station B- Division,ChIJhV98iq98GTkRi1Gu9wlR7Qk,31.618273,74.8841379,police
+120,Police Station Hakima Gate,ChIJfWC400R7GTkRvGAV-1sTYTw,31.6123193,74.86218230000001,police
+121,"Police Station Majitha Road, Amritsar",ChIJeUTnP2hjGTkR0P_kZ3D9qtc,31.6533526,74.8872878,police
+122,Police Chowki Thana,ChIJX4FDsOpV9xQRngXmSVi9kWY,31.6066086,74.9038329,police
+123,Police Station,ChIJDaJgOYV8GTkRvhIHwxUcWK0,31.594979,74.883989,police
+124,Police Chowki Milk Plant Verka,ChIJ_Vb7IeBiGTkRLtLSMrZWv8k,31.657545,74.921199,police
+125,Police Station Verka,ChIJ00ijYuZiGTkRJZp6mgGUhh0,31.6619612,74.9296973,police
+126,Police Line Amritsar Rural,ChIJhUQEKRJ9GTkR4l9leWn9SVU,31.604802,74.938627,police
+127,Police Station - Kambo,ChIJuTQgG0tkGTkRHpGlOG5tkUo,31.686299,74.829425,police
+128,Police Post Town Chheharta,ChIJE7AN109lGTkRgJuYofas834,31.627238,74.79244,police
+129,"Police Station, Durgiana Mandir",ChIJpVEBYvZlGTkRsjmtqPQcdbs,31.629258,74.8689052,police
+130,Ram Bagh Police Station,ChIJWbtL71RjGTkR7IullK3dVtg,31.6303769,74.8778348,police
+131,Police Station A Division,ChIJz1B96VRjGTkRQrPs7k5YJro,31.630265,74.878123,police
+132,Police Staion,ChIJ4_OKVqljGTkRyqUh5a9J_i4,31.64262380000001,74.8760882,police
+133,Police Line,ChIJwYe9IaFkGTkRRqv2Euv1zWQ,31.645772,74.870907,police
+134,Police Station Cantonment Amritsar City,ChIJ88QUJrFkGTkRZrNm8KtHNFU,31.63440299999999,74.857827,police
+135,Traffic Police Control Room,ChIJJ9PHAy1lGTkRJhOprC-wdAc,31.6347835,74.8576559,police
+136,Traffic Police Control Room,ChIJVxQFTjZlGTkRzVsDO7aiZf8,31.63498609999999,74.85759070000002,police
+137,"Community Police Resource Centre, Mall Road Centre",ChIJPUgkDk9jGTkRDz9ZCYXWh-Q,31.6392931,74.8886017,police
+138,"Office Of Vigilance Department, Punjab",ChIJ5UYve7xkGTkR-xO7RB2PHMc,31.6437113,74.8589636,police
+139,Police Officers Mess,ChIJnY0YHr1kGTkRxz775Wy3KTo,31.645795,74.861125,police
+140,Punjab Police Amritsar City,ChIJ-f___7tkGTkRuC2ijDomAm4,31.64276359999999,74.85656139999999,police
+141,Saanjh Kender-Punjab Police Services Delivery Centre.,ChIJBzFwrL5kGTkRmzAdnRpMpjY,31.6429409,74.8561537,police
+142,Police Station Sultanwind,ChIJj_TsuaB8GTkRs-dXSt_ma-4,31.61800749999999,74.8839788,police
+143,Central Reserve Police Force,ChIJsZ_lPL5kGTkR5jux6d4p7rM,31.647314,74.8548759,police
+144,Thane Sadan,ChIJMxrOf0hjGTkRQCViAIoHbgk,31.641639,74.894617,police
+145,Narcotic Cell Commissionerate - Sadar Bazar Amritsar Cantt.,ChIJD2w8j8BkGTkRD-ZwYVpg3EY,31.644321,74.8498609,police
+146,C Division,ChIJQ4XVz6B8GTkRyv_wrAq5K18,31.611219,74.8762745,police
+147,Community Police Suvidha Kendra,ChIJ7Zv6qZZV9xQRBfGQMHSe6ts,31.610801,74.875018,police
+148,Indian Post,ChIJTRGGTKl8GTkRWRk8o79i68w,31.62252770000001,74.8797598,post_office
+149,Post Office,ChIJcXsC015jGTkRLyjNvY1xZ7E,31.6454447,74.87757409999999,post_office
+150,post office,ChIJ9xC7mq5kGTkRXWMaXH2UjWI,31.6334244,74.8661245,post_office
+151,Sub Post Office - Durgiana Mandir,ChIJ4WiUXqtkGTkR8bJf4i5iMtY,31.62839559999999,74.8684949,post_office
+152,Head Post Office Amritsar,ChIJmWtBZq9kGTkRUlA4nKpQC1k,31.6381104,74.8663766,post_office
+153,India Post Office - Hide Market,ChIJ4xvqm1NjGTkRUGu8wYsmcbo,31.63221799999999,74.880978,post_office
+154,India Post - Gandhi Bazar,ChIJAeSr4ap8GTkRVk785VdufEM,31.626918,74.876864,post_office
+155,Post Office,ChIJ2SiVL1F7GTkR-6YYF2y_Zis,31.6196387,74.8676071,post_office
+156,Sub Post Office Hindu Sabha College,ChIJ04eNL1F7GTkRdQxFpYodVi0,31.619623,74.867571,post_office
+157,India Post,ChIJv3_hMbZkGTkR0_mRJznrK_o,31.6333639,74.85145709999999,post_office
+158,Katra Karam Singh Post Office,ChIJoTgcOFp7GTkRpgGFUGtb4fw,31.6141078,74.8669259,post_office
+159,India Post - Jawala Flour Mill Post Office,ChIJoyhtucpkGTkRpektdW9wM0U,31.62611,74.8495899,post_office
+160,Verka Post Office,ChIJcW7Nqe9iGTkRKP4pR3AB8cg,31.666187,74.934951,post_office
+161,Post Office,ChIJGUN4P3N9GTkRBqDZ7ffgZ18,31.5991941,74.9455306,post_office
+162,Post Office ਡਾਕਖ਼ਾਨਾ,ChIJ84Pcxbt8GTkRhDjI2bRDMk8,31.6154834,74.89064859999999,post_office
+163,Free Bus Services Gurudwara Ari Darbar Sahib Amritsar,ChIJNaNwTZllGTkROAhWtA5CrLg,31.633447,74.866304,post_office
+164,Post Office Dav Collage Katra sher Singh,ChIJH3RovrJ7GTkRXldp828jbfA,31.627733,74.8734798,post_office
+165,NSH AMRITSAR,ChIJmd8IqlllGTkRzmv3g0Ylw8E,31.63857070000001,74.8661518,post_office
+166,northern post office,ChIJ1W0birBkGTkRlWl65SKZbVI,31.6364783,74.8594292,post_office
+167,Astro Guru Pandit S Kumar ji,ChIJb_ccWVpjGTkRupJJyuo-0Ak,31.6448981,74.8770195,post_office
+168,Sri Guru Harkishan International School,ChIJBeiaio5kGTkRusRUpaEne-8,31.6625845,74.8578405,school
+169,Ajit Vidialay Sen Sec School - Schools In Amritsar | PSEB School In Amritsar,ChIJLZjyy7p8GTkROIm1DxkyQkE,31.6180776,74.88597879999999,school
+170,Shri Ram Ashram Senior Secondary School,ChIJVXOeVqpkGTkRaP6ktYfauqw,31.6486081,74.9119817,school
+171,Josan Homeopathic Clinic - Best Homeopathic Doctor & Best Homeopathic Child Specialist in Amritsar,ChIJQ0IcprN8GTkRwLvkkNp2klc,31.6413045,74.8744847,school
+172,Shri Ram Ashram Public School,ChIJryR8mVpjGTkRXWZ-nMNL6C4,31.6408932,74.8838103,school
+173,Sri Guru Harkrishan Sr. Sec. Public School,ChIJk3tb3bFkGTkRgzbvO6jLxy0,31.633826,74.862038,school
+174,BABA SURJAN SINGH & SONS - BSSS - Big Brother Shop,ChIJhS6cjqlkGTkRziCndu7DgaQ,31.6169141,74.8781803,school
+175,Jiwan Jyoti Public School,ChIJMx49d0llGTkRzfkZMVFLB4Q,31.62578719999999,74.8005975,school
+176,Prabhakar Senior Secondary School - Best School in Amritsar | Top School in Amritsar,ChIJY0aEnkhlGTkR_TAjvnCsrbM,31.6301037,74.79979689999999,school
+177,Gndu,ChIJhS6cjqlkGTkR4VUSl9lZfoc,31.6339793,74.8722642,school
+178,P.B.N Senior Secondary School,ChIJH7gvQqpkGTkROe9xO9E6zXU,31.63177,74.872497,school
+179,Brute Corp - Web Designer Amritsar,ChIJxSWUYlR7GTkRm1EgoafLWYw,31.6246914,74.8690582,school
+180,Orane International School of Beauty & Wellness,ChIJDXFF7aRkGTkRFAYc1d7uPVw,31.64222139999999,74.8655369,school
+181,Ajanta Senior Secondary School,ChIJwwBNNVF7GTkRcwHoJ9Ppbgg,31.620407,74.868336,school
+182,SSSS Modern High School,ChIJ14l6V0RjGTkRJmo4B-JEook,31.64203089999999,74.88906879999999,school
+183,The Senior Study 2,ChIJUXLRUshkGTkRpCcauAxLaxg,31.6336953,74.8489439,school
+184,R.R. Convent School,ChIJ_6D38sp8GTkReK67MuRzK6Y,31.628976,74.8991261,school
+185,Khalsa Public School,ChIJ78R5addkGTkRMpO1NMXsKm0,31.6330986,74.83133959999999,school
+186,Luvdale Senior School,ChIJ8dBW-YVkGTkRsDL1wqC7a94,31.67165089999999,74.8654167,school
+187,Luvdale Senior School,ChIJxeVYfX1kGTkRjIsd3Dvs3PY,31.671587,74.8646638,school
+188,Ajit Vidialay Sen Sec School - Schools In Amritsar | PSEB School In Amritsar,ChIJLZjyy7p8GTkROIm1DxkyQkE,31.6180776,74.88597879999999,secondary_school
+189,P.B.N Senior Secondary School,ChIJH7gvQqpkGTkROe9xO9E6zXU,31.63177,74.872497,secondary_school
+190,Ajanta Senior Secondary School,ChIJwwBNNVF7GTkRcwHoJ9Ppbgg,31.620407,74.868336,secondary_school
+191,SSSS Modern High School,ChIJ14l6V0RjGTkRJmo4B-JEook,31.64203089999999,74.88906879999999,secondary_school
+192,Sant Singh Sukha Singh Khalsa Senior Secondary School,ChIJCVU6hlpjGTkRbAY1Dy0n3QY,31.640909,74.8828139,secondary_school
+193,B.K Senior Secondary School,ChIJ5_zE0a18GTkR6giaenQuQZk,31.6243629,74.88336559999999,secondary_school
+194,Shri Guru Nanak Girls Senior Secondary School,ChIJ8fiKvKt8GTkRO3Z6tHx45_k,31.622901,74.885836,secondary_school
+195,Ajanta School of Foreign Languages,ChIJ04pS5WBjGTkRj5e_vsI5wfY,31.6533277,74.8758485,secondary_school
+196,Saniya Coaching Centre maths and computer tutions in Majitha Road Amritsar,ChIJxwYV-OBjGTkRC16t4FvSj7o,31.6512286,74.8895524,secondary_school
+197,Vast Overseas Education,ChIJn2rruD1lGTkR2cKZqDjvUpk,31.65275459999999,74.85509379999999,secondary_school
+198,UCMAS,ChIJUeXrAxtlGTkRlYlUQY3UUfY,31.6607423,74.8731428,secondary_school
+199,Meritorious school,ChIJz4iR2hVlGTkRrWRYSpeG6fo,31.6446191,74.809128,secondary_school
+200,Government Senior Secondary School,ChIJH6OxQ1BlGTkR5CUmffIdVBQ,31.627569,74.79026390000001,secondary_school
+201,Shri Guru Ram Das Institute of Medical Sciences and Research,ChIJZbIQkVV9GTkRtIgeEliDlnc,31.6358555,74.966906,university
+202,Punjab Institute Of Textile Technology,ChIJzV0AIyllGTkRNgDwnOm3JRA,31.6297837,74.8227337,university
+203,Hindu College Amritsar,ChIJT6LQ-FN7GTkRhpHDAFR8QeE,31.6221906,74.868329,university
+204,Orane International School of Beauty & Wellness,ChIJDXFF7aRkGTkRFAYc1d7uPVw,31.64222139999999,74.8655369,university
+205,S.S.S.S. College Of Commerce For Women,ChIJaT0lh1pjGTkR_2LMIX1JGAo,31.6407725,74.88306279999999,university
+206,Govt. Industrial Training Institute For Women,ChIJS2_GklN7GTkR-4EBrNJb2mY,31.623158,74.86743,university
+207,RR Infotech Solutions Php & Java Training Institute,ChIJyYDmI1B7GTkRdg1V3xijq1w,31.61713709999999,74.86310449999999,university
+208,DUKHNIWARAN DENTAL CLINIC,ChIJaQfu1a5kGTkRuJjbqoZl5g4,31.6498821,74.8584314,university
+209,Sardar Di Hatti,ChIJDW4hWL98GTkRAs_xnFL264E,31.61352699999999,74.89735399999999,university
+210,Khalsa College Of Veterinary & Animal Sciences,ChIJ7f1Dqt9kGTkRyrBrMVROEEQ,31.642441,74.8299919,university
+211,Guru Nanak Dev University,ChIJlTlu5ydlGTkR0LXa0zKZd_U,31.6340489,74.8258613,university
+212,"GNDU College Verka, Amritsar",ChIJiebc7cNiGTkRGxTqHyYPfN4,31.6535329,74.9369784,university
+213,Sri Sai College of Engineering & Technology,ChIJ9wK1h0fWGzkRWf6O5NOpCWQ,31.5844174,74.9911894,university
+214,Satyam Institute of Engineering & Technology,ChIJLd4VXydlGTkR1blfqW5_UvU,31.6784727,74.7307044,university
+215,Mannan Khanna,ChIJt2KhR7hjGTkRZAnxkDAWE1Y,31.64329369999999,74.8776665,university
+216,DAV College of Education for Women,ChIJAQAA8FJ7GTkR8h_6NSP7bQ8,31.6229554,74.8668222,university
+217,OXL School of Acting & Multimedia,ChIJEYDIG5hkGTkRm5h__lMaMfc,31.65006899999999,74.862912,university
+218,Saniya Coaching Centre maths and computer tutions in Majitha Road Amritsar,ChIJxwYV-OBjGTkRC16t4FvSj7o,31.6512286,74.8895524,university
+219,UCMAS,ChIJUeXrAxtlGTkRlYlUQY3UUfY,31.6607423,74.8731428,university
+220,Agriculture Department,ChIJtYS3rdtkGTkR7PCKcFvSTGo,31.6376486,74.8354978,university
+221,"Sri Guru Ram Dass Jee International Airport, Amritsar",ChIJ60NTwglmGTkRbaEbtbiqhCI,31.7056203,74.8068644,airport
+222,International Bus Terminal Amritsar,ChIJq-XIObR8GTkRnT7DsIGV29I,31.62615599999999,74.893762,bus_station
+223,Hall Gate,ChIJN3SSh1VjGTkRFHL6AS9F3JM,31.631557,74.874151,bus_station
+224,Amritsar Junction Railway Station,ChIJda1ttq5kGTkRwLc8o1GRZTI,31.63427789999999,74.867835,bus_station
+225,Amritsar Bus Depot,ChIJyy80Ca1kGTkRZhL5yuSnfiw,31.6294178,74.8642366,bus_station
+226,Indo Pak Bus Stand,ChIJ6fnXObR8GTkRkdVkPIkskVA,31.6261509,74.89379269999999,bus_station
+227,City Bus Terminal - Amritsar,ChIJebdX-cl8GTkRqF_MXbaRWag,31.62512800000001,74.8978949,bus_station
+228,Alpha One Mall,ChIJp6_YCMV8GTkRSjljpOORor0,31.618731,74.906973,bus_station
+229,Kissan Travels 9803300068,ChIJqbdQ7atkGTkRcBq-jiJzjJI,31.63177400000001,74.869013,taxi_stand
+230,"AS Travels, Taxi Rental Amritsar, Hire Etios, Swift Dzire, Innova-Crysta",ChIJK6pDi6tkGTkR7zbaFNnDQDU,31.6312015,74.8187897,taxi_stand
+231,Karan Car Rental Tempo Traveller Bus & Taxi Service,ChIJPXZe8qtkGTkROPFB9F_0eic,31.6354998,74.8697303,taxi_stand
+232,Complete Traveller's Guide - North India Tours,ChIJn_zUt5BlGTkRmbEmkWJWqlY,31.6351492,74.87042579999999,taxi_stand
+233,Amritsar Car Rental And Tempo Traveller Taxi Service,ChIJ2SbFIFZjGTkRm95WGMA18SQ,31.63544569999999,74.87423749999999,taxi_stand
+234,Hawk's Travel - Car Rentals Tempo Travellers & Taxi Service,ChIJIzWLjatkGTkRWErtlRfN4ss,31.6314695,74.8689713,taxi_stand
+235,OVO Self Driven Cars/Bikes in Amritsar Branch 2,ChIJnSf_zCplGTkRnOGT9aMAKZE,31.6497342,74.8631492,taxi_stand
+236,NF Travels - One way taxi service in Amritsar,ChIJgZob05F9GTkRml_brI2TqMU,31.61435010000001,74.89513480000001,taxi_stand
+237,D&D-Taxi Rentals in Amritsar,ChIJSZoKbZV9GTkR0YSgznZClP0,31.6177051,74.8444295,taxi_stand
+238,Gill Tour and Travel,ChIJOywkPmhjGTkRaV5E4Q3yhOk,31.6632477,74.8809777,taxi_stand
+239,Aman Travels - Cab Hire in Amritsar,ChIJ130SRRVlGTkRZbNJ3n67xDY,31.6314034,74.8195494,taxi_stand
+240,Amritsar Junction,ChIJcYVR461kGTkRNn8Vpaj1MJg,31.6332336,74.86722809999999,train_station
+241,Verka Junction,ChIJB0ZqfOViGTkRK0UxwIJjCJg,31.6662061,74.9324863,train_station
+242,Khasa,ChIJQ193XdZvGTkRLW6aH3gbw9A,31.6123803,74.7285018,train_station
+243,Bhagtanwala,ChIJRSvgklx7GTkRMR8AM40su80,31.6088345,74.8643191,train_station
+244,Sangrana Sahib,ChIJd0kOv258GTkRAJHIbVvAjFc,31.57013060000001,74.8903833,train_station
+245,Chheharta,ChIJz7P3sE1lGTkR79_F5pGkv8M,31.62226,74.79460999999999,train_station
+246,Mananwala,ChIJ04hM6GF9GTkRivlLr5draxI,31.61263689999999,74.9670743,train_station
+247,Gohlwar Varpal,ChIJs36T85h-GTkRJVtb9M1gWrY,31.53408,74.89921799999999,train_station
+248,Amritsar Junction,ChIJcYVR461kGTkRNn8Vpaj1MJg,31.6332336,74.86722809999999,transit_station
+249,International Bus Terminal Amritsar,ChIJq-XIObR8GTkRnT7DsIGV29I,31.62615599999999,74.893762,transit_station
+250,Verka Junction,ChIJB0ZqfOViGTkRK0UxwIJjCJg,31.6662061,74.9324863,transit_station
+251,Khasa,ChIJQ193XdZvGTkRLW6aH3gbw9A,31.6123803,74.7285018,transit_station
+252,Amritsar,ChIJ9SVlz1JjGTkRJ2pHavoRRD8,31.6300152,74.88380149999999,transit_station
+253,Atste Office,ChIJVXOeVqpkGTkRcfvQXH17FCE,31.6339793,74.8722642,transit_station
+254,Hall Gate,ChIJN3SSh1VjGTkRFHL6AS9F3JM,31.631557,74.874151,transit_station
+255,Amritsar Junction Railway Station,ChIJda1ttq5kGTkRwLc8o1GRZTI,31.63427789999999,74.867835,transit_station
+256,Amrister Junction,ChIJK4Uaoa5kGTkRej1Sead-xkk,31.6331042,74.8670321,transit_station
+257,Amritsar Bus Depot,ChIJyy80Ca1kGTkRZhL5yuSnfiw,31.6294178,74.8642366,transit_station
+258,City Bus Stop 2,ChIJV3bDRVNjGTkRMNCvGHr-D2M,31.6298047,74.8809917,transit_station
+259,City Bus Stop 3,ChIJz2z4Hq18GTkRqst7D2Bu_rA,31.62764809999999,74.8830619,transit_station
+260,City Bus Stop 4,ChIJLx1TrlJjGTkRE3eQrNmnAOc,31.630027,74.88521709999999,transit_station
+261,Bus Stop,ChIJgetzGbFkGTkRCSofCm4p6Lc,31.63413,74.858334,transit_station
+262,Free Bus To Airport,ChIJy635wqh8GTkRbinc_-eHAE4,31.61950399999999,74.8786363,transit_station
+263,Free Bus Service,ChIJY9ZlxKh8GTkRdFqnVTCZuQg,31.6194925,74.8789233,transit_station
+264,Indo Pak Bus Stand,ChIJ6fnXObR8GTkRkdVkPIkskVA,31.6261509,74.89379269999999,transit_station
+265,Jawala Floor Mill Railway Crossing and Bridge,ChIJ_6-Uv8pkGTkR6xEHi8yXoaU,31.6264814,74.84932239999999,transit_station
+266,Batala Road Bus Stop,ChIJVxQ220djGTkRewZVl7PaKvo,31.6425721,74.8955691,transit_station
+267,Dhapai Road Railway Crossing,ChIJCctZ9kl7GTkRebrfXenNY4g,31.6197301,74.85167740000001,transit_station
+268,Bible Church of God,ChIJFQQ-t6hkGTkR3gh-vUmUBRI,31.6371624,74.8701444,church
+269,Living Stone Apostlic Church,ChIJ2Udo9fJlGTkR0HwcwoWO6p8,31.66302140000001,74.8725329,church
+270,The Church of Salvation and Revival Ministry,ChIJu4TQBzB7GTkRuFZPGZgmA6Q,31.6164598,74.83838200000001,church
+271,Sukhpal Rana Ministries,ChIJ-SBXdqF9GTkR8op5uGkr4d4,31.5869985,74.9411713,church
+272,Durgiana Committee,ChIJVXOeVqpkGTkR8zUQOOeJvgY,31.6271589,74.8674538,hindu_temple
+273,Iskcon temple,ChIJdVtOAad8GTkR5P9LUbMn7S0,31.615409,74.876362,hindu_temple
+274,Shree Manmadhav Vaishnav Peeth,ChIJ4V2r4RpjGTkRxgojogL6vT4,31.664402,74.912162,hindu_temple
+275,Shani Mandir,ChIJZZ8bWtNiGTkRFS-k53I7ySM,31.6400405,74.9266557,hindu_temple
+276,Shree Durgiana Tirath,ChIJ1w4BTVN7GTkRw9WDbDlpEI0,31.6272078,74.867362,hindu_temple
+277,Nand Caterers,ChIJFwMS0ll7GTkRYsFjSXXUnLk,31.6159911,74.87088469999999,hindu_temple
+278,Maa Bhadrakaali Mandir,ChIJ4X0b2U97GTkRt9auZJxVMFg,31.6174492,74.86150839999999,hindu_temple
+279,Mandir Sidh Shakti Peeth Amritsar,ChIJdbrxPRljGTkRVPt5USvh2RA,31.6320142,74.89783659999999,hindu_temple
+280,"Shive Bola Nath, Baba Balk Nath Temple",ChIJ9YWrRH19GTkR5IyXSJQdcoY,31.6134639,74.88295900000001,hindu_temple
+281,Temple God,ChIJmd4-EvplGTkR3UeheNe_TH0,31.6376269,74.840941,hindu_temple
+282,mata chintpurni mandir,ChIJ70H2a3ljGTkRRp8-8KDVe-8,31.6522592,74.90270749999999,hindu_temple
+283,Shri Sanatan Dharam Shiv Mandir,ChIJpWdNEjBlGTkR0nyqIs1RzE8,31.6312252,74.81438829999999,hindu_temple
+284,Bhagwan Valmiki Tirath Sthal,ChIJpaKLRBNvGTkRi-YRmhg8tPY,31.67699240000001,74.7549288,hindu_temple
+285,Durga Temple,ChIJo89pWLhvGTkRKsEWkX4iMso,31.617263,74.7273932,hindu_temple
+286,Mandir boparai kalan,ChIJoWqcNfJvGTkRlrXwI6nWJYE,31.64412200000001,74.72261189999999,hindu_temple
+287,Ram Dham,ChIJL2eWRqdkGTkRcfD_bTXm2Ns,31.64374409999999,74.87296239999999,hindu_temple
+288,Dargah Hazrat Baba Zahra Peer Ji,ChIJO5FmiFVjGTkRBhukA1vmBGk,31.631724,74.8741938,mosque
+289,Jaan Muhammad Mosque,ChIJlyiWEqt8GTkRt-Cgn5WKgcQ,31.6265968,74.8784009,mosque
+290,Pandori Waraich Masjid,ChIJcyiGUbJjGTkRVlbaQitmt14,31.69150640000001,74.917361,mosque
+291,Ghaznavi Masjid,ChIJjU9sNaRjGTkRzpN0qAtX4hc,31.6390814,74.88235139999999,mosque
+292,"Vineet Khanna & Associates, Chartered Accountants",ChIJhROPp1F7GTkRLkEnDzFSyvg,31.6194618,74.867683,accounting
+293,B.K. Joshi & Associates Law Firm,ChIJjcIHZFVjGTkRfsEraSJ-wG0,31.629762,74.874529,accounting
+294,B.D.BANSAL C.A.INSTITUTE,ChIJwec7gbxkGTkRHRcx0T6HfkI,31.6530403,74.8609472,accounting
+295,CA Rajesh Dhawan,ChIJA0tPtH5jGTkRGGRGjmfTt-4,31.6420877,74.8764322,accounting
+296,Harsh Kumar & Co.,ChIJAQAAQKJkGTkRAOefz46vzHM,31.64653070000001,74.86090039999999,accounting
+297,P.C. MEHRA & CO.,ChIJFXXeW6RkGTkRDWe8sByxtZw,31.6420892,74.8657443,accounting
+298,CA Davinder Singh AGPRS & Associates,ChIJSeLt3KlkGTkRzKUP8v_Iz3w,31.6353029,74.8735067,accounting
+299,P C Mehra & Co,ChIJXS6bxqBkGTkRX4quRL4EoQ8,31.6455816,74.8723091,accounting
+300,Vijay Rishi & Co. - CA in Amritsar,ChIJVXOeVqpkGTkRj7MR8kx-67s,31.63576110000001,74.86937619999999,accounting
+301,VISHAL KAPOOR & CO,ChIJf4ksIalkGTkRPZ-DKR6LqBg,31.63575559999999,74.86936399999999,accounting
+302,Advocate Puneet Krishan Joshi,ChIJjcIHZFVjGTkRYWpLlkSaKZU,31.62979199999999,74.874577,accounting
+303,Advocate Puneet Krishan Joshi,ChIJiUAkZ1VjGTkRaeOn5_LHwwk,31.629763,74.874532,accounting
+304,RANJIT SINGH & CO CHARTERED ACCOUNTANTS,ChIJ5_MnV69kGTkRBAIxOnjVF5I,31.63823999999999,74.867707,accounting
+305,Arora Aggarwal & Co - Chartered Accountant In Amritsar - Income Tax & GST Consultant In Amritsar,ChIJ-f__z1RjGTkRdN2bQOnH_9g,31.641814,74.86869,accounting
+306,Sud Gupta & Associates,ChIJh6ERWFhjGTkRP2QqBYfivUE,31.6421534,74.8764801,accounting
+307,B D Bansal & Co,ChIJrVZ8IqVkGTkRRyZkN6jhsqQ,31.6404417,74.8637107,accounting
+308,PADAM DHAWAN & CO.,ChIJQ1_fXWdjGTkR8oBq9S0Htkk,31.6498568,74.8710811,accounting
+309,Chartered Accountants,ChIJ78qhD2BjGTkRyy238GNoBCs,31.651086,74.874932,accounting
+310,Divorce Lawyer,ChIJ_cOV-pVkGTkRsrozMiAhLqE,31.6449036,74.856098,accounting
+311,RR Infotech Solutions Php & Java Training Institute,ChIJyYDmI1B7GTkRdg1V3xijq1w,31.61713709999999,74.86310449999999,accounting
+312,Dass Rana & Associates-C.A.,ChIJsefUW1tjGTkRH_jloYZ1sR8,31.6487041,74.8860953,accounting
+313,Jolly Osahan & Associates,ChIJ8xhlyclkGTkRXwOjStL1i6E,31.63317079999999,74.8494856,accounting
+314,Nimish Nagpal & Company Chartered Accountant - GST Consultants | Chartered Accountant | Direct Tax Consultant in Amritsar,ChIJg71YsJlkGTkRGZk8h5Ofmo8,31.6526526,74.86454549999999,accounting
+315,Kfincorps,ChIJfTbKFcpkGTkRgUhbZJ30VKo,31.629638,74.84941599999999,accounting
+316,"Kapri Institute Of English Speaking (Best Institute in Amritsar for Spoken English, IELTS, PTE)",ChIJFz0Yz15jGTkRbnSy9Gs1vbE,31.6393536,74.860781,accounting
+317,R C Khanna (Chartered Accontant & Company,ChIJVXOeVqpkGTkRDLlMoafb8lw,31.6339793,74.8722642,accounting
+318,Ahuja Sethi Bansal & Associates,ChIJVXOeVqpkGTkR4cNWaIzOqMQ,31.6339793,74.8722642,accounting
+319,Shiv K Gupta & Co,ChIJVXOeVqpkGTkREt4akXBfOOQ,31.6339793,74.8722642,accounting
+320,Raman Arora & Co,ChIJVXOeVqpkGTkRFgvXn2KmYSU,31.6339793,74.8722642,accounting
+321,B Bhutani & Co,ChIJVXOeVqpkGTkRh7nM7_8ZvFo,31.6339793,74.8722642,accounting
+322,Osahan Seth And Associates,ChIJVXOeVqpkGTkRiVcqRQkYFCE,31.6342673,74.87232279999999,accounting
+323,Vikas Kumar & Associates,ChIJSciammVlGTkRQsn4U-gPcIk,31.635071,74.87191179999999,accounting
+324,CA Davinder Singh,ChIJYUXdIFZjGTkRPsA5ItxSVMw,31.6353425,74.87302439999999,accounting
+325,Partnership Firm Registration Consultants in Amritsar,ChIJM15wEalkGTkRAAoTvNAEbCA,31.6350847,74.87025129999999,accounting
+326,NOC Consultants in Amritsar,ChIJiXJFEalkGTkRZRs04d8XzIE,31.635056,74.87013499999999,accounting
+327,Ketan Arora & Associates (Chartered Accountants),ChIJGwFxViVlGTkR0CE3er7GPCU,31.6317367,74.8725165,accounting
+328,Income Tax Consultants in Amritsar,ChIJ66xkEalkGTkRA7ogMhCIp5M,31.6355181,74.86938339999999,accounting
+329,CA. Gurasis Singh,ChIJV3pJMhBlGTkRz_zZR7xX57Y,31.63576110000001,74.86937619999999,accounting
+330,B S V & ASSOCIATES,ChIJf4ksIalkGTkRNzSZCFotHOQ,31.63575559999999,74.86936399999999,accounting
+331,Vishal Jamal Advocate,ChIJaW4PLuplGTkRpIU1sGva_68,31.63703050000001,74.8691292,accounting
+332,Mohun's Bakery Products,ChIJVXOeVqpkGTkRQhgO6Xy0I-Y,31.67577689999999,74.8786691,bakery
+333,Sindhi Sweets,ChIJnaD5srp8GTkRWWGPzy5IlUc,31.617297,74.88614199999999,bakery
+334,Baker's Square,ChIJk_6hImhjGTkR8GT3Z0SZVYU,31.649318,74.88627199999999,bakery
+335,Brother's Bakery,ChIJVXOeVqpkGTkRH4VKKSPxbLk,31.665724,74.933105,bakery
+336,"Ahuja Milk Bhandar, Ahuja Sweets",ChIJg-02CFR7GTkRXs2yE2RtZqE,31.6227866,74.8683242,bakery
+337,Grover Bakers,ChIJ9waPTVRjGTkR2AS2MzXaOyA,31.631945,74.877371,bakery
+338,Grover Bakers,ChIJvfQ87lljGTkRHGEziyZi04w,31.640718,74.879556,bakery
+339,Cakerz n Bakerz,ChIJAQAAdFR7GTkRXuLEshtGwbs,31.6226718,74.87095939999999,bakery
+340,Grover bakers,ChIJNZHJM0xjGTkRpJzZDHUFOZ0,31.63464399999999,74.889004,bakery
+341,Royal Bakers,ChIJRQPKlF5jGTkRffBEYSbcY8k,31.6474666,74.8791641,bakery
+342,Aviruchi's Flour Fairy,ChIJM6xPaltjGTkRf5Y-feTQfYM,31.644853,74.8840171,bakery
+343,Lovely Bakery,ChIJMwM5H6h8GTkRcActB11gQ5g,31.6183567,74.8744292,bakery
+344,"Ferns N Petals : Flower Shop in DS Road, Amritsar",ChIJv_IANblkGTkRIPJOotpvQNQ,31.6497165,74.87895379999999,bakery
+345,Arora Bakery,ChIJBZFiZLN8GTkRqVqns4C8myo,31.628326,74.891227,bakery
+346,Shiv Baker's,ChIJmVB6EEx7GTkRYXdsuEhlISA,31.6214037,74.85725099999999,bakery
+347,Prince Bakers,ChIJ4VH50Fl7GTkR6o7U-03G0FI,31.61610069999999,74.8706064,bakery
+348,Pulkit's Bania Di Hatti,ChIJwX7o171kGTkRypEhvMlAWsI,31.64617299999999,74.856608,bakery
+349,Narula Bakers,ChIJ6y3AW7B8GTkRaHY_pApxmUc,31.620579,74.88824500000001,bakery
+350,Friend's Department Store,ChIJnV8nPpZkGTkRli5wfzjSLUI,31.649661,74.857789,bakery
+351,Janta Bakery,ChIJWSuKOFp7GTkRODszyOeLPEo,31.6142519,74.8668649,bakery
+352,Bansal Baker's,ChIJc-h3j2NjGTkRNi4Z6NqbbtY,31.6587039,74.8794061,bakery
+353,Deep Bakers,ChIJHSvi7bh8GTkREzQuNz-65Qk,31.61612349999999,74.8957441,bakery
+354,Unique Grover Bakery,ChIJ4aga0cxkGTkRlwxAgW8rJks,31.623746,74.84033,bakery
+355,Brother Bakery,ChIJa3qdMZV8GTkRJaTZg2kaOsk,31.6085355,74.8958904,bakery
+356,Gelato Vinto - Puvan Enterprises,ChIJe_naPsV8GTkRBpkEV0y8i08,31.61951890000001,74.908034,bakery
+357,Kitty Bread,ChIJZbFbr-p8GTkRPqiLDkYsFJs,31.6083869,74.8981929,bakery
+358,The Bakers,ChIJRy21UyhlGTkRnXO9VygSdLA,31.630836,74.824942,bakery
+359,Chawla Bakery,ChIJh-OCdIV8GTkRLW1sVCCx8h4,31.593424,74.88425699999999,bakery
+360,Arora Ice Cream & Bakery,ChIJgXgdL0llGTkRbO-lYaXqBak,31.6272905,74.7988191,bakery
+361,Cake a Licious,ChIJf9uyF6NkGTkRhKwqkNhcnes,31.64541299999999,74.86382990000001,bakery
+362,Krishna Bakery,ChIJVXOeVqpkGTkRRMaeae4vYB8,31.6339792,74.8722642,bakery
+363,Life bakery and food corner,ChIJswy6fOplGTkR6cjsgD-nKL8,31.6339793,74.8722642,bakery
+364,Popular Bakery & Mithai Shop,ChIJXZGgC6lkGTkRNq7QGORGBa8,31.634981,74.8720228,bakery
+365,Popular Bakery,ChIJ4SkXQalkGTkRxLVD3-ziuIw,31.6352987,74.87327859999999,bakery
+366,Josan Bakery,ChIJp0rrFalkGTkR2Ddha-jaO9M,31.634876,74.869793,bakery
+367,Bakewell bakers,ChIJr9nZ-D1jGTkRpnzpPRQ-SBo,31.6349592,74.8757217,bakery
+368,Vikrant Confectionery,ChIJTxueylVjGTkRqNLWS8WHITk,31.632691,74.8769169,bakery
+369,Awon Boxes|A-won boxes |A1 boxes,ChIJhTRutVVjGTkR6QkihqDe4zE,31.6326319,74.8768955,bakery
+370,PAYAL BAKERY & TELECOM,ChIJWSCUTFRjGTkRs8D5muRY2Pg,31.63228709999999,74.8771139,bakery
+371,RAJA SWEET & BAKERY,ChIJ78CydMB8GTkRTM14EKOpF5g,31.63228709999999,74.8771139,bakery
+372,Prabhat Cycle Store,ChIJVXOeVqpkGTkRVPHS-EkA_KU,31.6339793,74.8722642,bicycle_store
+373,Amritsar Cycle Works,ChIJmXVcG4llGTkRP427lcCo9fs,31.6344423,74.8698193,bicycle_store
+374,GS cycle store(Punjab Motorcycle World),ChIJwVpdSqlkGTkRL8RRK2W6QAY,31.6344539,74.86981270000001,bicycle_store
+375,India Hardware Store,ChIJVXOeVqpkGTkRvOJDWDnrUrs,31.63083900000001,74.878917,bicycle_store
+376,Pt. Beli Ram and Sons,ChIJzd8EY6pkGTkRg6p1GBEhSSQ,31.6310966,74.8732014,book_store
+377,Kasturi Lal & Sons,ChIJ79o-Iqt8GTkRvBtkHvQSQHY,31.6272913,74.8774712,book_store
+378,The Booklovers Retreat,ChIJib7xLlVjGTkRquIAj3P8LmY,31.629374,74.87626399999999,book_store
+379,Hari Om Pustakalay & Gift Center,ChIJbRD8p6xkGTkRtjnrw8ltyWc,31.628165,74.868242,book_store
+380,Sharma Book Depot,ChIJ____z1RjGTkRiYfOfFmr7PI,31.6269173,74.876864,book_store
+381,Ahuja book depot,ChIJ____z1RjGTkRd6KdIGxzEoE,31.6270718,74.8780989,book_store
+382,C.D. Mehra & Sons,ChIJu4X5Pat8GTkRbkwKkMetCNQ,31.6268086,74.878073,book_store
+383,Kapoor Traders,ChIJn0z9O1NjGTkRp453OWPz6jo,31.6300758,74.8819733,book_store
+384,Nanda Book Shop,ChIJ6_hF0l5jGTkRk40B-GZ348A,31.6455314,74.8776321,book_store
+385,"Surinder book depot Amritsar, Punjab",ChIJg6hPIRx9GTkRVDmkzN_uUpw,31.6216047,74.8756132,book_store
+386,Mahinder Singh Kange Karhyan Wale,ChIJff6AF6l8GTkRjmFjYAqUUGc,31.621502,74.877911,book_store
+387,Books Punch,ChIJAZy9cZFlGTkRhu5SCqHpgdw,31.649024,74.865893,book_store
+388,Imperial Photobooks,ChIJKSycjqlkGTkR_0kdgSFZg0U,31.6278884,74.8900536,book_store
+389,Sona Electronics,ChIJV3I2NUNjGTkRnEvbZo_cZ_M,31.6477829,74.885824,book_store
+390,Ajanta School of Foreign Languages,ChIJ04pS5WBjGTkRj5e_vsI5wfY,31.6533277,74.8758485,book_store
+391,Shiv Book Depot,ChIJmaX6yEdjGTkR5CweCtb2t9g,31.64303099999999,74.895161,book_store
+392,Baba Stores,ChIJzVPvO898GTkRbBK0pxdYr8Y,31.62244,74.90422699999999,book_store
+393,DHEERAJ BOOK DEPOT,ChIJLdxIOuR8GTkRXzXeBagRqFk,31.6099097,74.8966538,book_store
+394,Book Mart,ChIJ-_or2Jt8GTkRi8KA_BVdKCI,31.601128,74.8821239,book_store
+395,SHIV GIFT HOUSE,ChIJ12k4skdjGTkR7Ko2uzxUXco,31.65294099999999,74.907489,book_store
+396,The Chocolate Room,ChIJDdUpN8V8GTkRO9MoCn4ITjo,31.619693,74.90768,cafe
+397,Formos-Instinct - The Buddha Lounge and Restaurant,ChIJVXOeVqpkGTkRWg5L39-5Ka8,31.6441158,74.8806909,cafe
+398,N Square- a fusion cafe,ChIJm87hLVZjGTkRsP1qgD6ej00,31.63626199999999,74.874757,cafe
+399,Coffee Day,ChIJCxHg2618GTkRlBwCY6ZmEjE,31.6241272,74.8838861,cafe
+400,Shreedhar Traders,ChIJ13q97V57GTkRb0m_HU8uhkA,31.61646499999999,74.87401,cafe
+401,Cafe Connect,ChIJeVXfYpBkGTkR0I8pbGWzCvo,31.6501863,74.8627958,cafe
+402,Cafe Chokolade - Natural Ice Cream,ChIJ_XUwnJBkGTkREDxLYMzTpfI,31.657782,74.86157,cafe
+403,Spring Gardens & Farmstay Amritsar,ChIJf5wbqMZlGTkRSKU9yHQiUPg,31.6926581,74.8105343,cafe
+404,Music Studio,ChIJxRIcUWdlGTkRoJn37bn4wk0,31.6344321,74.8721423,cafe
+405,chanderdhari Ram Tea Stall,ChIJx5rHElhjGTkRsGyMIIRYD7o,31.64075159999999,74.8749296,cafe
+406,cafe coffee day,ChIJ5Zaoj6dkGTkRtiFiKs50oXU,31.6411994,74.8735401,cafe
+407,Sant Tea Stall,ChIJGQAAcFNjGTkRc6WFmWxXbFM,31.631055,74.88068299999999,cafe
+408,Barista Lavazza Espresso Bar,ChIJ28DMlqRkGTkRvxquxR54EcA,31.642761,74.8642321,cafe
+409,Cafe Adda,ChIJLQMDMXF9GTkRMrmAt1xxfB4,31.6291927,74.8860199,cafe
+410,Himalayan Gold Tea,ChIJzU8Pdal8GTkR01BA6psghW8,31.6217277,74.87716209999999,cafe
+411,ashoka tea stall,ChIJ0Qtyn658GTkRSr3NOR0vvlk,31.62327509999999,74.8814865,cafe
+412,New Goel Tea Factory,ChIJo2hKU1R7GTkRtm8XPOwON14,31.6207698,74.8792447,cafe
+413,Golden Ice Cream,ChIJmT0JG6h8GTkRvWhijyIQUxs,31.6179429,74.8745919,cafe
+414,Alfornno Bakery & Cafe,ChIJc0H5zOljGTkRy-xN00bEOB0,31.6495952,74.8789759,cafe
+415,S.K. Fast Food And Coffee - Juice Bar,ChIJOQ8KCKZ8GTkRPklHiv7pD9w,31.617029,74.87988000000001,cafe
+416,Castle Toyota,ChIJq6qqquV8GTkRyNHhqdXZCgQ,31.6044394,74.9369297,car_dealer
+417,Arneja Honda,ChIJxY926EdjGTkRGVh9mRlyElo,31.6429166,74.89677739999999,car_dealer
+418,"Maruti Suzuki ARENA (Jaycee Motors, Amritsar, East Mohannagar)",ChIJ2-LJKMh8GTkRTp6uGWpFw2Y,31.6220486,74.8978666,car_dealer
+419,"Maruti Suzuki ARENA (Rishabh Fourwheels, Amritsar, Batala Road)",ChIJRSnOaTljGTkR6DrEDApdK6Y,31.645878,74.901152,car_dealer
+420,Volkswagen Amritsar,ChIJ9TD1W958GTkRrbcXgAaJzL4,31.6132541,74.9168916,car_dealer
+421,World Wide Autozone Pvt Ltd ( Mahindra & Mahindra Authorized Dealership),ChIJZzLR_958GTkR73h0807veHU,31.6141769,74.9179059,car_dealer
+422,"NEXA (Jaycee Motors, Amritsar, Gateway Amritsar)",ChIJEQ5clBB9GTkRhmagRJhx7ew,31.6056333,74.93375809999999,car_dealer
+423,Prestige Honda,ChIJpa47lhF9GTkRhtaiiMbQEBQ,31.6042436,74.9370198,car_dealer
+424,Mahindra First Choice Wheels Limited,ChIJ_____5BkGTkRUpxR1VDojLU,31.6522371,74.866412,car_dealer
+425,Bhagat Ford,ChIJp8SkwSaDGjkRSshGZmfojGE,31.5943565,74.9502511,car_dealer
+426,Malhotra Motors,ChIJXZGgC6lkGTkROYPaYxLvTEw,31.6350423,74.87163869999999,car_dealer
+427,Car Beauty,ChIJK1hDS2dlGTkRTGVmsUYKj20,31.63504,74.87314599999999,car_dealer
+428,Vishal Dealer,ChIJAfjQI6lkGTkR12oWSPWsJJs,31.63559900000001,74.86949899999999,car_dealer
+429,AAR VEE MOTORS & PROPERTIES,ChIJNV4zJ6lkGTkRGOhieEjd7eA,31.6358419,74.8693471,car_dealer
+430,Swani Motors Pvt. Ltd.,ChIJyw9j36hkGTkRvFCAm1z18kY,31.636219,74.868798,car_dealer
+431,Nishan Motors,ChIJVXOeVqpkGTkRqMXqNjsmUTY,31.637686,74.86748,car_dealer
+432,Teena Associates,ChIJVXOeVqpkGTkRsIUBN_uia4I,31.641833,74.87651199999999,car_dealer
+433,Anand Motors,ChIJCQ1XBFFjGTkRUOjwKLUT2DA,31.637017,74.882336,car_dealer
+434,Shree Ganpati Motors #Car Bazar Dealer,ChIJP0OFmch7GTkRW1M5s-JfArU,31.6232777,74.8677249,car_dealer
+435,MOGA JEEP HOUSE,ChIJl6qqqr5kGTkRRVftH3NITlQ,31.64276399999999,74.856561,car_dealer
+436,Satya Capitals,ChIJEwAAQJRkGTkRJ_ZvKXPJKfA,31.6484335,74.8584736,car_dealer
+437,Roofing Shingles - Innovative Growth,ChIJi6Nks8t9GTkR2npdzsxSL3s,31.616831,74.8872368,car_dealer
+438,Gun Auto Dealer,ChIJ-0FTTk97GTkRMfvLdPxjYRM,31.615822,74.8571039,car_dealer
+439,Bhagwati Honda - Honda 2 Wheelers Dealership Amritsar,ChIJHzkM1chkGTkRwWsK_v1yrdg,31.6332111,74.8448851,car_dealer
+440,Fateh Property Advisor & Fateh Motors,ChIJWYmx2mNjGTkRia1UNTxuCIA,31.6571442,74.87781559999999,car_dealer
+441,CARS24,ChIJP_O6lNB9GTkRsxGJMQNpiDQ,31.620379,74.89730039999999,car_dealer
+442,Novelty Ford,ChIJz1rOof59GTkRah98XQ4GsQ4,31.6203756,74.8973005,car_dealer
+443,J. J. Sharma Property And Auto Dealer,ChIJYaWeUGpjGTkR3W1JFTyiReI,31.65497200000001,74.89409200000001,car_dealer
+444,Guru Kirpa Property Advisor,ChIJweB9_89kGTkR3otVkP6v9EE,31.635092,74.8392229,car_dealer
+445,TRUE CHOICE,ChIJ0ywbAItjGTkRZbnRDH61PaQ,31.6467679,74.9033596,car_dealer
+446,J.J cars,ChIJg8ejzPF9GTkRb5zeNBejI9I,31.60925599999999,74.8995431,car_dealer
+447,PRINCE MOTORCYCLE SPARES & REPEAR& ELECRICAN,ChIJjcEEPep8GTkRGNZGeOgrS4o,31.6085503,74.90006919999999,car_dealer
+448,GD Motors,ChIJadcUQtZkGTkRfgyz_96yVyU,31.629786,74.829235,car_dealer
+449,Deep honda amritsar,ChIJa33XfOhjGTkRUjm3usAo2DU,31.6707602,74.8846306,car_dealer
+450,Deep Honda,ChIJtYAGzHljGTkRmkyJTCICUG8,31.6708736,74.884649,car_dealer
+451,Mahindra Worldwide Autozone Pvt Ltd,ChIJqU3fSrd9GTkRXno0fXpfRgk,31.6137939,74.91773409999999,car_dealer
+452,Aryan Hyundai Sale & Service,ChIJ_4nGOgVjGTkR8n-0eytTPPk,31.666881,74.9113204,car_dealer
+453,R.S Automobiles FO Aryan Honda,ChIJwav5h41jGTkRZ_1TiXNYmGw,31.69296559999999,74.8857864,car_dealer
+454,Speedways Kia - Kia Car Showroom in Amritsar,ChIJfU4Zek99GTkRUrKjpZockoQ,31.6036056,74.9382017,car_dealer
+455,CARS24,ChIJC784wqR9GTkR81NH_c76Omo,31.6018908,74.9400764,car_dealer
+456,"Swami Travels-Taxi Hire in Amritsar, Innova Crysta, Etios, Dzire",ChIJCwAAwKxkGTkR5bk3qqbZitw,31.6315627,74.8686281,car_rental
+457,"OVO Self Driven Cars/Bikes Rental, Luxury Cars in Amritsar",ChIJ-x_h3VdjGTkRdfnlXT6GWPA,31.6203139,74.8861636,car_rental
+458,Car hire in Amritsar,ChIJVYFBRWpjGTkRPLcxGoMwxck,31.6609289,74.9027048,car_rental
+459,"AS Travels, Taxi Rental Amritsar, Hire Etios, Swift Dzire, Innova-Crysta",ChIJK6pDi6tkGTkR7zbaFNnDQDU,31.6312015,74.8187897,car_rental
+460,Karan Car Rental Tempo Traveller Bus & Taxi Service,ChIJPXZe8qtkGTkROPFB9F_0eic,31.6354998,74.8697303,car_rental
+461,Ashtavinayak,ChIJOQEd4lplGTkRDZ3RcSZicgk,31.6350423,74.87163869999999,car_rental
+462,Complete Traveller's Guide - North India Tours,ChIJn_zUt5BlGTkRmbEmkWJWqlY,31.6351492,74.87042579999999,car_rental
+463,Amritsar Car Rental And Tempo Traveller Taxi Service,ChIJ2SbFIFZjGTkRm95WGMA18SQ,31.63544569999999,74.87423749999999,car_rental
+464,Golden Rent a Cab,ChIJVXOeVqpkGTkRnItOf2EFz14,31.6316936,74.8688342,car_rental
+465,Holy City Car Rental,ChIJWXLjF-V9GTkR-014Zr7qpO8,31.6315259,74.86896329999999,car_rental
+466,Hawk's Travel - Car Rentals Tempo Travellers & Taxi Service,ChIJIzWLjatkGTkRWErtlRfN4ss,31.6314695,74.8689713,car_rental
+467,Swami Travels - Car Hire Rentals Amritsar,ChIJVeqbIalkGTkR8IUc_uqd-hc,31.6410251,74.8625739,car_rental
+468,Jag Cab | Car Rental Self Drive,ChIJF1VnDiVlGTkRyB864q8e7Xs,31.6427611,74.86423119999999,car_rental
+469,OVO Self Driven Cars/Bikes in Amritsar Branch 2,ChIJnSf_zCplGTkRnOGT9aMAKZE,31.6497342,74.8631492,car_rental
+470,"Shalom India Travels - Best Car Hire Rental Amritsar, Innova,Dzire,Tempo Traveller,Coach Bus,Hotels",ChIJxUszGKF9GTkRpufVVKMRuQA,31.6152895,74.8814495,car_rental
+471,D&D-Taxi Rentals in Amritsar,ChIJSZoKbZV9GTkR0YSgznZClP0,31.6177051,74.8444295,car_rental
+472,"Amritsar Car Hire | Self Drive Car in Amritsar, Taxi Hire in Amritsar Airport",ChIJqaoQT9BkGTkRVbV1k5q_SA4,31.63261790000001,74.8370741,car_rental
+473,Gill Tour and Travel,ChIJOywkPmhjGTkRaV5E4Q3yhOk,31.6632477,74.8809777,car_rental
+474,Self Drive Cars and Bikes on Rent Amritsar,ChIJC6ZOhBZjGTkRmhr0RJHIxmc,31.6560999,74.9179983,car_rental
+475,Aman Travels - Cab Hire in Amritsar,ChIJ130SRRVlGTkRZbNJ3n67xDY,31.6314034,74.8195494,car_rental
+476,Kapoor Kar Kare Pvt Ltd,ChIJlfLZ_JtkGTkRYKzFeotCuiE,31.65557249999999,74.8678881,car_repair
+477,A H Padam Petroleum (ATM Available),ChIJ9fp67cV8GTkRWZ7JMwlRFtc,31.619154,74.906611,car_repair
+478,Shangari Motors,ChIJ--XugUhjGTkRzJFQ8-JHoJE,31.6418237,74.8947101,car_repair
+479,Rishabh Autos - Hero MotoCorp,ChIJVXOeVqpkGTkR7DiBPotHTJc,31.64611,74.901496,car_repair
+480,Lakshmii Traders,ChIJGyiJGqpkGTkR5o3hGzmWl4A,31.633056,74.873115,car_repair
+481,Sahil Electronics,ChIJ8xhgl1RjGTkR1ryMHpCi62Q,31.63063,74.87926499999999,car_repair
+482,K.C. Engineers,ChIJnWvInlNjGTkRrq2oByt8wAc,31.632116,74.881146,car_repair
+483,JACKSON MOTORS,ChIJNTIaf0NjGTkRHW2DUDSU5JQ,31.63947600000001,74.86298359999999,car_repair
+484,Global RO System India,ChIJA1QwtIJkGTkRJydQcM2XSuo,31.661736,74.872861,car_repair
+485,"Hanson Motors, Chowk Maqbool Pura, GT Road",ChIJS3Bujsh8GTkR9_Z6Q3-uwMQ,31.6211472,74.9012114,car_repair
+486,AIS Windshield Experts - Amritsar,ChIJATCv3EhlGTkRfuO0k41bpMM,31.6294865,74.80801100000001,car_repair
+487,Prestige Honda,ChIJpa47lhF9GTkRhtaiiMbQEBQ,31.6042436,74.9370198,car_repair
+488,Bille Di Hatti,ChIJc4RC0E9lGTkRvkmWkU8Ud_g,31.627039,74.792776,car_repair
+489,Bhagat Ford,ChIJp8SkwSaDGjkRSshGZmfojGE,31.5943565,74.9502511,car_repair
+490,CHAHAL AUTOMOBILES,ChIJCa0Cj6lkGTkR6r17yE3Y0gc,31.633979,74.872092,car_repair
+491,Jaswant Auto Gas,ChIJvfg3BVZjGTkRlTZjwkFOkh0,31.634154,74.872466,car_repair
+492,Punj Automobiles,ChIJkf9HIKpkGTkRjnEXd8SipTI,31.63342499999999,74.8724994,car_repair
+493,Joginder Motor Store,ChIJVXOeVqpkGTkRxSH4aGTXAEo,31.633082,74.872208,car_repair
+494,Maruti Genuine Parts - Jackson Agencies,ChIJKdKZGKpkGTkRILIpjD-hZFk,31.633124,74.872686,car_repair
+495,Ramesh & Company,ChIJ9-qMIapkGTkRoWjKr22Shy4,31.633108,74.8727239,car_repair
+496,Suraj Auto Sales,ChIJ5egJGKpkGTkRPqx1epKjF1Y,31.632931,74.872646,car_repair
+497,Manjinder Motor Store,ChIJVXOeVqpkGTkRcl6VCAMVFG0,31.632845,74.872056,car_repair
+498,HP PETROL PUMP - O R SERVICE STATION,ChIJVXOeVqpkGTkRmtRfzFJ-sTQ,31.634878,74.871425,car_repair
+499,Royal Enfield Genuine Parts Distributor,ChIJ2y9L68ZlGTkRVtjkd-WSASA,31.63468999999999,74.87069,car_repair
+500,M/s Chawla Traders,ChIJVXOeVqpkGTkR80k2Ml2pkvY,31.632491,74.871875,car_repair
+501,Kawaljit Enterprises,ChIJu4NYE6pkGTkR2a7jOMmHTpQ,31.632274,74.873009,car_repair
+502,GS cycle store(Punjab Motorcycle World),ChIJwVpdSqlkGTkRL8RRK2W6QAY,31.6344539,74.86981270000001,car_repair
+503,Tel Turbo Energy Pvt. Ltd.,ChIJzQfcrW1lGTkR5MYxRWKBis4,31.6317041,74.87147709999999,car_repair
+504,Jackson Agencies (MGP),ChIJzYPdwVFlGTkRWg8omvfWQTs,31.63576110000001,74.86937619999999,car_repair
+505,Vishkarma Motor Garage,ChIJVXOeVqpkGTkRJwKvlnFMnQQ,31.6368938,74.8706229,car_repair
+506,Sai Jatin Telecom,ChIJa9yQ065kGTkRpsBWdn0CS3E,31.63538399999999,74.8680189,car_repair
+507,"Maruti Suzuki Service, Court Road, Amritsar",ChIJ4Yup0CNlGTkRycdAszOyZfg,31.6365376,74.8686233,car_repair
+508,GSM SERVICES,ChIJW33o1q5kGTkRABW6Y_dEQ-0,31.635305,74.867781,car_repair
+509,Shree krishna Telecom,ChIJVXOeVqpkGTkRyOHH3b0luFw,31.635513,74.867644,car_repair
+510,G.R. Telecom,ChIJN1tu165kGTkRiVzF1EYpZ9M,31.635733,74.867719,car_repair
+511,Gagan Telecom,ChIJN1tu165kGTkROCFYVWyuDco,31.635515,74.867587,car_repair
+512,S.S. Telecom,ChIJryFw165kGTkRDo_53OL-hkQ,31.635523,74.867578,car_repair
+513,M.B. Electronics,ChIJ15nvIVVjGTkR0-Eu8fp38Yo,31.6298319,74.876717,car_repair
+514,BAWA AUTOMOBILES,ChIJodficlRjGTkRrKkbY3S2-FA,31.63286,74.8793929,car_repair
+515,S.R. Electronics,ChIJO5eeIFVjGTkRjhPmTtSepXU,31.629222,74.877676,car_repair
+516,JACKSON MOTORS,ChIJNTIaf0NjGTkRHW2DUDSU5JQ,31.63947600000001,74.86298359999999,car_wash
+517,STAR CAR WASH,ChIJ7976vn1jGTkRs_ii-mBAFvQ,31.6656446,74.875834,car_wash
+518,Car Washing,ChIJybEX1CFjGTkRDvTyEW9aQRM,31.655433,74.917644,car_wash
+519,"Detail Masters - Best Ceramic Car Coating, Accessories & Foam Car Wash in Amritsar",ChIJaZYJzc57GTkR3ol3JjFWMVI,31.6129832,74.9192819,car_wash
+520,jeck car washing station,ChIJ_eDnQRNmGTkRk1kqvBEk9OU,31.72416179999999,74.8025028,car_wash
+521,Chawla Cloth Store,ChIJA-8zv6pkGTkRKjOVtN4Md6A,31.6448095,74.8775734,clothing_store
+522,Kay Dee Suitings,ChIJPwIQ5Kp8GTkRKFTEcpymeko,31.6266821,74.8766291,clothing_store
+523,Gift Plaza,ChIJVXOeVqpkGTkRvQUigT-HewA,31.631868,74.87272899999999,clothing_store
+524,Erawati Textiles*,ChIJVXOeVqpkGTkRm0lrJQiyATw,31.629541,74.87196,clothing_store
+525,Maahi Mukesh Mehra,ChIJ68U85FZjGTkRLQ_vv077_uw,31.6396812,74.8753989,clothing_store
+526,The Superb Designers,ChIJWfeY3ap8GTkRZ3-vQsmWEN8,31.627149,74.876513,clothing_store
+527,Gullu Exclusive | Gadoni,ChIJVVVVVSVjGTkRFunLFvnDEaA,31.6260412,74.8764751,clothing_store
+528,Auro Grace Homestay,ChIJo4-pp1ljGTkRjhKT8ih3oo4,31.642362,74.8779986,clothing_store
+529,Harman Beauty Corner,ChIJ4dqn2ax8GTkRJevCBGE1EIY,31.62834,74.882645,clothing_store
+530,Guru Textiles,ChIJRSFnFqp8GTkRheV-UbstRho,31.623731,74.875405,clothing_store
+531,Off-RoaD Branding,ChIJtwypW6FkGTkRLMTKhoKssi4,31.64513900000001,74.86879200000001,clothing_store
+532,Ganpati fashions,ChIJx3ksSLtkGTkRs3H74vt9tyw,31.6420326,74.861847,clothing_store
+533,Sharma Handicrafts,ChIJKeQzKqp8GTkRG_6eE8DAe1s,31.62312500000001,74.878664,clothing_store
+534,R J Enterprises,ChIJf5jTiKl8GTkRw9jbbLxFVM4,31.62225900000001,74.877781,clothing_store
+535,oriflame india,ChIJk0wrWVF7GTkRAYbfIj5h6hg,31.621571,74.867161,clothing_store
+536,Rainbow Garments & Cosmetics,ChIJPdSklF5jGTkR1dSCF8ErUwc,31.6469668,74.8784623,clothing_store
+537,R. K. Prints,ChIJxSquXMhkGTkRrgpGCFhjfXM,31.63452,74.848486,clothing_store
+538,NEW LOOK COLLECTION,ChIJX1XgK6R8GTkRSC86hB6-xu4,31.614647,74.880237,clothing_store
+539,Bata India Limited,ChIJiS5MasV8GTkRgTQyrHgX264,31.6199211,74.9075228,clothing_store
+540,Emerge,ChIJt0sSOsV8GTkRJ5JIBDqkuLQ,31.6193463,74.9083974,clothing_store
+541,Divya Patanjali Store,ChIJ1ci7PqNkGTkRSrX4wbDmAiM,31.6452894,74.863565,convenience_store
+542,Abhishek,ChIJ26y9NxtjGTkRP0Pn51rnyp4,31.62926070000001,74.8744699,convenience_store
+543,Utilities Exchange,ChIJFwAA0LtkGTkR6TBA83DaC2I,31.6407835,74.8573052,convenience_store
+544,Day Night Store - 24x7,ChIJtyMEFT1lGTkRoPh4lCS9sjc,31.657826,74.8615696,convenience_store
+545,Babra Hydraulics,ChIJb8_I9dl8GTkRpvUDyIsaLSI,31.6208904,74.9151684,convenience_store
+546,Rama Krishna Traders,ChIJVXOeVqpkGTkRfaExT-Ko9-A,31.6293196,74.8119335,convenience_store
+547,Khem Singh & Sons,ChIJ____z1RjGTkRskv5hFhAFb8,31.627561,74.877611,electronics_store
+548,MLM Software,ChIJITMpwl5jGTkRW7D-0iynfvM,31.64471889999999,74.8745157,electronics_store
+549,Vast Computers,ChIJXUXNGJZkGTkRumAKVBWKNVs,31.648845,74.857889,electronics_store
+550,Sam's Computer Hub,ChIJ73HeebBkGTkRlFNlUK4itQA,31.6373389,74.860102,electronics_store
+551,New Pooja Instruments,ChIJ2afD-mhjGTkRQFl-SbIVwEA,31.66584089999999,74.9036079,electronics_store
+552,BABA SURJAN SINGH & SONS - BSSS - Big Brother Shop,ChIJhS6cjqlkGTkRziCndu7DgaQ,31.6169141,74.8781803,electronics_store
+553,Bunty Electronics,ChIJMSkTIVVjGTkRM44FrT449ZM,31.629655,74.876756,electronics_store
+554,Sahil Electronics,ChIJ8xhgl1RjGTkR1ryMHpCi62Q,31.63063,74.87926499999999,electronics_store
+555,Philips - Light Shoppe,ChIJA_NyVVhjGTkRV8S-piEBwtI,31.642199,74.876729,electronics_store
+556,Sahil Telecom,ChIJ-5oZEkRjGTkRvIeiwe7KW8I,31.646098,74.890513,electronics_store
+557,P.S. Computer,ChIJCRYXhll7GTkRZdg_cx2a2YA,31.61421999999999,74.86854799999999,electronics_store
+558,Shree Ganesh Telecom,ChIJFQePyqR8GTkRCZaTRLwnXmc,31.614822,74.88577599999999,electronics_store
+559,Sharma Telecom,ChIJ0SrZMmljGTkRfuB7xx7Ixpk,31.657724,74.8895649,electronics_store
+560,Music Desi Style Sukhi Singh,ChIJj9lSqSllGTkR5eXhgIMMiqI,31.6301749,74.82475699999999,electronics_store
+561,Cheena Music House & Sports,ChIJVXOeVqpkGTkR7Vg_iFo8Yx8,31.6339793,74.8722642,electronics_store
+562,Babbage Computer & Consumables,ChIJVXOeVqpkGTkR4Qv2JZZDK38,31.6339793,74.8722642,electronics_store
+563,Expert Electric Works,ChIJa4EzkKlkGTkRzroFzC5lqkQ,31.6339792,74.8740816,electronics_store
+564,GMP PaČЌers and MỖϋers,ChIJe5tRDVZjGTkRyLH9VODM9zc,31.634566,74.87558899999999,electronics_store
+565,TaTa Sky Office Amritsar,ChIJ1Y3a-wRlGTkR6shDdXVLZgk,31.63576110000001,74.86937619999999,electronics_store
+566,vivo India Service Center,ChIJL8U4_hpjGTkRFXZHY0ESr2I,31.633701,74.87593799999999,electronics_store
+567,Jaswal Furnishers,ChIJUWDarbl8GTkR7yBKC_k1Bts,31.6172535,74.8942208,furniture_store
+568,D 'DECOR STORE (Ganpati Exclusive),ChIJ6TaCfl5jGTkRvOIZH1Gs8YA,31.64850949999999,74.8795157,furniture_store
+569,Ghumman Trading Co. - Generator Dealer in Amritsar | Generator on rent in Amritsar,ChIJB-Zijbl8GTkR50oZ3OkDlGk,31.61771599999999,74.89236799999999,furniture_store
+570,Cleardry - Dry Cleaning Services,ChIJ7X3R9EtjGTkRLsJcC_clizE,31.6381024,74.90223379999999,furniture_store
+571,Gem Furniture,ChIJvfg3BVZjGTkRBNPmcMc0gOw,31.634476,74.8742951,furniture_store
+572,Studio One,ChIJfa1LkKpkGTkRMoNuysPHodk,31.63005399999999,74.873205,furniture_store
+573,Apt Carpets,ChIJaYWNladlGTkRL-3TRPS_fqo,31.6297557,74.87352369999999,furniture_store
+574,Vijay Gupta & Co.,ChIJj3FRoapkGTkRNH-FQ_SKb8c,31.6293686,74.8739217,furniture_store
+575,Ramson Enterprises,ChIJ-aD6_VRjGTkRrR5xnMkAN1U,31.63092399999999,74.8770689,furniture_store
+576,Chhabra Bartan Store,ChIJx7AawlRjGTkRgT1_mOH1A5U,31.629999,74.8780829,furniture_store
+577,Satguru Enterprises,ChIJVXOeVqpkGTkREnGHLzRnwog,31.6279829,74.874849,furniture_store
+578,Shiv Kumar And Sons,ChIJ0wra0FRjGTkRdu5YI9ESYyc,31.629228,74.877528,furniture_store
+579,Nagpal Trading Corporation,ChIJ____z1RjGTkRDcs9xV8s_4A,31.627594,74.875112,furniture_store
+580,IFB Point - Amritsar,ChIJp_wBFlVjGTkRymeEPieAPrQ,31.629845,74.87877,furniture_store
+581,Fabindia Experience Center,ChIJyQ257Y1kGTkR9j_0rtj39ik,31.6418251,74.8729397,furniture_store
+582,Sant Singh And Sons,ChIJF1HD7qp8GTkR-7Kenv0-bak,31.626601,74.8760669,furniture_store
+583,Hansraj Nayyar (Mediquip) Inc.,ChIJA5ScFqt8GTkRGELQaRjdS9k,31.627038,74.878106,furniture_store
+584,Satguru Fancy Gift Corner,ChIJCaKds7FkGTkRoCmfdRRNbPo,31.63470800000001,74.860523,furniture_store
+585,Veera Paϲkers and Moѵers Amritsar 8955918959,ChIJV3ENYFVjGTkRlfeTui9eB0w,31.6458439,74.8574496,furniture_store
+586,Mehta Gift House,ChIJ5w7EclB7GTkRfcc_KlwcHYA,31.616387,74.8639379,furniture_store
+587,Petrol Pump,ChIJzbxWIKpkGTkRzEKx20xR8nU,31.6333967,74.87247789999999,gas_station
+588,A H Padam Petroleum (ATM Available),ChIJ9fp67cV8GTkRWZ7JMwlRFtc,31.619154,74.906611,gas_station
+589,HPCL Petrol Pump,ChIJ5T2wWFBjGTkRLxtyxTivvqg,31.6384732,74.8829117,gas_station
+590,Petrol Pump,ChIJ40waA7tkGTkRiDVqKexFLoQ,31.6410824,74.8599876,gas_station
+591,HP Petrol Pump,ChIJ696ImMh8GTkR6EEUpWO_Zt0,31.6208767,74.9018213,gas_station
+592,HP Petrol Pump,ChIJM_8-1lN7GTkRK2yoUd9os94,31.6216738,74.8658019,gas_station
+593,Bharat Petroleum,ChIJaYrwIKpkGTkRvgocovlrXIw,31.633414,74.8724259,gas_station
+594,Bharat Petroleum Petrol Pump,ChIJJz-AHKlkGTkRzSWf9C26raA,31.635722,74.870274,gas_station
+595,IndianOil - Shri Vishvatma Filling Station,ChIJb-ELhlNjGTkRHR2_T14MxyQ,31.632335,74.8802989,gas_station
+596,Petrol Pump,ChIJ5YytHbFkGTkRkNK4P5MhEZg,31.6344883,74.8585278,gas_station
+597,Bharat Petroleum,ChIJuUe9A658GTkRdEEO25SUpTE,31.6235039,74.88553,gas_station
+598,Indian Oil Petrol Pump,ChIJJ135LbZkGTkR4mjn1S9YAEE,31.633427,74.851303,gas_station
+599,Bharat Petroleum - Sharma Filling Station,ChIJCUAPW7B8GTkR4fCl19-flZ0,31.62059000000001,74.8881459,gas_station
+600,HP PETROL PUMP - HP VIP FILLERS,ChIJSfiNDGJjGTkRI3cRfSDNCJg,31.65731579999999,74.87450869999999,gas_station
+601,Petrol Pump,ChIJLQDBSbh8GTkRJnmSd6K4WCw,31.6180856,74.895038,gas_station
+602,Indian Oil Petrol Pump,ChIJweGgRp1kGTkR0jeortjbOJU,31.6605387,74.87284679999999,gas_station
+603,Indian Oil Petrol Pump-Rasila Filling Station,ChIJFcrQpL58GTkRXTIr8PRCgng,31.61276400000001,74.892337,gas_station
+604,Bharat Petroleum,ChIJ54iNmMh8GTkRqXdk8Jj8tTk,31.620851,74.901861,gas_station
+605,Essar Oil Petrol Pump,ChIJMRdR4ph8GTkRbYQOE1QFo7Y,31.60419,74.8819319,gas_station
+606,Indian Oil - Kanwar Station,ChIJw6AE8ztjGTkRkyc1EC0hVuw,31.648068,74.904659,gas_station
+607,Indian Oil,ChIJ8XQ48d98GTkRGW6cuBD7OFM,31.619247,74.90660299999999,gas_station
+608,Indian Oil Petrol Pump Sunny Filling Station,ChIJk0m1UGZ7GTkRebHEIKjeoY0,31.60138400000001,74.864966,gas_station
+609,Nihal's Petro World Petrol and CNG Pump,ChIJdXIlMdt8GTkR1DNBiBgGK7M,31.618127,74.9092625,gas_station
+610,Bharat Petroleum Corp Ltd-Sharda Power Point,ChIJy_u9QOp8GTkRkEFfZaMz8y8,31.607571,74.901811,gas_station
+611,Sat Guru Filling Station,ChIJ-eDh5pp8GTkR5a9KvraBFCU,31.597426,74.8833499,gas_station
+612,Indian Oil - Dhingra Petrol & Cng Pump,ChIJnYgX5nNjGTkRdkS6XXpc2TA,31.668237,74.89233,gas_station
+613,Bharat Petroleum,ChIJ2f1In_ZkGTkRMsevL0rtmdc,31.665052,74.844534,gas_station
+614,Indian Oil Petrol Pump,ChIJzWfFkPZkGTkRjLgJ1iJRfXc,31.665307,74.844003,gas_station
+615,HP - Khazan Filling Station,ChIJt1UYNgtjGTkRbDfifMATRyM,31.671462,74.8979389,gas_station
+616,HP PETROL PUMP - KHAJAN PETROLEUMS,ChIJ1ULdNgtjGTkRjSasRnZKczQ,31.6717,74.898,gas_station
+617,Indian Oil - Friends Filling Station,ChIJAwh8JiBjGTkRgV2HFt91wuU,31.65552299999999,74.9188449,gas_station
+618,HP PETROL PUMP - SANT PETROLEUM,ChIJk65jFIZ8GTkR4mSpnotpiKA,31.5897877,74.884275,gas_station
+619,Indian Oil,ChIJBzjk0hpjGTkR76q0zW97S1o,31.66599,74.911599,gas_station
+620,Indian Oil Petrol Pump,ChIJeW_G8d98GTkRNIFH4buS8fE,31.6124382,74.9205071,gas_station
+621,Hardas Fuel Point Bharat Petroleum,ChIJ25ts859jGTkR1h33lH_HcQM,31.676779,74.897043,gas_station
+622,Bharat Petroleum Petrol Pump,ChIJ95LQFjdlGTkRqt035tHhRaA,31.62942799999999,74.8079829,gas_station
+623,Indian Oil Petrol Pump,ChIJH1Tk83LYGzkRJF2RW1i649Q,31.669562,74.939427,gas_station
+624,Indian Oil Petrol Pump,ChIJ-2DZAkxkGTkRsg7OuMoNmso,31.68378799999999,74.832962,gas_station
+625,HP PETROL PUMP - ANAND FILLING STATION,ChIJa6rjTkhlGTkRBOWjKQ8gfqk,31.62830900000001,74.80196699999999,gas_station
+626,HP PETROL PUMP - BAJWA PETROLEUM,ChIJFzE9cEl9GTkR29m5mzk9iCA,31.63069,74.947864,gas_station
+627,Diamond Estate,ChIJYeE9net8GTkReVJNG0xlx6A,31.60428,74.900531,real_estate_agency
+628,Amritsar Property Linkers,ChIJhS6cjqlkGTkR5C7-ydPLUio,31.65731759999999,74.8619181,real_estate_agency
+629,Shree Vanktesh Estate,ChIJcXn8UHxjGTkRgsy-KQ-Ler8,31.66534159999999,74.87759919999999,real_estate_agency
+630,ROYAL HOMES AMRITSAR,ChIJv0-_Xa5kGTkRRzR7vQ5uh9k,31.602004,74.931049,real_estate_agency
+631,MattewalCo-op L/C Society Ltd,ChIJKSycjqlkGTkRRGHoOg1zRgo,31.6339793,74.8722643,real_estate_agency
+632,S Jawala tour & travel,ChIJl6qqqr5kGTkRAHyqFm8IaRM,31.631853,74.86838999999999,real_estate_agency
+633,Singhland,ChIJ3xr-JFRjGTkR5019Z2dEcAA,31.63366499999999,74.877944,real_estate_agency
+634,K.P. Property Linkers,ChIJ74wLHqt8GTkRqOHQJ73R3SI,31.626813,74.8771029,real_estate_agency
+635,Harsukh Builders & Land Developers,ChIJAwDQq1ljGTkRnsuRlCOvipw,31.642272,74.877348,real_estate_agency
+636,Sharma Property Dealer,ChIJT-23fVJjGTkRQnSHCzPjo0w,31.6324355,74.88536289999999,real_estate_agency
+637,Narang Property Advisor,ChIJxzQA1S9lGTkRph3EldathLo,31.64276399999999,74.856561,real_estate_agency
+638,City Property Linkers,ChIJB63RDaZ8GTkR8V9eEzjFDo8,31.61658599999999,74.87937,real_estate_agency
+639,Ahluwalia Associates,ChIJa53HtLV8GTkRoynOVyNn1SQ,31.626727,74.894626,real_estate_agency
+640,Khalsa Property Dealer,ChIJXTr8m6J8GTkRsUPpWUO9vAE,31.607449,74.883957,real_estate_agency
+641,Nobel Property Advisor,ChIJhzHCDMZ8GTkRM_cARzTBft0,31.619181,74.902856,real_estate_agency
+642,MAHA LAXMI BUILDERS AND COLONIZERS (BOBBY PROPERTIES),ChIJDeetO_RkGTkROvZ8LTpvQoQ,31.66496399999999,74.844882,real_estate_agency
+643,Taj Associates,ChIJg_HPEu5iGTkR1Ykwbz732g0,31.667886,74.93755,real_estate_agency
+644,Nitin Properties,ChIJh6qqfsZlGTkRJ_GIiVM6jAo,31.6926581,74.8105343,real_estate_agency
+645,JS Property Dealer,ChIJb7aPFJlkGTkRWLF3dJ7w7h8,31.6535875,74.86655429999999,real_estate_agency
+646,Satnam Motors & Properties,ChIJXZGgC6lkGTkRmJ1jn1t_LwE,31.63500000000001,74.87155,real_estate_agency
+647,Guru Dashmesh Properties,ChIJVXOeVqpkGTkRLpaPr-RMR8g,31.642429,74.876661,real_estate_agency
+648,Sukhman Property Advisor,ChIJiSI9mcp8GTkR0dwDIiZzsJ0,31.6294589,74.8979596,real_estate_agency
+649,Ravi Property Dealers,ChIJVXOeVqpkGTkRBuk6nYADq3U,31.6339793,74.8722642,real_estate_agency
+650,K D Properties Advisor,ChIJVXOeVqpkGTkRO_b_Dl3F5fk,31.6339793,74.8722642,real_estate_agency
+651,Arora Property Dealer,ChIJVXOeVqpkGTkRMAXLSCbI9p8,31.6339793,74.8722642,real_estate_agency
+652,Shiva Property Dealer,ChIJVXOeVqpkGTkRhmppPkHU0VI,31.6339793,74.8722642,real_estate_agency
+653,National Builders & Developers,ChIJvQn8EalkGTkRTJ0cYpP1GN4,31.63519,74.870233,real_estate_agency
+654,AAR VEE MOTORS & PROPERTIES,ChIJNV4zJ6lkGTkRGOhieEjd7eA,31.6358419,74.8693471,real_estate_agency
+655,Bali And Co.,ChIJnyeROFZjGTkR6qIz0opLOcw,31.6357856,74.87550379999999,real_estate_agency
+656,Mukund Madhav Consultancy,ChIJ0W6ASlZjGTkRRM8AqpjsIiU,31.636535,74.875574,real_estate_agency
+657,Sharma Properties,ChIJv-kmyFdjGTkRlzl1Fc-NBSM,31.6372839,74.8755264,real_estate_agency
+658,Narang Properties,ChIJWSCUTFRjGTkRWZ5ThXGww3E,31.63228709999999,74.8771139,real_estate_agency
+659,Ralhan Property Consultants,ChIJ6YzLwFdjGTkRLqkQBKk69mY,31.637751,74.87545399999999,real_estate_agency
+660,"Fair Dealz - Real Estate Amritsar, Property dealer in Amritsar",ChIJxW4t7VdjGTkRO7pT8gJvD58,31.6386587,74.87524900000001,real_estate_agency
+661,Matta Property Dealer,ChIJ____z1RjGTkR2okx5OXZiJE,31.6293094,74.87775909999999,real_estate_agency
+662,Rohan Real Tech - Real Estate Agent In Amritsar,ChIJ____z1RjGTkRrLwj4jNsOfs,31.6293094,74.87775909999999,real_estate_agency
+663,Rana Property Dealer,ChIJ____z1RjGTkRWK-tfZ-hONQ,31.6293094,74.87775909999999,real_estate_agency
+664,Shiv Shankar Property Advisor,ChIJRwWT5VNjGTkREtFwRAfXnbg,31.633929,74.880948,real_estate_agency
+665,KIRAYAH,ChIJUXW41IhlGTkRqB0-sjsAS_Q,31.6411523,74.86891779999999,real_estate_agency
+666,Earth Real Estate,ChIJFyQJtYNjGTkR-f7F1ahztio,31.641751,74.875694,real_estate_agency
+667,Bata,ChIJVXOeVqpkGTkRmDyMK-QiXT4,31.6435569,74.8762381,shoe_store
+668,Metro Shoes,ChIJ73TFjaZkGTkRzU0YTrFgeiI,31.6423689,74.8692985,shoe_store
+669,Bata,ChIJFwqGKm9jGTkR_P04P2c1xJs,31.6574219,74.8888559,shoe_store
+670,Bata,ChIJP-CwBZpkGTkRK4B5uknuyU0,31.6557605,74.8625672,shoe_store
+671,Bata India Limited,ChIJiS5MasV8GTkRgTQyrHgX264,31.6199211,74.9075228,shoe_store
+672,PRESTO SHOES,ChIJ66qqquViGTkRgqN3kFPvFeI,31.66550099999999,74.92964599999999,shoe_store
+673,Bata,ChIJ____z1RjGTkRyzPMlK21IQY,31.62954820000001,74.8758914,shoe_store
+674,Agarwal PackersAndMoⱱersAmritsrStorageStyle Shoe,ChIJ____z1RjGTkRxDAAMFkIOtk,31.629484,74.876178,shoe_store
+675,Mochi Shoes,ChIJeZLvgZ1jGTkRatjBw_25qxk,31.6418888,74.8707347,shoe_store
+676,Skechers - Amritsar,ChIJ5RSeBSZlGTkRBMseFTllv_s,31.6422502,74.8711588,shoe_store
+677,Raman Footwear,ChIJ6zNTHKt8GTkRNeGovzkb9Ts,31.626661,74.877212,shoe_store
+678,Bata,ChIJKcaLvSFlGTkRwc5mHI0K4Fg,31.642171,74.867892,shoe_store
+679,Steps Shoes,ChIJVXOeVqpkGTkRb45rQxEy9iE,31.64333299999999,74.875957,shoe_store
+680,Harmeet Shoe Company,ChIJVXOeVqpkGTkRGve1vMVHEqk,31.62932199999999,74.882556,shoe_store
+681,MAHANT JI DI HATTI,ChIJ9___T6h8GTkRkKTSWEar7b0,31.6187999,74.87568449999999,shoe_store
+682,Raghav Footwear Point,ChIJkb8d1khjGTkRwKpJS-mk9X0,31.638495,74.892173,shoe_store
+683,Baba Deep Singh Ji Medicos,ChIJDX_v0Fl7GTkR_esOBMP7daQ,31.616138,74.870586,shoe_store
+684,Shine footwear,ChIJ9-GyfURjGTkRoWTTSojSGik,31.646287,74.88901299999999,shoe_store
+685,Bata,ChIJrcl7prplGTkRsXQkv5YuNWU,31.6354,74.8467,shoe_store
+686,Shekhar General Store,ChIJV1K_zEFjGTkReUFC4ZbwCbU,31.651954,74.8944999,shoe_store
+687,Manmohan Singh Harpal Singh Rumale Wale,ChIJVXOeVqpkGTkRaRyDDNzx1Sw,31.6181023,74.880001,shopping_mall
+688,Western Union,ChIJE8OPa6l8GTkRrAqZioZDDDE,31.6219227,74.8781669,shopping_mall
+689,New U,ChIJx3y4Lk9jGTkRt_4VhMQJa0o,31.6396034,74.89020409999999,shopping_mall
+690,Brother Bakery,ChIJa3qdMZV8GTkRJaTZg2kaOsk,31.6085355,74.8958904,shopping_mall
+691,Mall of Amritsar,ChIJhS6cjqlkGTkRwUHmemeQz3o,31.6342031,74.87214469999999,shopping_mall
+692,Pink Plaza market,ChIJ95zIYKpkGTkRww5-NLZBioc,31.631387,74.872902,shopping_mall
+693,VIRASAT PHULKARI,ChIJ4R1G07ZjGTkRjIkhjrznwLY,31.6347007,74.87598360000001,shopping_mall
+694,Mahajan Trading Co.,ChIJh0aaF0B9GTkRPveMBk15JFQ,31.6284835,74.8792264,shopping_mall
+695,"SHARAN ARTS MEMENTS, RUBBER STAMPS & OFFSET PRINTING",ChIJLa4iVcx9GTkRpMIWEd83Wwo,31.62645049999999,74.8784457,shopping_mall
+696,SRK Mall,ChIJ20TXXqRkGTkRg2b1rLtMP-U,31.642364,74.865534,shopping_mall
+697,balloons decoration amritsar,ChIJQyz0Y7BkGTkR-8noM9F7sYg,31.6354227,74.8583263,shopping_mall
+698,Gs karyana store,ChIJU6c5_RR9GTkRpl3kHx-NbzQ,31.6254904,74.8823977,shopping_mall
+699,Khullar Flour Mills N Atta Chakki,ChIJZ5HJM0xjGTkRhT10q_HHkXg,31.63464429999999,74.8890037,shopping_mall
+700,The Celebration Mall,ChIJdS_eJE9jGTkRVq9vWVG8slg,31.6391414,74.8906003,shopping_mall
+701,Sach collection,ChIJG3uyTE57GTkRzk8WyRGXjOc,31.6181901,74.86053369999999,shopping_mall
+702,SDM the eye gallery ( OPTICAL),ChIJp-E1la9lGTkRsq7UU_shmpo,31.6491803,74.8586991,shopping_mall
+703,Sanjeev Karyana Store,ChIJbUNp1rR8GTkRq2ThY_E9Y6Y,31.6302083,74.8944516,shopping_mall
+704,Sharma Karyana Store,ChIJBYzB2k57GTkRMB2wsM-MarQ,31.6184153,74.85740489999999,shopping_mall
+705,SONIA CREATIONS/JUST BRANDS,ChIJddG-6UJjGTkRzwk2-bZAsWE,31.6502107,74.8874367,shopping_mall
+706,Verma Repair Shop9️⃣8️⃣8️⃣8️⃣9️⃣4️⃣1️⃣5️⃣3️⃣4️⃣,ChIJ-TLVf8lkGTkRWh_EKfTT73g,31.63054889999999,74.8476069,shopping_mall
+707,Central Ware House,ChIJVXOeVqpkGTkRLFhVBVC5qko,31.64276359999999,74.85656139999999,storage
+708,Balaji Textiles,ChIJVXOeVqpkGTkRZJfRYBhcb0Y,31.6339793,74.8722642,storage
+709,Balaji Exclusive,ChIJTWzzZqpkGTkRj5BgjtH3jMk,31.63130899999999,74.8729089,storage
+710,Sahil Electronics,ChIJ8xhgl1RjGTkR1ryMHpCi62Q,31.63063,74.87926499999999,storage
+711,Narang Motor Transport Company,ChIJN7Yotq18GTkRtlcRNyjYja8,31.625092,74.883465,storage
+712,Nitco Logistics Private Limited,ChIJ9f__77Z8GTkRTnWLQWTrV7g,31.622892,74.893838,storage
+713,Bhartiya Khadya Nigam,ChIJU59YEVx7GTkRai3wCK8Iyio,31.609636,74.8671619,storage
+714,Sunny Chicken Point,ChIJC5FHnzxjGTkRCyTNrZCPPWY,31.649224,74.907636,storage
+715,Amba Shakti Tmt Angle & Chanel,ChIJVXOeVqpkGTkR8sPiFb3QbR0,31.6339793,74.8722642,storage
+716,Food Storage Depot,ChIJVXOeVqpkGTkRE1Qpn_ijJYc,31.6339793,74.8722642,storage
+717,C M Motor Trading Co,ChIJVXOeVqpkGTkR_BgiEXy5Cpg,31.6339793,74.8722642,storage
+718,saraf Carriers,ChIJxyo3uFRjGTkRALTqQddO3FY,31.62948099999999,74.878638,storage
+719,Arora Goods Carrier,ChIJVXOeVqpkGTkR2q3rIT38YbI,31.640558,74.86482199999999,storage
+720,Agarwal PackersAndMoⱱersAmritsrStorageSonu Tailor,ChIJy3hGck1jGTkR5wSBSEO7I7o,31.63193899999999,74.88700899999999,storage
+721,Jora Ghar ( Shoe depositing place ),ChIJ_7a3BKl8GTkRSO7YwOdlQCI,31.6206814,74.87772269999999,storage
+722,Agarwal Pacĸers And Movers,ChIJl6qqqr5kGTkRHKjHBJk4cwk,31.64276399999999,74.856561,storage
+723,Amritsar Splendour and Scooter Repair,ChIJ_zVJ2LF8GTkRBM3YrRvyBmM,31.62205290000001,74.88595240000001,storage
+724,Bharat cold storage,ChIJkeZ8IM9lGTkR9y4f3SmtyLM,31.61664329999999,74.8636884,storage
+725,Jeniya Enterprises,ChIJL4bkU6V8GTkR8gt8z7Wy3uE,31.6182164,74.8852185,storage
+726,Agarwal Pacĸers and Movers,ChIJB-Zijbl8GTkRDmZyfhEmAU0,31.6176886,74.89230359999999,storage
+727,Bata,ChIJVXOeVqpkGTkRmDyMK-QiXT4,31.6435569,74.8762381,store
+728,herbal life,ChIJVXOeVqpkGTkRhsRtvRv8bho,31.63089,74.871552,store
+729,Mehra Drug House (Sachin Mehra),ChIJyQ257Y1kGTkRx_talzViC2k,31.61807199999999,74.86898599999999,store
+730,Speedways,ChIJVXOeVqpkGTkRe94xl7fEIlY,31.638112,74.875284,store
+731,Jaswal Furnishers,ChIJUWDarbl8GTkR7yBKC_k1Bts,31.6172535,74.8942208,store
+732,Metro Shoes,ChIJ73TFjaZkGTkRzU0YTrFgeiI,31.6423689,74.8692985,store
+733,Tri Star Overseas,ChIJBewixaBkGTkRwW0wAShHcG4,31.645517,74.872235,store
+734,Himalaya Optical-Amritsar,ChIJ5TUNj6dkGTkR1MSWWh8PR7A,31.6410707,74.87410609999999,store
+735,Accurate Surgicals,ChIJ____z1RjGTkRerZ3WuY8chA,31.6293094,74.87775909999999,store
+736,Khem Singh & Sons,ChIJ____z1RjGTkRskv5hFhAFb8,31.627561,74.877611,store
+737,Subhash Juice Bar Golden Route,ChIJVXOeVqpkGTkRWf9AXlLqdNA,31.6339793,74.8722642,store
+738,Mohun's Bakery Products,ChIJVXOeVqpkGTkRQhgO6Xy0I-Y,31.67577689999999,74.8786691,store
+739,Bille Di Hatti,ChIJPRp1-VV7GTkR7Ut0LBfgXnY,31.62224399999999,74.874956,store
+740,Pt. Beli Ram and Sons,ChIJzd8EY6pkGTkRg6p1GBEhSSQ,31.6310966,74.8732014,store
+741,The Chocolate Room,ChIJDdUpN8V8GTkRO9MoCn4ITjo,31.619693,74.90768,store
+742,New Dry Fruit Corner,ChIJVXOeVqpkGTkRc9GauPZU62I,31.6235135,74.87300809999999,store
+743,Himalaya Opticals,ChIJh5OobcV8GTkR-fpXcUvzujk,31.6195158,74.9064192,store
+744,Kashmir Ayurvedic Works,ChIJD4sfCK9kGTkR-btiliB2680,31.6383214,74.86603939999999,store
+745,"Dr Batra’s Homeopathy Clinic, B Block, Amritsar",ChIJ2WKG-JBkGTkRAHoKg6rJ2co,31.6515025,74.8643298,store
+746,English Creations Craze,ChIJz3lfLqNkGTkRsByO8W9NWzU,31.644359,74.8625119,store
+747,MLM Software,ChIJITMpwl5jGTkRW7D-0iynfvM,31.64471889999999,74.8745157,store
+748,Royal Enfield,ChIJOSmrzrFkGTkR_n40MMJvRZU,31.6345419,74.8614559,store
+749,Vast Computers,ChIJXUXNGJZkGTkRumAKVBWKNVs,31.648845,74.857889,store
+750,ALLIED FASTENERS- Arjun Drywall Screws Chipboard Screws SS Screws SH Cup Hooks Gate Hooks,ChIJVXOeVqpkGTkRv93udixuE-Q,31.6225172,74.91863719999999,store
+751,Bharat Herbal Pharmacy,ChIJ84c6YVNjGTkRSzKCWfSZHFs,31.6306509,74.87992129999999,store
+752,Amritsar Dry Fruit,ChIJRxBDlVd7GTkRsfX9p187I6g,31.6181675,74.8725284,store
+753,Dry Fruit Corner,ChIJ____z1RjGTkRvHW17yrNCr4,31.628252,74.87715399999999,store
+754,Herbalife,ChIJhS6cjqlkGTkRtWZFDL74Q9E,31.6435428,74.90918529999999,store
+755,FRAGRANCE,ChIJVXOeVqpkGTkRsxsjopH2OFE,31.63089,74.871552,store
+756,Malliram Jewellery House,ChIJ36EHkqRkGTkRssdc1D2ZA5o,31.64220589999999,74.8693639,store
+757,VNC Store Amritsar,ChIJLd-5WFhjGTkR02Z-FZ4kXl8,31.6422508,74.87599159999999,store
+758,Ayurvedic Treatment For Kidney Failure Center | ND Care Nirogam,ChIJFRCD2G5jGTkRbj77NIVTR3I,31.658694,74.88873699999999,store
+759,Ashwani Enterprises,ChIJ_____5BkGTkRc6BcJP5JH7Q,31.648476,74.855054,store
+760,Kochar Rice,ChIJVXOeVqpkGTkR6Dg_z3g9Zag,31.6339792,74.8722642,store
+761,Lovely Sweets,ChIJmQgzeMlkGTkRywW16Y8IoKE,31.6311829,74.84760709999999,store
+762,"Printing Press in Amritsar, Dawn Press",ChIJ____z1RjGTkRRlPm6ljM2ko,31.62979499999999,74.87456,store
+763,Mehak Spices,ChIJVXOeVqpkGTkR31qF5dcltX0,31.6052458,74.9150314,store
+764,L K Woollen & Silk Mills,ChIJz3lfLqNkGTkRwdkpMKc5b84,31.6227655,74.87179669999999,store
+765,Chawla Cloth Store,ChIJA-8zv6pkGTkRKjOVtN4Md6A,31.6448095,74.8775734,store
+766,Formos-Instinct - The Buddha Lounge and Restaurant,ChIJVXOeVqpkGTkRWg5L39-5Ka8,31.6441158,74.8806909,store
+767,SENTIMENT OFFICE FURNITURE,ChIJhS6cjqlkGTkRhJ5C3XB6gIs,31.6339793,74.8722642,supermarket
+768,Crockery market,ChIJRbf9eax8GTkRhjMzZyn6NIQ,31.6332144,74.8672062,supermarket
+769,Reliance Fresh,ChIJI6jetFZ7GTkRGPW92UrEvYA,31.6207259,74.8683071,supermarket
+770,Angad Fruits Office,ChIJPXMhk6V8GTkRiYk5hRa5PvY,31.6170342,74.88149159999999,supermarket
+771,Vishal Mega Mart,ChIJh-Y2q75kGTkRKUu06tR5uFo,31.6553369,74.862825,supermarket
+772,Behal International,ChIJzc-QLqF8GTkRN75lWInOOP0,31.61147,74.87751,supermarket
+773,BIG BAZAAR-AMRITSAR-TRILIUM MALL,ChIJkzh2j2NjGTkRL86eaRq8BAs,31.658693,74.87940900000001,supermarket
+774,Easy Day Club,ChIJH2qvpzdlGTkRKXzfb_ZiON0,31.62921600000001,74.806704,supermarket
+775,Reliance Fresh,ChIJ3xecjqlkGTkRygSVvsk9oTo,31.63398,74.87226000000001,supermarket
+776,joshi computer center,ChIJg43HIkBlGTkRbgml0VQxA_U,31.6339793,74.8722642,supermarket
+777,"Best Price Modern Wholesale, Amritsar, Punjab",ChIJhS6cjqlkGTkRoFGMXLNO6OM,31.6339793,74.8722642,supermarket
+778,Bajaj Finserv,ChIJv72wT0RlGTkRbHS2HwNqFDg,31.6353407,74.872603,supermarket
+779,Satguru Exclusif,ChIJ_UkGCJNlGTkRQWkD_rhMu64,31.6319322,74.87254709999999,supermarket
+780,Hide Market,ChIJ___P3lVjGTkRKe62DzD3Z9o,31.63374,74.8758861,supermarket
+781,Amritsar,ChIJS0ODGZRlGTkR8s486QHmelU,31.6355472,74.86801129999999,supermarket
+782,Ludhiana,ChIJDRfI1oFlGTkRNzIJgrGutBg,31.63824799999999,74.8690819,supermarket
+783,FRUIT MANDI,ChIJnRpL_S5jGTkR344PVzTEDwQ,31.6307725,74.8770375,supermarket
+784,Suny Kite Store,ChIJbyG_8VRjGTkRTzpESEyKvXw,31.6308788,74.8779813,supermarket
+785,516jai shiv shanker shutter ind,ChIJ0Z6uUs1jGTkRkAyvJOrXbM4,31.6309257,74.8788586,supermarket
+786,Baba Banana Store,ChIJAzxMvFNjGTkR9zxiOieUWeE,31.6327927,74.8816149,supermarket
+787,Yugraj Foundation,ChIJLSwNcdpkGTkRh5tNpDhEC4w,31.63139299999999,74.8318358,travel_agency
+788,Dawer Travels,ChIJUcdpzL1kGTkRZKf0vExWTN8,31.64593099999999,74.8575642,travel_agency
+789,Super International Travels,ChIJVXOeVqpkGTkR7E3QdHrmLaU,31.63721,74.86758999999999,travel_agency
+790,Amritsar Express,ChIJPTu2LK18GTkRkt4QwrR-fQ4,31.629256,74.883329,travel_agency
+791,Amritsar Taxi & Tempo Traveler Services,ChIJF6nkI6lkGTkRDRjAwyoY3cE,31.654738,74.893487,travel_agency
+792,Sikandar Travels,ChIJGbiZhqt8GTkRzcAreB8JxDg,31.62564049999999,74.87982219999999,travel_agency
+793,Master Key Overseas,ChIJVXOeVqpkGTkRJF3CNM2E9GY,31.64541299999999,74.9010859,travel_agency
+794,Jawala Tourist Taxi Service in Amritsar,ChIJq6qqaidlGTkRYMiTTeDjL7w,31.631675,74.868901,travel_agency
+795,Sahib Travels,ChIJVXOeVqpkGTkR4xuD7Gwi2hw,31.63497299999999,74.867865,travel_agency
+796,"CURRENCY EXCHANGE|GOLD LOAN|AIR TICKET, UAE Exchange-AMRITSAR",ChIJSUyNzahkGTkRHKKIMBp1hqw,31.63552019999999,74.86976849999999,travel_agency
+797,Bhagwati Travelz - Best Travel Agent in Amritsar | Best Air Ticketing Agent in Amritsar,ChIJtcjza1ZjGTkRDEOpUYPrwW4,31.63499199999999,74.87575,travel_agency
+798,S Jawala tour & travel,ChIJl6qqqr5kGTkRAHyqFm8IaRM,31.631853,74.86838999999999,travel_agency
+799,"Swami Travels-Taxi Hire in Amritsar, Innova Crysta, Etios, Dzire",ChIJCwAAwKxkGTkR5bk3qqbZitw,31.6315627,74.8686281,travel_agency
+800,Kissan Travels 9803300068,ChIJqbdQ7atkGTkRcBq-jiJzjJI,31.63177400000001,74.869013,travel_agency
+801,Guru Kirpa Travels,ChIJc7vG1ap8GTkR29ZHBSMicTA,31.6299964,74.8719117,travel_agency
+802,Sehgal Forex,ChIJLVBtKq9kGTkRN_5PRMbz8og,31.6358409,74.86781270000002,travel_agency
+803,Travel Tip,ChIJefMihKZkGTkR-DfS3i8Sv8k,31.6419014,74.8686407,travel_agency
+804,Sukhmani Enterprises,ChIJ9wMjoLR8GTkRxhsN2ofNhnc,31.62894200000001,74.89175000000002,travel_agency
+805,Campus Edu Services,ChIJKTv3OZdkGTkRvNN_wDtnqYA,31.6513315,74.863806,travel_agency
+806,Amritsar Travels,ChIJ9bGJ6ll7GTkRp3ehWJQTIlc,31.615251,74.86971439999999,travel_agency

@@ -1,0 +1,477 @@
+,place_name,place_id,lat,lng,type
+0,Syndicate Bank,ChIJWxXT5IzIDzkRZHNThY1NdOg,30.3818983,76.7716875,bank
+1,Allahabad Bank,ChIJWfmK2IrIDzkR6yIWTQhmCJk,30.3821727,76.7775679,bank
+2,Oriental Bank of Commerce,ChIJFceFNF7IDzkR7oHRCH5JdP8,30.380144,76.7822027,bank
+3,State Bank of India,ChIJl68QiU3IDzkRdZEwHWdtYNc,30.3628858,76.791491,bank
+4,Oriental Bank of Commerce,ChIJfRMaqVDIDzkRKadnTWyvtaw,30.3697442,76.78608659999999,bank
+5,Punjab National Bank,ChIJHT-1jZHIDzkR0z9kPbF5VEE,30.3800762,76.76259979999999,bank
+6,Manager Rms Co-op Bank Limited,ChIJi7k7zSW2DzkRF_pF_2O8z4U,30.3781788,76.7766973,bank
+7,IDBI Bank,ChIJ9wtHdVHIDzkR7kl1Dz8AuP4,30.3659165,76.7883879,bank
+8,Punjab NATIONAL BANK,ChIJucZIdlLIDzkRAEOASybNyUI,30.3630665,76.7912102,bank
+9,Axis Bank ATM,ChIJvc2yqIvIDzkRcTJUL2mrwKU,30.3836457,76.7753844,bank
+10,Punjab National Bank,ChIJH-PdEYvIDzkRifU0dKuaBoQ,30.3836976,76.7768463,bank
+11,Axis Bank ATM,ChIJ10pen03IDzkRg4PP3isaScs,30.3667015,76.7611312,bank
+12,U T I Bank Limited,ChIJi7k7zSW2DzkRucM3NmtLkkQ,30.3781788,76.7766974,bank
+13,Punjab National Bank,ChIJ9Zs2bO7IDzkRIyRi4FXIITw,30.3727317,76.7665493,bank
+14,Axis Bank ATM,ChIJL9uSGIyODzkRTsBwMWYPw34,30.38583200000001,76.7891915,bank
+15,Axis Bank,ChIJC2My-_TIDzkRoPHULyxN9W4,30.378179,76.77631099999999,bank
+16,HDFC Bank ATM,ChIJRyRm8fTIDzkRGBqSBT5DzP8,30.3759,76.77323,bank
+17,HDFC Bank,ChIJ52NCkvPIDzkRspVXMKZpAiY,30.3759,76.77323,bank
+18,ICICI Bank Ambala - Branch & ATM,ChIJmfjk7PPIDzkRcWh07kPkWXQ,30.375606,76.7731569,bank
+19,Sarva Haryana Gramin Bank,ChIJQexFIvXIDzkRSm7KnZSu890,30.3791268,76.7774103,bank
+20,Pardeep Batra Advocate,ChIJ8VhVaFDIDzkRzJ2oi8lrEyw,30.3689594,76.7899135,local_government_office
+21,Pooja Consultation office,ChIJlduaAW_IDzkRoUx2GK4mMWg,30.3903056,76.79409559999999,local_government_office
+22,Passport Seva Kendra,ChIJQdMpwHvIDzkRUrVKRbeQZjo,30.3967744,76.7887842,local_government_office
+23,Lawyers In Ambala - Shaurya Bhatia Advocate - Advocates In Ambala,ChIJ42WLy1DIDzkRFqVEWeOkQKA,30.3778088,76.7768257,local_government_office
+24,Pooja's Office,ChIJCaLP_PTIDzkRKs3atHRmmnU,30.3781788,76.7766974,local_government_office
+25,Sumit kaushal,ChIJ5eU0u2DJDzkRJhEPguRbzGA,30.3781788,76.7766974,local_government_office
+26,Deputy Superintendent Of Police Headquarters Office,ChIJ5Z2PuqjJDzkRiKruPxXJlwA,30.37770279999999,76.7834778,local_government_office
+27,Fab Travels & Trade Fair FTTF,ChIJdTN3F7XJDzkRdGnvfwvoPIw,30.37049099999999,76.7720641,local_government_office
+28,DCPO Office,ChIJ5dpBWu7IDzkR4NO0VttHwDo,30.371537,76.7658579,local_government_office
+29,Congress Party Office Ambala,ChIJWZ7brPrIDzkRryn13KEWNIo,30.3676655,76.7683404,local_government_office
+30,Indo West Scholars,ChIJPSG82K3JDzkRIDMPjfQ7b-c,30.3683118,76.7874423,local_government_office
+31,Government Welfare Office,ChIJ1dPh0_rIDzkRq8jw_kMT5LQ,30.365846,76.76859309999999,local_government_office
+32,Sc And Bc Welfare Department Ambala,ChIJVVVV0frIDzkRUqWLqsTmUqA,30.365718,76.7686382,local_government_office
+33,Deputy Commissioner,ChIJdTQf-OvIDzkR1RGpe9R3D-Q,30.37167969999999,76.76356,local_government_office
+34,Advocate Chambers,ChIJNdoTarzJDzkRGlnmu7LiGKQ,30.3718205,76.7631466,local_government_office
+35,CSC OFFICE,ChIJMw14q-7IDzkR7OWieYUh-sI,30.3728923,76.7626562,local_government_office
+36,Sharma Tpt,ChIJafyU3WPIDzkRVZ7RxeR7u7g,30.3872056,76.7840665,local_government_office
+37,Animal Husbandry and Dairying Department Office Ambala,ChIJtTeMBE7JDzkRjAENPpC325Y,30.3723034,76.7598344,local_government_office
+38,Angel Property,ChIJ2WeMuUPIDzkRel3BubKhbk8,30.378611,76.7953496,local_government_office
+39,Sulabh Shauchalaya,ChIJDUfme4jIDzkRorMvuJzA39U,30.3913348,76.7773682,local_government_office
+40,Haryana Public Work Department Office,ChIJ3SCnOUzIDzkRBvW41cMkTvs,30.364072,76.795131,local_government_office
+41,Office Of The Sub Divisional Engineer Public Health Engineering Subdivision Number 3 5 And 6 Ambala City,ChIJb2s4OUzIDzkRejYQD8LAypg,30.3641085,76.7952708,local_government_office
+42,Public Works Department Water Supply,ChIJi655IsLIDzkRf5Idq80BXCQ,30.3719877,76.75528109999999,local_government_office
+43,Regional Passport Office,ChIJveUDfWXIDzkRqYGT4BknHl0,30.3908691,76.7911943,local_government_office
+44,HOGPL,ChIJf4PSuoLJDzkRZl9Je1q4vTE,30.3608262,76.7946281,local_government_office
+45,AMBALA SMALL SCALE INDUSTRIES WELFARE ASSOCIATION,ChIJTcrYCGvJDzkR_fLh-CRCNEE,30.35989369999999,76.79565749999999,local_government_office
+46,Vishwas International Group Of Companies,ChIJFSxxg__JDzkRSHWiCpQhWdE,30.3959988,76.79005289999999,local_government_office
+47,Advocate Bhupinder Singh Sudan,ChIJL5z_xlTJDzkRSSR5OhTHvZU,30.3511944,76.78635779999999,local_government_office
+48,Advocate Bhupinder Singh Sudan,ChIJyVUm2ITJDzkRi4GHpCeSc7k,30.34982449999999,76.782702,local_government_office
+49,CSC CENTRE DHANKAUR,ChIJ3cbBw2TJDzkRrMBpoLgaHaM,30.3805044,76.81100959999999,local_government_office
+50,Police Station,ChIJ4SM7EfbIDzkRd9Y8oIVWrm0,30.373898,76.7788661,police
+51,Ambala PCR,ChIJJwaW417IDzkRzoQxsLQ_9C0,30.3772094,76.78304,police
+52,Police Station Chowki 2,ChIJd0KjOIvIDzkRHrIa63k7fao,30.38121109999999,76.7755294,police
+53,Women Police Station Ambala,ChIJndU09l7IDzkRb356lpx89RY,30.3781407,76.7836042,police
+54,Deputy Commissioner of Police Office,ChIJiftt817IDzkRt1DT5jYjxa0,30.3778467,76.7840169,police
+55,SVB Ambala Range,ChIJvaIfulnIDzkReMfhE9eDN6s,30.3714312,76.7834795,police
+56,Police Station,ChIJYaSjkozIDzkRO0Ne8apAocg,30.3820189,76.77268,police
+57,Lamba General Store,ChIJ-fuGf17IDzkRyJdtDXJSvcY,30.3786513,76.7855873,police
+58,Office Of The DSP CID (H) Ambala,ChIJa8r4y13IDzkRFFsaur5pd8U,30.378863,76.7866743,police
+59,Office Of Deputy Superintendent of Police,ChIJGdnmxV3IDzkRPY_ooPMd3uI,30.37931300000001,76.786642,police
+60,Police Station Sector 8,ChIJM1VLefnIDzkRUCBF5yGsHAo,30.3656689,76.77440820000001,police
+61,Assistant Commissioner Of Police Office,ChIJVVVVFVvIDzkRImNnoJv5doI,30.3746349,76.78991789999999,police
+62,Ambala Sadar Police Station,ChIJW5qime7IDzkRUVHdOjiAD08,30.3728433,76.7642187,police
+63,Police Post # 2,ChIJVT2sHJPIDzkRUFC-wWIVBTc,30.3811772,76.765221,police
+64,Railway Police Chowki,ChIJlz5dtuzIDzkRJObdNItcz6E,30.37856389999999,76.7638185,police
+65,Kotwali Police Station,ChIJ9dupOvXIDzkRrepdYPn5lxE,30.3845621,76.7679039,police
+66,"Police Station, Baldev Nagar",ChIJ9xiqRl3IDzkRPLL8BXmAq2c,30.3806667,76.7902946,police
+67,Police Chowki No 4,ChIJTyGkJInIDzkRJai2cihGGi0,30.3881007,76.7749822,police
+68,Sector 9 Police Station,ChIJP1LuXv_IDzkRKkLHz-MsHTY,30.36247299999999,76.7795814,police
+69,Baldev Nagar Police Chowki,ChIJG1pfnWXIDzkRvLdHhByZjnc,30.390248,76.79056400000002,police
+70,"State Vigilance Office, Ambala City",ChIJ3fJVkQLJDzkR3UyqYjIn-rA,30.3559647,76.77009790000001,police
+71,Police Assitance Both,ChIJLV67EUnIDzkRWPkUdW-XyVM,30.3675367,76.7991302,police
+72,Model Town Police Station,ChIJG80XtUzIDzkRMdDnj-lWkAw,30.3597164,76.796059,police
+73,Police line Ground,ChIJL9AuoF7IDzkRpiM1XF2X9og,30.37716440000001,76.78540629999999,police
+74,Water Body,ChIJK19BalzIDzkRWbuWupqPQuM,30.3771115,76.78747969999999,police
+75,Baldev Camp Police Station,ChIJYwkmgUPIDzkRVPJSbt6Km70,30.3810261,76.7898685,police
+76,Police Station,ChIJj_rt8ADJDzkRqL0Gjenhka8,30.35453499999999,76.7777437,police
+77,Post office,ChIJ15-EB4vIDzkRBUgWSXS_uZY,30.3831067,76.7763654,post_office
+78,India Post Office,ChIJv6uOs_PIDzkRlrbeouoQTj4,30.3761022,76.7716791,post_office
+79,Old Post Office,ChIJ28ZU65HIDzkRhi2hzfeI0vQ,30.38606459999999,76.76683899999999,post_office
+80,New Post Office,ChIJi7k7zSW2DzkRNVAnfBeKM3s,30.3781788,76.7766974,post_office
+81,Post Office,ChIJ4YPUY5HIDzkRiB3W-v7cy1I,30.384917,76.764332,post_office
+82,Head Post Office Ambala City,ChIJbT4wsfPIDzkRqrtRdHBqKfo,30.3759811,76.7716713,post_office
+83,Preet Nagar Post Office,ChIJO4srf17IDzkRDQKYVF8oQZE,30.37874199999999,76.785428,post_office
+84,Post Office Prem Nagar,ChIJzZSeSVfIDzkRtyHxQtX8-p0,30.36863300000001,76.7851529,post_office
+85,Indian Post Office Bazar Basti Ram,ChIJeYVBOIzIDzkRWf8ARDgtzUc,30.3841987,76.7719943,post_office
+86,Railway Post Office,ChIJM9S34ezIDzkRh0de4qsmoRw,30.3775692,76.765321,post_office
+87,Post Office Court Road,ChIJM5lLHuzIDzkR8mU1CFfVou0,30.3734589,76.7637568,post_office
+88,Bhiloda bazar,ChIJ0ZMMdwHJDzkRVWOrNYqPKpg,30.3860981,76.769373,post_office
+89,Post Office Model Town Ambala,ChIJ_Qt5X0zIDzkRqx9CmPlx6vo,30.36250290000001,76.795478,post_office
+90,Jaggi Colony Post Office,ChIJA_kyfnvIDzkRiY2cl7q2J8Y,30.395217,76.785641,post_office
+91,Jandli Post Office,ChIJqxfeALHJDzkRbg5JuT3EYf0,30.3508216,76.79604909999999,post_office
+92,Mandore Post Office,ChIJwwPxJAvIDzkR6mq-PC6hpF0,30.402366,76.80385199999999,post_office
+93,Anny Pre-School,ChIJQ8VTNfTIDzkRSsX2lLqc_Bc,30.3761837,76.77713539999999,school
+94,Police DAV SCHOOL,ChIJi7k7zSW2DzkR-SdFfoMdj_I,30.3747079,76.7832112,school
+95,Police D.A.V. Public School,ChIJH_rxP1nIDzkRH0G2nFfvK6o,30.3755046,76.7827289,school
+96,D.A.V Public School,ChIJ8bagRk7IDzkRzD6mCEpTR-s,30.36688299999999,76.7931538,school
+97,Vedanta Toddlers - Pre School - Play Way - Ambala,ChIJMXnPT6_JDzkReoD-2n3hwtw,30.3482876,76.7862586,school
+98,Angel Public School,ChIJmdEC8lfIDzkRq1GwtZ-O_Sw,30.368787,76.780908,school
+99,Murlidhar Dav Public School,ChIJM1XnQ7bJDzkR-DGdrDlg3fQ,30.3828871,76.780177,school
+100,"ARC education ambala city training in python,java,php, c,c++ and android",ChIJi7k7zSW2DzkR7J3skVkczIQ,30.37079229999999,76.78527679999999,school
+101,Government School,ChIJWefwR-3IDzkR8y8oGjHgnIU,30.37857,76.7668632,school
+102,Government Senior Secondary School,ChIJtXgi1FDIDzkRGfGf8Z-nZ2I,30.3673999,76.7859149,school
+103,Sudershan Chakra,ChIJDexHiMzJDzkRJIosZYOael4,30.362846,76.77506489999999,school
+104,GKC COACHING CENTRE,ChIJAaiWujzJDzkRQ0W4hlrb33Q,30.3858074,76.7687493,school
+105,S.A. Jain Vijay Vallabh Public School,ChIJ600LkZPIDzkRhqAdsrB6e30,30.3834245,76.7634112,school
+106,S A JAIN SENIOR SECONDARY SCHOOL,ChIJgyxWWJHIDzkRX5ZKz-Qdfig,30.3849979,76.76406999999999,school
+107,S A Jain Senior Model School,ChIJj5zK_JPIDzkRRD_8JCM7zmA,30.3852276,76.76296959999999,school
+108,CAMBRIDGE MONTESSORI PRESCHOOL,ChIJ1bfcuIDJDzkRCnY8rRCBA7g,30.3657738,76.7918548,school
+109,SHUBHAM SPECIAL CHILDREN CENTRE,ChIJfXnJffvJDzkREAqk-roRPPA,30.3618843,76.7873917,school
+110,Bell Toll Public High School,ChIJA4HSw4fIDzkRZ7T9RtQH7RE,30.3933324,76.7777254,school
+111,Maths Planet ( Maths coaching centre ),ChIJN8p0jbHJDzkRgSUzxY-4pSQ,30.3581152,76.78667,school
+112,"Online Classes in Abacus, Vedic Maths , Maths Tuition with Maplemaths",ChIJm4sf4m_JDzkRw6Bx5y_xA_c,30.3561614,76.77548999999999,school
+113,Bell Toll Public High School,ChIJA4HSw4fIDzkRZ7T9RtQH7RE,30.3933324,76.7777254,secondary_school
+114,Maths Planet ( Maths coaching centre ),ChIJN8p0jbHJDzkRgSUzxY-4pSQ,30.3581152,76.78667,secondary_school
+115,"Online Classes in Abacus, Vedic Maths , Maths Tuition with Maplemaths",ChIJm4sf4m_JDzkRw6Bx5y_xA_c,30.3561614,76.77548999999999,secondary_school
+116,MAXNOVA HEALTHCARE- A PHARMACEUTICALS COMPANY AND 3RD PARTY MANUFACTURING,ChIJNbC0wOO1DzkRLLuuE4qWtN0,30.393709,76.7910191,university
+117,"Government Polytechnic College, Ambala City",ChIJGU70TfXIDzkR-RqEk1pdXfs,30.379464,76.778148,university
+118,Easy French with me,ChIJAzdTRJLIDzkRosHUxhZiulM,30.3823956,76.7612453,university
+119,Maths Planet ( Maths coaching centre ),ChIJN8p0jbHJDzkRgSUzxY-4pSQ,30.3581152,76.78667,university
+120,"Online Classes in Abacus, Vedic Maths , Maths Tuition with Maplemaths",ChIJm4sf4m_JDzkRw6Bx5y_xA_c,30.3561614,76.77548999999999,university
+121,AIHM - Ambala Institute of Hotel Management,ChIJ4U9OYMDHDzkR2Vsv6lcVCXM,30.40683799999999,76.7856381,university
+122,D.A.V. College Ground,ChIJUYk3YYrIDzkRnnSwMKpx7E0,30.3836106,76.77927629999999,university
+123,Jain College,ChIJa4nH8ZbIDzkRjCpKodaIAog,30.3860525,76.7599827,university
+124,Ambala City Bus Stand,ChIJMTreZ_LIDzkRMdIrwhw29bQ,30.3762945,76.7700728,bus_station
+125,Ambala City,ChIJqViPrezIDzkRS960iWojEPM,30.37806399999999,76.76456499999999,train_station
+126,Dhulkot,ChIJucJ3pnvIDzkRsBbrlbsHTJc,30.3960752,76.7877764,train_station
+127,Ambala City,ChIJqViPrezIDzkRS960iWojEPM,30.37806399999999,76.76456499999999,transit_station
+128,Ambala,ChIJi_chcPXIDzkRITDBLKlof_8,30.378432,76.779003,transit_station
+129,Polytechnic Chowk Bus Stop,ChIJbbS4GfXIDzkR0CO4R-ZVtYE,30.378771,76.777559,transit_station
+130,Polytechnic Bus Stop,ChIJmzShP_XIDzkROeT_spkJvcE,30.3792468,76.77826259999999,transit_station
+131,Police Line Bus Stop,ChIJjz8r1FjIDzkR0Gz4vBz73jY,30.3749393,76.7825165,transit_station
+132,ITI Chowk Bus Stop,ChIJo57T1VjIDzkRdBS_FgEKQA8,30.374951,76.782534,transit_station
+133,Arya Chowck Bus Stop,ChIJ-UzmAGDIDzkR4rWguEEyNEY,30.3808261,76.7800757,transit_station
+134,Telephone Exchange Bus Stop,ChIJexFL51_IDzkR2pDtH7K35aI,30.3804385,76.78118479999999,transit_station
+135,Ambala City Bus Stand,ChIJMTreZ_LIDzkRMdIrwhw29bQ,30.3762945,76.7700728,transit_station
+136,Session Court Bus Stop,ChIJs91zklnIDzkRN6P5XhpR8JA,30.37151450000001,76.78483659999999,transit_station
+137,Mixi Chowk BusStop,ChIJVYc-uGDIDzkRxoW-xB6eaVM,30.3824851,76.78479639999999,transit_station
+138,Prem Nagar Bus Stop,ChIJx7dg6lDIDzkRXbGLag01pn0,30.368476,76.7871138,transit_station
+139,Kalka Chowk Bus Stop,ChIJ9bEr02bIDzkRGhrThGQjpNc,30.3846,76.785601,transit_station
+140,Kalka Chowck Bus Stop,ChIJg0vY0mbIDzkRkUdd_pY_wCI,30.3846266,76.7856386,transit_station
+141,Manav Chowk Bus Stand,ChIJ2_OgXeXIDzkRUWTcjYVAQ-w,30.367496,76.76693829999999,transit_station
+142,Vikas Vihar Bus Stop,ChIJ4aQZkFHIDzkRCwd03LJEupE,30.36539119999999,76.7892677,transit_station
+143,Baldev Nagar Bus Stop,ChIJGbtvTW_IDzkReSbY9bD2uf8,30.387705,76.79212960000001,transit_station
+144,Ambala Fly Over,ChIJtWUQDUbIDzkRZR57cCalp-w,30.372464,76.79771699999999,transit_station
+145,Model Town Bus Stop,ChIJHx0EEE3IDzkRiWLvGMIYNdw,30.361518,76.79349599999999,transit_station
+146,Model Town Bus Stop,ChIJWdEkBU3IDzkRIQwpnleFW4k,30.36161650000001,76.7936558,transit_station
+147,Dhul Kot Railway Station,ChIJl5KWB3vIDzkR_9-fgkqhZq8,30.39555799999999,76.787868,transit_station
+148,Dhulkot,ChIJucJ3pnvIDzkRsBbrlbsHTJc,30.3960752,76.7877764,transit_station
+149,Jandli Bus Stop,ChIJtYJsXrPJDzkRg6SeswEZ4E0,30.3584435,76.7968315,transit_station
+150,Jundlipul Chowk Bus Stop,ChIJqbg_XrPJDzkRd3_m5DqFc-o,30.358431,76.79686,transit_station
+151,Ambala Cantt New West Outer Cabin,ChIJU6Ee4rXJDzkRHjpNPO7rEWo,30.35468,76.80183,transit_station
+152,Brahma Kumaris,ChIJX0VqhPHIDzkRvpnVOp0AVBg,30.3736111,76.7707202,hindu_temple
+153,Gosai Dham mandir,ChIJr8emqXHJDzkRdcO0-9FCvo8,30.38235969999999,76.7689704,hindu_temple
+154,Peer baba Hajrat Saiyad Ahmad ji,ChIJu0Wzk9PJDzkRtJN14LmDAu0,30.385677,76.764713,hindu_temple
+155,Baba Balak Nath,ChIJ013kLorIDzkRTax32q3z7vA,30.3855479,76.7774733,hindu_temple
+156,Shiv Mandir,ChIJEZ-p3vrIDzkRN2IMdUBbtIo,30.3657721,76.769382,hindu_temple
+157,Krishna Mandir,ChIJg1omio7IDzkRbsqgx2ZPHdE,30.3865261,76.77127519999999,hindu_temple
+158,Maharishi Balmik Mandir,ChIJNXysGYnIDzkR_5XKtOMW5l8,30.3881728,76.7756928,hindu_temple
+159,Kali Mandir,ChIJ-U7YzZbIDzkRAavGPw1FJFA,30.38650030000001,76.7621917,hindu_temple
+160,"Hanuman Mandir, Jain College Road",ChIJuyWOxZbIDzkRwLoRf-x_-Hs,30.38639,76.7617635,hindu_temple
+161,Ram Talai,ChIJG0r3eIbIDzkR87aWFMzZzCc,30.3936059,76.7741377,hindu_temple
+162,Peer Baba,ChIJ2WZik4DJDzkRalr5JJpW1-o,30.36270919999999,76.7883125,mosque
+163,Tawakkal Shah Ki Dargah,ChIJEf1_sI_IDzkRE6WBVRh5wi8,30.3888269,76.7702159,mosque
+164,Jain Associates,ChIJcwNDOIzIDzkR_j_rjmlfsMM,30.384204,76.77201,accounting
+165,NKS ASSOCIATES,ChIJq1ceJF7IDzkRtgCRw5u1dII,30.38067279999999,76.7837771,accounting
+166,KEWAL KRISHAN & CO.,ChIJAQAAQPbIDzkR9RRitnZvMTc,30.3734372,76.7783748,accounting
+167,Pawan Aggarwal C.A.,ChIJQU4H4kXJDzkRW5WnyvyCjdY,30.3745792,76.78022899999999,accounting
+168,ambala city suary school,ChIJlaVlS0PJDzkRJkzxtE1p_nk,30.3781788,76.7766974,accounting
+169,TARPIT JAIN & ASSOCIATES,ChIJCcWHuf7JDzkRbop0VkRGLK0,30.3752011,76.782122,accounting
+170,J.H.Singh & Co,ChIJ1eorZIvIDzkRM5l7nK1ju_8,30.3829293,76.77904509999999,accounting
+171,RAYNA E-Tendering Services support Ambala,ChIJ4cdav0fJDzkRd9pFdDQAuVA,30.3684532,76.7830596,accounting
+172,R Duggal & Associates,ChIJi7k7zSW2DzkRTzLGdODY9bE,30.3779181,76.7677442,accounting
+173,CA Pulkit Jain,ChIJyTuMAL3JDzkRcPX05Ip7RUE,30.3789193,76.76762889999999,accounting
+174,Sachin BM Aggarwal & Company,ChIJi7k7zSW2DzkReTF1rdgeJfw,30.367186,76.772605,accounting
+175,Siddhi Vinayak Business Solutions,ChIJ8aIZfqDJDzkRu628wCvhH40,30.3843288,76.7743911,accounting
+176,A Jindal & Co,ChIJc2rVQ0vJDzkR9M-XevE2-S4,30.3663316,76.77392549999999,accounting
+177,KARAN JAIN AND ASSOCIATES,ChIJMY0CMA_JDzkR12aOKpq-jWw,30.382318,76.7694418,accounting
+178,"CA Pulkit Jain, CA in Ambala cantt and Ambala City",ChIJObpo1I3IDzkRQL553-AgLKc,30.3649008,76.7795622,accounting
+179,Jain Singla & Co,ChIJ40Taho7JDzkRF7KSaKm2feM,30.3647885,76.77944169999999,accounting
+180,Accounts executive,ChIJw-ucn4nIDzkRM5RhuavzUSw,30.387404,76.777097,accounting
+181,MITTAL GOEL AND ASSOCIATES,ChIJu6Pyrt3JDzkRy01j8peTnd8,30.3679967,76.7883417,accounting
+182,ROHIT ROSHAN & ASSOCIATES,ChIJIQLdaz_JDzkRjOGXRzXzA6Q,30.367112,76.78842329999999,accounting
+183,Amit Chaman & Associates,ChIJVVVVVYaUDzkREg_0e2VYMtU,30.3624129,76.7812596,accounting
+184,Mohan Bakery,ChIJ3ddhKJPIDzkREaypxZbj0_g,30.37976,76.76518200000001,bakery
+185,Hey'Sugar,ChIJwZg45U7IDzkRqqxztyy0cnU,30.36747100000001,76.79502900000001,bakery
+186,Jolly Bakery,ChIJmb3ZjYzIDzkRJtnpoZY-eDg,30.3821875,76.77294309999999,bakery
+187,Mohan Bakery,ChIJMcSCbVDIDzkRn7BarWiOF1U,30.3696183,76.78965889999999,bakery
+188,Mohan bakery,ChIJy2n-FkzIDzkRZyW3_ZtF5fY,30.3694774,76.78965649999999,bakery
+189,Yummy Bites,ChIJses2AJHIDzkRlWXjpxNIyPA,30.3875806,76.76524119999999,bakery
+190,Manoj Bakery Ambala City,ChIJm2Y2qv3IDzkRA0Hkh7_2tHs,30.3596988,76.7712529,bakery
+191,KANWAR FLOWER,ChIJvwLNPvDIDzkRZXWeY3alOhQ,30.361888,76.7931871,bakery
+192,Caked,ChIJhzm0Bh_JDzkRLbyfTG7JNBw,30.3734372,76.7783748,bakery
+193,à emporter,ChIJAQAAQPbIDzkR9alQZ01R9PQ,30.3734372,76.7783748,bakery
+194,Mr Baker,ChIJyY8H1bTJDzkRUdvW6uUou2s,30.3752011,76.782122,bakery
+195,Dutch Bakery,ChIJuwBujI3IDzkRUXw0YL4PCp8,30.3819693,76.771408,bakery
+196,Ek Noor Bakery,ChIJ_RLGL1fIDzkR-WPW8U4lzAA,30.3676358,76.7849698,bakery
+197,Krishna Bakery,ChIJC3GcLYzIDzkRV-9CuygViuo,30.38480359999999,76.77136329999999,bakery
+198,VERMA BAKERY,ChIJnRt_KJPIDzkRYeM3qziRsvM,30.37986119999999,76.765227,bakery
+199,Bakers Street,ChIJuYBm7lDIDzkR-y3pStpDLTE,30.3683046,76.7876078,bakery
+200,RG'S Baker's Street,ChIJ____L1HIDzkRsWScchibMk4,30.3682486,76.7876362,bakery
+201,Sahni Bakery,ChIJ7xDemrDJDzkRRF9YkQTH12E,30.3667526,76.7681674,bakery
+202,Jolly Bakery,ChIJF6PgjYzIDzkRPXVbWNnGWEM,30.387709,76.775222,bakery
+203,JAI AMBEY SWEETS,ChIJp8X7LuXIDzkRVOWHl6a4-FY,30.365836,76.7678493,bakery
+204,Edicine Healthcare,ChIJYUiBu7nJDzkRJxQvPmH_3gU,30.346684,76.799323,book_store
+205,Raju Book Shop,ChIJc_e2q4vIDzkRwLlSOoZaWoU,30.383023,76.77869400000002,book_store
+206,Bharat Book Depot,ChIJkyJbr4vIDzkRcHHstdB0-qo,30.3834876,76.77611279999999,book_store
+207,CLASSIC STATIONERS,ChIJp83c49TJDzkRf_OOuPtYKIM,30.35794,76.767152,book_store
+208,Arihant book depot,ChIJGUkJuUrJDzkRikVyWcTeuXc,30.3809708,76.7664616,book_store
+209,Cafe Royal,ChIJyVnnWSK2DzkRC5Bl7WIMuac,30.3681023,76.7998996,cafe
+210,Hello Petuu,ChIJubDes8PFDzkRLAQeXTxABk0,30.3781788,76.7766974,cafe
+211,The London Shakes,ChIJndyqGknIDzkRGiHvuLEyvrk,30.3736368,76.7811723,cafe
+212,MAHI DIGITAL WORLD CSC,ChIJIwiyPQHJDzkRMElAy48Ci4o,30.3741202,76.76996450000001,cafe
+213,Dashmesh Ice Cream,ChIJS8_cDuXIDzkRpJEFdkZj8j0,30.3660021,76.7658278,cafe
+214,Bali tea stall,ChIJ86HP_PTIDzkR2YQIJThNmNE,30.3866132,76.76826779999999,cafe
+215,Baker's Best,ChIJheBfnlHIDzkR4SbgIGqKQoM,30.365735,76.788646,cafe
+216,Bakers Best,ChIJ3S2mm1HIDzkRRZnS05wBHFA,30.36541949999999,76.7890792,cafe
+217,PANDU SWEETS & TEA STAL,ChIJDcKJl2_IDzkRUS_3w3Xuvyc,30.3911775,76.7926796,cafe
+218,NAGRIK SUVIDHA KENDER,ChIJCe9vdKLJDzkR13Vj5co_jUc,30.3534931,76.7729809,cafe
+219,Samta Hyundai Ambala,ChIJ_avUVV3IDzkRYmun9OaEHOc,30.3825701,76.7898879,car_dealer
+220,Fair Brother Auto Sales,ChIJi7k7zSW2DzkR1WWz3uSh3wk,30.38848939999999,76.78062919999999,car_dealer
+221,Velocity Automotives Pvt Ltd,ChIJoUQYKkvIDzkRdgO3azhE0uk,30.3608612,76.7998456,car_dealer
+222,"Maruti Suzuki ARENA (Modern Automobiles, Ambala, Model Town Crossing)",ChIJi7k7zSW2DzkRKa7rLj4zZnw,30.3616634,76.7994755,car_dealer
+223,S.D. HONDA,ChIJVyOoEfXIDzkREgA96Mvsb8g,30.3794022,76.7776581,car_dealer
+224,Tata Motors,ChIJtzbeZuzJDzkR1Yxk0mXmUlk,30.3752011,76.782122,car_dealer
+225,Gaurav Car Deals : Used Cars Dealer In Ambala India | call 7015189712,ChIJVcQ7_bbJDzkR7qagwoqmAII,30.3802919,76.7767863,car_dealer
+226,Samta Hyundai,ChIJ8VgTPl3IDzkRd-DEqeIiqIA,30.38000000000001,76.78999999999999,car_dealer
+227,Elegant Honda,ChIJ4_DDcOHJDzkRnJPFJPdMR14,30.3602832,76.7955867,car_dealer
+228,"NEXA (Eakansh Wheels, Ambala, Chandigarh Delhi Highway)",ChIJ9aTETnrIDzkRccN6YfJaU6I,30.3948117,76.78962609999999,car_dealer
+229,Velocity Datsun,ChIJ1Xh9yir9DDkRjerWH3byvEE,30.3645901,76.79991749999999,car_dealer
+230,Velocity Nissan,ChIJA-LpIq39DDkRLPFh1D2Zdhk,30.3644628,76.8001536,car_dealer
+231,Eco Car Wash,ChIJiwFBUFPIDzkRps22NYYEoXA,30.3593554,76.78631419999999,car_repair
+232,Bridgestone Select - Hindustan Wheels,ChIJh5hlZmXIDzkRfCU62NhNatM,30.3913883,76.79076959999999,car_repair
+233,Surindra Motors - Tata Truck repair | Ambala | Mohra | Tass Shahbaad | Naraingarh | Handessara | 1613 | 2518 | 4018,ChIJCaLP_PTIDzkRkIVXl2fhzsc,30.35668149999999,76.75730829999999,car_repair
+234,Shaweta tyre plus Apollo point,ChIJpW5d-_TIDzkR4y-aeRxfhCM,30.37811619999999,76.776534,car_repair
+235,National Automobiles,ChIJi7k7zSW2DzkRzW3azbD8gro,30.3781788,76.7766974,car_repair
+236,Gaurav Car Deals : Used Cars Dealer In Ambala India | call 7015189712,ChIJVcQ7_bbJDzkR7qagwoqmAII,30.3802919,76.7767863,car_repair
+237,Bridgestone Select - Shiva Tyre Care (Ambala),ChIJPTHerfHIDzkRO139Q-YW7u4,30.3715594,76.7705354,car_repair
+238,Shree Battery house,ChIJMUcN1MnJDzkRWKpRKBIYTKY,30.3743788,76.7661007,car_repair
+239,PAMMI AUTO REPAIR BIKES/SCOOTERS/ACTIVA,ChIJh2kukEPJDzkRP-f0tb_87kQ,30.3701714,76.76746829999999,car_repair
+240,Pawan Bullet Repair,ChIJd_-u4pXJDzkRdYMJyzH7p3s,30.3756426,76.7649957,car_repair
+241,Ambala Tyres,ChIJDQ4g8e_IDzkRGqaaVYkNQlk,30.36850260000001,76.76737349999999,car_repair
+242,Zandu Tyre Service,ChIJFdtq9e_IDzkRTf78PPfEZiY,30.3681071,76.76693569999999,car_repair
+243,"CEAT Shoppe, Singla Autos",ChIJVafR21nJDzkRW91LhC_Iu2s,30.380399,76.79201479999999,car_repair
+244,Drive In Car Wash,ChIJZ_Q9J2TIDzkRzu7DzrwlfX0,30.3872382,76.7875251,car_repair
+245,Ambala Tyres,ChIJ72C4_GDJDzkRpBu6sDXIk90,30.3900614,76.7807217,car_repair
+246,Pal Automobile(BATTERY & INSURANCE),ChIJ8byRo37JDzkRIAiUOAM_c1k,30.36324160000001,76.7918952,car_repair
+247,Ashoka Automobiles,ChIJMw536oXIDzkRcPpMMtL1-ic,30.392468,76.772363,car_repair
+248,Bridgestone Select - Hindustan Wheels,ChIJ431Bv1jJDzkRMyl_AId9Fm8,30.3913873,76.79069439999999,car_repair
+249,Shree Naina Motors,ChIJXZxoClHIDzkR2-9WD32xNxo,30.3550366,76.7830144,car_repair
+250,Royal Enfield Service Center,ChIJD45Xu5PJDzkRkAjyOwp9TPU,30.3938713,76.790448,car_repair
+251,Velocity Datsun,ChIJ1Xh9yir9DDkRjerWH3byvEE,30.3645901,76.79991749999999,car_repair
+252,Velocity Nissan,ChIJA-LpIq39DDkRLPFh1D2Zdhk,30.3644628,76.8001536,car_repair
+253,"Maruti Suzuki Service, Grand Trunk Road, Ambala",ChIJWdASLhjJDzkRd19fkKNm2aM,30.361627,76.800114,car_repair
+254,Shree Naina Motors,ChIJuxGsVirJDzkRG0kyBquXGQY,30.34982449999999,76.78325989999999,car_repair
+255,Eco Car Wash,ChIJiwFBUFPIDzkRps22NYYEoXA,30.3593554,76.78631419999999,car_wash
+256,Gaurav Car Deals : Used Cars Dealer In Ambala India | call 7015189712,ChIJVcQ7_bbJDzkR7qagwoqmAII,30.3802919,76.7767863,car_wash
+257,Drive In Car Wash,ChIJZ_Q9J2TIDzkRzu7DzrwlfX0,30.3872382,76.7875251,car_wash
+258,Shree Naina Motors,ChIJXZxoClHIDzkR2-9WD32xNxo,30.3550366,76.7830144,car_wash
+259,BAL Car Wash,ChIJ1QcTnm_JDzkRJn9JdFwQNJ4,30.35505830000001,76.7913705,car_wash
+260,Shubham Bridal Wear,ChIJjZXA8_TIDzkR63fOJ0s7q2c,30.38537800000001,76.78711799999999,clothing_store
+261,Kapsons,ChIJB_sZ4_TIDzkRpn8ql1EQCMw,30.3708114,76.7857131,clothing_store
+262,SOHAN SAREE ARTS | SAREE DEALERS IN AMBALA,ChIJyX4qwfPIDzkRCXyMVqzWFpA,30.385278,76.786868,clothing_store
+263,INCO CBD (Central Business District Ambala),ChIJMWihR1LIDzkRj-mpY6iAi48,30.3632637,76.7896069,clothing_store
+264,Jockey Exclusive Store,ChIJrwaFAFrIDzkRuKyiTa38qk0,30.3709085,76.78519299999999,clothing_store
+265,Dulha Gallery,ChIJ8XmaA-TIDzkRO3ChuquDLG8,30.3853807,76.78678219999999,clothing_store
+266,Pooja Sarees,ChIJ9bEr02bIDzkRuwAJLNsjqI8,30.38530420000001,76.7870475,clothing_store
+267,Studio By Jainways,ChIJa7kow2bIDzkRfBeabSFTa6w,30.38547,76.786945,clothing_store
+268,Mother Sparsh Baby Care Pvt. Ltd.,ChIJE8_lNfbIDzkRsyFuExZ4lsc,30.3734372,76.7783748,clothing_store
+269,Jain Cloth & Cut Piece House,ChIJi7k7zSW2DzkRWgDBUknDrwo,30.3781788,76.7766974,clothing_store
+270,Nazakat Silk Saree,ChIJi7k7zSW2DzkRJInP6vRBskM,30.3781788,76.7766974,clothing_store
+271,Sardar Cloth House,ChIJrYHm_PLIDzkR_f5KAoxItGE,30.378179,76.776697,clothing_store
+272,Bharti Silk & Sarees,ChIJi7k7zSW2DzkRafjo9JmnmrQ,30.378179,76.776697,clothing_store
+273,Dishu Ethnic Wear,ChIJ3TFA9PPIDzkRErkE1j6M2qw,30.37571689999999,76.7739878,clothing_store
+274,Vijay Trading Co.,ChIJ847C4WHJDzkRvu2jdzYK3gs,30.37566619999999,76.7738083,clothing_store
+275,Vaani Sales,ChIJD6Frvo3JDzkR7_2jD9ZR9WI,30.37406549999999,76.7816114,clothing_store
+276,Radha Kishan and Co. (Tent Cloth Merchants),ChIJfYMwP_LIDzkRiRHgZ_oIojA,30.3752928,76.770037,clothing_store
+277,Gaba Fashioner,ChIJGSu9-OLJDzkReekJSOr-Z3I,30.3779455,76.7701449,clothing_store
+278,Saloni Emporio,ChIJ6UPsxPLIDzkRhiL0XmOBRJA,30.3787282,76.7703219,clothing_store
+279,V-Mart,ChIJfZ-0DI7IDzkRtNUqKubtmBI,30.3824608,76.7768584,clothing_store
+280,A.V.S General Store,ChIJp41jRTPJDzkR_Jq93O_Hyrg,30.3789188,76.7693991,clothing_store
+281,A.K Hosiery,ChIJ5Wbtr_LIDzkRGQeFIViXh1g,30.3788803,76.7689151,clothing_store
+282,Pahwa fashion,ChIJs8WWf3PJDzkRKraxIkjeRtE,30.3773468,76.7679002,clothing_store
+283,Fashion Touch,ChIJC1gle-3IDzkRq9PqtscIkDE,30.3767567,76.767724,clothing_store
+284,Guru Kirpa Trading Co.,ChIJgXEgb-3IDzkRN0YNXyDnt88,30.3771803,76.7676006,clothing_store
+285,Brilliant Kidz,ChIJ1QD0AFrIDzkRaJFW3W7WDL4,30.370728,76.785775,clothing_store
+286,Vrindavan Export Print,ChIJTbY-Ue3IDzkRx-zkO7TeJtk,30.3789729,76.76784719999999,clothing_store
+287,Shri harmilap ladies tailor,ChIJUWZGpBjJDzkRuLa2RA206Qw,30.3809483,76.7686121,clothing_store
+288,Bagga Saree,ChIJhzvLFu3IDzkRpqyjG-HFW_Q,30.3776713,76.7665846,clothing_store
+289,Pearl Creations Boutique,ChIJ6ffxcbLJDzkRd-gH5xRJqQs,30.3849487,76.77594069999999,clothing_store
+290,Reliance Trends,ChIJLd1npVDIDzkRnBvtOgkvJqQ,30.3694289,76.7862913,clothing_store
+291,Pooja Collection,ChIJb6Z7dI7IDzkRGtTAIV3IiOY,30.385214,76.7707732,clothing_store
+292,Saheli collection,ChIJnSNObVDIDzkRqEE0bjsnqbI,30.36916819999999,76.7889371,clothing_store
+293,vidyarathi uniform,ChIJbwT661jJDzkRVZuIkyoXffY,30.3667466,76.7678456,clothing_store
+294,Aman Garments,ChIJJ22cOeXIDzkRsHDGSgOOiuI,30.3675383,76.76651939999999,clothing_store
+295,Sai Fashions | Ladies Kurtis Wholesaler | Designer Dresses | Designer Suits Wholesaler In Ambala,ChIJGz37ISjJDzkRz-LLuHmUr1I,30.382955,76.76599949999999,clothing_store
+296,Vidyarthi Uniform,ChIJAQAAAOnIDzkRnRhdU1prqlk,30.3669376,76.76656280000002,clothing_store
+297,"Roop export, kotwali bzr",ChIJWZdgbJLIDzkRztmUf10gsK4,30.38471709999999,76.7672018,clothing_store
+298,Goyal fashion,ChIJ23bMrKjJDzkRmoeT-CGxG9g,30.38623,76.7850981,clothing_store
+299,JAINWAYS - THE WEDDING HUB,ChIJz_wVqhPJDzkREBAWXgHe_VY,30.3851111,76.7871389,clothing_store
+300,V-Mart,ChIJfZ-0DI7IDzkRtNUqKubtmBI,30.3824608,76.7768584,convenience_store
+301,Haryana Cheap Store,ChIJNd-dDY7IDzkRAYFNDgSvYlo,30.3859056,76.7695327,convenience_store
+302,Arvind Electronics,ChIJyyaW-1DIDzkRBs8bbmeMQsQ,30.3676007,76.7879852,electronics_store
+303,IB Solutions India (Computer Repair and Services Provider),ChIJo69lfULIDzkR-6FVbjm1E6E,30.3912994,76.7920082,electronics_store
+304,Gulati Electronics,ChIJ9ZnZp1HIDzkRV1HYffSy9_w,30.3677805,76.7873316,electronics_store
+305,Batish Bros,ChIJVVVVHrTJDzkR8JYkZTM3_8U,30.353369,76.79162699999999,electronics_store
+306,Universal Typewriters,ChIJi7k7zSW2DzkRSwv2UKWIMe4,30.378179,76.776697,electronics_store
+307,Shyam Agencies.,ChIJQaFfkk_JDzkRW9N2wP2ZnHk,30.380289,76.7839333,electronics_store
+308,Gupta Electronics,ChIJzTPUyvLIDzkRqXDhA9N7G1k,30.3796228,76.7698879,electronics_store
+309,Reliance Digital,ChIJ2beBAznJDzkRTazt8-_8Img,30.3711033,76.78666840000001,electronics_store
+310,Ravindra Computers,ChIJiScmTe7IDzkRh-VoaFxl6QQ,30.3708263,76.7662795,electronics_store
+311,Identix International Inc,ChIJAQYMLO3IDzkRUWiBv9nP5LU,30.37893499999999,76.765777,electronics_store
+312,BARCODE LABELS AMBALA CITY,ChIJ7d5G7vDJDzkRG8-26Ir-eN4,30.3838546,76.7697546,electronics_store
+313,Dezire Mobile App Development Company In Ambala | SEO Services & Digital Marketing Company In Ambala,ChIJQ_fNiYrJDzkR-tSqq2hm-40,30.3828672,76.7658916,electronics_store
+314,VERMA SATELLITE,ChIJHwf5cVfJDzkR0ICReJHdwS0,30.370099,76.7596221,electronics_store
+315,"Pal Automobiles, activa,bike service and battery dealer",ChIJe2ueCE3IDzkRHgIZxGrzu-8,30.362005,76.79351299999999,electronics_store
+316,Rinku electronics,ChIJ-VQ2sSzJDzkRWNMs1cEfzps,30.386115,76.79782999999999,electronics_store
+317,Ramesh Electrical Works,ChIJvW_zsULJDzkRyTDqb20jt7c,30.356565,76.767135,electronics_store
+318,Sohamsta Studio,ChIJAWI8H5nJDzkRDC7laA-Kofg,30.3921103,76.7933616,electronics_store
+319,Amazon Courier Office,ChIJW5pu3TfIDzkRVgnIZQdjUlU,30.3706774,76.8032659,electronics_store
+320,Madras handloom store,ChIJJYle0w_JDzkRdN9hKI7Pjv8,30.375671,76.7743966,furniture_store
+321,Guliani Furniture Palace,ChIJpYHP2mfJDzkR7SrpVdwKvTA,30.3744276,76.7663464,furniture_store
+322,GODREJ INTERIO EXCLUSIVE STORE - BLISS INDUSTRIES,ChIJj9jtuJzJDzkRI2Y1zoKfF4A,30.3869853,76.7753462,furniture_store
+323,IFB Point - Ambala City,ChIJp80ExUvJDzkRr24UxTxqEWE,30.36646760000001,76.7863078,furniture_store
+324,Woodland Furniture,ChIJs320v5vIDzkR_HnxVn97xpg,30.3944957,76.7641124,furniture_store
+325,Hindustan Gas Service,ChIJi7k7zSW2DzkRazO-nwWqd_Q,30.3781788,76.7766974,gas_station
+326,Sekhon Petrol Pump,ChIJR8BSd_TIDzkRqy-oh58BX6Q,30.3765263,76.7743799,gas_station
+327,HP PETROL PUMP,ChIJYRzcilnIDzkRQdecjVLVyMs,30.3713502,76.78536439999999,gas_station
+328,Zamindara filling station,ChIJC-WsoOXIDzkRgSHOV9NEmAU,30.3661416,76.76528689999999,gas_station
+329,HP PETROL PUMP - RAJ & CO,ChIJ8cZQhmXIDzkRo5PYzGZKFJ8,30.389281,76.7914744,gas_station
+330,JAGGI FILLING STATION,ChIJNQVgA0nIDzkR99IG1LnHjE4,30.3681619,76.7993809,gas_station
+331,Indian Oil Petrol Pump,ChIJ_2NVG0nIDzkRQ61XYAgZhzU,30.36804099999999,76.7993367,gas_station
+332,Indian Oil,ChIJISMNwUvIDzkRXAAzXcoONPE,30.36471640000001,76.798799,gas_station
+333,MS/HSD DEVI OIL STORE,ChIJfaFD_qDIDzkRfYzLOm8wLNU,30.397895,76.753597,gas_station
+334,"Bharat Petroleum, Petrol Pump -Zimindara Filling Station",ChIJ68tIqWbJDzkRlGgFdyb8g4M,30.3766021,76.7743784,gas_station
+335,Jaya Filling,ChIJCaLP_PTIDzkRrvyALiuIkdg,30.3781788,76.7766974,gas_station
+336,Jeet Oil Company,ChIJi7k7zSW2DzkR9WxLd3rLVsM,30.3781788,76.7766974,gas_station
+337,New Moters Petrol Pump,ChIJi7k7zSW2DzkRMaFob0GJsps,30.3781788,76.7766974,gas_station
+338,DRS LOCATION (HPOIL),ChIJV55FnvvJDzkR_o2c39EUaFY,30.37424620000001,76.78287069999999,gas_station
+339,HP PETROL PUMP - SHIV SHAKTI MOTOR CO.,ChIJ5b6tJfDIDzkRH9ZH_l-gMG0,30.37017,76.76877999999999,gas_station
+340,DRS LOCATION (HPOIL),ChIJ8wxYfpTJDzkR1-wHAli-7s0,30.369242,76.786478,gas_station
+341,Petrol Pump,ChIJJ8KD3IfJDzkRZzKlCEl42gI,30.3799238,76.76517880000002,gas_station
+342,HP PETROL PUMP: MARUTI FILL & FLY,ChIJ-WoI9JzJDzkRMqdCXaSfjt4,30.38021749999999,76.7651449,gas_station
+343,DRS LOCATION,ChIJ-4u7ZDDJDzkRI1fdIwC1HhQ,30.3612073,76.77498299999999,gas_station
+344,"Bharat Petroleum, Petrol Pump -Kargil Shaheed Filling Station",ChIJ1-HWPMTJDzkR_Ekb-oZwuac,30.3781908,76.79375499999999,gas_station
+345,Unitech Office,ChIJx1Jq3inGDzkRPJlKKxFvXGQ,30.4028209,76.7725012,real_estate_agency
+346,Arora Properties & Car Sales,ChIJi7k7zSW2DzkRzne7wB__uwc,30.3781788,76.7766974,real_estate_agency
+347,Bala Ji Properties-Property Dealers In Ambala-Real Estate Agents In Ambala-To-Let Services In Ambala,ChIJZ5dEP5LIDzkRXs1X0ciXvkU,30.3781883,76.7767506,real_estate_agency
+348,Sunrise Property Services,ChIJVVVVFVDIDzkR8rxACiYsXcw,30.3689594,76.78991359999999,real_estate_agency
+349,Malhotra Property Dealer in Ambala City,ChIJdQAAwFXIDzkRrG510WxiARo,30.362413,76.78126,real_estate_agency
+350,Khurana Realtors,ChIJF3nwSADJDzkRIKhAcpdEgdU,30.36326919999999,76.7651114,real_estate_agency
+351,A One Properties/ Sale & Purchase Of Huda Plots & Houses/ Estate Agents For Residential & Commercial,ChIJNxs17ebJDzkRaYUfBYoWSE8,30.370099,76.7596221,real_estate_agency
+352,Mannu Property Dealers,ChIJoZouymjIDzkRSJrRNfuiNu4,30.3873699,76.7929896,real_estate_agency
+353,"OM Properties : Buy, Sell & Rent; Property Dealer in Ambala",ChIJ9WxWirXJDzkR9qxQbZCMWU4,30.39193239999999,76.79054649999999,real_estate_agency
+354,Bata Shop,ChIJA6m9lFDIDzkRHkHmLFF6rHc,30.3687745,76.7873324,shoe_store
+355,Metro Shoes,ChIJ7fV98_PIDzkRMwWk74ApfRg,30.37595,76.7726952,shoe_store
+356,Walkway Shoes,ChIJBy3-zuHJDzkRk-s55aCzL90,30.3740135,76.7870575,shoe_store
+357,Liberty Exclusive Showroom,ChIJlUU8bjXJDzkRvNJNv7d56C0,30.3705406,76.7860074,shoe_store
+358,Sewa Singh Di Hatti,ChIJn-mHPEXJDzkRa6gbPXFhfzA,30.37009729999999,76.766361,shoe_store
+359,Bata,ChIJp9hT5ULJDzkRHo81tmfZTBk,30.366468,76.78630799999999,shoe_store
+360,Chhabra Shoes Store,ChIJFV_32oXJDzkRor9GRlWWSJ4,30.38731140000001,76.7935418,shoe_store
+361,Lotto,ChIJK6ksmfPJDzkR9y_WRM69cbk,30.36916800000001,76.79966000000002,shoe_store
+362,adidas,ChIJrb0X2UDJDzkRlPprCxSd07c,30.368096,76.800814,shoe_store
+363,Bhawana Kryana Store,ChIJ80BDdG3JDzkRnuyXBHU2MzY,30.37133690000001,76.7857805,shopping_mall
+364,Guliani Furniture Palace,ChIJpYHP2mfJDzkR7SrpVdwKvTA,30.3744276,76.7663464,shopping_mall
+365,Krishna Beauticity,ChIJORmQGojJDzkRhF1ED9l0vx0,30.3683878,76.7871375,shopping_mall
+366,Hiteshi Karyana Store | Hiteshi's | General Store | Retailing Shop | Motti Neem | Hari Palace Road | Ambala city,ChIJnWGcNKPJDzkRyEFEeXap0sY,30.388243,76.777459,shopping_mall
+367,Sparsh Traders,ChIJx3OESCbJDzkRVB-1C0SCgUk,30.3872835,76.76786419999999,shopping_mall
+368,Reliance Smart,ChIJtwE-gkrJDzkRtSe4pMVHNcg,30.36378760000001,76.789908,shopping_mall
+369,Gugnani Karyana Store,ChIJeVb-7t_JDzkRdn9kLqdBLpw,30.386058,76.7962379,shopping_mall
+370,RANA AGRO IMPLIMENTS,ChIJb6WcArrJDzkRlqNFFPIMgz8,30.36002719999999,76.7611538,shopping_mall
+371,Vatika CCP,ChIJJ_MwBarJDzkRTv8AmYZYRIU,30.3530172,76.7804992,shopping_mall
+372,HnA Impex,ChIJz_9NF1TJDzkRMNR7qgSlIok,30.3526934,76.7831429,shopping_mall
+373,Volvo kitchens,ChIJRxgOEF7JDzkREvjg5PV-ktg,30.3548711,76.7903664,shopping_mall
+374,Supreme Transport Solutions Pvt. Ltd.,ChIJi7k7zSW2DzkRXljFiHm8khE,30.36320799999999,76.792813,storage
+375,C. LAL MARKETING,ChIJ-XB0rUbIDzkRNJOn9dGuKko,30.3766818,76.7977703,storage
+376,SpeedEx Pacikiers And Moviers Chhabra Sarees,ChIJYRtJFPTIDzkRp_bdqvL-BU0,30.3756996,76.7752773,storage
+377,WareHousing Space,ChIJtQLR65LIDzkRJPqSSTgupMQ,30.3809189,76.7665054,storage
+378,Ramnik Stores Rakhi Godown,ChIJGUXFsr_JDzkRgxXFpqoKTyM,30.3738656,76.7755817,storage
+379,Maan Warehouses (Godowns for Rent),ChIJgyWgIn7JDzkRoou7cBb5YRA,30.3649448,76.76529029999999,storage
+380,Maan Warehouse (Mora Madhav Dairy Plant),ChIJG2T1VOTIDzkR1W035RpPMpU,30.3648962,76.765109,storage
+381,Aggarwal godown,ChIJ-W7ir97JDzkRTMbQY38r8NY,30.38760839999999,76.78830839999999,storage
+382,EMMJAY BIOTECH,ChIJzwDUmojIDzkRO2i04eBdpSc,30.3910614,76.7762264,storage
+383,"GIAN CHAND AND CO., Plot No-9",ChIJKZlG2ofIDzkRkW3GXmk2ELk,30.3922309,76.7777727,storage
+384,maggo kela agency,ChIJE5m6Q5rIDzkR2fUGHvDUIO0,30.3920345,76.76444529999999,storage
+385,State Warehouse,ChIJURzM3q3JDzkRMl--VlKPkek,30.3887439,76.7588028,storage
+386,Anand Gas Service Lpg Gas Godown,ChIJ6ZG3CZvIDzkRhB-TeGnzO8o,30.3942642,76.76548989999999,storage
+387,Lakshmi Associates (MSD Depot),ChIJn46X4TfIDzkRjif4PWUomx8,30.3705736,76.80302669999999,storage
+388,Seaplast India Pvt Ltd,ChIJZdR53a_JDzkR9ATpjAeFhBc,30.3694827,76.8035317,storage
+389,hafed complex nasirpur,ChIJ-S3IWB7JDzkRgTVx4DMFo6g,30.3532501,76.760612,storage
+390,DM Office Haryana State Warehousing Coporation Ambala,ChIJgSK58R7JDzkRfR6RUxTj3TA,30.3527007,76.7605858,storage
+391,DTDC Express Ltd,ChIJR3S9xnzJDzkRLEaZIKIcK3s,30.3974439,76.8051248,storage
+392,Nerolec Paint Warehouse,ChIJXU441hHIDzkRbyyQKdARnnU,30.3950976,76.811058,storage
+393,New Grain Warehouse,ChIJYXB5wvDIDzkRWcIi_F47IMg,30.3693586,76.7739573,storage
+394,Shubham Bridal Wear,ChIJjZXA8_TIDzkR63fOJ0s7q2c,30.38537800000001,76.78711799999999,store
+395,Ceragem Heath Care,ChIJzUAZ9LPJDzkRWCjWNtobho4,30.3757218,76.7813055,store
+396,Deluxe Pest Control Service,ChIJCaLP_PTIDzkRj95ok9NgldA,30.3781788,76.7766974,store
+397,Mohan Bakery,ChIJ3ddhKJPIDzkREaypxZbj0_g,30.37976,76.76518200000001,store
+398,Samta Hyundai Ambala,ChIJ_avUVV3IDzkRYmun9OaEHOc,30.3825701,76.7898879,store
+399,Recorders & Medical Devices India,ChIJi7k7zSW2DzkRlMiYyooE6V0,30.37817799999999,76.776697,store
+400,Kapsons,ChIJB_sZ4_TIDzkRpn8ql1EQCMw,30.3708114,76.7857131,store
+401,Milk Food Limited,ChIJi7k7zSW2DzkRyV_N66M9rOk,30.3781788,76.7766974,store
+402,Aggarwal Brothers,ChIJGWcaKo7IDzkREjJwt3ebBf8,30.3876564,76.7683357,store
+403,Distt Ambala Sahkari Milk,ChIJi7k7zSW2DzkRs0-rB12RK6w,30.3781788,76.7766974,store
+404,Hey'Sugar,ChIJwZg45U7IDzkRqqxztyy0cnU,30.36747100000001,76.79502900000001,store
+405,Ondot Couriers & Cargo Ltd.,ChIJZyB13dKSDzkRuPCHqMub6qY,30.3891876,76.7912527,store
+406,Arvind Electronics,ChIJyyaW-1DIDzkRBs8bbmeMQsQ,30.3676007,76.7879852,store
+407,Jolly Bakery,ChIJmb3ZjYzIDzkRJtnpoZY-eDg,30.3821875,76.77294309999999,store
+408,Punjab State Co-op Milk Producers Fed Limited,ChIJi7k7zSW2DzkR6Zw0DVa9LjU,30.3781788,76.7766974,store
+409,DHINGRA TRADERS,ChIJuSPEa1fIDzkR8FQPq1mKZKI,30.3686678,76.7839018,store
+410,SOHAN SAREE ARTS | SAREE DEALERS IN AMBALA,ChIJyX4qwfPIDzkRCXyMVqzWFpA,30.385278,76.786868,store
+411,IB Solutions India (Computer Repair and Services Provider),ChIJo69lfULIDzkR-6FVbjm1E6E,30.3912994,76.7920082,store
+412,INCO CBD (Central Business District Ambala),ChIJMWihR1LIDzkRj-mpY6iAi48,30.3632637,76.7896069,store
+413,PUNJABI CHICKEN CORNER,ChIJr9cn--_IDzkRnVcWVKdWkus,30.3687653,76.7677456,store
+414,Electromax Home Appliances Co,ChIJ4Z0yj2bIDzkRfAA_5DFACL8,30.3864329,76.7881939,store
+415,Hans Raj & Co,ChIJEdS0jADJDzkRwqCptAsvR10,30.3781788,76.7766974,store
+416,Flaberry: Ambala Florist,ChIJxaLS_PTIDzkRrwWDtpn0aYc,30.3782136,76.7767096,store
+417,KC Textiles,ChIJhaArdfTIDzkRVx0LOsnPZic,30.3763469,76.77395059999999,store
+418,Om deluxe enterprises (pvc wall & ceiling wall panel),ChIJaQPf5fTIDzkRj5X1K4CYO2I,30.37861000000001,76.776197,store
+419,Tanishq Jewellery - Ambala - Aggarsain Chowk,ChIJ088O7PPIDzkRlyuTtM0sZpQ,30.3757854,76.7730511,store
+420,Online Mandi,ChIJI920C4vIDzkR2rlJz6ld-Os,30.3752011,76.782122,store
+421,Kochar Watch & Optical,ChIJy2R2ZYvIDzkR7ESg5ODHZUA,30.382009,76.77472039999999,store
+422,Ration Baniya,ChIJ8QUqaV7IDzkRRqhTX8k-rt0,30.379194,76.78448499999999,store
+423,Hukam Chand & Sons Tiles Store,ChIJMzwnWfDIDzkRmyTs3mdjGeo,30.370264,76.77097499999999,store
+424,Sawhney sweets,ChIJDfptdYvIDzkR3hW2hyO2tsE,30.3829629,76.77535639999999,store
+425,Jockey Exclusive Store,ChIJrwaFAFrIDzkRuKyiTa38qk0,30.3709085,76.78519299999999,store
+426,"Skool Store - NCERT Books, CBSE Books, School Supplies, school uniform Chandigarh, India",ChIJvW72XmDIDzkRSJQxuMuiiUs,30.382529,76.78245799999999,store
+427,ICE CREAM PARLOUR,ChIJe9EAn1XIDzkReGnH4pWNb08,30.3611705,76.7810957,store
+428,Akarshan Gallery,ChIJrQEAjfPIDzkRcBbpVf9y3Tk,30.3780826,76.7669835,store
+429,Essentua Life Care Private Limited,ChIJ-92uwovIDzkRlVNMunVT2JE,30.385139,76.77551799999999,store
+430,Muscled Hub,ChIJ06qqGorIDzkRyTzpEMT4AfQ,30.385538,76.779096,store
+431,Bata Shop,ChIJA6m9lFDIDzkRHkHmLFF6rHc,30.3687745,76.7873324,store
+432,foot lockers,ChIJ3S1Z5o3IDzkRNROrss9ReIQ,30.3847141,76.7694734,store
+433,Gulati Electronics,ChIJ9ZnZp1HIDzkRV1HYffSy9_w,30.3677805,76.7873316,store
+434,Hans Raj & Co,ChIJEdS0jADJDzkRwqCptAsvR10,30.3781788,76.7766974,supermarket
+435,Online Mandi,ChIJI920C4vIDzkR2rlJz6ld-Os,30.3752011,76.782122,supermarket
+436,Riya General Store....,ChIJI_ZUufPIDzkRqytprD2sLFE,30.377448,76.77031749999999,supermarket
+437,Pearl Fashion Hub,ChIJkwMc5k7JDzkR8K0p5EKiZrc,30.3791308,76.770811,supermarket
+438,Sahib product's,ChIJM4gjTT_JDzkRx4Z9g8_Z0ZQ,30.3788257,76.7705479,supermarket
+439,Hari carrier,ChIJl_bEn_DIDzkRPeDHJHKhd3Y,30.3686429,76.7724851,supermarket
+440,A ONE SUPER STORE,ChIJbQUWnPnIDzkRkld35FtBRTs,30.3662735,76.77504929999999,supermarket
+441,Aggarwal property,ChIJgzcbyYTJDzkRG6f8JFcIq1I,30.3696596,76.76859979999999,supermarket
+442,AGGARWAL ARCHITECTS HIMANSHU AGGARWAL SHOP NO 5,ChIJS_UBHgrJDzkRvxR6osycJ6M,30.3697231,76.768498,supermarket
+443,Suresh Provision Store,ChIJBV2j8V3IDzkR0omQpTX29GI,30.380857,76.786545,supermarket
+444,Rising Group,ChIJbQLuHFfIDzkRKlHonYWzBew,30.3671349,76.7835581,supermarket
+445,Radhey Krishna General Store,ChIJcSzipl3IDzkRTQxI2rdmqZY,30.379646,76.7882806,supermarket
+446,BHATIA GENERAL STORE,ChIJs9PiIVrIDzkR2zWY4qb_jpw,30.370598,76.787998,supermarket
+447,Sarafa Bajar Ambala City,ChIJjzV0jI3IDzkRJtjyvsjOEn8,30.3835103,76.7686504,supermarket
+448,Vishal Mega Mart,ChIJVSYl2B7JDzkR-12nYly7I3Q,30.3678469,76.7875416,supermarket
+449,Jaspreet Wholesale Egg Shop,ChIJMVyjSovJDzkRCr3ThAv2LBg,30.3667511,76.7676859,supermarket
+450,Dinesh Pal Fruits Shop,ChIJR5KIe-DJDzkR0PowotJEvVU,30.3671642,76.7671123,supermarket
+451,Dussehra Ground,ChIJzYgksf7IDzkR6v6jtPkFgCw,30.362697,76.775065,supermarket
+452,Amar Masala Company,ChIJE4weuHzJDzkR1ASFRVDrVlA,30.3649138,76.7678368,supermarket
+453,VIKAS TRADERS AMBALA CITY,ChIJV6fVKY7IDzkRId9Wvdd84Mo,30.38744619999999,76.7682847,supermarket
+454,Khurana General Store,ChIJXTz-EOvJDzkRHVOGoX53sbk,30.38708849999999,76.79333919999999,supermarket
+455,Gopal ji JCB spareparts,ChIJFd5tnPbJDzkRj6iGSod42pQ,30.3879968,76.79249229999999,supermarket
+456,Anshu Printing Press. Shekhar Sharma,ChIJVVVVVW7IDzkREbN8dDd3vTg,30.385281,76.796211,supermarket
+457,Ghotra Goods Carriers,ChIJxyFjnG_IDzkRmusFNJXevcg,30.3907285,76.7922694,supermarket
+458,Darshan Karyana Store,ChIJX-6c0BzJDzkR1JZjVwpbs_M,30.3570354,76.7882058,supermarket
+459,jaggi city center,ChIJC2dj7GrJDzkRtfqF_aqU-JY,30.3684074,76.7998568,supermarket
+460,Jaggi City Center,ChIJgzTKDM_JDzkR7KamUd77L4w,30.36836520000001,76.7998647,supermarket
+461,Puran Sing and Sons,ChIJi_E_dKzJDzkRTha7RIrAi0I,30.3955219,76.75914329999999,supermarket
+462,curtain Factory,ChIJ9YGttp3JDzkRvHE25zZaWCk,30.39934179999999,76.76559519999999,supermarket
+463,SHARMA Daily Needs Store,ChIJMyPqta_JDzkRg8HhBt6uqwM,30.3495102,76.7689754,supermarket
+464,Nimylo Inc,ChIJLX91RM7JDzkR_nH4Hin1VOU,30.3533218,76.795536,supermarket
+465,Kathwaria Vegetable And Fruit Shop,ChIJY-B_B6_JDzkRQieE8RGiAWE,30.35127719999999,76.79529020000001,supermarket
+466,Kohli refreshment,ChIJk8tnv8HJDzkRlnBQIsu6Qr8,30.3423989,76.769834,supermarket
+467,Manocha karyana store,ChIJY4XJNOTJDzkRHgu20FovYew,30.3420511,76.76986459999999,supermarket
+468,355 CSD,ChIJL9bDo5PJDzkRmmHiIF59pOE,30.34716500000001,76.80273199999999,supermarket
+469,Western Overseas,ChIJKZ_P_PTIDzkR7fEyuf4Nphk,30.3660629,76.7880543,travel_agency
+470,Ds Overseas,ChIJ_3BaLn_JDzkRps4twFiDVPg,30.3609988,76.7787249,travel_agency
+471,tour view india,ChIJg0P49k3IDzkRZaiX9odrBcM,30.36396,76.79154299999999,travel_agency
+472,IndoWest SCHOLARS,ChIJCcBNP9jJDzkRoJhRTs6Bd2Q,30.3632569,76.79104079999999,travel_agency
+473,FlightsCozy,ChIJLyS-6zPJDzkRj4b8c871xVg,30.359395,76.7860447,travel_agency
+474,Envision Overseas,ChIJ-0PdwPDJDzkROgmOsH1ivLk,30.3620994,76.793059,travel_agency
+475,Travelhatti,ChIJr8TJlVbJDzkRfBuAsG_Fyhs,30.3906261,76.7942403,travel_agency

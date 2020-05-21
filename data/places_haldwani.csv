@@ -1,0 +1,343 @@
+,place_name,place_id,lat,lng,type
+0,Bhawani motor garage,ChIJ4RXf0IaboDkRWlBJR7Frxno,29.2235113,79.5303979,parking
+1,Indian Overseas Bank,ChIJUZoTp8SaoDkR9SwUY9aB4Ro,29.20909,79.52756169999999,bank
+2,ICICI BANK ATM,ChIJOUytGsKaoDkR4l3ndmfKm9s,29.214536,79.53157999999999,bank
+3,Vijaya Bank,ChIJw96tC-eaoDkR0xw3TbuqvQ4,29.2162822,79.52361350000001,bank
+4,Syndicate Bank,ChIJeSfq1eCaoDkR7zxtfkPbDmg,29.2178077,79.51949119999999,bank
+5,Uttarakhand State Co-Operative Bank,ChIJ2xcjGuGaoDkRzqL-zsXajMs,29.2177673,79.51920419999999,bank
+6,Union Bank of India,ChIJ1dSCkeeaoDkRhrRM786imA0,29.21561040000001,79.5248204,bank
+7,Bank of India,ChIJz6Ak9eeaoDkR9NKG0IxbzvI,29.21486059999999,79.52526019999999,bank
+8,Kurmanchal Nagar Sahkari Bank,ChIJ1zlBK-eaoDkR21osRuBGQRE,29.2178628,79.5183643,bank
+9,ICICI Bank ATM,ChIJn7VsaMOaoDkRCXI8UWkRUAQ,29.210017,79.528115,bank
+10,Almora Urban Co-Op Bank Ltd.,ChIJjXhG8eeaoDkRaXNFK7ZTST4,29.2152736,79.5256741,bank
+11,"State Bank of India, Mukhani",ChIJy45dcuGaoDkRzoKFZDoshRg,29.21876749999999,79.5188019,bank
+12,HDFC Bank ATM,ChIJQ5AnAOiaoDkRH1w6qOlQl0g,29.214878,79.52674499999999,bank
+13,Nainital District Co-Operative Bank,ChIJY_Z7osKaoDkRLoWTJcSQEeA,29.214458,79.52800049999999,bank
+14,Punjab National Bank,ChIJMRV7u8SaoDkRpJBHQmaEdMc,29.2083542,79.52762729999999,bank
+15,Uttrakhand Gramin Bank,ChIJR7GpF8OaoDkRaL6v7Yb98Lw,29.2112502,79.528195,bank
+16,Nainital Bank,ChIJBekIDR6boDkRLUkpr1WcvBU,29.2190352,79.5141318,bank
+17,Bank of Baroda,ChIJAbtdAx6boDkRXVpCcBikpYc,29.219224,79.51429,bank
+18,Axis Bank ATM,ChIJR0UzFu6aoDkRH_lcxT2DTb4,29.2182265,79.51313789999999,bank
+19,Oriental Bank of Commerce,ChIJA-YmZx6boDkRLAjZiyNkL2M,29.2182644,79.5129767,bank
+20,Bandhan Bank,ChIJA-YmZx6boDkRaldR7jtDwF4,29.2182644,79.5129767,bank
+21,"State Bank of India, Mangal Paraw",ChIJoUA0b8OaoDkR0a5i4Vvt_H8,29.210122,79.52853089999999,bank
+22,Canara Bank,ChIJJe3uo8SaoDkRgFdv7OrCZIk,29.2087861,79.5277333,bank
+23,Bank Of Baroda Branch,ChIJQzyk0umaoDkRBCWa1vBVUgk,29.215783,79.529491,bank
+24,"ICICI Bank Kaldungi Road, Haldwani - Branch & ATM",ChIJpdDUdx6boDkRTPXP7TuGxx4,29.21955899999999,79.513442,bank
+25,State Bank of India (Main Branch),ChIJFUFBIemaoDkRRoGR8Og89FE,29.21972,79.52968489999999,bank
+26,Nainital District Cooperative Bank Ltd,ChIJm8a3A-maoDkRxx6x1o_dQqk,29.21853250000001,79.52952200000001,bank
+27,Kurmanchal Nagar Sahkari Bank,ChIJl5R0GOmaoDkRqgRUmwtAr00,29.21942629999999,79.5300542,bank
+28,Bank of Baroda,ChIJ0yd0ze6aoDkRh46pOU7Upqc,29.22115,79.530332,bank
+29,Axis Bank ATM,ChIJS4NmXB6boDkR7FhNq1jE3ow,29.2243133,79.52249359999999,bank
+30,Oriental Bank of Commerce,ChIJXYRcLOmaoDkRWgk7rWoxqEo,29.2206528,79.5298912,bank
+31,ICICI Bank Atm,ChIJxSxmDRyboDkRQ6cCWDkf8ag,29.2206683,79.5104156,bank
+32,HDFC Bank ATM,ChIJox8hROmaoDkReyVWzZt0C20,29.22,79.5312,bank
+33,Uttarakhand Gramin Bank,ChIJg4o21xiboDkRZrOXjQb6rY8,29.2130025,79.5072459,bank
+34,HDFC Bank,ChIJDZgrROmaoDkRKwaOGf17TNg,29.2201063,79.53119459999999,bank
+35,Punjab and Sind Bank,ChIJJX64WOGaoDkRRAj_PZqINCU,29.2233344,79.5306823,bank
+36,Axis Bank ATM,ChIJK6BB9O6aoDkRMdeIzrFSMT0,29.222226,79.531362,bank
+37,ICICI BANK ATM,ChIJmX3S5teaoDkRP7fUAPkHVfc,29.201302,79.51574,bank
+38,Allahabad Bank,ChIJk3XrmBuboDkR4fzd-oW5Ba4,29.2215839,79.5084479,bank
+39,Uttarakhand Gramin Bank,ChIJdZB8KPuaoDkRBmWh0eyQqaA,29.2268034,79.52365379999999,bank
+40,बैंक ऑफ बड़ौदा,ChIJKyI9JtCaoDkRljjllDUp1Kg,29.2012469,79.5264728,bank
+41,Dena Bank,ChIJ88KzLtCaoDkRRNotP_066HM,29.2008704,79.5263765,bank
+42,ICICI Bank Haldwani - Branch & ATM,ChIJwa4rZ-6aoDkRpBlZ0Gt2odA,29.2242,79.531,bank
+43,"State Bank of India, Bhotia Paraw",ChIJu1dV3fGaoDkRUzGmi6AXjiM,29.2274037,79.5308366,bank
+44,IDBI Bank,ChIJ8UkuvPGaoDkRZNLJIMfcgRQ,29.2285755,79.530385,bank
+45,IndusInd Bank ATM,ChIJEaEppfGaoDkRNHNIlC7Cbqc,29.22882899999999,79.5303,bank
+46,HDFC Bank ATM,ChIJhX1wKOeaoDkR8aPg4a6Pquo,29.21721500000001,79.521669,bank
+47,Axis Bank ATM,ChIJNy-TW6mboDkR8fYV_xHLWNs,29.2116922,79.51635069999999,bank
+48,Fino Payments Bank Haldwani,ChIJ77RnuhWboDkRYSEgjfdYzIM,29.2168969,79.516898,bank
+49,Central Bank Of India,ChIJ4e4sbdyboDkR-AsdN6xugUI,29.2179233,79.51851800000001,bank
+50,"State Bank of India, Rampur Road",ChIJS8rFTUOboDkRBQN5G9B_nzk,29.21059259999999,79.5246619,bank
+51,Punjab National Bank,ChIJG5I4o-GaoDkRRfAuifFxbwE,29.2181939,79.51754350000002,bank
+52,HDFC BANK,ChIJk417bGaboDkRnJ0D2SwHkOA,29.2180718,79.51719779999999,bank
+53,HDFC Bank ATM,ChIJ0ah2pvGaoDkRLWpW4OS5Sig,29.218577,79.5166679,bank
+54,Kashipur Urban Co-op Bank,ChIJeykK1dyaoDkRuyniT7Ux2-E,29.2118608,79.5266584,bank
+55,UCO Bank,ChIJr0wZnMKaoDkRCbQIjOYt4T8,29.2151656,79.5282074,bank
+56,Axis Bank ATM,ChIJRyTMMxSboDkRoUKgKW7Eu_I,29.2144964,79.5283556,bank
+57,Uttarakhand Gramin Bank,ChIJz6_OIOiaoDkRgMUXOw2bA1c,29.2153119,79.5283063,bank
+58,Hotel Shri Krishna Complex,ChIJKZX-KZeboDkRkIpfoGwD1og,29.2141753,79.5286704,bank
+59,ICICI BANK ATM,ChIJi5iPtKSboDkRMFRA2xoZIrs,29.2110977,79.5285339,bank
+60,Uttarakhand State Co-operative Bank,ChIJt8rg_IyboDkR-DdDRoBxszk,29.2161942,79.5286285,bank
+61,Nagar Nigam Office,ChIJte0CHemaoDkRcXiXn7ZTQcc,29.21938080000001,79.52958869999999,local_government_office
+62,"Office Of Executive Engineer, Irrigation Division, Haldwani",ChIJD99yf-eaoDkR_ZSAL84MNw8,29.2148507,79.5237271,local_government_office
+63,Small Scale Industries Office,ChIJ11SP8OeaoDkRVxUVfYM9t6M,29.21544339999999,79.5259523,local_government_office
+64,UPNL Office Haldwani,ChIJe9rJEh6boDkRnx11bpFgo14,29.2187453,79.5139482,local_government_office
+65,raju,ChIJOesuWw6boDkRO5GnbqIi1o4,29.2182644,79.5129767,local_government_office
+66,Officers Colony S.D.M. Compound,ChIJEQANT-iaoDkR0g1ECTPRb74,29.2169628,79.52889379999999,local_government_office
+67,Registration Office,ChIJyf89qemaoDkRXYkfV8qJHK4,29.2177255,79.52989319999999,local_government_office
+68,S D M Office,ChIJyeZPAumaoDkRSxLYLMj1UbE,29.21886839999999,79.5295113,local_government_office
+69,Bhawani motor works,ChIJT-e2liqboDkRmdrsO6V2oEI,29.2195037,79.5313171,local_government_office
+70,P D Enterprises,ChIJ98m7OfCaoDkR8h2PaqySlrA,29.22771200000001,79.52861399999999,local_government_office
+71,Police Station,ChIJ_x3CVOiaoDkRV8xHlgEaSXA,29.2173412,79.5293001,police
+72,Police Station,ChIJyXbhHuGaoDkRYdXV-cGRfes,29.2171633,79.52014369999999,police
+73,Police Chowki,ChIJq7P4bsOaoDkRX8X8bcb0NNk,29.210192,79.52855,police
+74,Mangal Parao Police Station,ChIJ_U9aYcOaoDkRhOtdi-95bBE,29.2103172,79.52863289999999,police
+75,DIG Police Residence,ChIJNaqrr4GboDkRaen8FBXJ9MA,29.2180661,79.5283449,police
+76,A.S.P office,ChIJWU91TOiaoDkRLyJWyH7TeGw,29.2168673,79.5291665,police
+77,THANA BANBHOOL PURA,ChIJNZn-GISboDkRPRcGB_HLALQ,29.212764,79.532319,police
+78,Police Chauki,ChIJJWxHHO6aoDkRjNk7AMdEaSk,29.2264834,79.53128050000001,police
+79,Police Chowki,ChIJN2jRFtSaoDkRIBYv5mxHB54,29.19617299999999,79.51992,police
+80,Post Office,ChIJTbXJn-eaoDkRM8WexDppXUA,29.2157996,79.52321850000001,post_office
+81,Sub Post Office,ChIJNTDL4sKaoDkRSWXnp2RK6mA,29.212262,79.528727,post_office
+82,Post Office,ChIJG_aOuMSaoDkRT_IVzNGlfXM,29.2078145,79.5275322,post_office
+83,Head Post Office,ChIJeU9CyemaoDkR7ZnqS1QB8ms,29.216277,79.5298415,post_office
+84,Post Office Badi Mukhani,ChIJVfXp6CKboDkRygjgfxpZcNg,29.211181,79.50579599999999,post_office
+85,"Holy Angels' Convent School, Haldwani",ChIJiZi9ZOeaoDkR6vNbEOPYOyM,29.21498,79.52296,school
+86,K.V.M. Public School,ChIJ-RsPmSWboDkRKjARLE7g-QE,29.2124822,79.5170236,school
+87,ABM Senior Secondary School,ChIJQYbOjECcoDkRDc4IOMp_owE,29.21239169999999,79.5166181,school
+88,Cynthia Senior Secondary School,ChIJ7apKLSKboDkR4sKaTtoaXKQ,29.2105256,79.5095422,school
+89,Saraswati Vidya Mandir Inter College,ChIJq6qq8-CaoDkReBfTGuhrDbI,29.215847,79.51871,school
+90,Indo Japan Academy Haldwani,ChIJB3eTxhCdoDkRXZ3ZH9Em0eU,29.2171124,79.521151,school
+91,"Kidzee Mukhani, Haldwani",ChIJa1u4DxyboDkRZNMQqDDkRSo,29.2144797,79.51437589999999,school
+92,Mozart Academy of Music,ChIJzcdwQsOaoDkRkguYI4yyEZw,29.209886,79.528125,school
+93,Ahmad sifee,ChIJ_32Vz-aboDkRTlzLjNsF8sA,29.2182644,79.5129767,school
+94,Free Redical Classes,ChIJc54J9MGboDkRrkIjZ0ESrBE,29.2185895,79.51005169999999,school
+95,Red Rose Public School,ChIJP5d6sxSboDkRq7LNtTJ_lCw,29.227442,79.5275157,school
+96,Navin Shishu Shikshalaya,ChIJqcSjE-6aoDkRkn0HqcggJdI,29.2254429,79.5313863,school
+97,N. I. A. C. E. Foundation,ChIJB59C9BqboDkR1NFc0CnYH38,29.2220395,79.50563009999999,school
+98,Aligarh Public School,ChIJmSmRG86aoDkRUd74N-LEMLQ,29.19861419999999,79.5270366,school
+99,Mahatma Gandhi Government School,ChIJGZfySdCaoDkR_UCFq4JK2Wo,29.2009143,79.52503999999999,school
+100,Indo Japan Academy Haldwani,ChIJB3eTxhCdoDkRXZ3ZH9Em0eU,29.2171124,79.521151,secondary_school
+101,Mahila Degree College,ChIJCcVK4--aoDkRUEGJYM5vYmw,29.2259357,79.5273156,university
+102,Government Medical College,ChIJfbPTNtqaoDkRlIYVlE6Rp_o,29.2063975,79.52138120000001,university
+103,Shivalik Enterprises,ChIJ1Ulw-WGboDkRnIC43_nYQZ0,29.2262542,79.5284441,university
+104,Government Girls Inter College,ChIJ7aObFueaoDkRpqPdnDj48Ak,29.2161349,79.5222291,university
+105,Swar Sangam (DeA),ChIJcfKNHd-aoDkRnjgcqlhsCIY,29.2104473,79.51812249999999,university
+106,KMOU Bus Station,ChIJ20tb7-maoDkRXN9yA0B92lY,29.2160071,79.5312637,bus_station
+107,KMOU Bus Station,ChIJD8p17-maoDkRb02seHc95dA,29.2160409,79.53139180000001,bus_station
+108,Bazpur Bus Stop,ChIJecnrDRyboDkRi5QvqcRCYXc,29.22046240000001,79.5102668,bus_station
+109,Haldwani,ChIJTT18CeqaoDkR5NQxfyqOqDA,29.2150168,79.5340472,train_station
+110,KMOU Bus Station,ChIJ1zpy7-maoDkREsQOM2NBKBA,29.216024,79.5313278,transit_station
+111,Kemu Bus Parking,ChIJ3y4D1OWaoDkR6-T97X94bAg,29.220732,79.524149,transit_station
+112,Haldwani Near Bus Stand,ChIJOwzOSuiaoDkRbXvRQjkj0uo,29.2170793,79.5294594,transit_station
+113,KMOU Bus Station,ChIJ20tb7-maoDkRXN9yA0B92lY,29.2160071,79.5312637,transit_station
+114,KMOU Bus Station,ChIJD8p17-maoDkRb02seHc95dA,29.2160409,79.53139180000001,transit_station
+115,K M U Bus Stand,ChIJCTkb--maoDkRc27E9RCFBYM,29.215772,79.531668,transit_station
+116,Bazpur Bus Stand,ChIJo3baDRyboDkRoi772CJxju8,29.220433,79.51032699999999,transit_station
+117,Bazpur Bus Stop,ChIJecnrDRyboDkRi5QvqcRCYXc,29.22046240000001,79.5102668,transit_station
+118,Kemu Bus Stand,ChIJXaZLNumaoDkR-vzJsW0OJuQ,29.220408,79.53073499999999,transit_station
+119,Haldwani,ChIJTT18CeqaoDkR5NQxfyqOqDA,29.2150168,79.5340472,transit_station
+120,Roadways Workshop Bus Stop,ChIJUzbAK-yaoDkRG0MSvE9rVUI,29.2236677,79.532501,transit_station
+121,South Indian Church,ChIJob05FiiboDkRj8vGDZzT5YM,29.2118902,79.5321895,church
+122,Guala Church,ChIJeXPfWUSboDkRpqskJ5BECNY,29.2102959,79.53503429999999,church
+123,Tripureswari and Balaji Mandir,ChIJKVuMtCGboDkR99MViieJgQU,29.2120262,79.5124199,hindu_temple
+124,Bajrang Bali Temple,ChIJz-JroViboDkRa-ZNCYPeIVU,29.2117403,79.5315048,hindu_temple
+125,Shivalay,ChIJYf7lxMaboDkRDVJBiOcGFRU,29.2128205,79.5317583,hindu_temple
+126,Yogi Temple,ChIJUTCX9zGboDkRj9a5QzXjO1Y,29.2123367,79.5323162,hindu_temple
+127,Durga Temple,ChIJnTpSHMSaoDkRhEugQo4jbA8,29.208612,79.532048,hindu_temple
+128,Bajrangbali Temple,ChIJ1TdWWO2boDkRjbC14Yk6Bx8,29.21044979999999,79.53514729999999,hindu_temple
+129,Neeraj Dalakoti General Store,ChIJYwdXXiSboDkR-1Mgpf7KcBA,29.2059802,79.5071541,hindu_temple
+130,Puran pandit ji,ChIJ8Yn0p4yboDkRWDojVdyYmSs,29.2259545,79.528485,hindu_temple
+131,Tripureshwari Shaktipeeth Temple,ChIJE-V67uWaoDkRzSXv0ajBPfw,29.2215944,79.5257207,hindu_temple
+132,Astana Masjid,ChIJryop3MWaoDkRcgQsfVWylh4,29.2052659,79.5318472,mosque
+133,SAROJ A JOSHI & COMPANY,ChIJj48cK-WaoDkRzKpF5ri83SA,29.2256797,79.5229765,accounting
+134,I P Singh & Associates,ChIJ6-gmZx6boDkRAdceZ5tEGRA,29.2283651,79.53142609999999,accounting
+135,"Sati and Company, Chartered Accountants",ChIJFbRfoW-boDkRNZj7Tt1VFXM,29.2157188,79.51748649999999,accounting
+136,Alankit,ChIJiVb-R52boDkRm-YBNRjAOgA,29.217322,79.5181121,accounting
+137,Aman Kesharwani & Co.,ChIJ7du9n_GaoDkRmp3s1p0z5uw,29.21257,79.526016,accounting
+138,Alankit,ChIJkYk7uBaboDkR9-jrL9kYe9k,29.2184181,79.5172637,accounting
+139,Alankit,ChIJVdezb_eboDkRyguGqKwl7aM,29.2222716,79.5230536,accounting
+140,Himanshu Karakoti & Co.,ChIJa60k-PCboDkRyCyvhaL_PFo,29.22039059999999,79.5111948,accounting
+141,Alankit,ChIJS5rt_COboDkRlEiTC0F17_g,29.2275826,79.5290528,accounting
+142,YMACK & CO. (CA),ChIJu-UaGOiboDkRf2i2HHeMXQA,29.2269829,79.5308155,accounting
+143,Alankit,ChIJO7ZiEr2boDkRfOb9kg0yYXs,29.2291069,79.5283153,accounting
+144,Bahuguna & Associates,ChIJgbxzt_GaoDkREZLFX0VvLzM,29.2283174,79.5301564,accounting
+145,DUA MANRAL AND ASSOCIATES,ChIJtb0R0haboDkRsTk0L5bGd24,29.217513,79.50023,accounting
+146,DP'S NANAK - Sweets Bakery and Restaurant,ChIJ-y2EPO6aoDkR4RIBUSdk-aQ,29.2285054,79.5311083,bakery
+147,Family Bakery,ChIJd5yZTU2boDkRjUNcKz0v-68,29.2155904,79.5176511,bakery
+148,Rainbow Confectioners,ChIJ6XUGKeeaoDkRM2xlOZAqses,29.2171407,79.52131349999999,bakery
+149,Victoria Pastry Palace,ChIJ2_OAF-eaoDkROUCxLEBiK2g,29.21669539999999,79.52256349999999,bakery
+150,Fresh Baker's,ChIJO768U_qboDkRezhtmYS4sAo,29.218909,79.51897,bakery
+151,RK cake shop,ChIJb6zwq5OboDkR3V36_3DXaUo,29.21130229999999,79.52615279999999,bakery
+152,Fresh Baker's,ChIJZ1KfwCOboDkRd_TyilfAG-Y,29.219463,79.518802,bakery
+153,Gouriya Baker's,ChIJMamFGl2boDkR_AqApWlag7w,29.2130946,79.513269,bakery
+154,Standard Sweets And Restaurant,ChIJyzNy2sKaoDkRg_ysPtdiISI,29.212528,79.527559,bakery
+155,Prabhat Bakery,ChIJpXXLQx6boDkRhF7bn4ZrSX0,29.2179537,79.51354979999999,bakery
+156,Anu's Cake,ChIJq6y6mPh6oDkRXbIfx2qXAuk,29.21115599999999,79.52848000000002,bakery
+157,Nayana Namkeen & Bakers,ChIJTzLHGsOaoDkRaVcjh0e5aJI,29.21155599999999,79.528696,bakery
+158,Sukhija Sweets,ChIJzTvPEMOaoDkR7ORpyVG777E,29.2108414,79.528425,bakery
+159,Baking Bite,ChIJGWyrf-SaoDkRgJJbx_u_RMI,29.22306270000001,79.5214999,bakery
+160,Golden Café & Bakers,ChIJI_vBaZeboDkRiQaed7qqKdY,29.21038,79.53074509999999,bakery
+161,Bombay Bakers,ChIJnxKCMsKaoDkRW7ulfZRLoJ8,29.21286589999999,79.5316476,bakery
+162,BEST BAKERY,ChIJ7d-gsvaboDkRXOwMM4oIWng,29.2238753,79.5256854,bakery
+163,Bakedpanda,ChIJK-1x-_aboDkRi0GuVRtxgro,29.22425669999999,79.52595989999999,bakery
+164,Deepak's Bakery,ChIJRdUWSx2boDkROBQlfLg9vFo,29.2252651,79.51420259999999,bakery
+165,Perfect Bakery,ChIJTYRBh0mboDkRFZgR33ym2vo,29.221606,79.5076887,bakery
+166,Kamal Cycle Store,ChIJjUZr2cKaoDkRwQkU_Tj7PsY,29.21230439999999,79.5276045,bicycle_store
+167,Avon Cycles,ChIJIy206sKaoDkRdQdCAd8Amdo,29.2126509,79.52806939999999,bicycle_store
+168,Today's Book House,ChIJv_rEQcOaoDkRgV_s4sICz1M,29.2101899,79.5280169,book_store
+169,Modi Dhage art and craft store,ChIJF5978eeaoDkRdWkNSVD5BVQ,29.21529,79.525594,book_store
+170,Pooran Sons,ChIJn-rg5-GaoDkRT2BANn3FpHg,29.2182945,79.5165134,book_store
+171,Pooran & Sons Group,ChIJC7HijlmboDkRnL5V7WCnsPM,29.2096788,79.5279584,book_store
+172,Career Choice Centre,ChIJLfDnJumaoDkRIBjypoJMOyU,29.2198463,79.5297195,book_store
+173,Pooranmal & Sons Book Store,ChIJxzr5mBuboDkRt9L8KRjUKu0,29.22153029999999,79.50849989999999,book_store
+174,Mahendra Tea Stall,ChIJQTVLetyaoDkRJf4Zuqe1GK8,29.2093217,79.5232829,cafe
+175,Cafe Big Mo's Restaurant,ChIJk4MPKfeaoDkR0P1ch7PozqE,29.2182669,79.5129742,cafe
+176,Golden Café & Bakers,ChIJI_vBaZeboDkRiQaed7qqKdY,29.21038,79.53074509999999,cafe
+177,Nasifa roller,ChIJEfeNx7CboDkRP-4TNhBmPRg,29.2120561,79.5330686,cafe
+178,pintu Tea Stall And Restaurant,ChIJnUMLtBuboDkR6Lvq1FiT3Yc,29.1974083,79.5207777,cafe
+179,Joshi Jalpan Grah - Best Tea Stall In Haldwani,ChIJ6-gmZx6boDkR7FeD_xZnYhk,29.197083,79.521531,cafe
+180,Volkswagen Haldwani,ChIJ1XbXXh6boDkR34TSQINJEBQ,29.2101115,79.5239276,car_dealer
+181,Vaibhav Laxmi Tourism - Taxi Service Haldwani,ChIJ-9rlKueaoDkRUTDGn3Q4YwU,29.2169541,79.52125819999999,car_rental
+182,MRF Tyre,ChIJAQ0eSCiboDkRVk1kJ-f1Hrw,29.200152,79.5139669,car_repair
+183,Bhasin Tyres (MRF T&S),ChIJawf9NSiboDkRgTn_GmyfAjs,29.199856,79.514005,car_repair
+184,Kumaun Electrical,ChIJZ9QR1HqboDkRkuxyrNMxEXo,29.21834389999999,79.5225498,car_repair
+185,Bikers Bub By Raman,ChIJlQIPPhGboDkRmUbJy3Mf3rY,29.2130317,79.51323699999999,car_repair
+186,Shri Siddhi Vinayak Traders,ChIJKSvlps-doDkRlkXGTrxiqc4,29.2193751,79.513042,car_repair
+187,RVN Battery & R.O.,ChIJ4VE8MGmboDkRPLSFpU4sGZQ,29.2195318,79.5128202,car_repair
+188,Tyre Shoppe - BRO Goodyear (Alignment & Balancing ),ChIJlbOEFumaoDkRPiJi_y8ubXg,29.219253,79.53045999999999,car_repair
+189,Devesh Auto Engineering Works,ChIJ1boreemaoDkRGqF8Vb3VEho,29.2183192,79.5318963,car_repair
+190,ROHAN DIESELS,ChIJS5VNzu6aoDkRXF6VmXTHT40,29.221419,79.53026100000001,car_repair
+191,Bhawani motor works,ChIJv7WqpzWboDkRAwjK9QUZxfI,29.2235113,79.5303979,car_repair
+192,MJ's AUTOMOBILES VESPA AND APRILIA,ChIJ2eYAFZOboDkRaJ0kaQQ70Bg,29.20002139999999,79.5145697,car_repair
+193,Delhi Auto Engineers Works,ChIJBYVaIPCaoDkRJWD7ZFfXBQo,29.2266392,79.5282241,car_repair
+194,Bikers hub,ChIJCdd0IZWboDkRQGRjDAWBmGE,29.19899379999999,79.5137381,car_repair
+195,Planet Fashion,ChIJ95iVNeCaoDkR65TNROEe9Ko,29.2182644,79.5129767,clothing_store
+196,adidas,ChIJA-YmZx6boDkR8RG-Y_priI8,29.2185558,79.5295782,clothing_store
+197,Toonz Kids & Baby Store Tikonia Haldwani,ChIJv93ju8KaoDkROpLz1IGNKf4,29.2222403,79.53005449999999,clothing_store
+198,Shaifali's Bridal Studio- Best Bridal Makeup Artist /Parlour /Unisex Salon,ChIJOSIylvGaoDkRpw0jJqwf-4E,29.229204,79.5300848,clothing_store
+199,M. ALI & SONS - OUTFITTERS & CLOTH MERCHANT,ChIJBwNpot-aoDkR1FCanZJehiY,29.2121041,79.5170153,clothing_store
+200,KILKARI COLLECTION,ChIJM3KSLOCaoDkR3NVriyYLL-A,29.2173241,79.5206865,clothing_store
+201,RADHA FANCY DRESS ON RENT,ChIJrWUjJ-GaoDkR5HOaybNea6o,29.2173594,79.52001330000002,clothing_store
+202,Excellent Tailors,ChIJgcxf1B2boDkR6AQMmNig9ak,29.2141127,79.5280542,clothing_store
+203,Sparkle Jewellery Cosmetics,ChIJ7dZ4kcKaoDkReMBF_8p5WkQ,29.2140121,79.5285657,clothing_store
+204,Satya Vastra Bhandar,ChIJ26Q8jMKaoDkRwSFEu0kD_9Q,29.2139122,79.5289413,clothing_store
+205,SAREE MAHAL,ChIJowFnfmaboDkRQgyVKnj6iFs,29.21442369999999,79.5289895,clothing_store
+206,Surjeet Cloth House,ChIJ1d7TZw6boDkRgn3L0l5Y17Y,29.2129,79.529118,clothing_store
+207,Shri Sai Undergarments,ChIJQbZsHWmboDkRrkP1HUDJzxM,29.2129002,79.5291184,clothing_store
+208,Geetanjali Grooms and Bride,ChIJM_V4gKyboDkRm7NddsOW30E,29.212869,79.52913420000002,clothing_store
+209,New Mausa bangle house,ChIJdaCl98KaoDkRnmwFT2PuFy8,29.2132966,79.5291936,clothing_store
+210,Lovely Palace,ChIJR_smiz2boDkRVmlgS71BM7w,29.21391070000001,79.5292078,clothing_store
+211,Shri Sai Undergarments,ChIJUfcoYwyboDkRq1yrqByDbJg,29.2141064,79.5295338,clothing_store
+212,Prem Chand pradeep kumar,ChIJoUxNBe-boDkRwkisXme3OJY,29.2130015,79.5295695,clothing_store
+213,MTRS-KHANNA SONS - HALDWANI,ChIJqRGCPo6boDkRxCBHw0eyJG0,29.2080273,79.527648,clothing_store
+214,Salma,ChIJjTxEPgWboDkR8-F-jUgLm8g,29.2125711,79.5316426,clothing_store
+215,Shri Gandhi Aashram Khadi Bhawan,ChIJvUuNOh6boDkRm7YWInHcA1Q,29.2139339,79.52908649999999,convenience_store
+216,Comexcel Microsystems,ChIJ7RzgScWaoDkRKBsb0zGUmOw,29.204843,79.527057,electronics_store
+217,Lenovo Exclusive Store - Comps & Keys,ChIJaaq6C-eaoDkRqt6_BSjd7zU,29.216295,79.523577,electronics_store
+218,Audio vision,ChIJrWcZoECboDkRO96v6Ty7wGI,29.2177108,79.5185971,electronics_store
+219,Amit Thakur Photography,ChIJF6ie2BGboDkRL42n9qttCq8,29.2179003,79.51850979999999,electronics_store
+220,Sanskar | Hearing Aid Store in Haldwani,ChIJn2CEr1CboDkR0UAV_hsCTEM,29.2179723,79.5181356,electronics_store
+221,the wave musicals(haldwani),ChIJsa4lluGaoDkRqeIkpkd8MXc,29.2182756,79.5174778,electronics_store
+222,Guitar DRIVE Haldwani,ChIJA-YmZx6boDkRNUn-sufPXgY,29.2153172,79.52796099999999,electronics_store
+223,Mozart Academy of Music,ChIJzcdwQsOaoDkRkguYI4yyEZw,29.209886,79.528125,electronics_store
+224,GV,ChIJF8TdFsKaoDkRm3SwNgawwaM,29.214103,79.531359,electronics_store
+225,Lovey Electronics,ChIJV0DJEMKaoDkRaZHf-MK6n9M,29.2141941,79.5314348,electronics_store
+226,G.K. Electronics.,ChIJZ8Foh8GaoDkR1qoAyp0Eexg,29.21290899999999,79.5322953,electronics_store
+227,Let's Record Studio,ChIJIVdBI2eboDkROTOjchr03QY,29.2243252,79.52493319999999,electronics_store
+228,Itel service center,ChIJU0e8pV-boDkRYx8vEzYmwGU,29.2240979,79.52570829999999,electronics_store
+229,Sidhivinayak Mobile Care,ChIJ-wXxYO6aoDkRGrdx_pVMXAg,29.225422,79.5311612,electronics_store
+230,Javed Honda service Centre,ChIJI6TJ1IuboDkRR_akt6s2o-Q,29.1993046,79.5266122,electronics_store
+231,Shadab Communication,ChIJXwX1Ic-aoDkRaKTsegoOVRk,29.20118879999999,79.5309164,electronics_store
+232,Motorola Service Center,ChIJC1ZauvGaoDkRY-HmnoEDI1g,29.2285837,79.53025660000002,electronics_store
+233,V&R Computers Haldwani,ChIJl8v1TvGaoDkRt9W7h5PPatE,29.2289358,79.5305569,electronics_store
+234,AMBAC TRADING CORPORATION ( www.service4u.co.in ),ChIJjRCo9M_jDDkRKsgfhiCPBFY,29.2244417,79.5225318,furniture_store
+235,IFB Point - Haldwani,ChIJVddJD-GaoDkRCfXjsoEAj3A,29.21791,79.51857,furniture_store
+236,Idea Store,ChIJf1472sSaoDkRPPKyoEgz08I,29.2077929,79.527681,furniture_store
+237,IFB Point - Kusum Khera,ChIJRavTbEWboDkRhTGe1L9aLdc,29.223325,79.506255,furniture_store
+238,ANSARI METALS COMPANY,ChIJrcEIzBmboDkRbNDhjrwv0hM,29.1985303,79.5252679,furniture_store
+239,Muskan Aluminium & Steel Metals ( Modular Kitchen Dealer ),ChIJH6Wb3vOboDkRJLTkByGSEG0,29.2299854,79.51832390000001,furniture_store
+240,Essar Petrol Pump,ChIJLyKvxeWaoDkRqCX4YpvwLWk,29.221552,79.5245308,gas_station
+241,Bharat Petroleum Petrol Pump,ChIJBx9-u-GaoDkRtroCfOUvzCc,29.218082,79.517327,gas_station
+242,Indian Oil Petrol Pump,ChIJj9Cs3NyaoDkRNqACAjV_ucY,29.211191,79.52553600000002,gas_station
+243,Petrol Pump,ChIJuerOuOGaoDkRyBu0psX2eXo,29.2180207,79.51689850000001,gas_station
+244,Bharat Petroleum Petrol Pump,ChIJbUzoJemaoDkRdtoaS187Kaw,29.220063,79.529837,gas_station
+245,HPCL Fuel Station,ChIJp3RtvfGaoDkRnTul1d_1r14,29.2287069,79.5307589,gas_station
+246,Jaharmal and Sons Petrol Pump,ChIJA_rd3NyaoDkRPiq9Grho-LM,29.2113013,79.5255451,gas_station
+247,"Bharat Petroleum, Petrol Pump -Jagannath Service Station",ChIJI6RrTqiboDkR8cC6OR-gec8,29.218076,79.51705799999999,gas_station
+248,National Fuels HPCL,ChIJ-cXJd9yaoDkRGLW3HNgb3jk,29.2089167,79.52296199999999,gas_station
+249,Hamara Petrol Pump,ChIJA-YmZx6boDkR_QSxvJNvv2U,29.2182644,79.5129767,gas_station
+250,HP PETROL PUMP - MATHURA PRASAD & SONS,ChIJlYyMEOmaoDkR9cDbcBr9Dws,29.21895039999999,79.52998170000001,gas_station
+251,"Bharat Petroleum, Petrol Pump -Triloksingh & Company A/C. Haldwani",ChIJ1zvKdcOboDkRNBX0my8-C6o,29.215509,79.5324558,gas_station
+252,"Bharat Petroleum, Petrol Pump -Harbans Motor Works A/C. Haldwani",ChIJyStLspSboDkRXVHWxMXkggs,29.220936,79.53071899999999,gas_station
+253,Abdullah Petrol Pump,ChIJt9ZxvRuboDkRe7V3EM2Qzb0,29.2211757,79.5078132,gas_station
+254,"Bharat Petroleum, Petrol Pump -Gurunanak Service Station",ChIJV1mEOgmboDkRiyvlRG3h6rU,29.2236606,79.530416,gas_station
+255,Hills View Service Station,ChIJJX64WOGaoDkR-xPl7_pPleg,29.198807,79.525395,gas_station
+256,H P Gas,ChIJu3JPmhqboDkRFDpVrGlvlwo,29.222711,79.50469799999999,gas_station
+257,Jai Golu Properties - Property Dealer in Haldwani,ChIJ1YfQex6boDkRSUhQ4ZIfLz4,29.21914899999999,79.513052,real_estate_agency
+258,Haldwani Realtors | Property Dealers,ChIJJX64WOGaoDkRwUcF1VhqB_Q,29.22906129999999,79.530458,real_estate_agency
+259,Agarwal Properties | Property Dealers In Haldwani Real Estate Agents,ChIJtZg4H-iaoDkRToZq9XairrI,29.214042,79.5207241,real_estate_agency
+260,Town Edge Associates,ChIJA-YmZx6boDkRaXX3cWSEIG0,29.2166827,79.51977149999999,real_estate_agency
+261,Omsaiproperties n advisors,ChIJbRjlOwCboDkREZIRfzOfBkM,29.2170649,79.51454729999999,real_estate_agency
+262,Gayatri Associates,ChIJA-YmZx6boDkRVcrkdgSs3JY,29.2182644,79.5129767,real_estate_agency
+263,"Jaydev traders,brick supplies and property dealer",ChIJd4slcw2boDkRZm2LAb4AoKQ,29.20523829999999,79.5063967,real_estate_agency
+264,P D Enterprises,ChIJ98m7OfCaoDkR8h2PaqySlrA,29.22771200000001,79.52861399999999,real_estate_agency
+265,palishantm infratech pvt ltd,ChIJz4X119OaoDkRTU0GGOlRQoI,29.19724939999999,79.523121,real_estate_agency
+266,Ganpati Vihar phase 1 and 2,ChIJM_WFDTuboDkRh4mxES28jxg,29.2055175,79.5019962,real_estate_agency
+267,adidas,ChIJA-YmZx6boDkR8RG-Y_priI8,29.2185558,79.5295782,shoe_store
+268,Bata,ChIJXd-J1WaboDkRMRRrMkFS1AE,29.22,79.52,shoe_store
+269,Fit N Fine shoes,ChIJeZ25yHSboDkRlZuxQif2zb0,29.2152469,79.5281145,shoe_store
+270,Kumaon Footwear,ChIJIwJ9_8qboDkRObfJoh8W6UU,29.2144493,79.52828679999999,shoe_store
+271,Hasan Footwear,ChIJAWT8bMOaoDkRfyry2H85pJk,29.210559,79.5285356,shoe_store
+272,Bata showroom,ChIJ8zPFDWKboDkRL4s7euWKark,29.213787,79.53026969999999,shoe_store
+273,Bata,ChIJZSnsUKKboDkRLpHBErtZevM,29.220222,79.530078,shoe_store
+274,Shiv Ratan Kendra,ChIJDdF7ocSaoDkRcQbUGbTn3G8,29.2087681,79.52782839999999,shopping_mall
+275,Patanjali Mega Store,ChIJR0cK2-6aoDkR4L-nEOyfR6w,29.221845,79.5299659,shopping_mall
+276,KILKARI COLLECTION,ChIJM3KSLOCaoDkR3NVriyYLL-A,29.2173241,79.5206865,shopping_mall
+277,Krishna paper agency,ChIJw9s7Cy2boDkRPZcGLU6nyVI,29.2134587,79.5257565,shopping_mall
+278,the wave musicals(haldwani),ChIJsa4lluGaoDkRqeIkpkd8MXc,29.2182756,79.5174778,shopping_mall
+279,Pankaj Mall,ChIJ1eFf-cKaoDkR1wIlwzVKCJo,29.2123138,79.52824749999999,shopping_mall
+280,Mishra General Store,ChIJh3F4qyaboDkReleZ0A43nFM,29.2076375,79.5100693,shopping_mall
+281,Aatam complex,ChIJOYnNi7uboDkRXruBNQW7_ww,29.2216412,79.53000949999999,shopping_mall
+282,Om Sai Associates,ChIJY5fkg-CaoDkRYAuCOSm-qRs,29.2145379,79.5185645,storage
+283,Rashmi Book Depot Godown,ChIJn4FEcfCaoDkRWZFxrTpwD_c,29.228239,79.5270376,storage
+284,Bhasin Medical Center,ChIJO0Krf8KaoDkRLAwUzAgcQHk,29.214268,79.52928589999999,store
+285,Comexcel Microsystems,ChIJ7RzgScWaoDkRKBsb0zGUmOw,29.204843,79.527057,store
+286,Jai Guru Jewellers,ChIJM-7DJ-iaoDkRxqYEn6MQgbE,29.215146,79.528637,store
+287,Easyday Club,ChIJFX8c5-GaoDkRuFH1Rag1_o4,29.2185569,79.5158785,store
+288,Kapilaz,ChIJaRSuGh6boDkRDWZRvmqtwPM,29.2188807,79.5147937,store
+289,Today's Book House,ChIJv_rEQcOaoDkRgV_s4sICz1M,29.2101899,79.5280169,store
+290,Feelings Gifts Gallery,ChIJGYO8w9yaoDkRuoybG4UrYkg,29.2092865,79.51586379999999,store
+291,Star Creation,ChIJ-5aMBuGaoDkR8QIhbkTtc6Y,29.2161142,79.5179479,store
+292,Whirlphool,ChIJZRA3G-GaoDkRywnDStB4J-Q,29.2175969,79.5189193,store
+293,Volkswagen Haldwani,ChIJ1XbXXh6boDkR34TSQINJEBQ,29.2101115,79.5239276,store
+294,Modi Dhage art and craft store,ChIJF5978eeaoDkRdWkNSVD5BVQ,29.21529,79.525594,store
+295,SHIVAAY MEDICOSE GENERIC MEDICAL SHOP,ChIJxeeZ6eaaoDkRHeSxdf8E_ig,29.2184433,79.5187344,store
+296,uttarakhand dairy,ChIJv99UycKaoDkRZSSp8ggqpPc,29.2183231,79.5175295,store
+297,STANDARD SWEETS,ChIJMTWl28KaoDkR50XujJLKRDQ,29.2125591,79.52754929999999,store
+298,Mahendra Optics,ChIJd2cQl8KaoDkRa4LBem6DzBk,29.2140925,79.52842179999999,store
+299,RAVINDRA GUN HOUSE ARMS AND AMMUNITION DEALER,ChIJ0xqz7sKaoDkRci0TF9-vJFw,29.213238,79.528431,store
+300,Mehak Iron House - Agriculture Tools Dealer | Hand Tools and Power Tools Dealer,ChIJpXNe7MKaoDkRLS32gLx5wNo,29.213374,79.528472,store
+301,Planet Fashion,ChIJ95iVNeCaoDkR65TNROEe9Ko,29.2182644,79.5129767,store
+302,J. M. Flowerist,ChIJZU4zGsOaoDkRsimDZIx5YdU,29.211468,79.529119,store
+303,Mittal Sweets,ChIJHS4bvMSaoDkR0kunplZJkOo,29.2085687,79.5277491,store
+304,Big Bazaar,ChIJfQPypPGaoDkRZz6hAarMJQQ,29.228943,79.5303773,supermarket
+305,Swami Tower,ChIJkTWyW-CaoDkRXnJL9Mq3hAQ,29.2161213,79.51771529999999,supermarket
+306,ankur thakur vegetable shop,ChIJ41XvVqmboDkRp_oujCcvnfE,29.2175156,79.51956129999999,supermarket
+307,Megh Shyam Mall,ChIJrQmsjj-boDkRpuZoJFgFDwc,29.218458,79.51642799999999,supermarket
+308,B.M Store,ChIJfXk8pcKaoDkRU8Sgpzk1JEs,29.2135872,79.52704299999999,supermarket
+309,Big Mart Retail Store,ChIJI6kaZWmboDkR6dxGt79QKBA,29.2127974,79.5282908,supermarket
+310,Pankaj Mall,ChIJ1eFf-cKaoDkR1wIlwzVKCJo,29.2123138,79.52824749999999,supermarket
+311,New Bhasin Store,ChIJ2XlEIsOaoDkRGp1Xi6v9Z-I,29.2115299,79.528015,supermarket
+312,S.R Sons Sadar bazaar bag store,ChIJ3bsr88KaoDkR3CeuB1qBVfM,29.2132623,79.5288173,supermarket
+313,Niranjan General Store,ChIJfxPg8r2boDkR6ns0KcF--3s,29.2131078,79.5290969,supermarket
+314,Town edge,ChIJRd0JDqGboDkRF8ZLkB5Nwsk,29.2182644,79.5129767,supermarket
+315,Israil ornaments,ChIJd_boicKaoDkRAXcnX5ztJZY,29.214083,79.529381,supermarket
+316,Old Sabji Mandi Road,ChIJBQzipRKboDkRIBHMpCK5Cks,29.2113482,79.5290137,supermarket
+317,sanjay general store,ChIJnarTvsSaoDkR6yq_Smt8kiw,29.2079793,79.5276861,supermarket
+318,Mehta and sons,ChIJc4N4wViboDkRFO7xQWg5jjg,29.2159767,79.5090424,supermarket
+319,Rawat Store,ChIJ4ZxeoieboDkRf5Z2dILTLYc,29.2047246,79.5138698,supermarket
+320,Future step Shoes,ChIJ8zyVlm6boDkRMhJywSYU6_E,29.22437999999999,79.5223686,supermarket
+321,Mathura daily needs,ChIJRwztxxGboDkRknXImNCeFKU,29.2131412,79.5072406,supermarket
+322,Shri Balaji Suppliers,ChIJaV1VTFeboDkRVqziQQu6NgQ,29.2002632,79.5256356,supermarket
+323,Pragati Transport Company,ChIJfXpZvYqboDkROOOSCgTtCoI,29.19689,79.52052,supermarket
+324,Kapil mehandi tatoo arts,ChIJJbdk_fKboDkR4T70DLX2Vvs,29.2290562,79.5303837,supermarket
+325,Kapil mehandi art,ChIJ1YlJ-DmboDkRE4WdSpkvwow,29.2292013,79.5302888,supermarket
+326,Indo Japan Academy Haldwani,ChIJB3eTxhCdoDkRXZ3ZH9Em0eU,29.2171124,79.521151,travel_agency
+327,Driver Hiring Service and texi service,ChIJV1TrZceboDkRFmB9ptz6_x4,29.2140529,79.52579639999999,travel_agency
+328,Bike on Rent Haldwani & Kathgodam - (CallATour),ChIJo1H5dSCboDkRfhaP7cpfPc4,29.2175528,79.51595929999999,travel_agency
+329,Nainital Tour Packages - (Call A Tour Uttarakhand Packages),ChIJrc0f2uOaoDkRij2fusD-wXg,29.2204567,79.51876759999999,travel_agency
+330,"Char Dham Yarta from Haldwani, Dehradun, Haridwar",ChIJox-m0eOaoDkR3kR7-Tc_vOQ,29.22054,79.518671,travel_agency
+331,City Boy Yatra Planner,ChIJHwcG3MqboDkRcTFi4o3d1SU,29.2182644,79.5129767,travel_agency
+332,Roadways Bus Station Haldwani,ChIJPQUzyOmaoDkRw5s4cs5fL8g,29.2165064,79.5299673,travel_agency
+333,ABDUL RAUF & SONS- amir hussain,ChIJbdJkSwOboDkRIcBqhaea18c,29.2137604,79.5308371,travel_agency
+334,Shubh Tours And Travels,ChIJJyFRdo2boDkRfdY2T0WzErg,29.2233153,79.52542830000002,travel_agency
+335,Jai guru dev tour & travels,ChIJbzT4UNaboDkRktCH9fxWHbY,29.2245973,79.51772390000001,travel_agency
+336,Divesh Tour & Travels,ChIJ47MXf-maoDkRT4bb4V6Arv4,29.21826099999999,79.532017,travel_agency
+337,Siddhi Holidays,ChIJy4glwCOboDkRpLxPNIQUCy8,29.2223552,79.52956580000001,travel_agency
+338,Haldwani Taxi Service,ChIJLS93hSyboDkR1YX1iroFjQo,29.2262933,79.5311766,travel_agency
+339,P D Enterprises,ChIJ98m7OfCaoDkR8h2PaqySlrA,29.22771200000001,79.52861399999999,travel_agency
+340,ATS ENTERPRISES,ChIJyfpffxaboDkRZ8OVmkYZsTg,29.228491,79.5287499,travel_agency
+341,M BUZZ TRIP,ChIJecg16SSboDkRr8FGxNQNiyI,29.2223035,79.5029644,travel_agency
